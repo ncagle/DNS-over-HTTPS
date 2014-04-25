@@ -5,4 +5,4 @@ There are still a bunch of people that have been around for a while in the proje
 == Daniel Stenberg ==
 Started the project and is the lead developer. Lives in and works from Sweden. Will review any code in the project and generally attempts to not leave any question or bug report unanswered. Of course that's not always possible.
 
-Daniel is employed by Mozilla. Uses the nick 'bagder' or 'b4gder' in the IRC channgel #curl.
+Daniel is employed by Mozilla. Uses the nick 'bagder' or 'b4gder' in the IRC channgel #curl. [http://daniel.haxx.se Daniel's personal page]
