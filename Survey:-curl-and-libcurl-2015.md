@@ -77,6 +77,14 @@ Competition
 -----------
 
  14. If you couldn't use libcurl, what would be your preferred alternative?
+   - wget (or code ripped out from wget)
+   - libsoup
+   - native lib in Perl, Python, Java, etc
+   - Windows native libs (wininet or the likes)
+   - homegrown
+   - neon
+   - serf
+   - Other: 
 
 Future
 ------
