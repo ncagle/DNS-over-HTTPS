@@ -53,8 +53,26 @@ Pick the best and worst
 -----------------------
 
  10. Which are the curl project's best areas (pick at most 5)
+   - transfer speeds
+   - the support of many protocols
+   - the quality of the products, curl/libcurl
+   - the features of the protocol implementations
+   - bug fix rate
+   - documentation
+   - the user and developer community
+   - project leadership
+   - its build environment/setup
+   - project web site and infrastructure
+   - support of multiple SSL backends
+   - test suite
+   - its availability and functionality on many platforms
+   - welcoming to new users and contributors
+   - footprint of the library/executable
+   - standards compliance
+   - the libcurl API 
  11. Which are the curl project's worst areas (pick at most 5)
- 
+   - same areas as for the best area
+
 Competition
 -----------
 
