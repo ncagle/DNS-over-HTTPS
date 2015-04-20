@@ -97,7 +97,8 @@ Future
 
  15. If you miss support for any protocol, tell us which!
  16. What feature/bug fix would you like to see the project implement next?
- 17. What of these API(s) would you use if they were added? (NEW 2015)
+ 17. What feature/bug fix would you like to see the project REMOVE? (NEW 2015)
+ 18. What of these API(s) would you use if they were added? (NEW 2015)
    - URI handling (parsing/splitting)
    - setting up multithreaded mutexes in an agnostic way
    - handling of TLS certs/keys in memory
