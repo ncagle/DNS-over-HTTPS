@@ -29,6 +29,11 @@ What kind of person are you?
 ----------------------------
 
  5. How have you contributed to the curl project?
+   - I've filed bug report(s)
+   - I've sent patch(es)
+   - I've responded to questions on mailing list / forums
+   - I've helped out in other ways
+   - I run tests or provide infrastructure 
  6. Are you involved in other open source projects?
  7. What are the primary reasons you haven't contributed or don't contribute more to the project?
    - everything works to my satisfaction
