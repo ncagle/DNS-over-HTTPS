@@ -11,6 +11,8 @@ How are you using curl/libcurl?
  2. Do you use curl/libcurl on multiple platforms?
  3. How many years have you been using libcurl?
  4. Are you subscribed to a curl mailing list?
+ 5. Tell us which features you use? (NEW 2015)
+ 6. Which SSL backends do you use? (NEW 2015)
 
 What kind of person are you?
 ----------------------------
@@ -30,8 +32,6 @@ Pick the best and worst
 
  10. Which are the curl project's best areas (pick at most 5)
  11. Which are the curl project's worst areas (pick at most 5)
- 12. Tell us which features you use? (NEW 2015)
- 13. Which SSL backends do you use? (NEW 2015)
  
 Competition
 -----------
