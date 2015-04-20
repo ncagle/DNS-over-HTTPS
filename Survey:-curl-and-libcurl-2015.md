@@ -12,6 +12,17 @@ How are you using curl/libcurl?
  3. How many years have you been using libcurl?
  4. Are you subscribed to a curl mailing list?
  5. Tell us which features you use? (NEW 2015)
+   - HTTP automatic decompression
+   - Bandwidth limiting
+   - HTTP proxy
+   - SOCKS proxy
+   - HTTP/2
+   - .netrc
+   - using libcurl multi-threaded
+   - TCP keepalive
+   - SSL/TLS client certificates
+   - UNIX sockets
+   - the share interface 
  6. Which SSL backends do you use? (NEW 2015)
 
 What kind of person are you?
