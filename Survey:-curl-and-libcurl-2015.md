@@ -31,6 +31,17 @@ What kind of person are you?
  5. How have you contributed to the curl project?
  6. Are you involved in other open source projects?
  7. What are the primary reasons you haven't contributed or don't contribute more to the project?
+   - everything works to my satisfaction
+   - things get fixed fast enough anyway
+   - the project doesn't want my changes
+   - I don't have the time
+   - I don't have the energy
+   - I don't know the programming languages used
+   - I find it hard to work with the curl developers
+   - I can't deal with the tools (git, make, diff etc)
+   - I don't like or use email
+   - my work/legal reasons prohibit me
+   - Other: 
  8. How good is the project and its members to handle... (rate 1-5)
    - patches
    - bug reports
