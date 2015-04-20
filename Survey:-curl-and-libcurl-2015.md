@@ -24,7 +24,7 @@ How are you using curl/libcurl?
    - UNIX sockets
    - the share interface 
  6. Which SSL backends do you use? (NEW 2015)
- 7. If you're using a binding, tell is which! (NEW 2015)
+ 7. If you're using a binding, tell us which! (NEW 2015)
 
 What kind of person are you?
 ----------------------------
