@@ -7,11 +7,11 @@ These are two new options for curl_multi_setopt()
 Without the CURLMOPT_PUSHFUNCTION set, pushed streams will be refused.
 
 ~~~
-   int curl_push_func(CURL *parent,
-                      CURL *easy,
-                      int num_headers,
-                      struct curl_pushheaders *headers,
-                      void *userp);
+   int curl_push_callback(CURL *parent,
+                          CURL *easy,
+                          int num_headers,
+                          struct curl_pushheaders *headers,
+                          void *userp);
 ~~~
 
 This callback gets called when a new stream is being pushed by the server.
