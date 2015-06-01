@@ -48,9 +48,7 @@ over all headers received in the PUSH_PROMISE.
 ~~~
   char *curl_pushheader_byname(push_headers, char *name);
 ~~~
-Returns the header for the given header name (or NULL). This is a
-shortcut so that the application doesn't have to loop through all headers to
-find the one it is interested in.
+Returns the *value* for the given header name (or NULL). This is a shortcut so that the application doesn't have to loop through all headers to find the one it is interested in.
 
 Callback return codes
 =====================
