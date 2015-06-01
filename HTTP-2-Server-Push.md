@@ -9,7 +9,7 @@ Without the CURLMOPT_PUSHFUNCTION set, pushed streams will be refused.
 ~~~
    int curl_push_callback(CURL *parent,
                           CURL *easy,
-                          int num_headers,
+                          size_t num_headers,
                           struct curl_pushheaders *headers,
                           void *userp);
 ~~~
