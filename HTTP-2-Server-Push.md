@@ -39,31 +39,21 @@ Header Accessors
 Accessor functions to read PUSH_PROMISE headers from within the push callback (and *only*
 within the callback):
 ~~~
-  struct curl_headerpair *curl_pushheader_bynum(push_headers, int num);
+  char *curl_pushheader_bynum(push_headers, size_t num);
 ~~~
-Returns the header pair at index 'num' (or NULL). The returned pointer points
-to a struct that will be freed when this callback returns. A header pair is
-both name and value. Using this function, the application code can iterate
+Returns the header index 'num' (or NULL). The returned pointer points
+to a string that will be freed when this callback returns. A header string is
+both name and value, colon separated in HTTP 1.1-style. Using this function, the application code can iterate
 over all headers received in the PUSH_PROMISE.
 ~~~
-  struct curl_headerpair *curl_pushheader_byname(push_headers, char *name);
+  char *curl_pushheader_byname(push_headers, char *name);
 ~~~
-Returns the header pair for the given header name (or NULL). This is a
+Returns the header for the given header name (or NULL). This is a
 shortcut so that the application doesn't have to loop through all headers to
 find the one it is interested in.
 
-~~~
-struct curl_headerpair {
-   unsigned char *name;   /* zero terminated name */
-   size_t namelen;        /* length of 'name' */
-   unsigned char *value;  /* zero terminated name */
-   size_t valuelen;       /* length of 'value' */
-};
-~~~
-
 Callback return codes
 =====================
-
 
 Return code|Description
 --- | --- |
