@@ -26,8 +26,7 @@ if desired.
  - 'num_headers' is the number of name+value pairs that was received and can be
 accessed
 
- - 'headers' is a handle used to access push headers using the accessor
-functions described below
+ - 'headers' is a handle used to access push headers using the accessor functions described below. This only accesses and provides the PUSH_PROMISE headers, the normal response headers will be provided in the header callback as usual.
 
  - 'userp' is the pointer set with CURLMOPT_PUSHDATA
 
@@ -37,7 +36,7 @@ multi handle, the callback must not do that by itself.
 Header Accessors
 ================
 
-Accessor functions to read headers from within the push callback (and *only*
+Accessor functions to read PUSH_PROMISE headers from within the push callback (and *only*
 within the callback):
 ~~~
   struct curl_headerpair *curl_pushheader_bynum(push_headers, int num);
