@@ -46,7 +46,7 @@ to a string that will be freed when this callback returns. A header string is
 both name and value, colon separated in HTTP 1.1-style. Using this function, the application code can iterate
 over all headers received in the PUSH_PROMISE.
 ~~~
-  char *curl_pushheader_byname(push_headers, char *name);
+  char *curl_pushheader_byname(push_headers, const char *name);
 ~~~
 Returns the *value* for the given header name (or NULL). This is a shortcut so that the application doesn't have to loop through all headers to find the one it is interested in.
 
