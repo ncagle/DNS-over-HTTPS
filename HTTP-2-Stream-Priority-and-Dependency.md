@@ -8,7 +8,9 @@ curl_easy_setopt(handle, CURLOPT_STREAM_PRIORITY, long value);
 
 *"Each stream can be given an explicit dependency on another stream. Including a dependency expresses a preference to allocate resources to the identified stream rather than to the dependent stream."* [spec](https://httpwg.github.io/specs/rfc7540.html#pri-depend)
 
-curl_easy_setopt(handle, CURLOPT_STREAM_DEPENDS_ON, CURL *handle);
+curl_easy_setopt(handle, CURLOPT_STREAM_DEPENDS_ON, CURL *dephandle);
+
+**dephandle** must not be the same as **handle**, that will cause libcurl to return an error. It needs to be another easy handle, and it also needs to be a handle of a transfer that will be sent over the same HTTP/2 connection for this option to have an actual effect.
 
 A technicality with dependencies is that a stream can specify which other stream it depends on, but that stream is specified with a stream id over the protocol. We don't know the stream id of a stream until that stream is created.
 
