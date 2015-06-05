@@ -2,7 +2,7 @@
 
 curl_easy_setopt(handle, CURLOPT_STREAM_PRIORITY, long value);
 
-'value' should be a number between 1 - 256. Values outside of this range has undefined behavior.
+'value' should be a number between 1 - 256. Passing a value outside of this range has undefined behavior.
 
 -----
 
