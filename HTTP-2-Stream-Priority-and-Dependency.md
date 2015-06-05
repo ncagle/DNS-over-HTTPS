@@ -20,3 +20,10 @@ Run-time and pre-transfer
 Both stream priorities and stream dependencies are allowed to be changed at any time during a transfer (strictly speaking there exist some protocol restrains on exactly when such http2 packets can be sent but we can ignore that in higher levels).
 
 To accommodate for this, we need to make sure that these options work for both use-cases - and we need to explicitly document that they can be used while the transfers are in progress since most curl_easy_setopt() options are documented to only have an effect when set before or between transfers.
+
+Post-transfer
+-------------
+
+The HTTP/2 spec details how a stream still get the priority change even in idle or closed state since it may be the "parent" of still running stream. (section 6.3)
+
+Initially I plan on ignoring this functionality but leave it documented so, to allow someone or myself to work on implementing this in the future.
