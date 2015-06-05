@@ -24,6 +24,6 @@ To accommodate for this, we need to make sure that these options work for both u
 Post-transfer
 -------------
 
-The HTTP/2 spec details how a stream still get the priority change even in idle or closed state since it may be the "parent" of still running stream. (section 6.3)
+The HTTP/2 spec details how a stream still can get send priority change even in idle or closed state since it may be the "parent" of still running stream. (section 6.3)
 
-Initially I plan on ignoring this functionality but leave it documented so, to allow someone or myself to work on implementing this in the future.
+Initially I plan on ignoring this post-transfer functionality but leave it documented so, to allow someone or myself to work on implementing this in the future.
