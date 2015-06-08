@@ -1,5 +1,15 @@
 This is an attempt to improve the [curl.haxx.se](http://curl.haxx.se/) web site's layout to make it easier to navigate and allow users to easier and quicker find what they're looking for. Ideally, it should also work better on smaller screens/mobile phones.
 
+Original
+========
+
+To make it easier to see the differences, here's first what a window with the official site look today.
+
+![original](http://daniel.haxx.se/media/website-original.png)
+
+Modifications
+=============
+
 (New logos, color schemes or font layouts will be handled separately if anyone would help out with or suggest that.)
 
 take 1
