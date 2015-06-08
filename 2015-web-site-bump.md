@@ -24,3 +24,18 @@ take 1 version B
 Anhad Jai Singh [suggested](https://twitter.com/ffledgling/status/607710769845649408) larger menu and narrow main column.
 
 ![take 1B](http://daniel.haxx.se/media/website-take1b.png)
+
+take 1 version C
+================
+
+In order to work better on more flexible screen sizes I've experimented with putting the menu behind a "hamburger" menu to only pop up when selected. Then it looks like this:
+
+![normal](http://daniel.haxx.se/media/website-take1c.png)
+
+With the menu selected:
+
+![menu selected](http://daniel.haxx.se/media/website-take1c-menu.png)
+
+And on a smaller phone-style screen:
+
+![phone screen](http://daniel.haxx.se/media/website-take1c-smallscreen.png)
