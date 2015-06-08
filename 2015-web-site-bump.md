@@ -21,6 +21,6 @@ Here's a sample snapshot:
 take 1 version B
 ================
 
-Anhad Jai Singh suggested larger menu and narrow main column.
+Anhad Jai Singh [suggested](https://twitter.com/ffledgling/status/607710769845649408) larger menu and narrow main column.
 
 ![take 1B](http://daniel.haxx.se/media/website-take1b.png)
