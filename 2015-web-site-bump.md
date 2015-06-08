@@ -17,3 +17,10 @@ Good/bad changes? What else should be done to improve the front page?
 Here's a sample snapshot:
 
 ![web site screenshot](http://daniel.haxx.se/media/website-take1.png)
+
+take 1 version B
+================
+
+Anhad Jai Singh suggested larger menu and narrow main column.
+
+![take 1B](http://daniel.haxx.se/media/website-take1b.png)
