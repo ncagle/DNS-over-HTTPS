@@ -5,7 +5,7 @@ This is an attempt to improve the [curl.haxx.se](http://curl.haxx.se/) web site'
 take 1
 ======
 
-1. Layout no longer using html <table> to show left side menu
+1. Layout no longer using html table to show left side menu
 2. Simplified front page - removed news, mailing list traffic table, weekly video
 3. Made front page single-column
 4. Put a "News" entry in the main menu (where the weekly videos are now found)
