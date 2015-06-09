@@ -49,3 +49,9 @@ With the menu selected:
 And on a smaller phone-style screen:
 
 ![phone screen](http://daniel.haxx.se/media/website-take1c-smallscreen.png)
+
+version D
+=========
+I'm pretty fond of the clean style hiding the menus bring. In version D I'm introducing a "max-width" that will prevent the content to go very wide, mostly since it is almost always text that gets really annoying to read if presented very wide - and I'm testing out a very basic top menu with the two most important destinations on the site:
+
+![](http://daniel.haxx.se/media/website-take1d.png)
