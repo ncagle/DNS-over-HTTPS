@@ -52,7 +52,7 @@ And on a smaller phone-style screen:
 
 version D
 =========
-I'm pretty fond of the clean style hiding the menus bring. In version D I'm introducing a "max-width" that will prevent the content to go very wide, mostly since it is almost always text that gets really annoying to read if presented very wide - and I'm testing out a very basic top menu with the two most important destinations on the site.
+I'm pretty fond of the clean style hiding the menus bring. In version D I'm introducing a "max-width" that will prevent the content to go very wide, mostly since it is almost always text that gets really annoying to read if presented very wide - and I'm testing out a very basic top menu (present on all pages) with the two most important destinations of the site.
 
 Another minor thing is that I replaced the title and first question below the logo with just a horizontal bar.
 
