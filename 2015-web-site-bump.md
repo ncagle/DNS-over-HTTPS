@@ -57,3 +57,11 @@ I'm pretty fond of the clean style hiding the menus brings. In version D I'm int
 Another minor thing is that I replaced the title and first question below the logo with just a horizontal bar.
 
 ![](http://daniel.haxx.se/media/website-take1d.png)
+
+version E
+=========
+Hiding the menu by default is considered annoying by most people (including me). Here's instead an experiment to move the menu to the top, and also to force the number of menu items to be small (max 10) at any one screen.
+
+This is also very phone-friendly.
+
+![](http://daniel.haxx.se/media/website-take1e.png)
