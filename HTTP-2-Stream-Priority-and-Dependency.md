@@ -1,6 +1,8 @@
 *"A client can assign a priority for a new stream by including prioritization information in the HEADERS frame that opens the stream. At any other time, the PRIORITY frame can be used to change the priority of a stream."* [spec](https://httpwg.github.io/specs/rfc7540.html#StreamPriority)
 
+~~~
 curl_easy_setopt(handle, CURLOPT_STREAM_PRIORITY, long value);
+~~~
 
 'value' should be a number between 1 - 256. Passing a value outside of this range has undefined behavior.
 
@@ -8,9 +10,19 @@ curl_easy_setopt(handle, CURLOPT_STREAM_PRIORITY, long value);
 
 *"Each stream can be given an explicit dependency on another stream. Including a dependency expresses a preference to allocate resources to the identified stream rather than to the dependent stream."* [spec](https://httpwg.github.io/specs/rfc7540.html#pri-depend)
 
-curl_easy_setopt(handle, CURLOPT_STREAM_DEPENDS_ON, CURL *dephandle);
+~~~
+   curl_easy_setopt(handle, CURLOPT_STREAM_DEPENDS, CURL *dephandle);
+~~~
 
 **dephandle** must not be the same as **handle**, that will cause libcurl to return an error. It needs to be another easy handle, and it also needs to be a handle of a transfer that will be sent over the same HTTP/2 connection for this option to have an actual effect.
+
+*"Dependent streams move with their parent stream if the parent is reprioritized. Setting a dependency with the exclusive flag for a reprioritized stream causes all the dependencies of the new parent stream to become dependent on the reprioritized stream."* [spec](https://httpwg.github.io/specs/rfc7540.html#reprioritize)
+
+~~~
+   curl_easy_setopt(handle, CURLOPT_STREAM_DEPENDS_E, CURL *dephandle); 
+~~~
+
+This is sets a dependency stream _and_ sets the 'Exclusive' bit.
 
 A technicality with dependencies is that a stream can specify which other stream it depends on, but that stream is specified with a stream id over the protocol. We don't know the stream id of a stream until that stream is created.
 
