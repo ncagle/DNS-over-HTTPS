@@ -7,4 +7,4 @@ Started the project and is the lead developer. Lives in and works from Sweden. W
 
 Daniel is employed by Mozilla. Uses the nick 'bagder' or 'b4gder' in the IRC channgel #curl. [http://daniel.haxx.se Daniel's personal page]
 
-(See the project's top committers on [https://www.ohloh.net/p/curl/contributors ohloh.net])
+(See the project's top committers on [https://www.openhub.net/p/curl/contributors openhub.net])
