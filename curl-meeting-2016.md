@@ -1,0 +1,37 @@
+# curl://up
+
+(seems like a fun name for the occasion)
+
+## When / Where
+
+[SUSE headquarters](https://www.suse.com/company/contact/headquarters)
+Nuremberg, Germany
+November 19-20, 2016
+
+(Thanks to our friends at SUSE for making this possible)
+
+## What
+
+The first ever meeting devoted entirely to curl and curl-related topics.
+
+The plan is to schedule a number of talks throughout the two days but leave space and room for impromptu discussions and spontaneous presentations.
+
+The exact presentations can very well be subject for discussion on the mailing list beforehand and everyone attending is encouraged to speak up about what exactly they'd like to hear and discuss.
+
+## Agenda
+
+Let's work on one together and have it based on what people are interested in. It'll be presented here a while before the event will take place.
+
+## Suggested topics
+
+Some possible subjects could include...
+
+ - libcurl internals, learn about the inside to increase your ability to debug and work on fixing libcurl
+ - new protocols and upcoming technologies that people plan to implement support for in libcurl
+ - discussion on current libcurl and we're going next: governance, core team, getting more devs, how to run the project and how to get more people to fix more bugs =)
+ - what's coming beyond HTTP/2
+ - will there ever be a libcurl v8 and what should it look like? (brain storm!)
+
+## Tshirts?
+
+Maybe.
