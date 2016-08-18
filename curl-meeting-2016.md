@@ -32,6 +32,14 @@ Some possible subjects could include...
  - what's coming beyond HTTP/2
  - will there ever be a libcurl v8 and what should it look like? (brain storm!)
 
+## How do I sign up?
+
+This has not been setup yet. Hold your horses!
+
+## Who can attend?
+
+Anyone interested in curl, libcurl and related technologies. We may have to reserve the right to turn people down, in the extreme unlikely event that we would get overbooked.
+
 ## Tshirts?
 
 Maybe.
