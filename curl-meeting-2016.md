@@ -2,13 +2,15 @@
 
 (seems like a fun name for the occasion)
 
-## When / Where
+## Where
 
-[SUSE headquarters](https://www.suse.com/company/contact/headquarters)
-Nuremberg, Germany
+[SUSE headquarters](https://www.suse.com/company/contact/headquarters) in Nuremberg, Germany
+
+Thanks to our friends at SUSE for making this possible!
+
+## When
+
 November 19-20, 2016
-
-(Thanks to our friends at SUSE for making this possible)
 
 ## What
 
@@ -34,11 +36,15 @@ Some possible subjects could include...
 
 ## How do I sign up?
 
-This has not been setup yet. Hold your horses!
+This has not been setup yet. Hold your horses! This event will be admission-free.
 
 ## Who can attend?
 
 Anyone interested in curl, libcurl and related technologies. We may have to reserve the right to turn people down, in the extreme unlikely event that we would get overbooked.
+
+## Will the core contributors be there?
+
+Daniel Stenberg will be there. Hopefully as many as possible of the other frequent contributors will show up.
 
 ## Tshirts?
 
