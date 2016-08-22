@@ -4,7 +4,8 @@
 
 ## Where
 
-[SUSE headquarters](https://www.suse.com/company/contact/headquarters) in Nuremberg, Germany
+[SUSE headquarters](https://www.suse.com/company/contact/headquarters) in [Nuremberg, Germany]
+(http://wikitravel.org/en/Nuremberg)
 
 Thanks to our friends at SUSE for making this possible!
 
