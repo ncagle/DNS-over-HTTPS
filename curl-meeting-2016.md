@@ -31,9 +31,11 @@ Some possible subjects could include...
 
  - libcurl internals, learn about the inside to increase your ability to debug and work on fixing libcurl
  - new protocols and upcoming technologies that people plan to implement support for in libcurl
- - discussion on current libcurl and we're going next: governance, core team, getting more devs, how to run the project and how to get more people to fix more bugs =)
+ - discussion on current libcurl and we're going next: governance, core team, getting more devs, how to run the project
+ - how to get more people involved in the project
  - what's coming beyond HTTP/2
  - will there ever be a libcurl v8 and what should it look like? (brain storm!)
+ - curl quiz!
 
 ## How do I sign up?
 
@@ -41,7 +43,16 @@ This has not been setup yet. Hold your horses! This event will be admission-free
 
 ## Who can attend?
 
-Anyone interested in curl, libcurl and related technologies. We may have to reserve the right to turn people down, in the extreme unlikely event that we would get overbooked.
+Anyone interested in curl, libcurl and related technologies.
+
+- curl hackers and developers
+- libcurl binding hackers
+- libcurl users
+- curl fans
+- internet application protocol fanatics
+- hackers of similar tools or curl related technologies
+
+We may have to reserve the right to turn people down, in the extreme unlikely event that we would get overbooked.
 
 ## Will the core contributors be there?
 
