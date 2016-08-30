@@ -26,4 +26,4 @@ git bisect bad
 git bisect skip
 ~~~
 
-After you mark a commit another commit will be checked out, and repeat the above set of steps. Assume each step about 1-2min a build, plus however long it takes you to reproduce your issue. When done to cleanup and reset to the commit before bisecting do `git bisect reset`
+After you mark a commit another commit will be checked out, and repeat the above set of steps. Assume each step about 1-2min a build, plus however long it takes you to reproduce your issue. A typical bisect should take less than half an hour. When done to cleanup and reset to the commit before bisecting do `git bisect reset`
