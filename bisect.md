@@ -3,8 +3,8 @@ If something is broken in curl but was working in an older version you can use a
 The first step is to clone the curl repository, https://github.com/curl/curl.git . In the repo the curl releases use tag names in the format `curl-X_XX_X`, eg 7.44.0 is curl-7_44_0. Each time you build source from the repository using a different commit you should run buildconf first (./buildconf && ./configure <opts> && make).
 
 These next two steps are not strictly required but if you're not entirely sure what you're doing you should do them to keep your sanity:
-Checkout from the repo a version you know is good, build it and confirm it's good.
-Checkout from the repo a version you know is bad, build it and confirm it's bad.
+- Checkout from the repo a version you know is good, build it and confirm it's good.
+- Checkout from the repo a version you know is bad, build it and confirm it's bad.
 
 Now use `git bisect` commands to do the bisect. For example, if curl 7.49.1 has some issue that 7.44 does not have:
 
