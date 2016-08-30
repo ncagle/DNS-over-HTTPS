@@ -14,7 +14,7 @@ git bisect bad curl-7_49_1
 git bisect good curl-7_44_0
 ~~~
 
-Commits are checked out automatically when you bisect.
+bisect has now checked out the first commit to test. (Note commits are checked out automatically when you bisect.)
 - Build but no install (`./buildconf && ./configure <opts> && make`).
 - Confirm libcurl and curl versions match (`src/curl -V` and compare curl and libcurl versions).
 - Attempt to reproduce problem using `src/curl`. (If problem is not 100% reproducible run multiple times to get an accurate result.)
