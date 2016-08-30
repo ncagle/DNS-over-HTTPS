@@ -1,5 +1,3 @@
-Add some notes here about how to bisect
-
 If something is broken in curl but was working in an older version you can use a technique called bisecting to identify what changes caused the problem.
 
 The first step is to clone the curl repository, https://github.com/curl/curl.git . In the repo the curl releases use tag names in the format `curl-X_XX_X`, eg 7.44.0 is curl-7_44_0. Each time you build source from the repository using a different commit you should run buildconf first (./buildconf && ./configure <opts> && make).
