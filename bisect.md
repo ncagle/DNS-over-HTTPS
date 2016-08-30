@@ -14,7 +14,11 @@ git bisect bad curl-7_49_1
 git bisect good curl-7_44_0
 ~~~
 
-Commits are checked out automatically when you bisect. Build but no install (./buildconf && ./configure <opts> && make). Confirm libcurl and curl versions match (src/curl -V and compare curl and libcurl versions). Attempt to reproduce problem using src/curl. (If problem is not 100% reproducible run multiple times to get an accurate result.) Mark each commit good (no problem), bad (problem) or skip (failed to build) using the respective commands shown below:
+Commits are checked out automatically when you bisect.
+- Build but no install (./buildconf && ./configure <opts> && make).
+- Confirm libcurl and curl versions match (src/curl -V and compare curl and libcurl versions).
+- Attempt to reproduce problem using src/curl. (If problem is not 100% reproducible run multiple times to get an accurate result.)
+- Mark each commit good (no problem), bad (problem) or skip (failed to build) using *one* the respective commands shown below:
 
 ~~~
 git bisect good
@@ -22,4 +26,4 @@ git bisect bad
 git bisect skip
 ~~~
 
-After you mark a commit another commit will be checked out, and repeat the above step. Assume each step about 1-2min a build, plus however long it takes you to reproduce your issue. When done to cleanup and reset to the commit before bisecting do `git bisect reset`
+After you mark a commit another commit will be checked out, and repeat the above set of steps. Assume each step about 1-2min a build, plus however long it takes you to reproduce your issue. When done to cleanup and reset to the commit before bisecting do `git bisect reset`
