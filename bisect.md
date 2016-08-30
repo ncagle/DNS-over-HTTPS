@@ -18,7 +18,7 @@ Commits are checked out automatically when you bisect.
 - Build but no install (./buildconf && ./configure <opts> && make).
 - Confirm libcurl and curl versions match (src/curl -V and compare curl and libcurl versions).
 - Attempt to reproduce problem using src/curl. (If problem is not 100% reproducible run multiple times to get an accurate result.)
-- Mark each commit good (no problem), bad (problem) or skip (failed to build) using *one* the respective commands shown below:
+- Mark each commit good (no problem), bad (problem) or skip (failed to build) using *one* of the respective commands shown below:
 
 ~~~
 git bisect good
