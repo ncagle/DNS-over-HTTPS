@@ -50,6 +50,20 @@ We have a [coding style](https://github.com/curl/curl/blob/master/docs/CODE_STYL
 
 Read the [CONTRIBUTE](https://github.com/curl/curl/blob/master/docs/CONTRIBUTE.md) document if you haven't already! There's a section in it on writing [good commit messages](https://github.com/curl/curl/blob/master/docs/CONTRIBUTE.md#write-good-commit-messages) that must be followed. Notably, not everyone's git editor wraps commit messages. For example I use gitk and if a commit message is one long line it's not wrapped and I can't easily read it. You must wrap the message at 72 with some rare exceptions like URLs, shell commands that shouldn't be broken up, etc. The subject _ideally_ should be less than 60 columns but we don't strictly enforce that.
 
+Commit messages should be in imperative style present tense.
+
+Yes:
+~~~
+nss: work around race condition in PK11_FindSlotByName()
+~~~
+
+No:
+~~~
+nss: worked around race condition in PK11_FindSlotByName()
+~~~
+
+Also see [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+
 ## How to work with a PR branch
 
 Using all you've learned above, let's say you want to commit PR 239. First name it as local branch pr_239, then check out a temporary branch from that and rebase on upstream/master.
@@ -73,7 +87,7 @@ git reset --soft HEAD~2
 git commit --amend
 ~~~
 
-Modify the commit message to meet guidelines. At the very least you will want to add a Bug: line or Fixes (etc. **TODO explain this better**). Examples: 3a5d5de
+Modify the commit message to meet guidelines. At the very least you will want to add a Bug: line or Fixes (etc. **TODO explain this better**). Examples: [3a5d5de](https://github.com/curl/curl/commit/3a5d5de)
 
 Confirm that you ARE listed as the committer and ARE NOT listed as the author. git gui in particular will amend commits in a way that you can be listed as the author for someone else's work, likely not what you intended. Fix any error, for example `git commit --amend --author="who <who@is.this>"`.
 
@@ -101,4 +115,4 @@ git push upstream
 git branch -D temp
 ~~~
 
-The result in this case is 895168b
+The result in this case is [895168b](https://github.com/curl/curl/commit/895168b)
