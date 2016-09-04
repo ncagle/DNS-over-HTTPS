@@ -87,7 +87,7 @@ Count the number of commits. If there is a single commit, regardless of whether 
 git commit --amend -c HEAD
 ~~~
 
-If however let's say there are 3 commits we want to squash them into one. To do that we'll soft reset back to their 1st commit which will move the changes from the later two commits to the index. Then append to the first commit. (You could instead use `git rebase -i` and choose what you want to squash.) Otherwise if there is not more than a single commit skip these steps.
+If however let's say there are 3 commits we want to squash them into one. To do that we'll soft reset back to their 1st commit which will move the changes from the later two commits to the index. Then append to the first commit. (You could instead use `git rebase -i` and choose those commits to squash or reword.) Otherwise if there is not more than a single commit skip these steps.
 ~~~
 git reset --soft HEAD~2
 git commit --amend
