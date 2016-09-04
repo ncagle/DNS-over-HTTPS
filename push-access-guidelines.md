@@ -70,6 +70,56 @@ nss: worked around race condition in PK11_FindSlotByName()
 
 Also see [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
+## No forced pushes (except emergencies)
+
+Do not force your push to upstream/master, as you will just overwrite someone else's work and cause problems for those who have cloned the repo in that state.
+
+In an emergency a forced push may be appropriate, like the once-in-a-blue-moon scenario where something unintended or sensitive has *just* been pushed. In that case *immediately* reset your local master to the good commit whose hash was the tip of upstream/master before you pushed and *do not otherwise disturb the history*. Then force push that commit upstream.
+
+~~~
+git push upstream
+#
+# and now you've examined upstream and realize there's an emergency..
+#
+git reset --hard <SHA-1>
+#
+# be absolutely certain that hash is already in upstream/master
+# examine https://github.com/curl/curl/commits/master if you have to
+#
+git push -f upstream
+~~~
+
+If the commit(s) being removed contained sensitive data also contact GitHub in accordance with their [Remove sensitive data](https://help.github.com/articles/remove-sensitive-data/) documentation and explain what happened. CC Daniel Stenberg. Ask that they remove the hash in any cached view. If a sensitive file must be filtered out from many commits or too much time has passed or something else complicated then your best bet is to kick the issue to senior members.
+
+## Handling rejected pushes
+
+You should always `git fetch upstream` to get the latest changes before rebasing on upstream/master and then pushing. If someone else has pushed in the meantime your push will be rejected with a message like this:
+
+~~~
+To git@github.com:curl/curl.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:curl/curl.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+~~~
+
+**Do not use `git pull` to resolve this, since we don't use merge commits.** Instead use `git fetch upstream` and then gitk (or some other visualizer) to identify where the divergence is. The divergence should not be far back. Review the commits made to upstream/master since the divergence. If you see any signs of tampering contact senior members. Otherwise reset your master to upstream/master. That will wipe out your changes, so save them to temp if they aren't there already. Then you can rebase your changes on upstream/master and try again.
+
+~~~
+git fetch upstream                 # Get the latest changes from upstream
+gitk upstream/master               # Find the divergence from your master
+git branch temp master             # Save your master to temp
+git reset --hard upstream/master   # Reset your master to upstream/master
+git checkout temp                  # Checkout your to-be-pushed work
+git rebase upstream/master         # Rebase it on upstream/master
+git checkout master                # Checkout your master
+git merge --ff-only temp           # Merge your work *without* a merge commit
+git push upstream                  # Double-check everything then push again
+~~~
+
 ## How to work with a PR branch
 
 Using all you've learned above, let's say you want to commit PR 239. First name it as local branch pr_239, then check out a temporary branch from that and rebase on upstream/master.
