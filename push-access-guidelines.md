@@ -14,7 +14,7 @@ upstream        git@github.com:curl/curl.git (fetch)
 upstream        git@github.com:curl/curl.git (push)
 ~~~
 
-##  Do not work in your local master branch
+## Do not work in your local master branch
 
 master should reflect upstream/master or what it is about to become once you push. If you work from your local master you could you end up accidentally pushing something you didn't intend to. Branches are cheap in git, work from topic branches to make changes.
 
@@ -25,6 +25,12 @@ We use a linear history, do not push merge commits on master. Instead, when you 
 ## You are the Committer of *anything* you push
 
 The person who did the work in a commit must be set in that commit as the *Author*. The person who pushes that commit to the repo must be set in that commit as the *Committer*. In this way you take responsibility for what you commit.
+
+## Do not use the merge button in pull requests
+
+GitHub's merge button methods ('Create a merge commit', 'Squash and merge') are not acceptable since we don't use merge commits and our author/committer attribution is different from GitHub's squash.
+
+[[images/do_not_use_the_merge_button.png]]
 
 ## Squash trivial commits
 
