@@ -143,7 +143,7 @@ git reset --soft HEAD~2
 git commit --amend
 ~~~
 
-Modify the commit message to meet guidelines. At the very least you will want to add a Bug: line or Fixes (etc. **TODO explain this better**). Examples: [3a5d5de](https://github.com/curl/curl/commit/3a5d5de)
+Modify the commit message to meet guidelines. At the very least you will want to add a Bug: line or Fixes (etc. **TODO explain this better**). Examples: [3a5d5de](https://github.com/curl/curl/commit/3a5d5de) [8e176a7](https://github.com/curl/curl/commit/8e176a7)
 
 Confirm that you ARE listed as the committer and ARE NOT listed as the author for all the commits that will be added. git gui in particular will amend commits in a way that you can be listed as the author for someone else's work, likely not what you intended. Fix any error, for example `git commit --amend --author="who <who@is.this>"`.
 
