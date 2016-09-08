@@ -68,7 +68,9 @@ No:
 nss: worked around race condition in PK11_FindSlotByName()
 ~~~
 
-Also see [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+Also see [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+
+Add reference links to the discussions related to your commit in the commit message. This is typically done through the `Bug: <URL>` line as described in CONTRIBUTE but we also use lines like `Ref: <URL>` or `Closes <URL>` or `Fixes <URL>`. *(Note the latter two signal to GitHub to [automatically close an issue](https://help.github.com/articles/closing-issues-via-commit-messages/)).*
 
 ## Review and discussion
 
