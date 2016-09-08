@@ -70,6 +70,10 @@ nss: worked around race condition in PK11_FindSlotByName()
 
 Also see [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
+## Review and discussion
+
+We encourage discussion and review for all substantial changes, and any change in external behavior. There's no hard-and-fast rule, just use your judgment. A typo for example does not require a review or a discussion, just commit it. Team members can start a PR like anyone else with proposed changes, so if you're even a little unsure just do that.
+
 ## No forced pushes (except emergencies)
 
 Do not force your push to upstream/master, as you will just overwrite someone else's work and cause problems for those who have cloned the repo in that state.
