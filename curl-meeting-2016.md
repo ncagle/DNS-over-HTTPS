@@ -37,9 +37,13 @@ Some possible subjects could include...
  - will there ever be a libcurl v8 and what should it look like? (brain storm!)
  - curl quiz!
 
+## How much does it cost?
+
+We charge 40 Euro for this. That will cover lunch and coffee for two days, and a tshirt!
+
 ## How do I sign up?
 
-This has not been setup yet. Hold your horses! This event will be admission-free.
+This has not been setup yet. Hold your horses!
 
 ## Who can attend?
 
