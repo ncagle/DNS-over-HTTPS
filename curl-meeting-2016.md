@@ -21,6 +21,10 @@ The plan is to schedule a number of talks throughout the two days but leave spac
 
 The exact presentations can very well be subject for discussion on the mailing list beforehand and everyone attending is encouraged to speak up about what exactly they'd like to hear and discuss.
 
+## Discuss and plan the details
+
+Join the [curl-meet mailing list](https://cool.haxx.se/mailman/listinfo/curl-meet) to participate in the planning of everything. Also useful if you consider volunteering helping out with organization details etc.
+
 ## Agenda
 
 Let's work on one together and have it based on what people are interested in. It'll be presented here a while before the event will take place.
