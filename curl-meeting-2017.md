@@ -11,7 +11,7 @@ Thanks to our friends at SUSE for making this possible!
 
 ## When
 
-November 19-20, 2016
+March 18-19, 2017
 
 ## What
 
