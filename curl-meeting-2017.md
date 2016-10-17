@@ -1,6 +1,6 @@
 # curl://up
 
-(seems like a fun name for the occasion)
+(seems like a fun name for the occasion) Feel free to help us with a logo for this!
 
 ## Where
 
