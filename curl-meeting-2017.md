@@ -27,7 +27,7 @@ Join the [curl-meet mailing list](https://cool.haxx.se/mailman/listinfo/curl-mee
 
 ## Agenda
 
-Let's work on one together and have it based on what people are interested in. It'll be presented here a while before the event will take place.
+See the separate [curl meet agenda](curl-meet-agenda-2017) page.
 
 ## Suggested topics
 
