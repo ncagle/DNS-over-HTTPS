@@ -49,7 +49,7 @@ Some possible subjects could include...
 
 ## How much does it cost?
 
-We charge 40 Euro for this. That will cover lunch and coffee for two days, and a tshirt!
+We will charge (around) 40 Euro for this. That will cover lunch and coffee for two days.
 
 ## How do I sign up?
 
