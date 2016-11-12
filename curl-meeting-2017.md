@@ -9,6 +9,12 @@
 
 Thanks to our friends at SUSE for making this possible!
 
+## Sponsors
+
+Food sponsor: [Sevenval Technologies GmbH](https://www.sevenval.com/) sponsors food and coffee for attendees.
+
+We're still *very* interested in getting your company to sponsor this. Please get in touch!
+
 ## When
 
 March 18-19, 2017
