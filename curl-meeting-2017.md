@@ -2,6 +2,12 @@
 
 (seems like a fun name for the occasion) Feel free to help us with a logo for this!
 
+## Sign up!
+
+[Register here!](https://docs.google.com/forms/d/e/1FAIpQLScdaOERcZbsgavA8adezuklZIT8QGQjBNo6AvrT-rzajVCuVQ/viewform)
+
+We can only accept attendees who have signed up appropriately.
+
 ## Where
 
 [SUSE headquarters](https://www.suse.com/company/contact/headquarters) in [Nuremberg, Germany]
