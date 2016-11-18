@@ -1,6 +1,4 @@
-# curl://up
-
-(seems like a fun name for the occasion) Feel free to help us with a logo for this!
+![curl://up](https://raw.githubusercontent.com/curl/curl-www/master/logo/curl-up.png)
 
 ## Sign up!
 
