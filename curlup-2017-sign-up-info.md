@@ -1,4 +1,4 @@
-If you for some reason don't want or can't sign up via the google form page, please provide us with the following information in a private email instead!
+If you for some reason don't want or can't sign up via the google form page, please provide us with the following information in a private email instead! Email Daniel and provide answers to the 12 questions below!
 
 1. Email address (for meeting related questions/issues only)
 2. Name
