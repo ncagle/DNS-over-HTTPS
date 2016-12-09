@@ -6,6 +6,8 @@
 
 We can only accept attendees who have signed up appropriately.
 
+(If you have problems signing up on that form, consider [doing it over plain email instead](curlup-2017-sign-up-info))
+
 ## Where
 
 [SUSE headquarters](https://www.suse.com/company/contact/headquarters) in [Nuremberg, Germany]
