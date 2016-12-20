@@ -1,4 +1,4 @@
-![curl://up](https://raw.githubusercontent.com/curl/curl-www/master/logo/curl-up.png)
+![curl://up](images/curlup-plus-sponsors.jpg)
 
 ## Sign up!
 
