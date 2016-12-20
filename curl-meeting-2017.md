@@ -4,6 +4,8 @@
 
 [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScdaOERcZbsgavA8adezuklZIT8QGQjBNo6AvrT-rzajVCuVQ/viewform)
 
+(As of mid-December 2016, we are **26** persons signed up!)
+
 We can only accept attendees who have signed up appropriately.
 
 (If you have problems signing up on that form, consider [doing it over plain email instead](curlup-2017-sign-up-info))
