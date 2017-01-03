@@ -63,7 +63,7 @@ We will charge (around) 40 Euro for this. That will cover lunch and coffee for t
 
 ## How do I sign up?
 
-This has not been setup yet. Hold your horses!
+See [above](#sign-up).
 
 ## Who can attend?
 
