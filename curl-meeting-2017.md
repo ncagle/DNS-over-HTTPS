@@ -19,11 +19,15 @@ Thanks to our friends at SUSE for making this possible!
 
 ## Sponsors
 
-Gold sponsor: [Kippdata gmbh](http://www.kippdata.de/)
+[Kippdata gmbh](http://www.kippdata.de/) sponsors tshirts to attendees
 
-Food sponsor: [Sevenval Technologies GmbH](https://www.sevenval.com/) sponsors food and coffee for attendees.
+[Ergon Informatik AG](https://www.ergon.ch/) sponsors food and various expenses.
 
-We're still *very* interested in getting your company to sponsor this. Please get in touch!
+[Sevenval Technologies GmbH](https://www.sevenval.com/) sponsors food and coffee for attendees.
+
+(Money donated to the curl project will also be used.)
+
+We're still *very* interested in getting your company to sponsor remaining expense. Please get in touch!
 
 ## When
 
@@ -43,19 +47,13 @@ Join the [curl-meet mailing list](https://cool.haxx.se/mailman/listinfo/curl-mee
 
 ## Agenda
 
-See the separate [curl meet agenda](curl-meet-2017-agenda) page.
+See the separate [curl meet agenda](curl-meet-2017-agenda) page. Please also suggest *your* talk there.
 
-## Suggested topics
+## Organizers
 
-Some possible subjects could include...
+Dan Fandrich and Daniel Stenberg pull the strings.
 
- - libcurl internals, learn about the inside to increase your ability to debug and work on fixing libcurl
- - new protocols and upcoming technologies that people plan to implement support for in libcurl
- - discussion on current libcurl and we're going next: governance, core team, getting more devs, how to run the project
- - how to get more people involved in the project
- - what's coming beyond HTTP/2
- - will there ever be a libcurl v8 and what should it look like? (brain storm!)
- - curl quiz!
+If you want to help out, please subscribe to the list and volunteer.
 
 ## How much does it cost?
 
