@@ -33,3 +33,12 @@ meetup at a Biergarten for early arrivals
  - dinner (optional)
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
+
+# Suggested talks
+
+| Who | Topic |
+|-----|-------|
+| Daniel Stenberg | The first 20 years and the next (Keynote)
+| Tony Aiuto | How Google uses curl. We have some unique challenges trying to support hundreds of applications on multiple platforms from a single copy of the checked in source.
+| Dan Fandrich | the test suite architecture and how to write new and more (lib)curl tests
+
