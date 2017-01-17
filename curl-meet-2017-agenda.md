@@ -29,7 +29,7 @@ meetup at a Biergarten for early arrivals
  - breakout sessions/unconference
  - **coffee break**
  - breakout sessions/unconference
- - final wrap up talk
+ - final wrap up talkThe curl.haxx.se web sitThe curl.haxx.se web sitee
  - dinner (optional)
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
@@ -41,5 +41,5 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Daniel Stenberg | The first 20 years and the next (Keynote)
 | Tony Aiuto | How Google uses curl. We have some unique challenges trying to support hundreds of applications on multiple platforms from a single copy of the checked in source.
 | Dan Fandrich | The test suite architecture and how to write new and more (lib)curl tests
-| Dan Fandrich | The curl.haxx.se web site, latest download version tracker, download wizard
+| Daniel Stenberg/Fandrich | The curl.haxx.se web site architecture, latest download version tracker, download wizard
 
