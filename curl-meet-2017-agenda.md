@@ -29,7 +29,7 @@ meetup at a Biergarten for early arrivals
  - breakout sessions/unconference
  - **coffee break**
  - breakout sessions/unconference
- - final wrap up talkThe curl.haxx.se web sitThe curl.haxx.se web sitee
+ - final wrap up talk
  - dinner (optional)
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
