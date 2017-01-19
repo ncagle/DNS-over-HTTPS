@@ -43,3 +43,8 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Dan Fandrich | The test suite architecture and how to write new and more (lib)curl tests
 | Daniel Stenberg/Fandrich | The curl.haxx.se web site architecture, latest download version tracker, download wizard
 
+# Lightning talks
+
+| Who | Topic |
+|-----|-------|
+| Daniel Stenberg | "Everything curl" and how to contribute to the book
