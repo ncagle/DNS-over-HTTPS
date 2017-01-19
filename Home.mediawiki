@@ -4,4 +4,4 @@ libcurl is the library curl uses to do its job.
 
 Meet the [[DevTeam|development team]]
 
-This wiki is meant as a way for users to easily contribute to the project. Additional documentation, hints, guides, examples and more. The main curl web site is at http://curl.haxx.se/ and it contains a vast amount of documentation and resources. There's no point in duplicating them here.
+This wiki is meant as a way for users to easily contribute to the project. Additional documentation, hints, guides, examples and more. The main curl web site is at https://curl.haxx.se/ and it contains a vast amount of documentation and resources. There's no point in duplicating them here.
