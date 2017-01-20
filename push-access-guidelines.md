@@ -4,14 +4,14 @@
 Your github account should have a fork of the curl repository, and you have cloned that fork locally. In your clone you will have a remote --typically named 'origin'-- that points to your fork. You will need to add a remote --typically named 'upstream'-- that points to this canonical repo:
 
 ~~~
-git remote add upstream https://github.com/curl/curl.git
+git remote add upstream git@github.com:curl/curl.git
 ~~~
 Now if you run `git remote -v` you should have at least an origin and upstream:
 ~~~
-origin  https://github.com/jay/curl.git (fetch)
-origin  https://github.com/jay/curl.git (push)
-upstream        https://github.com/curl/curl.git (fetch)
-upstream        https://github.com/curl/curl.git (push)
+origin  git@github.com:jay/curl.git (fetch)
+origin  git@github.com:jay/curl.git (push)
+upstream        git@github.com:curl/curl.git (fetch)
+upstream        git@github.com:curl/curl.git (push)
 ~~~
 
 ## Do not work in your local master branch
@@ -102,9 +102,9 @@ If the commit(s) being removed contained sensitive data also contact GitHub in a
 You should always `git fetch upstream` to get the latest changes before rebasing on upstream/master and then pushing. If someone else has pushed in the meantime your push will be rejected with a message like this:
 
 ~~~
-To https://github.com/curl/curl.git
+To git@github.com:curl/curl.git
  ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://github.com/curl/curl.git'
+error: failed to push some refs to 'git@github.com:curl/curl.git'
 hint: Updates were rejected because the remote contains work that you do
 hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
