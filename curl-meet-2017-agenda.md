@@ -48,3 +48,10 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Who | Topic |
 |-----|-------|
 | Daniel Stenberg | "Everything curl" and how to contribute to the book
+
+# Discussion topics
+
+For the panel on Sunday, or other opportunities
+
+ - How should we improve the experience for Windows developers
+ - Project management. How to make decisions, distribute responsibilities and make everyone feel respected and important. Continue like before, or change something?
