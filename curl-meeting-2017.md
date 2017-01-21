@@ -1,10 +1,10 @@
 ![curl://up](images/curlup-plus-sponsors.jpg)
 
-## Sign up!
+## March 18-19, 2017
 
 [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScdaOERcZbsgavA8adezuklZIT8QGQjBNo6AvrT-rzajVCuVQ/viewform)
 
-(As of mid-January 2017, we are **40** persons signed up!)
+(As of mid-January 2017, we are more than **40** persons signed up!)
 
 We can only accept attendees who have signed up appropriately.
 
@@ -17,21 +17,7 @@ We can only accept attendees who have signed up appropriately.
 
 Thanks to our friends at SUSE for making this possible!
 
-## Sponsors
-
-[Kippdata gmbh](http://www.kippdata.de/) sponsors tshirts to attendees
-
-[Ergon Informatik AG](https://www.ergon.ch/) sponsors food and various expenses.
-
-[Sevenval Technologies GmbH](https://www.sevenval.com/) sponsors food and coffee for attendees.
-
-(Money donated to the curl project will also be used.)
-
-We're still *very* interested in getting your company to sponsor remaining expense. Please get in touch!
-
-## When
-
-March 18-19, 2017
+**NOTE:** chances are that we will move venue to other location within Nuremberg due to the unexpected interest and popularity of this event. This page will of course be updated as soon as something like that is confirmed.
 
 ## What
 
@@ -76,10 +62,14 @@ Anyone interested in curl, libcurl and related technologies.
 
 We may have to reserve the right to turn people down, in the extreme unlikely event that we would get overbooked.
 
-## Will the core contributors be there?
+## Sponsors
 
-Daniel Stenberg will be there. Hopefully as many as possible of the other frequent contributors will show up.
+[Kippdata gmbh](http://www.kippdata.de/) sponsors tshirts to attendees
 
-## Tshirts?
+[Ergon Informatik AG](https://www.ergon.ch/) sponsors food and various expenses.
 
-Maybe.
+[Sevenval Technologies GmbH](https://www.sevenval.com/) sponsors food and coffee for attendees.
+
+(Money donated to the curl project will also be used.)
+
+We're still *very* interested in getting your company to sponsor remaining expense. Please get in touch!
