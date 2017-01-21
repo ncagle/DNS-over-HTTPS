@@ -2,7 +2,7 @@
 
 ## March 18-19, 2017
 
-[Register here!](https://docs.google.com/forms/d/e/1FAIpQLScdaOERcZbsgavA8adezuklZIT8QGQjBNo6AvrT-rzajVCuVQ/viewform)
+[Register](https://docs.google.com/forms/d/e/1FAIpQLScdaOERcZbsgavA8adezuklZIT8QGQjBNo6AvrT-rzajVCuVQ/viewform) before February 18!
 
 (As of mid-January 2017, we are more than **40** persons signed up!)
 
