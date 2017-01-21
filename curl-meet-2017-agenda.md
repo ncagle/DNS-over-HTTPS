@@ -30,7 +30,7 @@ Meetup at a restaurant for early arrivals (details will follow). Everyone has to
 | 10:30 | Break
 | 11:00 | Breakout sessions/unconference signup
 | 12:00 | Lunch (provided)
-| 13:00 | Breakout sessions/unconference
+| 13:00 | Lightning talks (if we have enough material)
 | 14:00 | Break
 | 15:00 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
