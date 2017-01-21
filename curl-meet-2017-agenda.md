@@ -2,35 +2,39 @@ Rough idea.
 
 ## Friday night
 
-meetup at a Biergarten for early arrivals
+Meetup at a restaurant for early arrivals (details will follow). Everyone has to pay for themselves.
 
 ## Saturday
 
- - registration (starting at 9ish?)
- - introductions
- - keynote talk
- - **coffee break**
- - second presentation
- - lunch (provided)
- - third presentation
- - unconference signup
- - **coffee break**
- - unconference
- - wrapup talk
- - dinner (optional)
+| Time | Activity |
+|-------|----------|
+| 09:00 | Registration. Get a name tag. Say hello.
+| 09:30 | Introductions
+| 09:40 | Keynote: The first 20 years and the next - Daniel Stenberg
+| 10:30 | Break
+| 11:00 | Second presentation
+| 12:00 | Lunch (provided)
+| 13:00 | Third presentation
+| 14:00 | Unconference
+| 15:00 | Break
+| 16:00 | Unconference
+| 17:00 | Wrapup talk
+| -     | (optional) dinner - organized, but paid for individually
 
 ## Sunday
 
- - fourth presentation
- - panel discussion with curl committers
- - **coffee break**
- - breakout sessions/unconference signup
- - lunch (provided)
- - breakout sessions/unconference
- - **coffee break**
- - breakout sessions/unconference
- - final wrap up talk
- - dinner (optional)
+| Time | Activity |
+|-------|----------|
+| 09:00 | Fourth presentation
+| 09:40 | Panel discussion with curl committers
+| 10:30 | Break
+| 11:00 | Breakout sessions/unconference signup
+| 12:00 | Lunch (provided)
+| 13:00 | Breakout sessions/unconference
+| 14:00 | Break
+| 15:00 | Breakout sessions/unconference
+| 16:00 | Final wrap up talk
+| -     | (optional) dinner - organized, but paid for individually
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
 
