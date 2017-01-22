@@ -52,6 +52,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Who | Topic |
 |-----|-------|
 | Daniel Stenberg | "Everything curl" and how to contribute to the book
+| Igor Chubin | wttr.in: creating console oriented web sites
 
 # Discussion topics
 
