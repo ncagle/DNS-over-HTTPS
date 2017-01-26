@@ -18,7 +18,7 @@ Meetup at a restaurant for early arrivals (details will follow). Everyone has to
 | 14:00 | Unconference
 | 15:00 | Break
 | 16:00 | Unconference
-| 17:00 | Wrapup talk
+| 17:00 | Wrapup talk (maybe a curl quiz?)
 | -     | (optional) dinner - organized, but paid for individually
 
 ## Sunday
