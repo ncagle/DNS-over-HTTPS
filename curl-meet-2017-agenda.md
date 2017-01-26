@@ -53,6 +53,8 @@ Care should be taken to the fact that people will start to drop off Sunday after
 |-----|-------|
 | Daniel Stenberg | "Everything curl" and how to contribute to the book
 | Igor Chubin | wttr.in: creating console oriented web sites
+| Daniel Stenberg | The state of QUIC
+| Daniel Stenberg | Two features I'd like to see in the cmdline tool but probably won't implement myself
 
 # Discussion topics
 
