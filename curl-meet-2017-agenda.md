@@ -55,6 +55,9 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Igor Chubin | wttr.in: creating console oriented web sites
 | Daniel Stenberg | The state of QUIC
 | Daniel Stenberg | Two features I'd like to see in the cmdline tool but probably won't implement myself
+| - | HTTP/2 - what it is, how it works, how to do it with curl
+| - | TLS 1.3 - status and how to use
+| - | How does curl verify certificates
 
 # Discussion topics
 
@@ -64,3 +67,4 @@ For the panel on Sunday, or other opportunities
  - Project management. How to make decisions, distribute responsibilities and make everyone feel respected and important. Continue like before, or change something?
  - Is the time ripe to change `-X` (`CURLOPT_CUSTOMREQUEST`) to only change the initial HTTP request and not the subsequent ones when following redirects? A common source for head aches to users.
  - People keep reacting to changes/bug fixes a long time after they've been discussed or changed. Can we do anything to make people notice or respond sooner?
+ - Can we integrate with Let's Encrypt (better) ?
