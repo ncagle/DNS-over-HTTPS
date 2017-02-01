@@ -63,3 +63,4 @@ For the panel on Sunday, or other opportunities
  - How should we improve the experience for Windows developers
  - Project management. How to make decisions, distribute responsibilities and make everyone feel respected and important. Continue like before, or change something?
  - Is the time ripe to change `-X` (`CURLOPT_CUSTOMREQUEST`) to only change the initial HTTP request and not the subsequent ones when following redirects? A common source for head aches to users.
+ - People keep reacting to changes/bug fixes a long time after they've been discussed or changed. Can we do anything to make people notice or respond sooner?
