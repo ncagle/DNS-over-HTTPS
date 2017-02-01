@@ -49,6 +49,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | - | HTTP/2 - what it is, how it works, how to do it with curl
 | - | TLS 1.3 - status and how to use
 | - | How does curl verify certificates
+| - | curl security and interaction with the rest of the ecosystem 
 
 # Lightning talks (supposedly slightly shorter)
 
