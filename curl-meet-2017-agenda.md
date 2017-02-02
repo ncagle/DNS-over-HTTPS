@@ -69,3 +69,4 @@ For the panel on Sunday, or other opportunities
  - Is the time ripe to change `-X` (`CURLOPT_CUSTOMREQUEST`) to only change the initial HTTP request and not the subsequent ones when following redirects? A common source for head aches to users.
  - People keep reacting to changes/bug fixes a long time after they've been discussed or changed. Can we do anything to make people notice or respond sooner?
  - Can we integrate with Let's Encrypt (better) ?
+ - Should we have a curl://up in 2018 ?
