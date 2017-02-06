@@ -46,6 +46,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Tony Aiuto | How Google uses curl. We have some unique challenges trying to support hundreds of applications on multiple platforms from a single copy of the checked in source.
 | Dan Fandrich | The test suite architecture and how to write new and more (lib)curl tests
 | Daniel Stenberg/Fandrich | The curl.haxx.se web site architecture, latest download version tracker, download wizard
+| Dan Fandrich | Advanced scripting
 | - | HTTP/2 - what it is, how it works, how to do it with curl
 | - | TLS 1.3 - status and how to use
 | - | How does curl verify certificates
