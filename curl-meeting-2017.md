@@ -12,12 +12,10 @@ We can only accept attendees who have signed up appropriately.
 
 ## Where
 
-[SUSE headquarters](https://www.suse.com/company/contact/headquarters) in [Nuremberg, Germany]
+[to be announced] in [Nuremberg, Germany]
 (http://wikitravel.org/en/Nuremberg)
 
-Thanks to our friends at SUSE for making this possible!
-
-**NOTE:** chances are that we will move venue to other location within Nuremberg due to the unexpected interest and popularity of this event. This page will of course be updated as soon as something like that is confirmed.
+Thanks to our sponsors for making this possible!
 
 ## What
 
@@ -43,7 +41,7 @@ If you want to help out, please subscribe to the list and volunteer.
 
 ## How much does it cost?
 
-We will charge (around) 40 Euro for this. That will cover lunch and coffee for two days.
+We will charge less than 40 Euro for this. That will cover lunch and coffee for two days.
 
 ## How do I sign up?
 
