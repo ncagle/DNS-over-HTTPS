@@ -4,7 +4,7 @@
 
 [Register](https://docs.google.com/forms/d/e/1FAIpQLScdaOERcZbsgavA8adezuklZIT8QGQjBNo6AvrT-rzajVCuVQ/viewform) before February 18!
 
-(As of mid-January 2017, we are more than **40** persons signed up!)
+(As of early February 2017, we are **47** persons signed up)
 
 We can only accept attendees who have signed up appropriately.
 
