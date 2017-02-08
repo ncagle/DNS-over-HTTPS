@@ -12,8 +12,12 @@ We can only accept attendees who have signed up appropriately.
 
 ## Where
 
-[to be announced] in [Nuremberg, Germany]
-(http://wikitravel.org/en/Nuremberg)
+[Z-Bau](http://z-bau.com/) in [Nuremberg, Germany](http://wikitravel.org/en/Nuremberg).
+
+[Google map link](https://www.google.se/maps/place/Z-Bau/@49.4303454,11.092532,17z/data=!3m1!4b1!4m5!3m4!1s0x479f576f67abbd9d:0xcdc37501ecd384bc!8m2!3d49.4303419!4d11.0947207)
+
+    Frankenstraße 200
+    90461 Nürnberg, Germany
 
 Thanks to our sponsors for making this possible!
 
