@@ -45,7 +45,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Daniel Stenberg | The first 20 years and the next (Keynote)
 | Tony Aiuto | How Google uses curl. We have some unique challenges trying to support hundreds of applications on multiple platforms from a single copy of the checked in source.
 | Dan Fandrich | A key to the curl project's success in keeping the quality of its releases high despite its rapid rate of new features and improvements is its regression test suite. Over 1000 tests cover a wide selection of protocols and features and help detect problems before they reach the public in a release. This talk will touch on the origins and growth of the test suite and its effectiveness, describe its architecture, features and test file format, and show how easy it is to add a new test to the corpus. It will conclude with a discussion on the main areas lacking test coverage and directions of possible future improvements.
-| Daniel Stenberg/Fandrich | The curl project is run in an open manner and that extends to its official web site, http://curl.haxx.se. Learn about the technology behind the web site that serves millions of requests a year, from its hardware and HTTP stack to its unique templating system. Find out more about some of the inconspicuous features on the web site, like the latest download version tracker, the download wizard, the mirror tracker and the Metalink link generator.
+| Daniel Stenberg/Fandrich | The curl project is run in an open manner and that extends to its official web site, https://curl.haxx.se. Learn about the technology behind the web site that serves millions of requests a year, from its hardware and HTTP stack to its unique templating system. Find out more about some of the inconspicuous features on the web site, like the latest download version tracker, the download wizard, the mirror tracker and the Metalink link generator.
 | Dan Fandrich | curl is the Swiss Army knife of web tools. Its simple syntax belies its power, which comes through harnessing its literally hundreds of command-line options in a controlled sequence. Discover how to harness that power to automate scripting tasks. Learn how a simple click in a browser can turn into dozens of requests, and how to perform them using curl. Find out the kinds of techniques used in modern web sites that, deliberately or not, put road blocks in the way of a simple scripting task.
 | - | HTTP/2 - what it is, how it works, how to do it with curl
 | - | TLS 1.3 - status and how to use
@@ -57,7 +57,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Who | Topic |
 |-----|-------|
 | Daniel Stenberg | "Everything curl" and how to contribute to the book
-| Igor Chubin | wttr.in: creating console oriented web sites
+| Igor Chubin | http://wttr.in: creating console oriented web sites
 | Daniel Stenberg | The state of QUIC
 | Daniel Stenberg | Two features I'd like to see in the cmdline tool but probably won't implement myself
 
