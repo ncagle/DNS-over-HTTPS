@@ -65,10 +65,11 @@ Care should be taken to the fact that people will start to drop off Sunday after
 
 For the panel on Sunday, or other opportunities
 
- - How should we improve the experience for Windows developers
- - Project management. How to make decisions, distribute responsibilities and make everyone feel respected and important. Continue like before, or change something?
- - Is the time ripe to change `-X` (`CURLOPT_CUSTOMREQUEST`) to only change the initial HTTP request and not the subsequent ones when following redirects? A common source for head aches to users.
- - People keep reacting to changes/bug fixes a long time after they've been discussed or changed. Can we do anything to make people notice or respond sooner?
- - Can we integrate with Let's Encrypt (better) ?
- - Should we have a curl://up in 2018 ?
- - Alternate build systems? Can we come up with something that works better for Windows?
+ 1. How should we improve the experience for Windows developers
+ 2. Project management. How to make decisions, distribute responsibilities and make everyone feel respected and important. Continue like before, or change something?
+ 3. Is the time ripe to change `-X` (`CURLOPT_CUSTOMREQUEST`) to only change the initial HTTP request and not the subsequent ones when following redirects? A common source for head aches to users.
+ 4. People keep reacting to changes/bug fixes a long time after they've been discussed or changed. Can we do anything to make people notice or respond sooner?
+ 5. Can we integrate with Let's Encrypt (better) ?
+ 6. Should we have a curl://up in 2018 ? Where?
+ 7. Alternate build systems? Can we come up with something that works better for Windows?
+ 8. Discussions/questions. With kids not used to email anymore, should we "bless" stackoverflow for asking curl questions? Should we open a separate repo on github for "discussion" issues?
