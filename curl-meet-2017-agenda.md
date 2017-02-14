@@ -47,10 +47,10 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Dan Fandrich | A key to the curl project's success in keeping the quality of its releases high despite its rapid rate of new features and improvements is its regression test suite. Over 1000 tests cover a wide selection of protocols and features and help detect problems before they reach the public in a release. This talk will touch on the origins and growth of the test suite and its effectiveness, describe its architecture, features and test file format, and show how easy it is to add a new test to the corpus. It will conclude with a discussion on the main areas lacking test coverage and directions of possible future improvements.
 | Daniel Stenberg/Fandrich | The curl project is run in an open manner and that extends to its official web site, https://curl.haxx.se. Learn about the technology behind the web site that serves millions of requests a year, from its hardware and HTTP stack to its unique templating system. Find out more about some of the inconspicuous features on the web site, like the latest download version tracker, the download wizard, the mirror tracker and the Metalink link generator.
 | Dan Fandrich | curl is the Swiss Army knife of web tools. Its simple syntax belies its power, which comes through harnessing its literally hundreds of command-line options in a controlled sequence. Discover how to harness that power to automate scripting tasks. Learn how a simple click in a browser can turn into dozens of requests, and how to perform them using curl. Find out the kinds of techniques used in modern web sites that, deliberately or not, put road blocks in the way of a simple scripting task.
-| - | HTTP/2 - what it is, how it works, how to do it with curl
+| Daniel Stenberg | HTTP/2 - what it is, how it works, how to do it with curl
 | - | TLS 1.3 - status and how to use
-| - | How does curl verify certificates
-| - | curl security and interaction with the rest of the ecosystem 
+| Daniel Stenberg | How does curl verify certificates
+| Daniel Stenberg | curl security and interaction with the rest of the ecosystem 
 
 # Lightning talks (supposedly slightly shorter)
 
