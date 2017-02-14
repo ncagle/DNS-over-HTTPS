@@ -6,8 +6,9 @@ Meetup at a restaurant for early arrivals (details will follow). Everyone has to
 
 ## Saturday
 
-| Time | Activity |
+| Time  | Activity |
 |-------|----------|
+| 08:30 | Setting up?
 | 09:00 | Registration. Get a name tag. Say hello.
 | 09:30 | Introductions
 | 09:40 | Keynote: The first 20 years and the next - Daniel Stenberg
