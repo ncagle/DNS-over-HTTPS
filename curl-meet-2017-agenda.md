@@ -52,6 +52,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | - | TLS 1.3 - status and how to use
 | Daniel Stenberg | How does curl verify certificates
 | Daniel Stenberg | curl security and interaction with the rest of the ecosystem 
+| Christian Schmitz | Wrapping CURL. Talking about problems, wishes, pitfalls and successes when wrapping lib curl for other development tools.
 
 # Lightning talks (supposedly slightly shorter)
 
