@@ -72,6 +72,8 @@ We may have to reserve the right to turn people down, in the extreme unlikely ev
 
 [Sevenval Technologies GmbH](https://www.sevenval.com/) sponsors food and coffee for attendees.
 
+[Haxx](https://www.haxx.se/) stands as the legal entity/organizer on most contracts related to curl://up.
+
 (Money donated to the curl project will also be used.)
 
 We're still *very* interested in getting your company to sponsor remaining expense. Please get in touch!
