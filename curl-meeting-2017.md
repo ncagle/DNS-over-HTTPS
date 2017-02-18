@@ -2,13 +2,11 @@
 
 ## March 18-19, 2017
 
-[Register](https://docs.google.com/forms/d/e/1FAIpQLScdaOERcZbsgavA8adezuklZIT8QGQjBNo6AvrT-rzajVCuVQ/viewform) before February 18!
+Registration closed February 18. If you still want to come, contact Dan or Daniel privately by email and we'll get it sorted.
 
 (As of mid February 2017, we are around **50** persons signed up)
 
 We can only accept attendees who have signed up appropriately.
-
-(If you have problems signing up on that form, consider [doing it over plain email instead](curlup-2017-sign-up-info))
 
 ## Where
 
