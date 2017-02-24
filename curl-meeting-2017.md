@@ -2,7 +2,7 @@
 
 ## March 18-19, 2017
 
-Registration closed February 18. If you still want to come, contact Dan or Daniel privately by email and we'll get it sorted.
+Registration closed February 18. If you still want to come, contact Dan or Daniel privately by email and we'll get it sorted. If you signed up, **please pay the up-front attendance fee, as stated in an email you should have received**.
 
 (As of mid February 2017, we are around **50** persons signed up)
 
