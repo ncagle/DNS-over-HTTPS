@@ -75,3 +75,4 @@ For the panel on Sunday, or other opportunities
  6. Should we have a curl://up in 2018 ? Where?
  7. Alternate build systems? Can we come up with something that works better for Windows?
  8. Discussions/questions. With kids not used to email anymore, should we "bless" stackoverflow for asking curl questions? Should we open a separate repo on github for "discussion" issues?
+ 9. Redesigning the web site. We have an offer, do people think its needed/desired?
