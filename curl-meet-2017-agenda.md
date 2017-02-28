@@ -63,6 +63,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Daniel Stenberg | The state of QUIC
 | Daniel Stenberg | Two features I'd like to see in the cmdline tool but probably won't implement myself
 | Dagobert Michelsen | How to keep standard software up-to-date on a legacy platform
+| Isaac Boukris | SPNEGO, Kerberos, GSS-API and Negotiate support and how to make them better
 
 # Discussion topics
 
