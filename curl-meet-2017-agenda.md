@@ -76,3 +76,9 @@ For the panel on Sunday, or other opportunities
  7. Alternate build systems? Can we come up with something that works better for Windows?
  8. Discussions/questions. With kids not used to email anymore, should we "bless" stackoverflow for asking curl questions? Should we open a separate repo on github for "discussion" issues?
  9. Redesigning the web site. We have an offer, do people think its needed/desired?
+
+# Presentation Template
+
+There's a LibreOffice Impress [presentation template](curlup-presentation-template.otp)
+available if you'd like to use it for your presentations. It uses the Luxi Sans
+and Liberation Sans typefaces.
