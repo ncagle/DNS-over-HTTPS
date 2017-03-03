@@ -66,6 +66,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Isaac Boukris | SPNEGO, Kerberos, GSS-API and Negotiate support and how to make them better
 | Kamil Dudka | Life of a distro packager
 | Kamil Dudka | Why Red Hat switched to NSS and still uses it
+| Aleksandar Lazic | curl for network debugging
 
 # Discussion topics
 
