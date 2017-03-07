@@ -68,6 +68,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Kamil Dudka | Why Red Hat switched to NSS and still uses it
 | Aleksandar Lazic | curl for network debugging
 | Stefan Eissing | how I use curl in my mod_http2 tests (and where I do not)
+| Daniel Stenberg | The URL situation
 
 # Discussion topics
 
