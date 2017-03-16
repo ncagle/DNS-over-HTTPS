@@ -1,8 +1,6 @@
-Rough idea.
+## Friday/Saturday/Sunday evening
 
-## Friday night
-
-Meetup at a restaurant for early arrivals (details will follow). Everyone has to pay for themselves.
+If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all three evenings. Everyone has to pay for themselves though.
 
 ## Saturday
 
