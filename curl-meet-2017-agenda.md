@@ -2,6 +2,12 @@
 
 If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all three evenings. Everyone has to pay for themselves though.
 
+## Friday
+
+| Time  | Activity |
+|-------|----------|
+| 19:30 | (optional) dinner at [Barfüßer](http://www.barfuesser-nuernberg.de)—organized, but paid for individually
+
 ## Saturday
 
 | Time  | Activity |
@@ -18,7 +24,7 @@ If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all 
 | 15:00 | Break
 | 16:00 | Unconference
 | 17:00 | Wrapup talk (maybe a curl quiz?)
-| -     | (optional) dinner - organized, but paid for individually
+| 18:30 | (optional) dinner at [Landbierparadies](http://landbierparadies.com)—organized, but paid for individually
 
 ## Sunday
 
@@ -33,7 +39,7 @@ If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all 
 | 14:00 | Break
 | 15:00 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
-| -     | (optional) dinner - organized, but paid for individually
+| 18:00 | (optional) dinner at [Hans im Glück](http://hansimglueck-burgergrill.de)—organized, but paid for individually
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
 
