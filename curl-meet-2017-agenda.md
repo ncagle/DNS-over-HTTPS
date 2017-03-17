@@ -17,13 +17,16 @@ If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all 
 | 09:30 | Introductions
 | 09:40 | Keynote: The first 20 years and the next - Daniel Stenberg
 | 10:30 | Break
-| 11:00 | Second presentation
+| 10:40 | Lightning talk
+| 11:00 | curl test suite - Dan Fandrich
 | 12:00 | Lunch (provided)
-| 13:00 | Third presentation
-| 14:00 | Unconference
-| 15:00 | Break
-| 16:00 | Unconference
-| 17:00 | Wrapup talk (maybe a curl quiz?)
+| 12:45 | Lightning talk
+| 13:00 | Wrapping curl - Christian Schnitz
+| 13:30 | the curl web site - Dan and Daniel
+| 14:00 | How Google uses curl - Tony Aiuto
+| 15:00 | Break - sign up for unconference topics
+| 15:30 | Unconference
+| 17:30 | Wrapup and curl quiz!
 | 18:30 | (optional) dinner at [Landbierparadies](http://landbierparadies.com)—organized, but paid for individually
 
 ## Sunday
