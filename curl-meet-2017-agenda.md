@@ -33,13 +33,16 @@ If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all 
 
 | Time | Activity |
 |-------|----------|
-| 09:00 | Fourth presentation
-| 09:40 | Panel discussion with curl committers
+| 09:00 | curl is the Swiss army knife - Dan Fandrich
+| 09:45 | Panel discussion / Q&A with curl committers
 | 10:30 | Break
-| 11:00 | Breakout sessions/unconference signup
+| 10:45 | Lightning talks
+| 11:15 | HTTP/2, where we are now and what's coming - Daniel Stenberg
 | 12:00 | Lunch (provided)
-| 13:00 | Lightning talks (if we have enough material)
-| 14:00 | Break
+| 12:45 | Lightning talks
+| 13:00 |
+| 14:00 |
+| 15:00 | Break
 | 15:00 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
 | 18:00 | (optional) dinner at [Hans im Glück](http://hansimglueck-burgergrill.de)—organized, but paid for individually
