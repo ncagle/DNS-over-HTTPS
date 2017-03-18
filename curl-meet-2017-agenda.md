@@ -40,11 +40,12 @@ If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all 
 | 11:15 | HTTP/2, where we are now and what's coming - Daniel Stenberg
 | 12:00 | Lunch (provided)
 | 12:45 | Lightning talks
-| 13:00 |
-| 14:00 |
+| 13:00 | How curl verifies certificates / servers - Daniel Stenberg
+| 14:00 | the curl security process - Daniel Stenberg
 | 15:00 | Break
-| 15:00 | Breakout sessions/unconference
+| 15:15 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
+| 17:00 | GET OFF MY LAWN
 | 18:00 | (optional) dinner at [Hans im Glück](http://hansimglueck-burgergrill.de)—organized, but paid for individually
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
