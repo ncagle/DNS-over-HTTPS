@@ -20,7 +20,7 @@ If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all 
 | 10:40 | Lightning talk
 | 11:00 | curl test suite - Dan Fandrich
 | 12:00 | Lunch (provided)
-| 12:45 | Lightning talk
+| 12:45 | Lightning talk — http://wttr.in: creating console oriented web sites — Igor Chubin
 | 13:00 | Wrapping curl - Christian Schnitz
 | 13:30 | the curl web site - Dan and Daniel
 | 14:00 | How Google uses curl - Tony Aiuto
