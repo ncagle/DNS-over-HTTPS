@@ -40,8 +40,9 @@ If you signed up for it, we have [joint dinners](curl-meeting-2017-dinners) all 
 | 11:15 | HTTP/2, where we are now and what's coming - Daniel Stenberg
 | 12:00 | Lunch (provided)
 | 12:45 | Lightning talks
-| 13:00 | How curl verifies certificates / servers - Daniel Stenberg
-| 14:00 | the curl security process - Daniel Stenberg
+| 13:00 | How to use new HTTP/2 features
+| 14:00 | How curl verifies certificates / servers - Daniel Stenberg
+| 14:30 | the curl security process - Daniel Stenberg
 | 15:00 | Break
 | 15:15 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
