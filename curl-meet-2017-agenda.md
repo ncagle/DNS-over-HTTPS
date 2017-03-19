@@ -81,7 +81,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 | Aleksandar Lazic | curl for network debugging
 | Stefan Eissing | how I use curl in my mod_http2 tests (and where I do not)
 | Daniel Stenberg | The URL situation
-| Michael Kaufmann | WebSocket support for curl
+| Michael Kaufmann | [WebSocket support for curl](https://gist.github.com/mkauf/5ce3574ce821b2cf02986d4d701bfa86)
 
 # Discussion topics
 
