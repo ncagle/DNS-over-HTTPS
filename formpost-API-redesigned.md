@@ -9,7 +9,7 @@ The `curl_formadd()` API is...
 
 Deprecate the old functions and the use of `CURLOPT_HTTPPOST` (but expect that users will keep using them for a very long time ahead). The new API needs to be feature-complete with the old.
 
-`curl_form_init()` creates a new form post instance and returns an opaque handle to it. 
+`curl_form_init(curl)` creates a new form post instance and returns an opaque handle to it. It takes an easy handle pointer as input (which allows it to use the ERRORBUFFER for returning error messages etc).
 
 `curl_form_addpart(form)` creates a new (empty) part to the multipart formpost and adds that part to the existing form passed in as argument.
 
