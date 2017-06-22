@@ -7,7 +7,7 @@ The `curl_formadd()` API is...
 
 # Alternative take
 
-Deprecate the old functions and the use of `CURLOPT_HTTPPOST` (but expect that users will keep using them for a very long time ahead).
+Deprecate the old functions and the use of `CURLOPT_HTTPPOST` (but expect that users will keep using them for a very long time ahead). The new API needs to be feature-complete with the old.
 
 `curl_form_init()` creates a new form post instance and returns an opaque handle to it. 
 
@@ -29,7 +29,30 @@ Here's a basic example creating a form, adding two parts and then sending it.
     CURLcode rc = curl_easy_setopt(easy, CURLOPT_FORMPOST, form);
     curl_form_cleanup(form);
 
-Remove support for:
+### File uploads
+
+To send "file", use `curl_form_set_file` instead of `curl_form_set_data`
+
+    curl_form_set_name(part, "upload", -1);
+    curl_form_set_file(part, "/tmp/upload.tar.gz", 0, NULL);
+
+To instead "upload" the file from a local buffer and setting a made up file name for it:
+
+    curl_form_set_name(part, "upload", -1);
+    curl_form_set_file(part, buffer, buflen, "made-up-name");
+
+### Custom content-type and headers for a specific part
+
+To set the Content-Type: header specifically, offer this shortcut:
+
+    curl_form_set_type(part, "text/html");
+
+... or to set any custom headers for the part, create a linked slist of headers and provide that:
+
+    curl_form_set_headers(part, slist); /* standard created list */
+
+## Remove support for
+
  - CURLFORM_PTRCONTENTS and CURLFORM_PTRNAME, always copy.
  - CURLFORM_ARRAY, too complex
  - CURLFORM_CONTENTSLENGTH, use 64bit CONTENTLEN
