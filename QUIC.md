@@ -10,7 +10,7 @@ Due to QUIC being done over UDP, and yet is here to serve HTTPS:// URLs, servers
 
 The client makes a request using TCP(+TLS) and gets a response back that says that it can also use QUIC on a certain hostname and port.
 
-A browser can then try to open a new QUIC connection *in parallel* to the existing connection so that it can transparently switch to the new QUIC connection - if that works (or otherwise stick to the TCP based one). (lib)curl might not conveniently be able to provide the same parallel style of operation but should support switching to the Alt-Svc server if asked to, or to directly use QUIC on a specific port if told so by the right options.
+A browser can then try to open a new QUIC connection *in parallel* to the existing connection so that it can transparently switch to the new QUIC connection - if that works (or otherwise stick to the TCP based one). (lib)curl might not initially provide the same parallel style of operation but should support switching to the Alt-Svc server if asked to, or to directly use QUIC on a specific port if told so by the right options.
 
 ## Alt-Svc cache
 
