@@ -54,7 +54,13 @@ To set the Content-Type: header specifically for a part, offer this shortcut:
 
 ### Callback-based data
 
-TODO: the `CURLFORM_STREAM` replacement.
+    curl_form_data_cb(part, size, readfunction, custom-pointer);
+
+Where *readfunction* is a callback using the same prototype as for `CURLOPT_READFUNCTION`, but this allows the formpost to actually use a dedicated function for it.
+
+The *custom-pointer* is the pointer passed to the callback's 4th argument.
+
+If *size* is is `-1`, chunked-encoding will be used for the POST. Otherwise it should set the total expected size this data part will end up using.
 
 ## Remove support for
 
