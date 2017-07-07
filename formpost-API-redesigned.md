@@ -13,43 +13,48 @@ Deprecate the old functions and the use of `CURLOPT_HTTPPOST` (but expect that u
 
 `curl_form_addpart(form)` creates a new (empty) part to the multipart formpost and adds that part to the existing form passed in as argument.
 
-There's then a set of functions to set properties for the added part. `curl_form_set_name()` and `curl_form_set_data()` the two most obvious ones. They can pass in -1 for length to have the function do strlen() on them, or set the data length in the 3rd argument.
+There's then a set of functions to set properties for the added part. `curl_form_name()` and `curl_form_data()` the two most obvious ones. They can pass in -1 for length to have the function do strlen() on them, or set the data length in the 3rd argument.
 
 Here's a basic example creating a form, adding two parts and then sending it.
 
     curl_form *form = curl_form_init();
     curl_formpart *part = curl_form_addpart(form);
-    curl_form_set_name(part, "name", -1);
-    curl_form_set_data(part, "Daniel", -1);
+    curl_form_name(part, "name", -1);
+    curl_form_data(part, "Daniel", -1);
 
     part = curl_form_addpart(form);
-    curl_form_set_name(part, "shoesize", 8);
-    curl_form_set_data(part, "10000", 5);
+    curl_form_name(part, "shoesize", 8);
+    curl_form_data(part, "10000", 5);
 
     CURLcode rc = curl_easy_setopt(easy, CURLOPT_FORMPOST, form);
     curl_form_cleanup(form);
 
 ### File uploads
 
-To send "file", use `curl_form_set_file` instead of `curl_form_set_data`
+To send a "file" from disk, use `curl_form_filedata` instead of `curl_form_data`
 
-    curl_form_set_name(part, "upload", -1);
-    curl_form_set_file(part, "/tmp/upload.tar.gz", 0, NULL);
+    curl_form_name(part, "upload", -1);
+    curl_form_filedata(part, "/tmp/upload.tar.gz");
 
-To instead "upload" the file from a local buffer and setting a made up file name for it:
+To "upload" the file from a local buffer and setting a made up file name for it:
 
-    curl_form_set_name(part, "upload", -1);
-    curl_form_set_file(part, buffer, buflen, "made-up-name");
+    curl_form_name(part, "upload", -1);
+    curl_form_data(part, buffer, bufsize);
+    curl_form_filename(part, "invented-file-name");
 
 ### Custom content-type and headers for a specific part
 
-To set the Content-Type: header specifically, offer this shortcut:
+To set the Content-Type: header specifically for a part, offer this shortcut:
 
-    curl_form_set_type(part, "text/html");
+    curl_form_type(part, "text/html");
 
 ... or to set any custom headers for the part, create a linked slist of headers and provide that:
 
-    curl_form_set_headers(part, slist); /* standard created list */
+    curl_form_headers(part, slist); /* standard created list */
+
+### Callback-based data
+
+TODO: the `CURLFORM_STREAM` replacement.
 
 ## Remove support for
 
