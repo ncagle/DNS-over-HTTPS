@@ -28,4 +28,6 @@ git bisect skip
 
 After you mark a commit another commit will be checked out, and repeat the above set of steps. Assume each step about 1-2min a build, plus however long it takes you to reproduce your issue. A typical bisect should take less than half an hour. You will then eventually end up with the single specific change that introduced the problem.
 
+Alternately, instead of marking the commits manually, you may automate the process by using [`git bisect run`](https://www.kernel.org/pub/software/scm/git/docs/git-bisect.html#_bisect_run) with a script [like this one](https://github.com/curl/curl/issues/1703#issuecomment-318268511).
+
 When done to cleanup and reset to the commit before bisecting do `git bisect reset`
