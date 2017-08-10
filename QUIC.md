@@ -25,7 +25,7 @@ Alt-Svc can be used for more than QUIC, and there are good reasons to support th
 As for HTTP/2 we intend to rely on an existing third party library for all the transport layer bits and pieces of QUIC. Here are some libraries to consider to use for this:
 
  - [ngtcp2](https://github.com/ngtcp2/ngtcp2)
- - [MozQuic](https://github.com/mcmanus/gecko/tree/quic/netwerk/protocol/http/quic/mozquic)
+ - [MozQuic](https://github.com/mcmanus/mozquic)
  - [quicly](https://github.com/h2o/quicly)
 
 We start out using one dedicated library and add QUIC support with that, to get a focused effort. If someone at a later time wants spend time and effort to add support for another/more libraries, we consider that at that point in time.
