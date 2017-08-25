@@ -2,7 +2,7 @@ _(this is a design idea, a wiki page for brainstorming how this should work/beha
 
 # curl tofu, Trust On First Use
 
-The TOFU concept could help people avoid `--insecure` for most common cases and thus make the consecutive transfers to that site done securely. Today we tell the users "don't use -k, get the cacert, put it somewhere and then use `---cacert` in the future when you use that site". This concept could do that job for them.
+The TOFU concept could help people avoid `--insecure` for most common cases and thus make the subsequent transfers to that site done securely. Today we tell the users "don't use -k, get the cacert, put it somewhere and then use `---cacert` in the future when you use that site". This concept could do that job for them.
 
 ## For all TLS based transfers
 
@@ -11,6 +11,8 @@ The TOFU concept could help people avoid `--insecure` for most common cases and 
 This mode probably needs to be enabled, or alternatively it needs an option to disable it. It works for all transfers that use TLS (HTTPS, FTPS, POP3S, IMAPS, etc).
 
 Idea: enabled by default for interactive user, disabled for non-interactive. "interactive" means a human is available (varies by OS, but excludes batch/cron jobs, daemon processes, etc.). Problem: how do detect "non-interactive" users?
+
+[TL:  For Unix, "Is there a controlling TTY" - one approach is to open /dev/tty; if it fails, there's none. If it succeeds, use the fd for the prompt/response]
 
 Perform as usual with the standard CA cert setup, ask for `CERTINFO` to get returned. (run A)
 
@@ -49,6 +51,8 @@ Discuss: save the URLs hashed to avoid privacy leaks if someone inspects someone
 [TL: Not worth the complexity.  Plus, would prevent easy auditing to see what's in the trust store.  SSH doesn't; netrc doesn't.  But do enforce permissions on the directory/file.  Must NOT be world-writable (would allow me to add trust for an imposter site to your trust store.)  Group write is questionable.  Does need to be easy for user to determine what's locally trusted.]
 
 [DS: I mention hashing exactly because SSH does it these days. They started out and used "plain" names for many years. The command could show the hashed names to let users know which one it works with.]
+
+[TL: It needs to be possible for me to list the local trust store - e.g. tell me all the trust overrides in my store.  A security auditor (or conscientious user) would want to do this.  Hashing doesn't hide the sites visited, because the cert is saved, and it contains the subject.  At worst, it has a list of SANs; typically only one or two.  So you're not providing any privacy.  A hash can make access faster.  But if you use the filesystem, it will worry about that.  For privacy, you have to protect the file(s).   So I don't see the benefit of a hash.]
 
 # Requirements
 
