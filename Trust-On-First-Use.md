@@ -55,3 +55,5 @@ This requires that libcurl in use was built with a TLS backend that supports
 To ponder about is what curl should do when a libcurl is used without these super powers.
 
 [TL: Presumably an option flag on connect (or per-thread global) for "PROMPT_ON_TLS_ERROR"; backward compatibility argues for off by default - who knows what context a library is used in.]
+
+[TL: Random thought - you may not each "run" to make a connection to the server.  It may be possible to use TLS backend hooks to modify the verification status.  I believe OpenSSL, at least, has hooks that allow you to intercept the verification status for each certificate in the chain, and modify it.]
