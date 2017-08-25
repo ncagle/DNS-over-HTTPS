@@ -34,6 +34,8 @@ If there's an existing entry in $CURLTRUST for this URL, remove that entry now s
 
 Could be called `$HOME/.curl-trust` by default?
 
+Discuss: save the URLs hashed to avoid privacy leaks if someone inspects someone else's file?
+
 # Requirements
 
 This requires that libcurl in use was built with a TLS backend that supports
