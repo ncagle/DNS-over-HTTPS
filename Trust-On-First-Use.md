@@ -46,6 +46,8 @@ Discuss: save the URLs hashed to avoid privacy leaks if someone inspects someone
 
 [TL: Not worth the complexity.  Plus, would prevent easy auditing to see what's in the trust store.  SSH doesn't; netrc doesn't.  But do enforce permissions on the directory/file.  Must NOT be world-writable (would allow me to add trust for an imposter site to your trust store.)  Group write is questionable.  Does need to be easy for user to determine what's locally trusted.]
 
+[DS: I mentioned hashing exactly because SSH does it these days. They started out and used "plain" names for many years. The command could show the hashed names to let users know which one it works with.]
+
 # Requirements
 
 This requires that libcurl in use was built with a TLS backend that supports
