@@ -64,4 +64,10 @@ To ponder about is what curl should do when a libcurl is used without these supe
 
 [TL: Presumably an option flag on connect (or per-thread global) for "PROMPT_ON_TLS_ERROR"; backward compatibility argues for off by default - who knows what context a library is used in.]
 
+# Other notes
+
 [TL: Random thought - you may not each "run" to make a connection to the server.  It may be possible to use TLS backend hooks to modify the verification status.  I believe OpenSSL, at least, has hooks that allow you to intercept the verification status for each certificate in the chain, and modify it.]
+
+[TL: You may find a small script from my toolbox useful when working on this: [github:getcert](https://github.com/tlhackque/getcert).]
+[TL: I outlined this idea in a thread on curl-users 23-Aug-17+; there are additional considerations/detail there.]
+[TL: Is it possible to subscribe to change notices for this Wiki page?  If not, I'd prefer to see discussion in [Issue1822](https://github.com/curl/curl/issues/1822); I won't poll this page frequently...]
