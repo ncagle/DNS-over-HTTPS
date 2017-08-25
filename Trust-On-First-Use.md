@@ -8,7 +8,7 @@ _(this is a design idea, a wiki page for brainstorming how this should work/beha
 
 Perform as usual with the standard CA cert setup, ask for `CERTINFO` to get returned. (run A)
 
-If run A doesn't return a CA-cert error, goto Cleanup Mode
+If run A doesn't return an error, goto Cleanup Mode (Discuss: what to do on non-CA errors)
 
 ## If run A fails with a CA-cert error
 
