@@ -6,7 +6,7 @@ _(this is a design idea, a wiki page for brainstorming how this should work/beha
 
 (this mode probably needs to be enabled, or alternatively it needs an option to disable it)
 
-Perform as usual with the standard CA cert setup, as for `CERTINFO` to get returned. (run A)
+Perform as usual with the standard CA cert setup, ask for `CERTINFO` to get returned. (run A)
 
 If run A doesn't return a CA-cert error, goto Cleanup Mode
 
