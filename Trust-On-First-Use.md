@@ -10,9 +10,7 @@ The TOFU concept could help people avoid `--insecure` for most common cases and 
 
 This mode probably needs to be enabled, or alternatively it needs an option to disable it. It works for all transfers that use TLS (HTTPS, FTPS, POP3S, IMAPS, etc).
 
-Idea: enabled by default for interactive user, disabled for non-interactive. "interactive" means a human is available (varies by OS, but excludes batch/cron jobs, daemon processes, etc.). Problem: how do detect "non-interactive" users?
-
-[TL:  For Unix, "Is there a controlling TTY" - one approach is to open /dev/tty; if it fails, there's none. If it succeeds, use the fd for the prompt/response]
+Idea: enabled by default for interactive user, disabled for non-interactive. "interactive" means a human is available (varies by OS, but excludes batch/cron jobs, daemon processes, etc.). Problem: how do detect "non-interactive" users? For Unix, "Is there a controlling TTY" - one approach is to open /dev/tty; if it fails, there's none. If it succeeds, use the fd for the prompt/response.
 
 Perform as usual with the standard CA cert setup, ask for `CERTINFO` to get returned. (run A)
 
@@ -26,7 +24,7 @@ Check the file $CURLTRUST if there's an existing entry for "https://example.com"
 
 If there's an entry with certs/pinning present and it matches the certs from run A, then continue and silently retry the transfer with those certs provided. (run B)
 
-If there isn't a local trust entry present, prompt the user if one should be created. If confirmed, save the certs from run A to $CURLTRUST for this URL. If declined, fail. If confirmed, re-run the transfer with the custom trusts. (run B)
+If there isn't a local trust entry present, prompt the user if one should be created. If confirmed, save the public key from run A to $CURLTRUST for this URL. If declined, fail. If confirmed, re-run the transfer with the custom trusts. (run B)
 
 ## If run B fails with a CA-cert error
 
@@ -46,19 +44,19 @@ Could be called `$HOME/.curl-trust` by default?
 
 Idea: use a ca-path style directory rather than a flat file.  The file name can be something like www.example.com_443.  That way the file system handles editing (adding/deleting certs doesn't require rewriting a file, locks, etc).]
 
-Discuss: save the URLs hashed to avoid privacy leaks if someone inspects someone else's file?
+Discuss: save the URLs hashed to avoid privacy leaks if someone inspects someone else's file? With keypinning, there's no host name store or derived anywhere.
 
-[TL: Not worth the complexity.  Plus, would prevent easy auditing to see what's in the trust store.  SSH doesn't; netrc doesn't.  But do enforce permissions on the directory/file.  Must NOT be world-writable (would allow me to add trust for an imposter site to your trust store.)  Group write is questionable.  Does need to be easy for user to determine what's locally trusted.]
+# What to store for a site
 
-[DS: I mention hashing exactly because SSH does it these days. They started out and used "plain" names for many years. The command could show the hashed names to let users know which one it works with.]
+Storing the certificate for tofu is not very useful. For example, when one has 1-month validity cert which is renewed each month but the same private key is kept. 
 
-[TL: It needs to be possible for me to list the local trust store - e.g. tell me all the trust overrides in my store.  A security auditor (or conscientious user) would want to do this.  Hashing doesn't hide the sites visited, because the cert is saved, and it contains the subject.  At worst, it has a list of SANs; typically only one or two.  So you're not providing any privacy.  A hash can make access faster.  But if you use the filesystem, it will worry about that.  For privacy, you have to protect the file(s).   So I don't see the benefit of a hash.]
+The way to PIN such certificates is either by storing the public key of the certificate, or a hash of the public key (just like HPKP does).
 
 # Requirements
 
 This requires that libcurl in use was built with a TLS backend that supports
 1. [CURLOPT_CERTINFO](https://curl.haxx.se/libcurl/c/CURLOPT_CERTINFO.html)
-2. Custom CA cert, preferably via callback.
+2. key pinning support
 
 To ponder about is what curl should do when a libcurl is used without these super powers.
 
@@ -66,8 +64,4 @@ To ponder about is what curl should do when a libcurl is used without these supe
 
 # Other notes
 
-[TL: Random thought - you may not each "run" to make a connection to the server.  It may be possible to use TLS backend hooks to modify the verification status.  I believe OpenSSL, at least, has hooks that allow you to intercept the verification status for each certificate in the chain, and modify it.]
-
-[TL: You may find a small script from my toolbox useful when working on this: [github:getcert](https://github.com/tlhackque/getcert).]
-[TL: I outlined this idea in a thread on curl-users 23-Aug-17+; there are additional considerations/detail there.]
-[TL: Is it possible to subscribe to change notices for this Wiki page?  If not, I'd prefer to see discussion in [Issue1822](https://github.com/curl/curl/issues/1822); I won't poll this page frequently...]
+The discussion around this idea is kept in [Issue1822](https://github.com/curl/curl/issues/1822)
