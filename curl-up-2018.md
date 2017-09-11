@@ -1,10 +1,10 @@
 *This is **unconfirmed** information. Don't book any flights or hotels just yet!*
 
-* When: mid April 2018
+* When: April 14-15, 2018
 * Where: Stockholm, Sweden at [Goto 10](https://www.goto10.se/english/) [map](https://goo.gl/maps/ZuG5Ew5J1z22)
 * Saturday + Sunday event
 * Room for 40 attendees
-* Potentially a "pre-event" on the Friday before for some hands-on programming/debugging
+* Potentially a "pre-event" on Friday the 13th for some hands-on programming/debugging
 
 # curl up
 
