@@ -19,8 +19,12 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 - Sets a `Content-Type: application/json` header in the request.
 - Streams POST body from stdin
 
+(this can probably be supported by `--json -` in the same style `-d` and friends already work)
+
 ## JSON response
 
 When sending a JSON POST (enabling "JSON mode"), enable JSON response parsing as well:
 
 - Prettify JSON reponse with syntax highlightning
+
+(this is probably superfluous and should be replaced by piping output to [jq](https://stedolan.github.io/jq/))
