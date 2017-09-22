@@ -6,8 +6,8 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 
     curl --json '{"msg": "$msg"}' http://example.com
 
-- Sets the Content-Type: header in the request.
-
+- Makes a POST
+- Sets a `Content-Type: application/json` header in the request.
 - Replaces the $msg with the environment variable called 'msg', and escapes it
   correctly according to JSON string rules
 
