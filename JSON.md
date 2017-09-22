@@ -9,7 +9,7 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 - Makes a POST
 - Sets a `Content-Type: application/json` header in the request.
 - Replaces the $msg with the environment variable called 'msg', and escapes it
-  correctly according to JSON string rules
+  correctly according to JSON string rules (but how would it know when to escape like a string and when it is other kinds of data?)
 
 Should also support `-` to read JSON from stdin and `@filename` to read it from a given file.
 
