@@ -2,7 +2,7 @@
 
 This page is for brainstorming and gather ideas and suggestions on how to improve curl when used to send and receive JSON formatted data.
 
-## `--json <data>`
+## `--json -|<data>|@filename`
 
     curl --json '{"msg": "$msg"}' http://example.com
 
