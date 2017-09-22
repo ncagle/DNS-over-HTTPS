@@ -11,3 +11,10 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 - Replaces the $msg with the environment variable called 'msg', and escapes it
   correctly according to JSON string rules
 
+## `--json-data`
+
+    echo '{"msg": "foo"}' | curl --json-data http://example.com
+
+- Makes a POST
+- Sets a `Content-Type: application/json` header in the request.
+- Streams POST body from stdin
