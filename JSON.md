@@ -18,3 +18,9 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 - Makes a POST
 - Sets a `Content-Type: application/json` header in the request.
 - Streams POST body from stdin
+
+## JSON response
+
+When sending a JSON POST (enabling "JSON mode"), enable JSON response parsing as well:
+
+- Prettify JSON reponse with syntax highlightning
