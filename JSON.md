@@ -11,6 +11,8 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 - Replaces the $msg with the environment variable called 'msg', and escapes it
   correctly according to JSON string rules
 
+Should also support `-` to read JSON from stdin and `@filename` to read it from a given file.
+
 ## `--json-data`
 
     echo '{"msg": "foo"}' | curl --json-data http://example.com
