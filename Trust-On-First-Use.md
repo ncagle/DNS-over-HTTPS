@@ -4,6 +4,10 @@ _(this is a design idea, a wiki page for brainstorming how this should work/beha
 
 The TOFU concept could help people avoid `--insecure` for most common cases and thus make the subsequent transfers to that site done securely. Today we tell the users "don't use -k, get the cacert, put it somewhere and then use `--cacert` in the future when you use that site". This concept could do that job for them.
 
+## Weakness
+
+The strongest argument against this feature is probably that it risks pushing people to replace `-k` with `--tofu` and thus still perform insecure transfers too often. Trust On First Use is not replacing "proper" TLS usage.
+
 ## For all TLS based transfers
 
     curl https://example.com
