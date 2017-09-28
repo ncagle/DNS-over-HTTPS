@@ -13,10 +13,21 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 
 Should also support `-` to read JSON from stdin and `@filename` to read it from a given file.
 
+## `--header-format=json`
+
+    curl --dump-header header.json --header-format=json http://example.com/baz >body.json
+
+    $ cat header.json
+    {
+      "http_code": 200,
+      "headers": {
+        "Content-Type": "application/json".
+        "Last-Modified": "....",
+        "ETag": "\"134a-6d5-530904afbe7c0|"",
+        ...
+     }
+    }
+
 ## JSON response
 
-When sending a JSON POST (enabling "JSON mode"), enable JSON response parsing as well:
-
-- Prettify JSON reponse with syntax highlightning
-
-(this is probably superfluous and should be replaced by piping output to [jq](https://stedolan.github.io/jq/))
+Not needed. Pipe output to [jq](https://stedolan.github.io/jq/) or similar.
