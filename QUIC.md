@@ -27,6 +27,7 @@ As for HTTP/2 we intend to rely on an existing third party library for all the t
  - [ngtcp2](https://github.com/ngtcp2/ngtcp2)
  - [MozQuic](https://github.com/mcmanus/mozquic)
  - [quicly](https://github.com/h2o/quicly)
+ - [LiteSpeed QUIC client](https://github.com/litespeedtech/lsquic-client)
 
 We start out using one dedicated library and add QUIC support with that, to get a focused effort. If someone at a later time wants spend time and effort to add support for another/more libraries, we consider that at that point in time.
 
