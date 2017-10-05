@@ -78,6 +78,8 @@ We encourage discussion and review for all substantial changes, and any change i
 
 ## No forced pushes (except emergencies)
 
+**_October 2017: Forced pushing is currently disabled. If you need a forced push e-mail the project owners._**
+
 Do not force your push to upstream/master, as you will just overwrite someone else's work and cause problems for those who have cloned the repo in that state.
 
 In an emergency a forced push may be appropriate, like the once-in-a-blue-moon scenario where something unintended or sensitive has *just* been pushed. In that case *immediately* reset your local master to the good commit whose hash was the tip of upstream/master before you pushed and *do not otherwise disturb the history*. Then force push that commit upstream.
