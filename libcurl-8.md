@@ -38,6 +38,10 @@ Replaced with curl_multi_socket_action
 
 Replaced by the curl_mime_* family.
 
+## curl_formfree
+
+Replaced by the curl_mime_* family.
+
 ## curl_formget
 
 Hardly used, not necessary for applications doing transfers with curl. Does not have a implementation in curl_mime_*.
