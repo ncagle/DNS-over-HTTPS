@@ -6,7 +6,9 @@ At some point we should bump the libcurl version number to 8 and in that same mo
 
 Not transfer related, not necessary for libcurl-using applications.
 
-## curl_mprintf (and variations)
+## curl_*printf family
+
+(10 different functions!)
 
 Not transfer related, not necessary for libcurl-using applications. Discouraged for applications since 2004.
 
