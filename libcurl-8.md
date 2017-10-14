@@ -1,6 +1,6 @@
 At some point we should bump the libcurl version number to 8 and in that same move, bump the soname and clean up some of the legacy functions and garbage we've carried with us for many years.
 
-## Functions to remove - and why
+# Functions to remove - and why
 
 ## curl_getenv
 
@@ -49,3 +49,9 @@ Replaced by curl_easy_escape
 ## curl_unescape
 
 Replaced by curl_easy_unescape
+
+# curl_easy_setopt options to remove - and why
+
+## CURLOPT_DNS_USE_GLOBAL_CACHE
+
+It uses global variables without locking. Really bad.
