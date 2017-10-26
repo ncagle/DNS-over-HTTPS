@@ -34,3 +34,6 @@ We start out using one dedicated library and add QUIC support with that, to get 
 HTTP QUIC (hq) is not exactly HTTP/2 frames, but will be different enough to warrant a completely separate take. It will make the QUIC support to be completely independently implemented from the HTTP/2 support. libcurl should be possible to build with only h1 + hq support, as well as h1 + h2 + hq.
 
 ## ngtcp2 library
+
+## LiteSpeed library
+This library uses BoringSSL.  BoringSSL is a fork from OpenSSL. Although, most of headers are similar, there are some differences between them (for example, BoringSSL implements cryptographic channel ID-s, etc.). So, it is not possible to drop in OpenSSL instead of BoringSSL and expect that everything will compiler, link and work. So this needs to be investigated.
