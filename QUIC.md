@@ -36,5 +36,9 @@ HTTP QUIC (hq) is not exactly HTTP/2 frames, but will be different enough to war
 ## ngtcp2 library
 This library uses OpenSSL.
 
+Licence:  MIT licence.
+
 ## LiteSpeed library
 This library uses BoringSSL.  BoringSSL is a fork from OpenSSL. Although, most of headers are similar, there are some differences between them (for example, BoringSSL implements cryptographic channel ID-s, etc.). So, it is not possible to drop in OpenSSL instead of BoringSSL and expect that everything will compiler, link and work. So this needs to be investigated.
+
+Licence:  MIT licence.
