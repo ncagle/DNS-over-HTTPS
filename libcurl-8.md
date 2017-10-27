@@ -1,4 +1,4 @@
-At some point we should bump the libcurl version number to 8 and in that same move, bump the soname and clean up some of the legacy functions and garbage we've carried with us for many years.
+At some point we should bump the libcurl version number to 8 and in that same move, bump the soname and clean up some of the legacy functions and garbage we've carried with us for many years. Discussion at https://github.com/curl/curl/pull/1981
 
 # Functions to remove - and why
 
