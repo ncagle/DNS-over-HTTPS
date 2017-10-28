@@ -2,7 +2,7 @@ Thoughts on how to support QUIC in (lib)curl.
 
 QUIC is a new transport protocol in the making.
 
-The [drafts](https://quicwg.github.io/)
+The [drafts](https://quicwg.github.io/) from IETF Working Group.
 
 ## HTTPS://
 
