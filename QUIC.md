@@ -44,6 +44,9 @@ This library uses BoringSSL.  BoringSSL is a fork from OpenSSL. Although, most o
 Licence:  MIT licence.
 
 Additional references:
-The author of this blog explains QUIC in more accessible way:
+- The author of this blog explains QUIC in more accessible way:
 https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/
+- QUIC: Design Document and Specification Rationale
+https://docs.google.com/document/d/1RNHkx_VvKWyWg6Lr8SZ-saqsQx7rFV-ev2jRFUoVD34/edit?usp=sharing
+
 
