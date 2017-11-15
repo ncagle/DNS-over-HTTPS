@@ -6,7 +6,7 @@ The [drafts](https://quicwg.github.io/) from IETF Working Group.
 
 More on Alt-svc extension (http://httpwg.org/http-extensions/alt-svc.html)
 
-APLN RFC:  https://tools.ietf.org/html/rfc7301
+ALPN RFC:  https://tools.ietf.org/html/rfc7301
 
 ## HTTPS://
 
