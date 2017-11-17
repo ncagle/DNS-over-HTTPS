@@ -38,7 +38,52 @@ We start out using one dedicated library and add QUIC support with that, to get 
 HTTP QUIC (hq) is not exactly HTTP/2 frames, but will be different enough to warrant a completely separate take. It will make the QUIC support to be completely independently implemented from the HTTP/2 support. libcurl should be possible to build with only h1 + hq support, as well as h1 + h2 + hq.
 
 ## ngtcp2 library
-This library uses OpenSSL.
+This library uses OpenSSL.  It implements QUIC protocol only, that is, we need to build HTTP 1.1 or HTTP/2 on the top of it. The bridging code needs to map HTTP/2 streams, messages and frames into ngtcp2's streams. 
+Client code needs to defines callbacks, as a list of function pointers. For example, in C++ it looks like this:
+
+  auto callbacks = ngtcp2_conn_callbacks{
+      send_client_initial,
+      send_client_cleartext,
+      nullptr,
+      nullptr,
+      recv_stream0_data,
+      config.quiet ? nullptr : debug::send_pkt,
+      config.quiet ? nullptr : debug::send_frame,
+      config.quiet ? nullptr : debug::recv_pkt,
+      config.quiet ? nullptr : debug::recv_frame,
+      handshake_completed,
+      config.quiet ? nullptr : debug::recv_version_negotiation,
+      do_hs_encrypt,
+      do_hs_decrypt,
+      do_encrypt,
+      do_decrypt,
+      recv_stream_data,
+      acked_stream_data_offset,
+      stream_close,
+      config.quiet ? nullptr : debug::recv_stateless_reset,
+      recv_server_stateless_retry,
+      extend_max_stream_id,
+  };
+
+Then, instantiates and fill in ngtcp2 settings, for example:
+
+  ngtcp2_settings settings;
+  settings.max_stream_data = 256_k;
+  settings.max_data = 1_k;
+  settings.max_stream_id = 0;
+  settings.idle_timeout = config.timeout;
+  settings.omit_connection_id = 0;
+  settings.max_packet_size = NGTCP2_MAX_PKT_SIZE;
+
+and then call this API:
+
+  rv = ngtcp2_conn_client_new(&conn_, conn_id, version, &callbacks, &settings, this);
+
+This API creates a new connection.  Last parameter is "void *user_data", so we can pass "this" pointer.
+When necessary, callbacks will be invoked, for example for TLS handshake.  We need to perform handshake ourselves,
+using OpenSSL, for example.
+
+
 
 Licence:  MIT licence.
 
