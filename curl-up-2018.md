@@ -3,9 +3,8 @@
 curl up is our annual curl conference and developers meetup. We talk and discuss
 everything and anything curl related.
 
-# When and where
+# April 14-15, 2018
 
-* When: April 14-15, 2018
 * Where: Stockholm, Sweden at [Goto 10](https://www.goto10.se/english/) [map](https://goo.gl/maps/ZuG5Ew5J1z22)
 * Saturday + Sunday event
 * Room for 40 attendees
@@ -15,9 +14,9 @@ everything and anything curl related.
 
 You cannot sign up yet. We will open up for attendees to sign up around the end of January 2018. An exact time and date will be announced a week or two before that happens.
 
-# fee
+# Fee
 
-Hopefully we will offer it completely free, but at worst you'll pay for food (at maybe 20-30 Euros).
+This event will be **completely free of charge to attend**. You will probably be nagged multiple times about your sincere intention to actually participate so that we can minimize the amount of drop-outs.
 
 # Sponsors
 
