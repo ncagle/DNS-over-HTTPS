@@ -1,6 +1,7 @@
-# curl up
+![curl://up 2018](images/)
 
-The annual curl conference and developers meetup. We talk and discuss everything and anything curl related.
+curl up is our annual curl conference and developers meetup. We talk and discuss
+everything and anything curl related.
 
 # When and where
 
