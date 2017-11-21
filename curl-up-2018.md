@@ -1,4 +1,4 @@
-![curl://up 2018](images/)
+![curl://up 2018](images/curlup-2018-logos.png)
 
 curl up is our annual curl conference and developers meetup. We talk and discuss
 everything and anything curl related.
