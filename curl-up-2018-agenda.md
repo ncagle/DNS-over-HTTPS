@@ -61,7 +61,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 |  | How should we improve the experience for Windows developers
 |  | Is the time ripe to change `-X` (`CURLOPT_CUSTOMREQUEST`) to only change the initial HTTP request and not the subsequent ones when following redirects? A common source for head aches to users.
 |  | Add [JSON](JSON) support?
-|  | Thoughts on [libcurl version 8]](libcurl-8)
+|  | Thoughts on [libcurl version 8](libcurl-8)
 
 
 Bring your ideas, talks and topics you want to discuss to the curl-meet list.
