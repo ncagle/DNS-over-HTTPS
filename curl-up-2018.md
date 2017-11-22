@@ -5,8 +5,8 @@ everything and anything curl related.
 
 # April 14-15, 2018
 
-* Where: Stockholm, Sweden at [Goto 10](https://www.goto10.se/english/) [map](https://goo.gl/maps/ZuG5Ew5J1z22)
-* Saturday + Sunday event
+* Where: Stockholm, Sweden at [Goto 10](https://www.goto10.se/english/) - [map](https://goo.gl/maps/ZuG5Ew5J1z22)
+* Saturday + Sunday event - [agenda](curl-up-2018-agenda)
 * Room for 40 attendees
 * Potentially a "pre-event" on Friday the 13th for some hands-on programming/debugging
 
