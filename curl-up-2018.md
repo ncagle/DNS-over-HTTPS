@@ -20,11 +20,11 @@ This event will be **completely free of charge to attend**. You will probably be
 
 # Sponsors
 
-[Goto 10](https://www.goto10.se/) graciously sponsors the venue
+[Goto 10](https://www.goto10.se/) sponsors the venue
 
-[Stickermule](https://www.stickermule.com) is our official stickers sponsor.
+[46elks](https://46elks.com/) sponsors food and tshirts
 
-... discussions with more sponsors are ongoing.
+[Stickermule](https://www.stickermule.com) sponsors stickers
 
 # Planning / volunteering
 
