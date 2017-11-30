@@ -24,7 +24,7 @@ This event will be **completely free of charge to attend**. You will probably be
 
 [46elks](https://46elks.com/) sponsors food and tshirts
 
-[Stickermule](https://www.stickermule.com) sponsors stickers
+[Sticker Mule](https://www.stickermule.com/supports/opensource) sponsors stickers
 
 # Planning / volunteering
 
