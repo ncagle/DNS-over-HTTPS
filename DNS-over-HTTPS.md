@@ -10,7 +10,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 Google runs one. Test with `https://dns.google.com/experimental?ct&body=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
-Daniel runs a "toy server" that only supports GET: `https:/daniel.haxx.se/dns?body=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
+Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?body=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
 # DOH in curl
 
