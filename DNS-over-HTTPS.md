@@ -31,3 +31,9 @@ When a DOH-resolve is to get done, it will need to
 ## A "Custom resolver" ?
 
 Anders Bakken works on making the DNS backend generic enough to allow applications to plug in a custom DNS resolver in [#2232](https://github.com/curl/curl/pull/2232). Will that be suitable for this DOH resolver
+
+# DOH Tools
+
+Facebook's [doh-proxy](https://facebookexperimental.github.io/doh-proxy/) and associated tools.
+
+Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions.
