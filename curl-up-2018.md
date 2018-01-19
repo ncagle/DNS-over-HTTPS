@@ -12,7 +12,7 @@ everything and anything curl related.
 
 # Sign up?
 
-You cannot sign up yet. We will open up for attendees to sign up around the end of January 2018. An exact time and date will be announced a week or two before that happens.
+You cannot sign up yet. We will open up for attendees 10:00 on January 24th 2018. The link to use will be shown here.
 
 # Fee
 
