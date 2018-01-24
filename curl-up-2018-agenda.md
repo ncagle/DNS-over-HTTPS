@@ -62,6 +62,10 @@ Care should be taken to the fact that people will start to drop off Sunday after
 |  | Is the time ripe to change `-X` (`CURLOPT_CUSTOMREQUEST`) to only change the initial HTTP request and not the subsequent ones when following redirects? A common source for head aches to users.
 |  | Add [JSON](JSON) support?
 |  | Thoughts on [libcurl version 8](libcurl-8)
+|  | Making the perfect pull-request
+|  | The curl web site and infrastructure
+|  | This happens on each PR/commit
+|  | Internals. Walk-through of architecture and what libcurl does when doing a transfer
 
 
 Bring your ideas, talks and topics you want to discuss to the curl-meet list.
