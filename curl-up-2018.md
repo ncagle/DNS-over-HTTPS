@@ -12,7 +12,7 @@ everything and anything curl related.
 
 # Sign up?
 
-You cannot sign up yet. We will open up for registration **January 24th 2018 10:00 CET**. The link to use will be shown here.
+[Register here](https://goo.gl/V8PHMu)
 
 # Fee
 
