@@ -56,7 +56,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 
 | Who | Topic |
 |-----|-------|
-| Daniel Stenberg | The state of QUIC
+| Daniel Stenberg | The state of [QUIC](QUIC)
 |  | The curl test suite
 |  | How should we improve the experience for Windows developers
 |  | Is the time ripe to change `-X` (`CURLOPT_CUSTOMREQUEST`) to only change the initial HTTP request and not the subsequent ones when following redirects? A common source for head aches to users.
