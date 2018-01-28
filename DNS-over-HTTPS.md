@@ -18,7 +18,7 @@ Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?b
 
 ## Bootstrap
 
-The DOH server is given with a host name that itself needs to be resolved. This initial resolve needs to be done by the native resolver before DOH kicks in.
+The DOH server is given with a host name that itself needs to be resolved. This initial resolve needs to be done by the native resolver before DOH kicks in. Or the address is provided with --resolve / CURLOPT_RESOLVE.
 
 ## DOH resolver
 
