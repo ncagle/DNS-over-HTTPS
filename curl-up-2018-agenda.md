@@ -74,7 +74,7 @@ Bring your ideas, talks and topics you want to discuss to the curl-meet list.
 
 | Who | Topic |
 |-----|-------|
-|Kamil Dudka|How Red Hat distributes curl|
+|Kamil Dudka|How Red Hat distributes curl (what has changed since curl up 2017?)|
 
 # Discussion topics
 
