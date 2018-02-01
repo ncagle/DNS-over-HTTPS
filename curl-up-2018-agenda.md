@@ -24,7 +24,7 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 | 12:45 | Talk C
 | 13:00 | Talk D
 | 13:30 | Talk E
-| 14:00 | Talk F
+| 14:00 | Creating and using console oriented services (wttr.in, cheat.sh, rate.sx etc.) — [Igor Chubin](https://github.com/chubin)
 | 15:00 | Break - sign up for unconference topics
 | 15:30 | Unconference
 | 17:30 | Wrapup
