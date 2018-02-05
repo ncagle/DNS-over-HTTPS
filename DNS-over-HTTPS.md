@@ -4,15 +4,15 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 
 # Spec
 
-This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-02
+This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-03
 
 # Servers
 
-Google runs one. Test with `https://dns.google.com/experimental?ct&body=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
+Google runs one. Test with `https://dns.google.com/experimental?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
-Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?body=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
+Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
-@chantra has another "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy): `https://dns.dnsoverhttps.net/.well-known/dns-query?ct&body=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
+@chantra has another "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy): `https://dns.dnsoverhttps.net/.well-known/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
 # DOH in curl
 
