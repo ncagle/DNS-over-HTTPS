@@ -14,8 +14,8 @@ Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?d
 
 @chantra has another "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy): `https://dns.dnsoverhttps.net/.well-known/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
-@jedisct1 has a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust. `https://doh.fr.dnscrypt.info/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
--- [DNS stamp](https://github.com/jedisct1/dnscrypt-proxy/wiki/stamps): `sdns://AgcAAAAAAAAADTM3LjU5LjIzOC4yMTMgwzRA_TfjYt0RwSHqBHwj7OM-D_x-CDgqIHeJHIoN1P0UZG9oLmZyLmRuc2NyeXB0LmluZm8KL2Rucy1xdWVyeQ`
+@jedisct1 has a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust. `https://doh.crypto.sx/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
+-- [DNS stamp](https://github.com/jedisct1/dnscrypt-proxy/wiki/stamps): `sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk`
 
 # DOH in curl
 
