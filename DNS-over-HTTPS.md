@@ -14,6 +14,9 @@ Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?d
 
 @chantra has another "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy): `https://dns.dnsoverhttps.net/.well-known/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
+@jedisct1 has a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust. `https://doh.fr.dnscrypt.info/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB'`
+-- [DNS stamp](https://github.com/jedisct1/dnscrypt-proxy/wiki/stamps): `sdns://AgcAAAAAAAAADTM3LjU5LjIzOC4yMTMgwzRA_TfjYt0RwSHqBHwj7OM-D_x-CDgqIHeJHIoN1P0UZG9oLmZyLmRuc2NyeXB0LmluZm8KL2Rucy1xdWVyeQ`
+
 # DOH in curl
 
 ## Bootstrap
@@ -39,3 +42,5 @@ Anders Bakken works on making the DNS backend generic enough to allow applicatio
 Facebook's [doh-proxy](https://facebookexperimental.github.io/doh-proxy/) and associated tools.
 
 Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions.
+
+Frank Denis' [doh-proxy](https://github.com/jedisct1/rust-doh) (server-side proxy) and [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) (client proxy).
