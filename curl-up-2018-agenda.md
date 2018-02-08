@@ -66,6 +66,7 @@ Care should be taken to the fact that people will start to drop off Sunday after
 |  | The curl web site and infrastructure
 |  | This happens on each PR/commit
 |  | Internals. Walk-through of architecture and what libcurl does when doing a transfer
+|  | What to do about URLs. We started RFC 3986 and we've gradually adapted for browser craziness. We're still not fully browser compliant. Should we be? Pros and cons. Discuss!
 
 
 Bring your ideas, talks and topics you want to discuss to the curl-meet list.
