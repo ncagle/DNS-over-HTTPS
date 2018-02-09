@@ -27,7 +27,7 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 | 14:00 | Creating and using console oriented services (wttr.in, cheat.sh, rate.sx etc.) — [Igor Chubin](https://github.com/chubin)
 | 15:00 | Break - sign up for unconference topics
 | 15:30 | Unconference
-| 17:30 | Wrapup
+| 17:30 | Wrapup - curl quiz, practice on [the curl quiz 2017](https://play.kahoot.it/#/?quizId=c62bc932-f10b-4c3b-b466-27eae5c37298)
 | 18:30 | (optional) dinner at ???? —organized, but paid for individually
 
 ## Sunday
