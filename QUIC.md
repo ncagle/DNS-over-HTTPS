@@ -37,6 +37,9 @@ We start out using one dedicated library and add QUIC support with that, to get 
 
 HTTP QUIC (hq) is not exactly HTTP/2 frames, but will be different enough to warrant a completely separate take. It will make the QUIC support to be completely independently implemented from the HTTP/2 support. libcurl should be possible to build with only h1 + hq support, as well as h1 + h2 + hq.
 
+## TLS 1.3
+QUIC uses TLS 1.3 and pretty much requires that the library interfaces a TLS library directly, which makes it tied to a specific TLS library harder than what is ideal for curl.
+
 ## ngtcp2 library
 This library uses OpenSSL.  It implements QUIC protocol only, that is, we need to build HTTP 1.1 or HTTP/2 on the top of it. The bridging code needs to map HTTP/2 streams, messages and frames into ngtcp2's streams. 
 Client code needs to defines callbacks, as a list of function pointers. For example, in C++ it looks like this:
@@ -98,4 +101,5 @@ https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/
 - QUIC: Design Document and Specification Rationale
 https://docs.google.com/document/d/1RNHkx_VvKWyWg6Lr8SZ-saqsQx7rFV-ev2jRFUoVD34/edit?usp=sharing
 
-
+## MozQuic
+This is the library that will be used for QUIC in the Firefox browser. The library is implemented in C++, which limits portability much more than curl and really any other 3rd party library curl uses do.
