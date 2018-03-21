@@ -4,7 +4,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 
 # Spec
 
-This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-03
+This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-04
 
 # Servers
 
