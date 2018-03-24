@@ -10,7 +10,9 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 Google runs one. Test with `https://dns.google.com/experimental?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
-Cloudflare runs one at https://dns.cloudflare.com/.well-known/dns
+Cloudflare runs one at `https://dns.cloudflare.com/.well-known/dns`
+
+CleanBrowsing runs an anycast DoH server with parental control (restricts access to adult content + enforces safe search) at `https://doh.cleanbrowsing.org/doh/family-filter/?ct&dns=`
 
 Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
@@ -46,6 +48,8 @@ Facebook's [doh-proxy](https://facebookexperimental.github.io/doh-proxy/) and as
 Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions.
 
 Frank Denis' [doh-proxy](https://github.com/jedisct1/rust-doh) (server-side proxy) and [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) (client proxy).
+
+Daniel Cid's [doh-php-client](https://github.com/dcid/doh-php-client) can be used to test and run DoH requests via PHP applications.
 
 Travis Burtrum's [jDnsProxy](https://github.com/moparisthebest/jDnsProxy) DNS proxy and cache, implementing [DNS-over-TLS](https://tools.ietf.org/html/rfc7858), [DNS-over-HTTPS](https://tools.ietf.org/html/draft-hoffman-dns-over-https), and [Serve-Stale](https://tools.ietf.org/html/draft-ietf-dnsop-serve-stale)
 
