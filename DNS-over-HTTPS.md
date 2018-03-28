@@ -8,18 +8,18 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 # Servers
 
-Google runs one. Test with `https://dns.google.com/experimental?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
+Google runs one. Test with `https://dns.google.com/experimental?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB` (DNS stamp: `sdns://AgUAAAAAAAAAACDyXGrcc5eNecJ8nomJCJ-q6eCLTEn6bHic0hWGUwYQaA5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs`)
 
-Cloudflare runs one at `https://dns.cloudflare.com/.well-known/dns`
+Cloudflare runs one at `https://dns.cloudflare.com/.well-known/dns` (DNS stamp: `sdns://AgcAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGBJkbnMuY2xvdWRmbGFyZS5jb20KL2Rucy1xdWVyeQ`) -- Supports POST only.
 
-CleanBrowsing runs an anycast DoH server with parental control (restricts access to adult content + enforces safe search) at `https://doh.cleanbrowsing.org/doh/family-filter/?ct&dns=`
+CleanBrowsing runs an anycast DoH server with parental control (restricts access to adult content + enforces safe search) at `https://doh.cleanbrowsing.org/doh/family-filter/?ct&dns=` (DNS stamp: `sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8`)
 
 Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
 @chantra has another "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy): `https://dns.dnsoverhttps.net/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 
 @jedisct1 has a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust. `https://doh.crypto.sx/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
--- [DNS stamp](https://github.com/jedisct1/dnscrypt-proxy/wiki/stamps): `sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk`
+([DNS stamp](https://github.com/jedisct1/dnscrypt-proxy/wiki/stamps): `sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk`)
 
 # DOH in curl
 
