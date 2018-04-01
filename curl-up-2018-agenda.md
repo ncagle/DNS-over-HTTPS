@@ -13,10 +13,10 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 
 | Time  | Activity |
 |-------|----------|
-| 08:30 | Setting up?
+| 08:30 | Arriving at GOTO 10. Setting up.
 | 09:00 | Registration. Get a name tag. Say hello.
-| 09:30 | Introductions
-| 09:40 | Keynote: curl today - Daniel Stenberg
+| 09:10 | Introductions
+| 09:20 | Keynote: curl today - Daniel Stenberg
 | 10:30 | Break
 | 10:40 | How Red Hat distributes curl - Kamil Dudka
 |       | talk B
