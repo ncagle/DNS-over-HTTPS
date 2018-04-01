@@ -18,12 +18,12 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 | 09:30 | Introductions
 | 09:40 | Keynote: curl today - Daniel Stenberg
 | 10:30 | Break
-| 10:40 | Talk A
-| 11:00 | talk B
+| 10:40 | How Red Hat distributes curl - Kamil Dudka
+|       | talk B
 | 12:00 | Lunch (provided)
 | 12:45 | Talk C
-| 13:00 | Talk D
-| 13:30 | Talk E
+|       | Talk D
+|       | Talk E
 | 14:00 | Creating and using console oriented services (wttr.in, cheat.sh, rate.sx etc.) — [Igor Chubin](https://github.com/chubin)
 | 15:00 | Break - sign up for unconference topics
 | 15:30 | Unconference
