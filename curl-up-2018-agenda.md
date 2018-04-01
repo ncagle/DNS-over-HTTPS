@@ -16,7 +16,7 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 | 08:30 | Setting up?
 | 09:00 | Registration. Get a name tag. Say hello.
 | 09:30 | Introductions
-| 09:40 | Keynote: The first 20 years and the next - Daniel Stenberg
+| 09:40 | Keynote: curl today - Daniel Stenberg
 | 10:30 | Break
 | 10:40 | Talk A
 | 11:00 | talk B
