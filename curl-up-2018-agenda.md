@@ -19,7 +19,7 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 | 09:20 | Keynote: curl today - Daniel Stenberg
 | 10:30 | Break
 | 10:40 | How Red Hat distributes curl - Kamil Dudka
-|       | talk B
+|       | my test setup using Docker - Dan Fandrich
 | 12:00 | Lunch (provided)
 | 12:45 | Talk C
 |       | Talk D
