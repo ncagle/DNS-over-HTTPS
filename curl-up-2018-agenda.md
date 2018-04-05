@@ -15,37 +15,36 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 |-------|----------|
 | 08:30 | Arriving at GOTO 10. Setting up.
 | 09:00 | Registration. Get a name tag. Say hello.
-| 09:10 | Introductions
-| 09:20 | Keynote: curl today - Daniel Stenberg
+|       | Introductions
+|       | Keynote: curl today - Daniel Stenberg
 | 10:30 | Break
-| 10:40 | How Red Hat distributes curl - Kamil Dudka
+| 10:45 | How Red Hat distributes curl - Kamil Dudka
 |       | my test setup using Docker - Dan Fandrich
 | 12:00 | Lunch (provided)
-| 12:45 | Talk C
-|       | Talk D
-|       | Talk E
-| 14:00 | Creating and using console oriented services (wttr.in, cheat.sh, rate.sx etc.) — [Igor Chubin](https://github.com/chubin)
-| 15:00 | Break - sign up for unconference topics
-| 15:30 | Unconference
+| 13:00 | Confession: I use libcurl in Apache httpd - Stefan Eissing
+|       | How to download and parse email with curl + mimetic library - Christian Schmitz
+|       | Creating and using console oriented services (wttr.in, cheat.sh, rate.sx etc.) — [Igor Chubin](https://github.com/chubin)
+| 15:00 | Break
+| 15:30 | CI infrastructure - Daniel Stenberg
+|       | talk / questions / discussions
 | 17:30 | Wrapup - curl quiz, practice on [the curl quiz 2017](https://play.kahoot.it/#/?quizId=c62bc932-f10b-4c3b-b466-27eae5c37298)
-| 18:30 | (optional) dinner at ???? —organized, but paid for individually
+| 19:00 | (optional) dinner at ???? —organized, but paid for individually
 
 ## Sunday
 
 | Time | Activity |
 |-------|----------|
 | 09:00 | QUIC, DOH and what to cram in next - Daniel Stenberg
-| 09:45 | Panel discussion / Q&A with curl committers
+|       | Panel discussion / Q&A with curl committers
 | 10:30 | Break
-| 10:45 | Lightning talks
-| 11:15 | Talk H
+| 10:45 | HTTP Alt-Svc for curl (and the masses?)
+|       | Discussion: what should we do if we had money?
 | 12:00 | Lunch (provided)
-| 12:45 | Lightning talks
-| 13:00 | Talk I
-| 14:00 | Talk J
-| 14:30 | Talk K
+| 13:00 | The (sorry) state of URLs - Daniel Stenberg
+|       | Talk J
+|       | Talk K
 | 15:00 | Break
-| 15:15 | Breakout sessions/unconference
+| 15:30 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
 | 17:00 | GET OFF MY LAWN
 | 18:00 | (optional) dinner at ????? —organized, but paid for individually
