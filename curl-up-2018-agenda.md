@@ -42,7 +42,7 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 | 12:00 | Lunch (provided)
 | 13:00 | The (sorry) state of URLs - Daniel Stenberg
 |       | fuzzing curl - Max Dymond
-|       | Another talk
+|       | a day in the life of a CDN Sales Engineer - Fernando Bitti Loureiro
 | 15:00 | Break
 | 15:30 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
