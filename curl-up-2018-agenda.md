@@ -25,7 +25,8 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 |       | How to download and parse email with curl + mimetic library - Christian Schmitz
 |       | Creating and using console oriented services (wttr.in, cheat.sh, rate.sx etc.) — [Igor Chubin](https://github.com/chubin)
 | 15:00 | Break
-| 15:30 | CI infrastructure - Daniel Stenberg
+| 15:30 | Detecting proxy - Tony Aiuto
+|       | CI infrastructure - Daniel Stenberg
 |       | talk / questions / discussions
 | 17:30 | Wrapup - curl quiz, practice on [the curl quiz 2017](https://play.kahoot.it/#/?quizId=c62bc932-f10b-4c3b-b466-27eae5c37298)
 | 19:00 | (optional) dinner at ???? —organized, but paid for individually
