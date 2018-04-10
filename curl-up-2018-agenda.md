@@ -22,7 +22,7 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 |       | CI infrastructure - Daniel Stenberg
 |       | talk / questions / discussions
 | 17:30 | Wrapup - curl quiz, practice on [the curl quiz 2017](https://play.kahoot.it/#/?quizId=c62bc932-f10b-4c3b-b466-27eae5c37298)
-| 19:00 | (optional) dinner at [Bishops Arms Gamla Stan](https://goo.gl/maps/yzQJURahFBS2) - paid for individually
+| 19:30 | (optional) dinner at [Bishops Arms Gamla Stan](https://goo.gl/maps/yzQJURahFBS2) - paid for individually
 
 ## Sunday
 
@@ -42,7 +42,7 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 | 15:30 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
 | 17:00 | GET OFF MY LAWN
-| 18:00 | (optional) dinner at [Wagamama](https://goo.gl/maps/tbM8hugsTM92) - paid for individually
+| 19:00 | (optional) dinner at [Wagamama](https://goo.gl/maps/tbM8hugsTM92) - paid for individually
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
 
