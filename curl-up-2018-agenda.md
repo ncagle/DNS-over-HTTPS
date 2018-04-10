@@ -2,6 +2,10 @@
 
 For the interested, we get together for dinner. You'll be asked to sign up for this. Everyone has to pay for themselves.
 
+## Friday
+
+Contact Daniel, we're taking this casual!
+
 ## Saturday
 
 | Time  | Activity |
