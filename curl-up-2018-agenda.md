@@ -42,7 +42,7 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 | 15:30 | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
 | 17:00 | GET OFF MY LAWN
-| 18:00 | (optional) dinner at ????? —organized, but paid for individually
+| 18:00 | (optional) dinner at [Wagamama](https://goo.gl/maps/tbM8hugsTM92) - paid for individually
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
 
