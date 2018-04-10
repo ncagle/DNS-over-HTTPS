@@ -35,7 +35,8 @@ For the interested, we get together for dinner. You'll be asked to sign up for t
 
 | Time | Activity |
 |-------|----------|
-| 09:00 | QUIC, DOH and what to cram in next - Daniel Stenberg
+| 09:00 | QUIC in curl - Daniel Stenberg
+|       | DOH in curl - Daniel Stenberg
 |       | Panel discussion / Q&A with curl committers
 | 10:30 | Break
 | 10:45 | HTTP Alt-Svc for curl (and the masses?)
