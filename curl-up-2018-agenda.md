@@ -11,7 +11,7 @@ Contact Daniel, we're taking this casual!
 | Time  | Activity |
 |-------|----------|
 | 08:30 | Arriving at GOTO 10. Setting up.
-| 09:00 | Registration. Get a name tag. Say hello.
+| 09:00 | Registration. ~~~Get a name tag.~~~ Say hello.
 |       | Introductions
 |       | Keynote: curl today - Daniel Stenberg
 | 10:30 | Break
