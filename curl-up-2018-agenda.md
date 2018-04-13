@@ -43,7 +43,8 @@ Contact Daniel, we're taking this casual!
 |       | fuzzing curl - Max Dymond
 |       | a day in the life of a CDN Sales Engineer - Fernando Bitti Loureiro
 | 15:00 | Break
-| 15:30 | Breakout sessions/unconference
+| 15:30 | Debugging/issues anyone has or wants to address?
+|       | Breakout sessions/unconference
 | 16:00 | Final wrap up talk
 | 17:00 | GET OFF MY LAWN
 | 19:00 | (optional) dinner at [Wagamama](https://goo.gl/maps/tbM8hugsTM92) - paid for individually
