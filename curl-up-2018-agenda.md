@@ -16,7 +16,7 @@ Contact Daniel, we're taking this casual!
 |       | Keynote: curl today - Daniel Stenberg
 | 10:30 | Break
 | 10:45 | How Red Hat distributes curl - Kamil Dudka
-|       | my test setup using Docker - Dan Fandrich
+|       | Containerized curl testing - Dan Fandrich
 | 12:00 | Lunch (provided)
 | 13:00 | Confession: I use libcurl in Apache httpd - Stefan Eissing
 |       | How to download and parse email with curl + mimetic library - Christian Schmitz
