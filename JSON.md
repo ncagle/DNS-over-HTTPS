@@ -13,6 +13,14 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 
 Should also support `-` to read JSON from stdin and `@filename` to read it from a given file.
 
+## `--data={}`
+
+If the first byte of the --data content starts with '{' or '[' use `application/json` as Content-type instead
+of `application/x-www-form-urlencoded`.  If you really wanted `application/x-www-form-urlencoded` in that case
+you could override it with --header.
+
+Not completely backwards compatible.
+
 ## `--header-format=json`
 
     curl --dump-header header.json --header-format=json http://example.com/baz >body.json
