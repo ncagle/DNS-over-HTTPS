@@ -36,6 +36,29 @@ Not completely backwards compatible.
      }
     }
 
+A problem with "headers" is that it's not clear what to do about repeated headers.
+
+It's also inconvenient to not have fixed casing for the headers keys, so perhaps
+keys should always be lower-cased:
+
+    { "headers": {
+        "content-type": "application/json",
+        "last-modified": "....",
+        "etag": "....",
+    }
+
+## --write-out-json
+
+Writes all the supported --write-out variables in the form of a JSON object.  Something like:
+
+    {
+      "content_type": "text/html",
+      "filename_effective": "example.html",
+      "http_code": 200,
+      ...
+      "time_total": 453
+    }
+
 ## JSON response
 
 Not needed. Pipe output to [jq](https://stedolan.github.io/jq/) or similar.
