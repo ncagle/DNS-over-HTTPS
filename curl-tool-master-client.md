@@ -11,7 +11,7 @@ This style of script exists everywhere:
     done
 ~~~
 
-It opens a connection, performs a transfer, then closes the connection again. Very many times. One way to offer an improvement for this would be to have a master/client concept. The client then uses the master to perform the transfers, and as the master lives on the connection cache is reused and these 100000 transfers are all done over the same persistent connection:
+It opens a connection, performs a transfer, then closes the connection again. Very many times. One way to offer an improvement for this would be to have a master/client concept. The client then uses the master to perform the transfers, and as the master process stays alive in the background, the connection cache is properly reused and these 100000 transfers are all done over the same persistent connection:
 
 ~~~shell
     #!/bin/sh
