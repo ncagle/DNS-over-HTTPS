@@ -31,12 +31,22 @@ Not completely backwards compatible.
       "headers": {
         "Content-Type": "application/json".
         "Last-Modified": "....",
-        "ETag": "\"134a-6d5-530904afbe7c0|"",
+        "ETag": "\"134a-6d5-530904afbe7c0\"",
         ...
      }
     }
 
 A problem with "headers" is that it's not clear what to do about repeated headers.
+The repeated header might also have their field name written with inconsistent
+casing.  One option is to return it as an array:
+
+    {
+      "headers": [
+        { "name": "Content-Type", "value": "application/json" },
+        { "name": "Last-Modified", "value: "....",
+        { "name": "ETag", "value": "\"134a-6d5-530904afbe7c0\"" }
+      ]
+    }
 
 It's also inconvenient to not have fixed casing for the headers keys, so perhaps
 keys should always be lower-cased:
