@@ -21,3 +21,6 @@ It opens a connection, performs a transfer, then closes the connection again. Ve
     done
 ~~~
 
+## Prerequisites
+
+This feature will be better if the master process can handle [parallel transfers](curl-tool-parallel-transfers) so that there can be more than one client process simultaneously using a single master process.
