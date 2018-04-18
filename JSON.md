@@ -57,7 +57,7 @@ keys should always be lower-cased:
         "etag": "....",
     }
 
-## --write-out-json
+## `--write-out-json`
 
 Writes all the supported --write-out variables in the form of a JSON object.  Something like:
 
@@ -68,6 +68,14 @@ Writes all the supported --write-out variables in the form of a JSON object.  So
       ...
       "time_total": 453
     }
+
+## `--accept=json|<content-type>|<majortype>/*`
+
+Where `json` is just a shorthand for `application/json`.  This sets the "Accept:" header in the
+request and checks that the Content-Type in the response is actually `application/json`. If the
+response contentment type doesn't match it is treated as `--fail` (no output and status set to 22).
+
+If `--accept=<content-type>` is repeated all listed types is acceptable.
 
 ## JSON response
 
