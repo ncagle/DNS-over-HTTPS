@@ -21,6 +21,31 @@ It opens a connection, performs a transfer, then closes the connection again. Ve
     done
 ~~~
 
+## Challenges
+
+Cookies - make sure they're "scoped" and shared identically when using the master as they would normally be.
+
+## Controls
+
+Master should have an inactivity timeout?
+
+    curl --master-min 7                # start if needed, 7 min timeout
+    curl --master-min 10 <transfer>    # start if needed, 10 min timeout
+    curl --master-sec 300 <transfer>   # like above, better for testing!      
+
+Explicit stop command?
+
+    curl --master-stop             # stops a running master
+    curl --master-stop <transfer>  # stops master after transfer completes
+
+Can master be made to stop when the shell that launched it exits?
+
+## Discovery
+
+How does a client discover that there's a master present to be used? The presence of a named pipe? And environment variable? An explicit command line option?
+
+curlrc can be used to transparently cause the master to be used.
+
 ## Prerequisites
 
 This feature will be better if the master process can handle [parallel transfers](curl-tool-parallel-transfers) so that there can be more than one client process simultaneously using a single master process.
