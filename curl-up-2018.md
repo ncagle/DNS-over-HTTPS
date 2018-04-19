@@ -3,6 +3,10 @@
 curl up is our annual curl conference and developers meetup. We talk and discuss
 everything and anything curl related.
 
+# Videos
+
+[Presentations from curl up 2018](https://curl.haxx.se/video/curlup-2018/) were recorded and are available.
+
 # April 14-15, 2018
 
 * Where: Stockholm, Sweden at [Goto 10](https://www.goto10.se/english/) - [map](https://goo.gl/maps/ZuG5Ew5J1z22)
