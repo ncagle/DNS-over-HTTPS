@@ -51,6 +51,10 @@ Contact Daniel, we're taking this casual!
 
 Care should be taken to the fact that people will start to drop off Sunday afternoon.
 
+# Videos
+
+[Presentations from curl up 2018](https://curl.haxx.se/video/curlup-2018/) were recorded and are available.
+
 # Suggested talks / discussions
 
 | Who | Topic |
