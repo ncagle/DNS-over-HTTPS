@@ -21,7 +21,7 @@ Daniel runs a "toy server" that only supports GET: `https://daniel.haxx.se/dns?d
 @jedisct1 has a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust. `https://doh.crypto.sx/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB`
 ([DNS stamp](https://github.com/jedisct1/dnscrypt-proxy/wiki/stamps): `sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk`)
 
-SecureDNS.eu runs one at `https://doh.securedns.eu/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB` (DNS stamp: `sdns://AgcAAAAAAAAAAAAQZG9oLnNlY3VyZWRucy5ldQovZG5zLXF1ZXJ5`)
+SecureDNS.eu runs one at `https://doh.securedns.eu/dns-query?ct&dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB` (DNS stamp: `sdns://AgcAAAAAAAAADjE0Ni4xODUuMTY3LjQzABBkb2guc2VjdXJlZG5zLmV1Ci9kbnMtcXVlcnk`)
 
 # DOH in curl
 
