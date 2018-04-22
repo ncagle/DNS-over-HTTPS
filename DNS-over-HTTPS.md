@@ -4,7 +4,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 
 # Spec
 
-This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-05
+This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-07
 
 # Servers
 
@@ -25,6 +25,8 @@ SecureDNS.eu runs one at `https://doh.securedns.eu/dns-query?ct&dns=q80BAAABAAAA
 
 # DOH in curl
 
+Initial code for an experimental libcurl-using application doing DOH resolves: https://github.com/curl/doh
+
 ## Bootstrap
 
 The DOH server is given with a host name that itself needs to be resolved. This initial resolve needs to be done by the native resolver before DOH kicks in. Or the address is provided with `--resolve` / `CURLOPT_RESOLVE`.
@@ -38,10 +40,6 @@ When a DOH-resolve is to get done, it will need to
 4. parse the DOH responses, feed the parsed resolve data into the DNS cache.
 5. close the DOH easy handles
 5. return the address data to the initial transfer that needed it, and continue 
-
-## A "Custom resolver" ?
-
-Anders Bakken works on making the DNS backend generic enough to allow applications to plug in a custom DNS resolver in [#2232](https://github.com/curl/curl/pull/2232). Will that be suitable for this DOH resolver
 
 # DOH Tools
 
