@@ -17,6 +17,12 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 | @jedisct1  | https://doh.crypto.sx/dns-query | both | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | both? |
 
+# Supported in browsers and clients
+
+|Name|Version|Comments|
+|----|-------|----|
+|Firefox|61| [temporarily location](https://daniel.haxx.se/trr) |
+
 # DOH in curl
 
 Initial code for an experimental libcurl-using application doing DOH resolves: https://github.com/curl/doh
