@@ -21,7 +21,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 |Name|Version|Comments|
 |----|-------|----|
-|Firefox|61| [temporarily docs](https://daniel.haxx.se/trr) |
+|Firefox|61| [temporary docs](https://daniel.haxx.se/trr) |
 
 # DOH in curl
 
