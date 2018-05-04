@@ -6,7 +6,7 @@ Some remaining nits we haven't yet made clang-format 3.8 do/not do:
  - when a `case XXXX:` is followed by a line that starts with an open brace ({), it insists on moving the brace up to the case line.
  - it fails to indent properly at times(!), so url.c reformatted causes checksrc to warn!
 
-~~~
+```
 ---
 Language:        Cpp
 # BasedOnStyle:  Mozilla
@@ -96,6 +96,6 @@ Standard:        Cpp11
 TabWidth:        8
 UseTab:          Never
 ...
-
+```
 
 return [[Home]]
