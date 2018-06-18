@@ -2,6 +2,13 @@
 
 First PR is work in progress: https://github.com/curl/curl/pull/2668
 
+## What works so far:
+
+- Basic DOH using POST to the given DOH URL
+- A and AAAA records are retrieved
+- try [simeple-doh.c](https://gist.github.com/bagder/93092c51fdd5c49a967cc1e641a9f369)
+- cleans up all memory, at least when all works
+
 ## Bootstrap
 
 The DOH server is given with a host name that itself needs to be resolved. This initial resolve needs to be done by the native resolver before DOH kicks in. Or the address is provided with `--resolve` / `CURLOPT_RESOLVE`.
