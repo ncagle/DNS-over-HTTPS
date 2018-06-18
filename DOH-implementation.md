@@ -4,6 +4,7 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 
 ## What works so far:
 
+- works with both easy and multi interfaces
 - Basic DOH using POST to the given DOH URL
 - A and AAAA records are retrieved
 - try [simple-doh.c](https://gist.github.com/bagder/93092c51fdd5c49a967cc1e641a9f369)
