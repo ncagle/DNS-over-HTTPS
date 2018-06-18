@@ -10,6 +10,7 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 - A and AAAA records are retrieved
 - try [simple-doh.c](https://gist.github.com/bagder/93092c51fdd5c49a967cc1e641a9f369)
 - cleans up all memory, at least when all works
+- requires a HTTPS URL
 
 ## TODO
 
@@ -26,7 +27,6 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 - user-agent?
 - HTTP auth
 - how to set VERBOSE for the DOH requests
-- restrict to https:// ?
 
 ## Bootstrap
 
