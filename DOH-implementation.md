@@ -6,8 +6,20 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 
 - Basic DOH using POST to the given DOH URL
 - A and AAAA records are retrieved
-- try [simeple-doh.c](https://gist.github.com/bagder/93092c51fdd5c49a967cc1e641a9f369)
+- try [simple-doh.c](https://gist.github.com/bagder/93092c51fdd5c49a967cc1e641a9f369)
 - cleans up all memory, at least when all works
+
+## TODO
+
+- Offer GET support
+- Set time-out for the DOH requests (based on the main transfer timeouts)
+- Consider how to "inherit" proxy setting
+- IPv4-only and IPv6-only requests (based on main transfer options)
+
+## Questions
+
+- user-agent?
+- HTTP auth
 
 ## Bootstrap
 
