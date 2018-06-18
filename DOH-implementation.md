@@ -11,14 +11,14 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 - try [simple-doh.c](https://gist.github.com/bagder/93092c51fdd5c49a967cc1e641a9f369)
 - cleans up all memory, at least when all works
 - requires a HTTPS URL
+- Sets time-out for the DOH requests (based on the main transfer timeouts)
+- IPv4-only and IPv6-only requests (based on main transfer options)
 
 ## TODO
 
 - Offer GET support via CURLOPT_*
-- Set time-out for the DOH requests (based on the main transfer timeouts)
 - Consider how to "inherit" proxy setting
 - inherit CA cert options from main transfer
-- IPv4-only and IPv6-only requests (based on main transfer options)
 - add `--doh-url` option to the command line tool
 - add tests
 
