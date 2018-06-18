@@ -25,7 +25,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 # DOH in curl
 
-See DOH-implementation
+See [DOH-implementation](DOH-implementation)
 
 # DOH Tools
 
