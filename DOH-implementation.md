@@ -20,6 +20,7 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 
 - user-agent?
 - HTTP auth
+- how to set VERBOSE for the DOH requests
 
 ## Bootstrap
 
