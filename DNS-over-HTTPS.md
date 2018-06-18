@@ -28,7 +28,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 Facebook's [doh-proxy](https://facebookexperimental.github.io/doh-proxy/) and associated tools.
 
-Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions.
+Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions and [curl-doh](https://github.com/curl/doh) a small doh-client written on top of libcurl.
 
 Frank Denis' [doh-proxy](https://github.com/jedisct1/rust-doh) (server-side proxy) and [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) (client proxy).
 
