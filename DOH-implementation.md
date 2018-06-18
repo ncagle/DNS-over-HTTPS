@@ -42,6 +42,8 @@ When a DOH-resolve is to get done, it will need to
 5. close the DOH easy handles
 6. return the address data to the initial transfer that needed it, and continue 
 
+The DOH requests are done by two easy handles being added to the multi handle, and when those transfers are complete, they are removed and cleaned up transparently without that being notable for applications. **Note:** The number of `running_handles` returned from for example `curl_multi_perform` will include these two extra transfers and this is observable by applications.
+
 ## DOH-application
 
 Code for a libcurl-using application doing DOH resolves: https://github.com/curl/doh
