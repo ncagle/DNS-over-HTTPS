@@ -15,6 +15,8 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 - Set time-out for the DOH requests (based on the main transfer timeouts)
 - Consider how to "inherit" proxy setting
 - IPv4-only and IPv6-only requests (based on main transfer options)
+- add `--doh-url` option to the command line tool
+- add tests
 
 ## Questions
 
