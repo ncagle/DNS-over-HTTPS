@@ -21,11 +21,8 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 |Name|Version|Comments|
 |----|-------|----|
-|Firefox|61| [temporary docs](https://daniel.haxx.se/trr) |
-
-# DOH in curl
-
-See [DOH-implementation](DOH-implementation)
+|Firefox|62| [temporary docs](https://daniel.haxx.se/trr) |
+|curl| [PR](https://github.com/curl/curl/pull/2668) | See [DOH-implementation](DOH-implementation) |
 
 # DOH Tools
 
