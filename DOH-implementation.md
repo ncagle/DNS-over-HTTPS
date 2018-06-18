@@ -13,7 +13,7 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 
 ## TODO
 
-- Offer GET support
+- Offer GET support via CURLOPT_*
 - Set time-out for the DOH requests (based on the main transfer timeouts)
 - Consider how to "inherit" proxy setting
 - inherit CA cert options from main transfer
