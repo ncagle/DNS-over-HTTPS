@@ -12,7 +12,7 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 - cleans up all memory, at least when all works
 - requires a HTTPS URL
 - Sets time-out for the DOH requests (based on the main transfer timeouts)
-- IPv4-only and IPv6-only requests (based on main transfer options)
+- supports IPv4-only and IPv6-only requests (based on main transfer options)
 
 ## TODO
 
@@ -25,7 +25,7 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 ## Questions
 
 - user-agent?
-- HTTP auth
+- HTTP auth support?
 - how to set VERBOSE for the DOH requests
 
 ## Bootstrap
