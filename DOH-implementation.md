@@ -14,13 +14,14 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 - Sets time-out for the DOH requests (based on the main transfer timeouts)
 - supports IPv4-only and IPv6-only requests (based on main transfer options)
 - curl's `--doh-url` option sets the DOH server with the command line tool
+- unit tests for encoding/decoding and error checks in test 1650
+- basic DOH test with curl in test 2100
 
 ## TODO
 
 - Offer GET support via CURLOPT_*
 - Consider how to "inherit" proxy setting
 - inherit CA cert options from main transfer
-- add tests
 - verify the response `Content-Type` before using it
 
 ## Questions
