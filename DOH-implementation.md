@@ -21,6 +21,7 @@ First PR is work in progress: https://github.com/curl/curl/pull/2668
 - Consider how to "inherit" proxy setting
 - inherit CA cert options from main transfer
 - add tests
+- verify the response `Content-Type` before using it
 
 ## Questions
 
