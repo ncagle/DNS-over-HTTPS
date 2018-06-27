@@ -59,3 +59,9 @@ Replaced by curl_easy_unescape
 ## CURLOPT_DNS_USE_GLOBAL_CACHE
 
 It uses global variables without locking. Really bad.
+
+# Protocols to remove - and why
+
+## TELNET
+
+Was never a good match for curl, has always been quirky to use and has always had a very small amount of users.
