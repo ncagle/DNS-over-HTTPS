@@ -2,6 +2,8 @@ Every once in a while the suggestion comes up that libcurl should provide an API
 
 Here's a brain-storming page laying out how such an API could be made to work.
 
+# URL API alternative A
+
 ~~~c
 typedef enum {
   CURLURLE_OK,
@@ -264,3 +266,44 @@ if(!rc) {
   curl_url_cleanup(urlp);
 }
 ~~~
+
+# URL API alternative B
+
+~~~c
+
+ typedef enum {
+   CURLUPART_FULLURL,
+   CURLUPART_SCHEME,
+   CURLUPART_USER,
+   CURLUPART_PASSWORD,
+   CURLUPART_HOST,
+   CURLUPART_PORT,
+   CURLUPART_PATH,
+   CURLUPART_QUERY,
+   CURLUPART_FRAGMENT
+ } CURLUPart;
+
+/* curl_url() and curl_url_cleanup() work like above */
+CURLUCode curl_url(char *URL, CURLURL *urlhandle, unsigned int flags);
+void curl_url_cleanup(CURLURL *handle);
+
+/*
+ * curl_url_get() extracts a specific part of the URL from a CURLURL
+ * handle. Returns error code. The returned pointer MUST be freed with
+ * curl_free() afterwards.
+ *
+ * Flags: the CURLURL_* bitmask defines described above.
+ *
+ */
+CURLUcode curl_url_get(CURLURL *handle, CURLUPart what,
+                       char **part, unsigned int flags);
+
+/*
+ * curl_url_set() sets a specific part of the URL in a CURLURL handle. Returns
+ * error code. The passed in string will be copied.
+ *
+ * Flags: the CURLURL_* bitmask defines described above.
+ *
+ */
+CURLUCode curl_url_set(CURLURL *handle, CURLPIECE what,
+                       char *part, unsigned int flags);
