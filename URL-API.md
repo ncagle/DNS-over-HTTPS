@@ -6,13 +6,14 @@ Here's a brain-storming page laying out how such an API could be made to work.
 typedef enum {
   CURLURLE_OK,
   CURLURLE_MALFORMED_INPUT,
-  CURLURLE_NO_PORT_NUMBER,
   CURLURLE_BAD_PORT_NUMBER,
-  CURLURLE_NO_SCHEME,
   CURLURLE_UNSUPPORTED_SCHEME,
+  CURLURLE_NO_SCHEME,
   CURLURLE_NO_USERPWD,
-  CURLURLE_NO_QUERY,
   CURLURLE_NO_HOST,
+  CURLURLE_NO_PORT_NUMBER,
+  CURLURLE_NO_QUERY,
+  CURLURLE_NO_FRAGMENT,
   CURLURLE_OUT_OF_MEMORY,
 } CURLUCode;
 
@@ -146,6 +147,12 @@ CURLUCode curl_url_path(CURLURL *handle, char **path);
  */
 CURLUCode curl_url_query(CURLURL *handle, char **query);
 
+/* curl_url_fragment() extracts the fragment part from a URL preciously set in
+ * the CURLURL handle. Returns error code. The returned pointer MUST be freed
+ * with curl_free() afterwards.
+ */
+CURLUCode curl_url_fragment(CURLURL *handle, char **fragment);
+
 /*
  * curl_url_cleanup() frees the CURLURL handle and related resources used for
  * the URL parsing. It will not free strings previously returned with the URL
@@ -154,16 +161,16 @@ CURLUCode curl_url_query(CURLURL *handle, char **query);
 void curl_url_cleanup(CURLURL *handle);
 
 /*
- * curl_url_host_set() sets the host name part of a URL held by a CURLURL
+ * curl_url_set_host() sets the host name part of a URL held by a CURLURL
  * handle. The given host argument must point to a zero terminated string
  * using an URL encoded host name.
  *
  * To decide proper: what about IDNA?
  */
-CURLUCode curl_url_host_set(CURLURL *handle, const char *host);
+CURLUCode curl_url_set_host(CURLURL *handle, const char *host);
 
 /*
- * curl_url_scheme_set() sets the scheme part of a URL held by a CURLURL
+ * curl_url_set_scheme() sets the scheme part of a URL held by a CURLURL
  * handle. The given scheme argument must point to a zero terminated string
  * using an URL encoded scheme name.
  *
@@ -172,43 +179,51 @@ CURLUCode curl_url_host_set(CURLURL *handle, const char *host);
  * - CURLURL_NON_SUPPORT_SCHEME allows this function to accept scheme names
  *   that are not supported by this libcurl.
  */
-CURLUCode curl_url_scheme_set(CURLURL *handle, const char *scheme,
+CURLUCode curl_url_set_scheme(CURLURL *handle, const char *scheme,
                                 unsigned int flags);
 
 /*
- * curl_url_userpwd_set() sets the user and password parts of a URL held by a
+ * curl_url_set_userpwd() sets the user and password parts of a URL held by a
  * CURLURL handle. The given user and password arguments must point to zero
  * terminated strings using URL encoded strings.
  *
  * It is fine set one or both of the pointers to NULL to effectively not set
  * those fields.
  */
-CURLUCode curl_url_userpwd_set(CURLURL *handle, const char *user,
+CURLUCode curl_url_set_userpwd(CURLURL *handle, const char *user,
                                  const char *password);
 
 /*
- * curl_url_port_set() sets the port number of a URL held by a CURLURL
+ * curl_url_set_port() sets the port number of a URL held by a CURLURL
  * handle. The given port number must be a valid port number (1 - 65535) or
  * CURLURLE_BAD_PORT_NUMBER will be returned.
  *
  */
-CURLUCode curl_url_port_set(CURLURL *handle, int port);
+CURLUCode curl_url_set_port(CURLURL *handle, unsigned int port);
 
 /*
- * curl_url_path_set() sets the path part of a URL held by a CURLURL
+ * curl_url_set_path() sets the path part of a URL held by a CURLURL
  * handle. The given path argument must point to a zero terminated string
  * using an URL encoded scheme name.
  *
  */
-CURLUCode curl_url_path_set(CURLURL *handle, const char *path);
+CURLUCode curl_url_set_path(CURLURL *handle, const char *path);
 
 /*
- * curl_url_query_set() sets the query part of a URL held by a CURLURL
+ * curl_url_set_query() sets the query part of a URL held by a CURLURL
  * handle. The given query argument must point to a zero terminated string
  * using an URL encoded scheme name.
  *
  */
-CURLUCode curl_url_query_set(CURLURL *handle, const char *query);
+CURLUCode curl_url_set_query(CURLURL *handle, const char *query);
+
+/*
+ * curl_url_set_fragment() sets the fragment part of a URL held by a CURLURL
+ * handle. The given fragment argument must point to a zero terminated string
+ * using an URL encoded scheme name.
+ *
+ */
+CURLUCode curl_url_set_fragment(CURLURL *handle, const char *fragment);
 
 /* example code using the API */
 
@@ -223,24 +238,28 @@ if(!rc) {
   char *password;
   char *path;
   char *query;
+  char *fragment;
   char *fullurl;
-  int port;
+  unsigned int port;
   CURLUCode rc;
+
   rc = curl_url_host(urlp, &host);
   rc = curl_url_scheme(urlp, &scheme, CURLURL_DEFAULT_SCHEME);
   rc = curl_url_userpwd(urlp, &user, &password);
   rc = curl_url_port(urlp, &port, FALSE, CURLURL_DEFAULT_PORT);
   rc = curl_url_path(urlp, &path);
   rc = curl_url_query(urlp, &query);
+  rc = curl_url_fragment_(urlp, &fragment);
 
-  rc = curl_url_host_set(urlp, "www.example.com");
-  curl_url_scheme_set(urlp, "https", CURLURL_NON_SUPPORT_SCHEME);
-  curl_url_userpwd_set(urlp, "john", "doe");
-  curl_url_port_set(urlp, 443);
-  curl_url_path_set(urlp, "/index.html");
-  curl_url_query_set(urlp, "name=john");
+  rc = curl_url_set_host(urlp, "www.example.com");
+  rc = curl_url_set_scheme(urlp, "https", CURLURL_NON_SUPPORT_SCHEME);
+  rc = curl_url_set_userpwd(urlp, "john", "doe");
+  rc = curl_url_set_port(urlp, 443);
+  rc = curl_url_set_path(urlp, "/index.html");
+  rc = curl_url_set_query(urlp, "name=john");
+  rc = curl_url_set_fragment(urlp, "achor");
 
-  curl_url_get(urlp, &fullurl, 0);
+  rc = curl_url_get(urlp, &fullurl, 0);
 
   curl_url_cleanup(urlp);
 }
