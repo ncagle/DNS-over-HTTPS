@@ -2,7 +2,7 @@ Every once in a while the suggestion comes up that libcurl should provide an API
 
 Here's a brain-storming page laying out how such an API could be made to work. Two alternatives are shown.
 
-# URL API alternative A
+# Alternative A
 
 ~~~c
 typedef enum {
@@ -269,7 +269,7 @@ if(!rc) {
 }
 ~~~
 
-# URL API alternative B
+# Alternative B
 
 ~~~c
 
@@ -309,3 +309,7 @@ CURLUcode curl_url_get(CURLURL *handle, CURLUPart what,
  */
 CURLUCode curl_url_set(CURLURL *handle, CURLPIECE what,
                        char *part, unsigned int flags);
+~~~
+# CURLOPT_CURLURL
+
+It makes sense to also add an option that allows a `CURLURL *` to be passed to libcurl as a URL instead of the traditional `CURLOPT_URL`.
