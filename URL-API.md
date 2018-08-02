@@ -1,6 +1,6 @@
 Every once in a while the suggestion comes up that libcurl should provide an API for URL parsing and creating. In every annual user survey a two-digit percentage of users say they would use one if it existed.
 
-Here's a brain-storming page laying out how such an API could be made to work.
+Here's a brain-storming page laying out how such an API could be made to work. Two alternatives are shown.
 
 # URL API alternative A
 
@@ -30,6 +30,8 @@ typedef enum {
                                              converted to %XX output */
 #define CURLURL_CONVERT_SLASHES (1<<6)    /* also allow one or three slashes
                                              scheme separation */
+#define CURLURL_URLDECODE (1<<7)          /* URL *decode* on read when getting
+                                             a part (not full URL) */
 
 /*
  * curl_url() sets the URL (or NULL) to parse. Returns error code.  If
