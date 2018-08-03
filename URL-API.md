@@ -5,6 +5,7 @@ Here's a brain-storming page laying out how such an API could be made to work.
 # Create, cleanup, duplicate
 
 ~~~c
+/* the error codes for the URL API */
 typedef enum {
   CURLURLE_OK,
   CURLURLE_MALFORMED_INPUT,
