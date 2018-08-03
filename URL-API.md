@@ -39,7 +39,7 @@ typedef enum {
 /*
  * curl_url() sets the URL (or NULL) to parse. Returns error code.  If
  * successful, stores a CURLURL handle pointer in the 'urlhandle' argument.
- * NULL is an acceptable input to let users add pieces individually.
+ * NULL is an acceptable input to let users add parts individually.
  *
  * The given input URL will be parsed and split up into its components and if
  * any syntax error is found, this function returns the applicable error code.
@@ -161,7 +161,7 @@ CURLUcode curl_url_get(CURLURL *handle, CURLUPart what,
  *
  *
  */
-CURLUCode curl_url_set(CURLURL *handle, CURLPIECE what,
+CURLUCode curl_url_set(CURLURL *handle, CURLUPart what,
                        char *part, unsigned int flags);
 
 
