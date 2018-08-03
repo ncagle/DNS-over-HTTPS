@@ -319,6 +319,51 @@ CURLUcode curl_url_get(CURLURL *handle, CURLUPart what,
  */
 CURLUCode curl_url_set(CURLURL *handle, CURLPIECE what,
                        char *part, unsigned int flags);
+
+
+/* example code using alternative B */
+CURLURL *urlp;
+rc = curl_url("https://user:password@example.com:1234/path/html?query=name",
+              &urlp, CURLURL_DEFAULT_SCHEME);
+
+if(!rc) {
+  char *host;
+  char *scheme;
+  char *user;
+  char *password;
+  char *path;
+  char *query;
+  char *fragment;
+  char *fullurl;
+  char *port;
+  CURLUCode rc;
+
+  rc = curl_url_get(urlp, CURLUPART_HOST, &host, 0);
+  rc = curl_url_get(urlp, CURLUPART_SCHEME, &scheme, 0);
+  rc = curl_url_get(urlp, CURLUPART_USER, &user, 0);
+  rc = curl_url_get(urlp, CURLUPART_PASSWORD, &password, 0);
+  rc = curl_url_get(urlp, CURLUPART_PORT, &port, CURLURL_DEFAULT_PORT);
+  rc = curl_url_get(urlp, CURLUPART_PATH, &path, 0);
+  rc = curl_url_get(urlp, CURLUPART_QUERY, &query, 0);
+  rc = curl_url_get(urlp, CURLUPART_FRAGMENT, &fragment, 0);
+
+  rc = curl_url_set(urlp, CURLUPART_HOST, "www.example.com", 0);
+  rc = curl_url_set(urlp, CURLUPART_SCHEME, "https", CURLURL_NON_SUPPORT_SCHEME);
+  rc = curl_url_set(urlp, CURLUPART_USER, "john", 0);
+  rc = curl_url_set(urlp, CURLUPART_PASSWORD, "doe", 0);
+  rc = curl_url_set(urlp, CURLUPART_PORT, "443", 0);
+  rc = curl_url_set(urlp, CURLUPART_PATH, "/index.html", 0);
+  rc = curl_url_set(urlp, CURLUPART_QUERY, "name=john", 0);
+  rc = curl_url_set(urlp, CURLUPART_FRAGMENT, "achor", 0);
+
+  rc = curl_url_get(urlp, CURLUPART_FULLURL, &fullurl, 0);
+
+  /* set a URL relative to the firsrt one */
+  rc = curl_url_set(urlp, CURLUPART_RELURL, "../image.png", 0);
+
+  curl_url_cleanup(urlp);
+}
+
 ~~~
 # CURLOPT_CURLURL
 
