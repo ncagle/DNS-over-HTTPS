@@ -2,7 +2,7 @@ Every once in a while the suggestion comes up that libcurl should provide an API
 
 Here's a brain-storming page laying out how such an API could be made to work. Two alternatives are shown.
 
-# Alternative A
+# Common code for both alternatives
 
 ~~~c
 typedef enum {
@@ -58,8 +58,27 @@ typedef enum {
  * - CURLURL_CONVERT_SLASHES makes the parser allow scheme:/host and
  *   scheme:///host as if they were correct.
  */
-CURLUCode curl_url(char *URL, CURLURL *urlhandle, unsigned int flags);
+CURLUCode curl_url(char *URL, CURLURL **urlhandle, unsigned int flags);
 
+/*
+ * curl_url_cleanup() frees the CURLURL handle and related resources used for
+ * the URL parsing. It will not free strings previously returned with the URL
+ * API.
+ */
+void curl_url_cleanup(CURLURL *handle);
+
+/*
+ * curl_url_dup() duplicates a CURLURL handle and returns a new copy. The new
+ * handle must be freed with curl_url_cleanup() when the application is done
+ * with it.
+ */
+CURLURL *newhandle curl_url_dup(CURLURL *inhandle);
+
+~~~
+
+# Alternative A
+
+~~~c
 /*
  * curl_url_get() extracts a full URL from a CURLURL handle. Returns error
  * code. The returned pointer MUST be freed with curl_free() afterwards.
@@ -142,7 +161,7 @@ CURLUCode curl_url_port(CURLURL *handle, int *port, unsigned int flags);
  * Even if the URL was given without a slash after the host name, this will
  * return a slash as path.
  */
-CURLUCode curl_url_path(CURLURL *handle, char **path);
+CURLUCode curl_url_path(CURLURL *handle, char **path, unsigned int flags);
 
 /*
  * curl_url_query() extracts the query part from a URL preciously set in the
@@ -157,12 +176,6 @@ CURLUCode curl_url_query(CURLURL *handle, char **query);
  */
 CURLUCode curl_url_fragment(CURLURL *handle, char **fragment);
 
-/*
- * curl_url_cleanup() frees the CURLURL handle and related resources used for
- * the URL parsing. It will not free strings previously returned with the URL
- * API.
- */
-void curl_url_cleanup(CURLURL *handle);
 
 /*
  * curl_url_set_host() sets the host name part of a URL held by a CURLURL
@@ -275,6 +288,7 @@ if(!rc) {
 
  typedef enum {
    CURLUPART_FULLURL,
+   CURLUPART_RELURL,  /* set a URL relative to the former */
    CURLUPART_SCHEME,
    CURLUPART_USER,
    CURLUPART_PASSWORD,
@@ -284,10 +298,6 @@ if(!rc) {
    CURLUPART_QUERY,
    CURLUPART_FRAGMENT
  } CURLUPart;
-
-/* curl_url() and curl_url_cleanup() work like above */
-CURLUCode curl_url(char *URL, CURLURL *urlhandle, unsigned int flags);
-void curl_url_cleanup(CURLURL *handle);
 
 /*
  * curl_url_get() extracts a specific part of the URL from a CURLURL
