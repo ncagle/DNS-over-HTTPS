@@ -165,7 +165,7 @@ CURLUCode curl_url_set(CURLURL *handle, CURLUPart what,
                        char *part, unsigned int flags);
 
 
-/* example code using alternative B */
+/* example */
 CURLURL *urlp;
 rc = curl_url("https://user:password@example.com:1234/path/html?query=name",
               &urlp, CURLURL_DEFAULT_SCHEME);
