@@ -151,7 +151,8 @@ CURLUcode curl_url_get(CURLURL *handle, CURLUPart what,
  * for URL
  *
  * If a relative URL is set and there was a previous URL set, this will create
- * the new final URL.
+ * the new final URL. If there's not enough to "follow" or create a URL when
+ * a relative URL is passed in, CURLURLE_RELATIVE is returned.
  *
  * for SCHEME
  *
