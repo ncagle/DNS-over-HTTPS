@@ -274,7 +274,7 @@ if(!rc) {
   rc = curl_url_set_port(urlp, 443);
   rc = curl_url_set_path(urlp, "/index.html");
   rc = curl_url_set_query(urlp, "name=john");
-  rc = curl_url_set_fragment(urlp, "achor");
+  rc = curl_url_set_fragment(urlp, "anchor");
 
   rc = curl_url_get(urlp, &fullurl, 0);
 
@@ -354,7 +354,7 @@ if(!rc) {
   rc = curl_url_set(urlp, CURLUPART_PORT, "443", 0);
   rc = curl_url_set(urlp, CURLUPART_PATH, "/index.html", 0);
   rc = curl_url_set(urlp, CURLUPART_QUERY, "name=john", 0);
-  rc = curl_url_set(urlp, CURLUPART_FRAGMENT, "achor", 0);
+  rc = curl_url_set(urlp, CURLUPART_FRAGMENT, "anchor", 0);
 
   rc = curl_url_get(urlp, CURLUPART_FULLURL, &fullurl, 0);
 
