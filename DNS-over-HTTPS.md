@@ -10,7 +10,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 | Who runs it | Base URL | POST/GET | Comment |
 |-------------|----------|----------|---------|
-| Google      | https://dns.google.com/experimental | both |
+| Google      | https://dns.google.com/experimental | both | Doesn't support draft-12 yet
 | Cloudflare  | https://cloudflare-dns.com/dns-query | both |
 | CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | both? | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | @chantra    | https://dns.dnsoverhttps.net/dns-query | both? | "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy) |
