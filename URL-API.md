@@ -96,7 +96,7 @@ Set parts are not URL encoded unless the user asks for it with the `CURLU_URLENC
 
 # Append to the query
 
-An application can append a sting to the right end of the query part with the `CURLU_APPENDQUERY` flag.
+An application can append a string to the right end of the query part with the `CURLU_APPENDQUERY` flag.
 
 Imagine a handle that holds the URL `https://example.com/?shoes=2`. An application can then add the string `hat=1` to the query part like this:
 
@@ -106,7 +106,7 @@ Imagine a handle that holds the URL `https://example.com/?shoes=2`. An applicati
 
 It will even notice the lack of an ampersand (`&`) separator so it will inject one too, and the handle's full URL would then equal `https://example.com/?shoes=2&hat=1`.
 
-The appended string can of course also get URL encoded on add, and if asked, the encoding will skip the '=' character. For example, append "candy=M&M" to what we already have, and URL encode it to deal with the ampersand in the data:
+The appended string can of course also get URL encoded on add, and if asked, the encoding will skip the '=' character. For example, append `candy=M&M` to what we already have, and URL encode it to deal with the ampersand in the data:
 
 ~~~c
   rc = curl_url_set(urlp, CURLUPART_QUERY, "candy=M&M", CURLU_APPENDQUERY | CURLU_URLENCODE);
