@@ -94,8 +94,8 @@ or instead of parsing such.
 
 Set parts are not URL encoded unless the user asks for it.
 
-# CURLOPT_CURLURL
+# CURLOPT_CURLU
 
 (not yet implemented)
 
-It makes sense to also add an option that allows a `CURLURL *` to be passed to libcurl as a URL instead of the traditional `CURLOPT_URL`.
+It makes sense to also add an option that allows a `CURLU *` to be passed to libcurl as a URL instead of the traditional `CURLOPT_URL`.
