@@ -72,7 +72,7 @@ When a URL has been parsed or parts have been set, you can extract those pieces 
   rc = curl_url_get(h, CURLUPART_FRAGMENT, &fragment, 0);
 ~~~
 
-Extracted parts are not URL decoded unless the user asks for it.
+Extracted parts are not URL decoded unless the user asks for it with the `CURLU_URLDECODE` flag.
 
 Remember to free the returned string with `curl_free` when you're done with it!
 
@@ -83,7 +83,7 @@ or instead of parsing such.
 
 ~~~c
   rc = curl_url_set(urlp, CURLUPART_HOST, "www.example.com", 0);
-  rc = curl_url_set(urlp, CURLUPART_SCHEME, "https", CURLURL_NON_SUPPORT_SCHEME);
+  rc = curl_url_set(urlp, CURLUPART_SCHEME, "https", 0);
   rc = curl_url_set(urlp, CURLUPART_USER, "john", 0);
   rc = curl_url_set(urlp, CURLUPART_PASSWORD, "doe", 0);
   rc = curl_url_set(urlp, CURLUPART_PORT, "443", 0);
@@ -92,7 +92,27 @@ or instead of parsing such.
   rc = curl_url_set(urlp, CURLUPART_FRAGMENT, "anchor", 0);
 ~~~
 
-Set parts are not URL encoded unless the user asks for it.
+Set parts are not URL encoded unless the user asks for it with the `CURLU_URLENCODE` flag.
+
+# Append to the query
+
+An application can append a sting to the right end of the query part with the `CURLU_APPENDQUERY` flag.
+
+Imagine a handle that holds the URL `https://example.com/?shoes=2`. An application can then add the string `hat=1` to the query part like this:
+
+~~~c
+  rc = curl_url_set(urlp, CURLUPART_QUERY, "hat=1", CURLU_APPENDQUERY);
+~~~
+
+It will even notice the lack of an ampersand (`&`) separator so it will inject one too, and the handle's full URL would then equal `https://example.com/?shoes=2&hat=1`.
+
+The appended string can of course also get URL encoded on add, and if asked, the encoding will skip the '=' character. For example, append "candy=M&M" to what we already have, and URL encode it to deal with the ampersand in the data:
+
+~~~c
+  rc = curl_url_set(urlp, CURLUPART_QUERY, "candy=M&M", CURLU_APPENDQUERY | CURLU_URLENCODE);
+~~~
+
+Now the URL looks like `https://example.com/?shoes=2&hat=1&candy=M%26M`.
 
 # CURLOPT_CURLU
 
