@@ -17,6 +17,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 | @jedisct1  | https://doh.crypto.sx/dns-query | both | Yes | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | both? | No |
 | blahdns.com | Japan: https://doh.blahdns.com/dns-query <br> Germany: https://doh.de.blahdns.com/dns-query | both | Yes |
+| NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | both | Yes | Toy server may fail, send email if fails |
 
 # Supported in browsers and clients
 
