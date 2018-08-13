@@ -4,13 +4,13 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 
 # Spec
 
-This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-11
+This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-13
 
 # Publicly available servers
 
 | Who runs it | Base URL | POST/GET | Comment |
 |-------------|----------|----------|---------|
-| Google      | https://dns.google.com/experimental | both | Doesn't support draft-12 yet
+| Google      | https://dns.google.com/experimental | both | Doesn't support current content-type yet (set since draft-07)
 | Cloudflare  | https://cloudflare-dns.com/dns-query | both |
 | CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | both? | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | @chantra    | https://dns.dnsoverhttps.net/dns-query | both? | "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy) |
