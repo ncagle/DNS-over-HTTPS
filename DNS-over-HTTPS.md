@@ -13,7 +13,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 | Google      | https://dns.google.com/experimental | both | No | Doesn't support current content-type yet (set since draft-07)
 | Cloudflare  | https://cloudflare-dns.com/dns-query | both | Yes | Supports both -04 and -13 content-types
 | CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | both? | Yes | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
-| @chantra    | https://dns.dnsoverhttps.net/dns-query | both? | No | "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy) |
+| @chantra    | https://dns.dnsoverhttps.net/dns-query | both | Yes (draft-13 client only) | "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy) |
 | @jedisct1  | https://doh.crypto.sx/dns-query | both | Yes | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | both? | No |
 | blahdns.com | Japan: https://doh.blahdns.com/dns-query <br> Germany: https://doh.de.blahdns.com/dns-query | both | Yes |
