@@ -26,6 +26,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 |Firefox|62| [temporary docs](https://daniel.haxx.se/trr) |
 |[Bromite](https://www.bromite.org/)|67.0.3396.88|[How to enable DoH](https://github.com/bromite/bromite/wiki/Enabling-DNS-over-HTTPS)|
 |curl| [PR](https://github.com/curl/curl/pull/2668) | See [DOH-implementation](DOH-implementation) |
+|[OkHttp](https://github.com/square/okhttp/tree/master/okhttp-dnsoverhttps)| 3.11 | See [Providers](https://github.com/square/okhttp/blob/master/okhttp-dnsoverhttps/src/test/java/okhttp3/dnsoverhttps/DohProviders.java) |
 
 # DOH Tools
 
