@@ -8,24 +8,24 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 
 # Publicly available servers
 
-| Who runs it | Base URL | POST/GET | Comment |
-|-------------|----------|----------|---------|
-| Google      | https://dns.google.com/experimental | both | 
-| Cloudflare  | https://cloudflare-dns.com/dns-query | both | Supports both -04 and -13 content-types
-| CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | both? | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
-| @chantra    | https://dns.dnsoverhttps.net/dns-query | both | "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy) |
-| @jedisct1  | https://doh.crypto.sx/dns-query | both | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
-| PowerDNS  | https://doh.powerdns.org | both | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
-| blahdns.com | Japan: https://doh.blahdns.com/dns-query <br> Germany: https://doh.de.blahdns.com/dns-query | both |
-| NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | both | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, send email if fails |
+| Who runs it | Base URL | Comment |
+|-------------|----------|---------|
+| Google      | https://dns.google.com/experimental |
+| Cloudflare  | https://cloudflare-dns.com/dns-query | Supports both -04 and -13 content-types
+| CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
+| @chantra    | https://dns.dnsoverhttps.net/dns-query | "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy) |
+| @jedisct1  | https://doh.crypto.sx/dns-query | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
+| PowerDNS  | https://doh.powerdns.org | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
+| blahdns.com | Japan: https://doh.blahdns.com/dns-query <br> Germany: https://doh.de.blahdns.com/dns-query |
+| NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, send email if fails |
 
 # Out-of-date servers
 
 These don't support the draft-14 protocol
 
-| Who runs it | Base URL | POST/GET | Comment |
-|-------------|----------|----------|---------|
-| SecureDNS.eu | https://doh.securedns.eu/dns-query | both? |  |
+| Who runs it | Base URL | Comment |
+|-------------|----------|---------|
+| SecureDNS.eu | https://doh.securedns.eu/dns-query | |
 
 
 # Supported in browsers and clients
