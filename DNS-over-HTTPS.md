@@ -25,7 +25,7 @@ These don't support the draft-14 protocol
 
 | Who runs it | Base URL | Comment |
 |-------------|----------|---------|
-| SecureDNS.eu | https://doh.securedns.eu/dns-query | |
+
 
 
 # Supported in browsers and clients
