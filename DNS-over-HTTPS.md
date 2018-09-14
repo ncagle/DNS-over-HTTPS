@@ -18,6 +18,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 | PowerDNS  | https://doh.powerdns.org | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
 | blahdns.com | Japan: https://doh.blahdns.com/dns-query <br> Germany: https://doh.de.blahdns.com/dns-query |
 | NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, send email if fails |
+| SecureDNS.eu | https://doh.securedns.eu/dns-query | No Logging & DNSSEC |
 
 # Out-of-date servers
 
