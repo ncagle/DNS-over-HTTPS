@@ -19,6 +19,7 @@ This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-ht
 | blahdns.com | Japan: https://doh.blahdns.com/dns-query <br> Germany: https://doh.de.blahdns.com/dns-query |
 | NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, send email if fails |
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | No Logging & DNSSEC |
+| Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
 
 # Out-of-date servers
 
