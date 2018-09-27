@@ -40,12 +40,13 @@ These don't support the draft-14 protocol
 |[Bromite](https://www.bromite.org/)|67.0.3396.88|[How to enable DoH](https://github.com/bromite/bromite/wiki/Enabling-DNS-over-HTTPS)|
 |curl| 7.62.0 | See [DOH-implementation](DOH-implementation) |
 |[OkHttp](https://github.com/square/okhttp/tree/master/okhttp-dnsoverhttps)| 3.11 | See [Providers](https://github.com/square/okhttp/blob/master/okhttp-dnsoverhttps/src/test/java/okhttp3/dnsoverhttps/DohProviders.java) |
+| [curl-doh](https://github.com/curl/doh) | n/a | basic stand-alone DoH client that uses curl |
 
 # DOH Tools
 
 Facebook's [doh-proxy](https://facebookexperimental.github.io/doh-proxy/) and associated tools.
 
-Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions and [curl-doh](https://github.com/curl/doh) a small doh-client written on top of libcurl.
+Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions.
 
 Frank Denis' [doh-proxy](https://github.com/jedisct1/rust-doh) (server-side proxy) and [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) (client proxy).
 
