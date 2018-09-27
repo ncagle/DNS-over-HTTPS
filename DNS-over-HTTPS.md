@@ -41,6 +41,7 @@ These don't support the draft-14 protocol
 |curl| 7.62.0 | See [DOH-implementation](DOH-implementation) |
 |[OkHttp](https://github.com/square/okhttp/tree/master/okhttp-dnsoverhttps)| 3.11 | See [Providers](https://github.com/square/okhttp/blob/master/okhttp-dnsoverhttps/src/test/java/okhttp3/dnsoverhttps/DohProviders.java) |
 | [curl-doh](https://github.com/curl/doh) | n/a | basic stand-alone DoH client that uses curl |
+| Chrome | 66 | https://bugs.chromium.org/p/chromium/issues/detail?id=799753 |
 
 # DOH Tools
 
