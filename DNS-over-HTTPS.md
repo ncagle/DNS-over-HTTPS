@@ -22,6 +22,7 @@ Working Group Draft: https://github.com/dohwg/draft-ietf-doh-dns-over-https
 | NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, send email if fails |
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | No Logging & DNSSEC |
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
+| Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
 
 # Out-of-date servers
 
