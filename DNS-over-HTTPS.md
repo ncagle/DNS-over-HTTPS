@@ -6,6 +6,8 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 
 This is work in progress: https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-14
 
+Working Group Draft: https://github.com/dohwg/draft-ietf-doh-dns-over-https
+
 # Publicly available servers
 
 | Who runs it | Base URL | Comment |
