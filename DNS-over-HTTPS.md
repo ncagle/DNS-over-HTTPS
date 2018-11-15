@@ -61,4 +61,4 @@ Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https), wit
 
 Alberto Bertogli's [dnss](https://github.com/albertito/dnss), a daemon written in Go which act as a proxy (the most common use case), and as a server (in case you want end to end control).
 
-Dima Krasner's [nss-tls](https://github.com/dimkr/nss-tls), a daemon that makes gethostbyname(), getaddrinfo(), etc' happen through DoH, without any change to applications, this transparently migrating all applications that don't use their own resolver (like some browsers) from DNS to DoH.
+Dima Krasner's [nss-tls](https://github.com/dimkr/nss-tls), a daemon that makes gethostbyname(), getaddrinfo(), etc' happen through DoH, without any change to applications, thus transparently migrating all applications that don't use their own resolver (like some browsers) from DNS to DoH.
