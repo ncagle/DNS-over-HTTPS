@@ -1,6 +1,6 @@
-Thoughts on how to support QUIC in (lib)curl.
+Thoughts on how to support HTTP/3 and QUIC in (lib)curl.
 
-QUIC is a new transport protocol in the making.
+QUIC is a new transport protocol in the making, and HTTP/3 is the adaptation of HTTP to run over this transport.
 
 The [drafts](https://quicwg.github.io/) from IETF Working Group.
 
@@ -12,7 +12,7 @@ ALPN RFC:  https://tools.ietf.org/html/rfc7301
 
 Due to QUIC being done over UDP, and yet is here to serve HTTPS:// URLs, servers upgrade to QUIC from TCP-based HTTP versions with the `Alt-Svc:` header.
 
-The client makes a request using TCP(+TLS) and gets a response back that says that it can also use QUIC on a certain hostname and port.
+The client makes a HTTP/1 or HTTP/2 request and gets a response back that says that it can also use HTTP/3 on a certain hostname and port.
 
 A browser can then try to open a new QUIC connection *in parallel* to the existing connection so that it can transparently switch to the new QUIC connection - if that works (or otherwise stick to the TCP based one). (lib)curl might not initially provide the same parallel style of operation but should support switching to the Alt-Svc server if asked to, or to directly use QUIC on a specific port if told so by the right options.
 
@@ -35,7 +35,7 @@ As for HTTP/2 we intend to rely on an existing third party library for all the t
 
 We start out using one dedicated library and add QUIC support with that, to get a focused effort. If someone at a later time wants spend time and effort to add support for another/more libraries, we consider that at that point in time.
 
-HTTP QUIC (hq) is not exactly HTTP/2 frames, but will be different enough to warrant a completely separate take. It will make the QUIC support to be completely independently implemented from the HTTP/2 support. libcurl should be possible to build with only h1 + hq support, as well as h1 + h2 + hq.
+HTTP/3 (h3) is different enough to warrant a completely separate take från HTTP/2. It will make the HTTP/3 support to be completely independently implemented from the HTTP/2 support. libcurl should be possible to build with only h1 + h3 support, as well as h1 + h2 + h3.
 
 ## TLS 1.3
 QUIC uses TLS 1.3 and pretty much requires that the library interfaces a TLS library directly, which makes it tied to a specific TLS library harder than what is ideal for curl.
@@ -85,7 +85,6 @@ and then call this API:
 This API creates a new connection.  Last parameter is "void *user_data", so we can pass "this" pointer.
 When necessary, callbacks will be invoked, for example for TLS handshake.  We need to perform handshake ourselves,
 using OpenSSL, for example.
-
 
 
 Licence:  MIT licence.
