@@ -21,6 +21,8 @@ Load cache file from filename or if "", just enabled it in memory.
 - This cache should become sharable between handles in a multi handle, and
   using the share interface. (Like cookies)
 
+For Alt-Svc cache file format, see below.
+
 ## `CURLOPT_ALTSVC_CTRL <bitmask>` (new)
 
 Instructs how to act on received `Alt-Svc:` headers.
@@ -73,3 +75,15 @@ Should be similar logic to HTTP/2. We probably do the same from-HTTP/1-style con
 ### disconnect
 
 Disconnecting QUIC
+
+# Alt-Svc cache file
+
+Store in plain ASCII text files, one line per entry. Treat leading `#` as a comment line to skip.
+
+|source protocol | source host name | source port number | dest protocol | dest host name | dest port number | expire time|
+|--|--|--|--|--|--|--|
+| h1, h2, h2c, h3 | the name used in the source URL  | the port number in the source URL | alternative protocol: h1, h2, h2c, h3 | the name to use as alternative host | the alternative port number | The expire time in YYYYMMDDHHMMSS. This is necessary to make expire times survive app/curl stops and restarts |
+
+An example line could then look like:
+
+    h2 example.com 443 h3 shiny.example.com 8443 20191231000000
