@@ -1,8 +1,8 @@
 # DoH implementation in curl
 
-First PR is work in progress: https://github.com/curl/curl/pull/2668
+DoH shipped in curl 7.62.0
 
-## What works so far:
+## What works
 
 - works with both easy and multi interfaces
 - uses POST by default to the given DoH URL
