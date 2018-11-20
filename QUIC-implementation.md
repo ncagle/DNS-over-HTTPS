@@ -21,7 +21,9 @@ Load cache file from filename or if "", just enable in memory.
 - This cache should become sharable between handles in a multi handle, and
   using the share interface. (Like cookies)
 
-For Alt-Svc cache file format, see below.
+The altsvc cache would be transparently handled by libcurl and isn't really exposed to user in other ways than it controls to what host it eventually connects.
+
+For altsvc cache file format, see below.
 
 ## `CURLOPT_ALTSVC_CTRL <bitmask>` (new)
 
