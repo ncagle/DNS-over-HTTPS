@@ -28,11 +28,13 @@ For Alt-Svc cache file format, see below.
 Instructs how to act on received `Alt-Svc:` headers.
 
 - Re-issue immediately over new protocol. Makes libcurl halt the current
-  transfer and instead switch over to the alternative. By default, libcurl
-  will use parsed headers for the *next* transfer.
+  transfer and instead switch over to the alternative after all headers have been received.
+  By default, libcurl will use parsed headers for the *next* transfer.
 - Accept protocol h1
 - Accept protocol h2
 - Accept protocol h3
+
+If multiple alternatives are provided, we should also provide some ways to control how to traverse that list. Firefox for example have (experimental) racing of them *all* and sticking to the one that first connects successfully.
 
 ## direct-to-h3
 
