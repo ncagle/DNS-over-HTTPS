@@ -23,6 +23,8 @@ Load cache file from filename or if "", just enable in memory.
 
 The altsvc cache would be transparently handled by libcurl and isn't really exposed to user in other ways than it controls to what host it eventually connects.
 
+If libcurl fails to connect to a host that it got by the altsvc cache, that cache entry should be flagged and not used anymore until it times out (it should possibly set its own negative-timeout expiry time?) and it should instead connect to another altsvc entry or the original host. 
+
 For altsvc cache file format, see below.
 
 ## `CURLOPT_ALTSVC_CTRL <bitmask>` (new)
