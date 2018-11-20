@@ -15,16 +15,6 @@ PORT) for AGE seconds.
 
 Load cache file from filename or if "", just enable in memory.
 
-- This cache should get saved to disk when the handle is closed. (Like
-  cookies.)
-
-- This cache should become sharable between handles in a multi handle, and
-  using the share interface. (Like cookies)
-
-The altsvc cache would be transparently handled by libcurl and isn't really exposed to user in other ways than it controls to what host it eventually connects.
-
-If libcurl fails to connect to a host that it got by the altsvc cache, that cache entry should be flagged and not used anymore until it times out (it should possibly set its own negative-timeout expiry time?) and it should instead connect to another altsvc entry or the original host. 
-
 For altsvc cache file format, see below.
 
 ## `CURLOPT_ALTSVC_CTRL <bitmask>` (new)
@@ -82,7 +72,22 @@ Should be similar logic to HTTP/2. We probably do the same from-HTTP/1-style con
 
 Disconnecting QUIC
 
-# Alt-Svc cache file
+# Alt-Svc cache
+
+The cache is meant to keep associations that map SOURCE-(PROTOCOL + HOST + PORT) to DEST-(PROTOCOL + HOST +
+PORT) for AGE seconds.
+
+A map can be done in several stepe (the logic needs to also avoid loops).
+
+The cache gets saved to disk when the handle is closed (if there is a file name). If is sharable between handles in a multi handle, and using the share interface. (Much like cookies)
+
+The cache is transparently handled by libcurl and isn't really exposed to the user in other ways than it controls to what host it eventually connects.
+
+If libcurl fails to connect to a host that it got by the altsvc cache, that cache entry should be flagged and not used anymore until it times out (it should possibly set its own negative-timeout expiry time?) and it should instead connect to another altsvc entry or the original host. 
+
+A server's Alt-Svc response can also explicitly **clear** all the mapping for the current origin.
+
+## File format
 
 Store in plain ASCII text files, one line per entry, space-separated fields. Treat leading `#` as a comment line to skip.
 
