@@ -84,12 +84,19 @@ Disconnecting QUIC
 
 # Alt-Svc cache file
 
-Store in plain ASCII text files, one line per entry. Treat leading `#` as a comment line to skip.
+Store in plain ASCII text files, one line per entry, space-separated fields. Treat leading `#` as a comment line to skip.
 
-|source protocol | source host name | source port number | dest protocol | dest host name | dest port number | expire time|
-|--|--|--|--|--|--|--|
-| h1, h2, h2c, h3 | the name used in the source URL  | the port number in the source URL | alternative protocol: h1, h2, h2c, h3 | the name to use as alternative host | the alternative port number | The expire time in YYYYMMDDHHMMSS. This is necessary to make expire times survive app/curl stops and restarts |
+`<source protocol> <source host name> <source port number> <dest protocol> <dest host name> <dest port number> <expire time> <Prio>`
+
+ - source protocol = h1, h2, h2c, h3
+ - source host name = the name used in the source URL
+ - source port number = the port number in the source URL
+ - dest protocol = alternative protocol: h1, h2, h2c, h3
+ - dest host name = the name to use as alternative host
+ - dest port number = the alternative port number
+ - expiry time = The expire time in YYYYMMDDHHMMSS. This is necessary to make expire times survive app/curl stops and restarts
+ - prio = A signed int. The higher the more important (used if there are more than one entry for the same source). 0 means flagged for **not use**
 
 An example line could then look like:
 
-    h2 example.com 443 h3 shiny.example.com 8443 20191231000000
+    h2 example.com 443 h3 shiny.example.com 8443 20191231000000 1
