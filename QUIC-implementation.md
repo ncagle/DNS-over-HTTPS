@@ -13,7 +13,7 @@ When set, makes libcurl parse received `Alt-Svc:` headers and keep a cache in
 memory that maps SOURCE-(PROTOCOL + HOST + PORT) to DEST-(PROTOCOL + HOST +
 PORT) for AGE seconds.
 
-Load cache file from filename or if "", just enabled it in memory.
+Load cache file from filename or if "", just enable in memory.
 
 - This cache should get saved to disk when the handle is closed. (Like
   cookies.)
