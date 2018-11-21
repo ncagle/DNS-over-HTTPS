@@ -1,4 +1,4 @@
-Misc notes about the coming QUIC and HTTP/3 support in curl.
+Misc notes about the coming [QUIC](QUIC) and HTTP/3 support in curl.
 
 # API
 
