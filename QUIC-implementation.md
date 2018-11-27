@@ -30,13 +30,11 @@ Instructs how to act on received `Alt-Svc:` headers.
 
 If multiple alternatives are provided, we should also provide some ways to control how to traverse that list. Firefox for example have (experimental) racing of them *all* and sticking to the one that first connects successfully.
 
-## direct-to-h3
+## `CURLOPT_H3 <bitmask>` (new)
 
-To ponder about is how to ask libcurl to go straight to QUIC desthost + destport if we happen to know that exists and works and we don't want to bounce via an Alt-Svc response. Possibly by having an option allowing pre-populating the altsvc cache similar to `CURLOPT_RESOLVE` for the dns cache.
+Set HTTP/3 specific behavior flags.
 
-We should also offer a shortcut to have libcurl use the host + port from the URL as the quic host and port.
-
-It might also be done differently for the command line tool.
+`CURLH3_DIRECT` - When set, go straight to QUIC desthost + destport if we happen to know that exists and works and we don't want to bounce via an Alt-Svc response. Shortcuts (avoids) the altsvc cache.
 
 # Command line options
 
