@@ -1,10 +1,8 @@
-Every once in a while the suggestion comes up that libcurl should provide an API for URL parsing and creating. In every annual user survey a two-digit percentage of users say they would use one if it existed.
-
-Here's how the planned upcoming API works.
+(The URL API was added to libcurl 7.62.0)
 
 # Include
 
-You'd still only include `<curl/curl.h>` in your code.
+You still only include `<curl/curl.h>` in your code.
 
 # Create, cleanup, duplicate
 
