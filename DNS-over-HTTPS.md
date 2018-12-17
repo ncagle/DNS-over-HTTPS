@@ -24,7 +24,7 @@ Working Group Draft: https://github.com/dohwg/draft-ietf-doh-dns-over-https
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | No Logging & DNSSEC |
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
 | Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
-| dnswarden.com | Server 1: https://doh1.dnswarden.com <br> Server 2: https://doh2.dnswarden.com | Runs on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) . No query logging with DNSSEC. Server 2 enforces safe search and blockes adult content |
+| dnswarden.com | Server 1: https://doh1.dnswarden.com <br> Server 2: https://doh2.dnswarden.com | Runs on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) . No query logging with DNSSEC. Server 2 enforces safe search and blocks adult content |
 
 # Out-of-date servers
 
