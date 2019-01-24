@@ -97,9 +97,9 @@ Store in plain ASCII text files, one line per entry, space-separated fields. Tre
  - dest protocol = alternative protocol: h1, h2, h2c, h3
  - dest host name = the name to use as alternative host
  - dest port number = the alternative port number
- - expiry time = The expire time in YYYYMMDDHHMMSS. This is necessary to make expire times survive app/curl stops and restarts
+ - expiry time = The expire time as `YYYYMMDD HH:MM:SS` within quotes. Used to make expire times survive app/curl stops and restarts
  - prio = A signed int. The higher the more important (used if there are more than one entry for the same source). 0 means flagged for **not use**
 
 An example line could then look like:
 
-    h2 example.com 443 h3 shiny.example.com 8443 20191231000000 1
+    h2 example.com 443 h3 shiny.example.com 8443 "20191231 00:00:00" 1
