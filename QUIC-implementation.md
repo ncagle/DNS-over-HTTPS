@@ -103,4 +103,4 @@ Store in plain ASCII text files, one line per entry, space-separated fields. Tre
 
 An example line could then look like:
 
-    h2 example.com 443 h3 shiny.example.com 8443 "20191231 00:00:00" 1
+    h2 example.com 443 h3 shiny.example.com 8443 "20191231 00:00:00" 0 1
