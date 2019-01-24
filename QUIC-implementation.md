@@ -24,6 +24,7 @@ Instructs how to act on received `Alt-Svc:` headers.
 - Re-issue immediately over new protocol. Makes libcurl halt the current
   transfer and instead switch over to the alternative after all headers have been received.
   By default, libcurl will use parsed headers for the *next* transfer.
+- Issue `Alt-Used:` in requests, ON/OFF
 - Accept protocol h1
 - Accept protocol h2
 - Accept protocol h3
