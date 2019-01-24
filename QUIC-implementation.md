@@ -98,6 +98,7 @@ Store in plain ASCII text files, one line per entry, space-separated fields. Tre
  - dest host name = the name to use as alternative host
  - dest port number = the alternative port number
  - expiry time = The expire time as `YYYYMMDD HH:MM:SS` within quotes. Used to make expire times survive app/curl stops and restarts
+ - persist - a `1` if the alternative was set with `persist = 1` in the header, otherwise `0`
  - prio = A signed int. The higher the more important (used if there are more than one entry for the same source). 0 means flagged for **not use**
 
 An example line could then look like:
