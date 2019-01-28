@@ -26,15 +26,6 @@ Working Group Draft: https://github.com/dohwg/draft-ietf-doh-dns-over-https
 | Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
 | dnswarden.com | Server 1: https://doh1.dnswarden.com <br> Server 2: https://doh2.dnswarden.com | Runs on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) . No query logging with DNSSEC. <br> Server 2 enforces safe search and blocks adult content |
 
-# Out-of-date servers
-
-These don't support the draft-14 protocol
-
-| Who runs it | Base URL | Comment |
-|-------------|----------|---------|
-
-
-
 # Supported in browsers and clients
 
 |Name|Version|Comments|
