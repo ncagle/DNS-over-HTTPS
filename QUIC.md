@@ -27,7 +27,7 @@ As for HTTP/2 we intend to rely on an existing third party library for all the t
 
 We start out using one dedicated library and add QUIC support with that, to get a focused effort. If someone at a later time wants spend time and effort to add support for another/more libraries, we consider that at that point in time.
 
-HTTP/3 (h3) is different enough to warrant a completely separate take från HTTP/2. It will make the HTTP/3 support to be completely independently implemented from the HTTP/2 support. libcurl should be possible to build with only h1 + h3 support, as well as h1 + h2 + h3.
+HTTP/3 (h3) is different enough to warrant a completely separate take from HTTP/2. It will make the HTTP/3 support to be completely independently implemented from the HTTP/2 support. libcurl should be possible to build with only h1 + h3 support, as well as h1 + h2 + h3.
 
 ## TLS 1.3
 QUIC uses TLS 1.3 and pretty much requires that the library interfaces a TLS library directly, which makes it tied to a specific TLS library harder than what is ideal for curl.
