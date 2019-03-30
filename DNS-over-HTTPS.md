@@ -24,6 +24,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
 | dnswarden.com | Server 1: https://doh1.dnswarden.com <br> Server 2: https://doh2.dnswarden.com | Runs on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) . No query logging with DNSSEC. <br> Server 2 enforces safe search and blocks adult content |
 |[aaflalo.me](https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/) | Server US: https://dns-gcp.aaflalo.me/dns-query <br> Server EU: https://dns.aaflalo.me/dns-query | Runs on Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) <br> Both servers check for DNSSEC and block advertising|
+| [Foundation for Applied Privacy](https://appliedprivacy.net) | https://doh.appliedprivacy.net/query | No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://appliedprivacy.net/services/dns/ |
 
 # Supported in browsers and clients
 
