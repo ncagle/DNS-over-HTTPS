@@ -1,1 +1,0 @@
-StaticIP.io DDNS [dynamic IP to static IP Address](https://staticIP.io/).
