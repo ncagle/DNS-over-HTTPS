@@ -80,3 +80,4 @@ If `--accept=<content-type>` is repeated all listed types is acceptable.
 ## JSON response
 
 Not needed. Pipe output to [jq](https://stedolan.github.io/jq/) or similar.
+
