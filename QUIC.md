@@ -4,7 +4,7 @@ QUIC is a new transport protocol in the making, and HTTP/3 is the adaptation of 
 
 The [drafts](https://quicwg.github.io/) from IETF Working Group.
 
-More on Alt-svc extension (http://httpwg.org/http-extensions/alt-svc.html)
+The [Alt-svc extension](https://httpwg.org/specs/rfc7838.html).
 
 ALPN RFC:  https://tools.ietf.org/html/rfc7301
 
