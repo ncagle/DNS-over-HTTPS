@@ -26,7 +26,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 |[aaflalo.me](https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/) | Server US: https://dns-gcp.aaflalo.me/dns-query <br> Server EU: https://dns.aaflalo.me/dns-query | Runs on Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) <br> Both servers check for DNSSEC and block advertising|
 | [Foundation for Applied Privacy](https://appliedprivacy.net) | https://doh.appliedprivacy.net/query | No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://appliedprivacy.net/services/dns/ |
 | [captnemo.in](https://captnemo.in) | https://doh.captnemo.in/dns-query | Runs [dnss](https://blitiri.com.ar/git/r/dnss/) with local unbound resolver running [DNSCrypt](https://captnemo.in/dnscrypt/) with DNSSEC support as the upstream. [Privacy Policy](https://captnemo.in/dns/privacy/). More details at <https://captnemo.in/doh/>. No logging or filtering. Runs in Bangalore, India | 
-| [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query | No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
+| [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query | Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 
 # Supported in browsers and clients
 
