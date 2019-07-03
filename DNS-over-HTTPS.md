@@ -18,7 +18,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | @jedisct1  | https://doh.crypto.sx/dns-query | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 | PowerDNS  | https://doh.powerdns.org | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
 | blahdns.com | Japan: https://doh-jp.blahdns.com/dns-query <br> Germany: https://doh-de.blahdns.com/dns-query | Run on [Go implementation](https://github.com/m13253/dns-over-https), knot-resolver with DNSSEC and ads block
-| NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, send email if fails |
+| NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | No Logging & DNSSEC |
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
 | Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
@@ -27,6 +27,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | [Foundation for Applied Privacy](https://appliedprivacy.net) | https://doh.appliedprivacy.net/query | No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://appliedprivacy.net/services/dns/ |
 | [captnemo.in](https://captnemo.in) | https://doh.captnemo.in/dns-query | Runs [dnss](https://blitiri.com.ar/git/r/dnss/) with local unbound resolver running [DNSCrypt](https://captnemo.in/dnscrypt/) with DNSSEC support as the upstream. [Privacy Policy](https://captnemo.in/dns/privacy/). More details at <https://captnemo.in/doh/>. No logging or filtering. Runs in Bangalore, India | 
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query | Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
+| [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query | No Logging, DNSSEC enabled |
 
 # Supported in browsers and clients
 
