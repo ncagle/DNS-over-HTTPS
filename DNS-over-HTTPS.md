@@ -29,6 +29,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query | Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query | No Logging, DNSSEC enabled |
 | [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
+| [argh.in](https://padlock.argh.in/) | https://doh.argh.in/dns-query | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock not currently enabled. |
 
 # Supported in browsers and clients
 
