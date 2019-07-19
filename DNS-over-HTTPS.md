@@ -32,6 +32,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
 | [doh.li](https://doh.li)| https://doh.li/dns-query | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock not currently enabled. |
 | [armadillodns.net](https://www.armadillodns.net/) | https://doh.armadillodns.net/dns-query | No source IP logging. |
+| [NetWeaver](https://www.netweaver.uk/) | https://doh.netweaver.uk/dns-query | UK servers, no logging, DNSSEC enabled |
 
 # Supported in browsers and clients
 
