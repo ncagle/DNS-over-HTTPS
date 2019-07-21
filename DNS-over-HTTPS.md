@@ -64,3 +64,5 @@ Alberto Bertogli's [dnss](https://github.com/albertito/dnss), a daemon written i
 Dima Krasner's [nss-tls](https://github.com/dimkr/nss-tls), a daemon that makes gethostbyname(), getaddrinfo(), etc' happen through DoH, without any change to applications, thus transparently migrating all applications that don't use their own resolver (like some browsers) from DNS to DoH.
 
 Maxime Elomari's [dealdoh](https://github.com/noglitchyo/dealdoh), a middleware to proxy DoH requests to different DNS upstreams, written in PHP.
+
+Frank Olbricht's [RouteDNS](https://github.com/folbricht/routedns), a flexible stub resolver, proxy, and router with support for DoH, DoT, and plain DNS written in Go.
