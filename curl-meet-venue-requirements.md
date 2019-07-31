@@ -1,1 +1,0 @@
-[moved here](https://github.com/curl/curl-up/wiki/venue-requirements)
