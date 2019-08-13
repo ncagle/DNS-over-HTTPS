@@ -97,28 +97,11 @@ Other tags that could be added:
 
 We encourage discussion and review for all substantial changes, and any change in external behavior. There's no hard-and-fast rule, just use your judgment. A typo for example does not require a review or a discussion, just commit it. Team members can start a PR like anyone else with proposed changes, so if you're even a little unsure just do that.
 
-## No forced pushes (except emergencies)
+## No forced pushes on master
 
-**_October 2017: Forced pushing is currently disabled. If you need a forced push e-mail the project owners._**
+Do not force your push to upstream/master, as you would just overwrite someone else's work and cause problems for those who have cloned the repo in that state. github will prevent forced pushes as the master branch is "protected".
 
-Do not force your push to upstream/master, as you will just overwrite someone else's work and cause problems for those who have cloned the repo in that state.
-
-In an emergency a forced push may be appropriate, like the once-in-a-blue-moon scenario where something unintended or sensitive has *just* been pushed. In that case *immediately* reset your local master to the good commit whose hash was the tip of upstream/master before you pushed and *do not otherwise disturb the history*. Then force push that commit upstream.
-
-~~~
-git push upstream
-#
-# and now you've examined upstream and realize there's an emergency..
-#
-git reset --hard <SHA-1>
-#
-# be absolutely certain that hash is already in upstream/master
-# examine https://github.com/curl/curl/commits/master if you have to
-#
-git push -f upstream
-~~~
-
-If the commit(s) being removed contained sensitive data also contact GitHub in accordance with their [Remove sensitive data](https://help.github.com/articles/remove-sensitive-data/) documentation and explain what happened. CC Daniel Stenberg. Ask that they remove the hash in any cached view. If a sensitive file must be filtered out from many commits or too much time has passed or something else complicated then your best bet is to kick the issue to senior members.
+In feature-branches and especially when working on a pull-request, a forced push after a rebase and squash can in fact often be suggested and preferred - to keep the set of commits clean and easily reviewable. At least as long that branch is primarily developed by a single developer.
 
 ## Handling rejected pushes
 
