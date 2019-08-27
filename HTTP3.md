@@ -7,8 +7,6 @@ HTTP/3 support (**experimental**) has landed in master. We encourage you to buil
 
 [Instructions](https://github.com/curl/curl/blob/master/docs/HTTP3.md)
 
-- The [n] build broke on Aug 26 2019 and has not been fixed yet
-
 ## HTTP/3 Test servers
 
 [a list](https://bagder.github.io/HTTP3-test/)
