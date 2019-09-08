@@ -23,6 +23,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | No Logging & DNSSEC |
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
+| @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query https://doh.seby.io:8443/dns-query | Runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), Unbound with DNSSEC, No ECS and No logs
 | Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
 | [DnsWarden](https://dnswarden.com) | Adblocking DNS: https://doh.dnswarden.com/adblock <br> Uncensored DNS: https://doh.dnswarden.com/uncensored | No query/IP logging with DNSSEC enabled. <br>  Blocks ads and trackers in Adblocking DNS.<br> No filtering in Uncensored DNS.  |
 |[aaflalo.me](https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/) | Server US: https://dns-nyc.aaflalo.me/dns-query <br> Server EU: https://dns.aaflalo.me/dns-query | Runs on Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) <br> Both servers check for DNSSEC and block advertising|
