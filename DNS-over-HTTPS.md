@@ -37,6 +37,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | [armadillodns.net](https://www.armadillodns.net/) | https://doh.armadillodns.net/dns-query | No source IP logging. |
 | [NetWeaver](https://www.netweaver.uk/) | https://doh.netweaver.uk/dns-query | UK servers, no logging, DNSSEC enabled |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
+|[Association 42l](https://42l.fr) | https://doh.42l.fr/dns-query | DNSSEC, not logging queries' content, uses [doh-proxy](https://github.com/jedisct1/rust-doh) and [edgedns](https://github.com/jedisct1/edgedns) for caching. Queries proxied to the French ISP [FDN](https://www.fdn.fr/actions/dns/)'s open DNS resolver, commiting for net neutrality.
 
 # Supported in browsers and clients
 
