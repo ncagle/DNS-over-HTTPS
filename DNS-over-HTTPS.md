@@ -73,3 +73,5 @@ Dima Krasner's [nss-tls](https://github.com/dimkr/nss-tls), a daemon that makes 
 Maxime Elomari's [dealdoh](https://github.com/noglitchyo/dealdoh), a middleware to proxy DoH requests to different DNS upstreams, written in PHP.
 
 Frank Olbricht's [RouteDNS](https://github.com/folbricht/routedns), a flexible stub resolver, proxy, and router with support for DoH, DoT, and plain DNS written in Go.
+
+Max Kostikov's [h2odoh](https://kostikov.co/%D1%81%D0%B2%D0%BE%D0%B9-dns-over-https-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%BD%D0%B0-%D0%B1%D0%B0%D0%B7%D0%B5-%D0%B2%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-h2o), an implementation with H2O HTTP/2 server using embedded mruby.
