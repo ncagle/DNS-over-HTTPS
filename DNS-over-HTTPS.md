@@ -76,3 +76,5 @@ Maxime Elomari's [dealdoh](https://github.com/noglitchyo/dealdoh), a middleware 
 Frank Olbricht's [RouteDNS](https://github.com/folbricht/routedns), a flexible stub resolver, proxy, and router with support for DoH, DoT, and plain DNS written in Go.
 
 Max Kostikov's [h2odoh](https://github.com/xm74/h2odoh), an implementation with H2O HTTP/2 server using embedded mruby.
+
+Frank Denis' [Encrypted DNS Server](https://github.com/jedisct1/encrypted-dns-server), written in Rust, can serve DNSCrypt and DoH traffic simultaneously. A [Docker image](https://github.com/dnscrypt/dnscrypt-server-docker) including a recursive server is also available.
