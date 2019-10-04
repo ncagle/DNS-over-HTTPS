@@ -30,13 +30,13 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 |[aaflalo.me](https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/) | Server US: https://dns-nyc.aaflalo.me/dns-query <br> Server EU: https://dns.aaflalo.me/dns-query | Runs on Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) <br> Both servers check for DNSSEC and block advertising|
 | [Foundation for Applied Privacy](https://appliedprivacy.net) | https://doh.appliedprivacy.net/query | No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://appliedprivacy.net/services/dns/ |
 | [captnemo.in](https://captnemo.in) | https://doh.captnemo.in/dns-query | Runs [dnss](https://blitiri.com.ar/git/r/dnss/) with local unbound resolver running [DNSCrypt](https://captnemo.in/dnscrypt/) with DNSSEC support as the upstream. [Privacy Policy](https://captnemo.in/dns/privacy/). More details at <https://captnemo.in/doh/>. No logging or filtering. Runs in Bangalore, India | 
-| [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query | Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
+| [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query https://doh.tiarap.org/dns-query | Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query | No Logging, DNSSEC enabled |
 | [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
 | [doh.li](https://doh.li)| https://doh.li/dns-query | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock not currently enabled. |
 | [armadillodns.net](https://www.armadillodns.net/) | https://doh.armadillodns.net/dns-query | No source IP logging. |
 | [NetWeaver](https://www.netweaver.uk/) | https://doh.netweaver.uk/dns-query | UK servers, no logging, DNSSEC enabled |
-| [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
+| [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query https://jp.tiarap.org/dns-query| No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 |[Association 42l](https://42l.fr) | https://doh.42l.fr/dns-query | DNSSEC, not logging queries' content, uses [doh-proxy](https://github.com/jedisct1/rust-doh) and [edgedns](https://github.com/jedisct1/edgedns) for caching. Queries proxied to the French ISP [FDN](https://www.fdn.fr/actions/dns/)'s open DNS resolver, commiting for net neutrality.
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))
 
