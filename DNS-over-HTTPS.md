@@ -40,7 +40,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 |[Association 42l](https://42l.fr) | https://doh.42l.fr/dns-query | DNSSEC, not logging queries' content, uses [doh-proxy](https://github.com/jedisct1/rust-doh) and [edgedns](https://github.com/jedisct1/edgedns) for caching. Queries proxied to the French ISP [FDN](https://www.fdn.fr/actions/dns/)'s open DNS resolver, commiting for net neutrality.
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))
-|[@matthewgall - mydns.network](https://twitter.com/matthewgall) | https://adblock.mydns.network (adblock, using PiHole) | no logging, DNSSEC enforcing, DDoS protected (using Spectrum by Cloudflare), anycast)
+|[@matthewgall - mydns.network](https://twitter.com/matthewgall) | https://adblock.mydns.network/dns-query (adblock, using PiHole) | no logging, DNSSEC enforcing, DDoS protected (using Spectrum by Cloudflare), anycast)
 
 # Supported in browsers and clients
 
