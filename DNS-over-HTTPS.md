@@ -42,6 +42,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))
 |[@matthewgall - mydns.network](https://twitter.com/matthewgall) | https://adblock.mydns.network/dns-query (adblock, using PiHole) | no logging, DNSSEC enforcing, DDoS protected (using Spectrum by Cloudflare), anycast)
 | [ibksturm.synology.me](https://ibksturm.synology.me)| https://ibksturm.synology.me/dns-query | doh-server (nginx - dnsproxy - unbound), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy Hosted in Switzerland by ibksturm, aka Andreas Ziegler. |
+| [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell. |
 
 
 # Supported in browsers and clients
