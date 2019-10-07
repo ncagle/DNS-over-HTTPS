@@ -82,3 +82,5 @@ Frank Olbricht's [RouteDNS](https://github.com/folbricht/routedns), a flexible s
 Max Kostikov's [h2odoh](https://github.com/xm74/h2odoh), an implementation with H2O HTTP/2 server using embedded mruby.
 
 Frank Denis' [Encrypted DNS Server](https://github.com/jedisct1/encrypted-dns-server), written in Rust, can serve DNSCrypt and DoH traffic simultaneously. A [Docker image](https://github.com/dnscrypt/dnscrypt-server-docker) including a recursive server is also available.
+
+Matthieu Treussart' [quart-doh](https://github.com/treussart/quart-doh), written in Python, with [Quart](https://pgjones.gitlab.io/quart/index.html) Python web microframework. HTTP/2 server who serve a DOH proxy.
