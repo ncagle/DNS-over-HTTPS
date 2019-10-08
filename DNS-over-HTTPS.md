@@ -43,6 +43,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 |[@matthewgall - mydns.network](https://twitter.com/matthewgall) | https://adblock.mydns.network/dns-query (adblock, using PiHole) | no logging, DNSSEC enforcing, DDoS protected (using Spectrum by Cloudflare), anycast)
 | [ibksturm.synology.me](https://ibksturm.synology.me)| https://ibksturm.synology.me/dns-query | doh-server (nginx - dnsproxy - unbound), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy Hosted in Switzerland by ibksturm, aka Andreas Ziegler. |
 | [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell. |
+| [@null31](http://ibuki.cgnat.net)| https://ibuki.cgnat.net | Brazilian server that runs [dnsdist 1.4.0rc3](https://dnsdist.org/), [Unbound](https://nlnetlabs.nl/projects/unbound/about/) with DNSSEC, QNAME minimization, Non-Logged / Uncensored, TLS v1.3, DNS-over-TLS, hosted on Google Cloud VPS by [null31](https://github.com/null31). |
 
 
 # Supported in browsers and clients
