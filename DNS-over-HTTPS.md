@@ -87,4 +87,4 @@ Frank Denis' [Encrypted DNS Server](https://github.com/jedisct1/encrypted-dns-se
 
 Matthieu Treussart' [quart-doh](https://github.com/treussart/quart-doh), written in Python, with [Quart](https://pgjones.gitlab.io/quart/index.html) Python web microframework. HTTP/2 server who serve a DOH proxy.
 
-ElevenPaths's [EasyDoH](https://github.com/ElevenPaths/EasyDoH), a simple [addon for Firefox](https://addons.mozilla.org/es/firefox/addon/easydoh/) that allows to easily activate DNS over HTTPS and its working mode with just one click.
+ElevenPaths [EasyDoH](https://github.com/ElevenPaths/EasyDoH), a simple [addon for Firefox](https://addons.mozilla.org/es/firefox/addon/easydoh/) that allows to easily activate DNS over HTTPS and its working mode with just one click.
