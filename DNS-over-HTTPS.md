@@ -45,7 +45,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | [ibksturm.synology.me](https://ibksturm.synology.me)| https://ibksturm.synology.me/dns-query | doh-server (nginx - dnsproxy - unbound), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy Hosted in Switzerland by ibksturm, aka Andreas Ziegler. |
 | [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell. |
 | [@null31](http://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | Brazilian server that runs [dnsdist](https://dnsdist.org/), [Unbound](https://nlnetlabs.nl/projects/unbound/about/) with DNSSEC doing recursion with no upstream servers, QNAME minimization, TLS 1.3, DoT, uncensored, no logging, no ECS, hosted on Google Cloud VPS by [null31](https://github.com/null31). Toy server, may fail. |
-| [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement][https://blog.twnic.net.tw/2018/12/28/1803/] |
+| [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 
 # Supported in browsers and clients
 
