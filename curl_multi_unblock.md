@@ -14,16 +14,3 @@ call means the function will return early but with no indicating that it was tri
 ## Implementation
 
 This can be done by using the recently added `Curl_socketpair()` function and making sure we setup such a pipe and always wait for activty on that in addition to the other file descriptors.
-
-## A mutex lock
-
-We need mutex locking for the pipe in the multi handle used for this and we currently have no such thing.
-
-libcurl itself has no way to do safe multi-threaded locking so we need to leave that to the application to do it for us, similar to how it is done for the share interface.
-
-The mutex setup is done with these four new options to `curl_multi_setopt()`: 
-
-1. `CURLMOPT_LOCKFUNCTION` - mutex lock the specific multi handle
-2. `CURLMOPT_LOCKDATA` - custom pointer to pass to the lock callback
-3. `CURLMOPT_UNLOCKFUNCTION` - mutex unlock the handle again
-4. `CURLMOPT_UNLOCKDATA` - custom pointer to pass to the unlock callback
