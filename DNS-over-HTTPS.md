@@ -17,6 +17,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | Cisco Umbrella/OpenDNS | https://doh.opendns.com/dns-query | Experimental, No DNSSEC
 | CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | Comcast | https://doh.xfinity.com/dns-query/ | Experimental, DNSSEC
+| Cox | https://dohdot.coxlab.net/dns-query/ | Experimental, No DNSSEC
 | [nextdns.io](https://nextdns.io) | https://dns.nextdns.io/<config_id><br>[Create a config ID](https://my.nextdns.io/start) | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
 | @chantra    | https://dns.dnsoverhttps.net/dns-query | "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy) |
 | @jedisct1  | https://doh.crypto.sx/dns-query | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
