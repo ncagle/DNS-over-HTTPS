@@ -11,5 +11,6 @@ HTTP/3 support (**experimental**) has landed in master. We encourage you to buil
 - multiplexing (for quiche we await [issue #112](https://github.com/cloudflare/quiche/issues/112))
 - push
 - trailers
+- `CURLINFO_CONNECT_TIME_T` and `CURLINFO_APPCONNECT_TIME_T` don't work (at least with quiche) #4516
 
 If you find other things that don't work, add them here (with details) or [file them as an issue](https://github.com/curl/curl/issues)!
