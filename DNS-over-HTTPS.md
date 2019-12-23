@@ -1,6 +1,6 @@
 # DOH
 
-Do DNS resolves over HTTPS for privacy, performance and security. Also makes it easier to use a name server of your choice instead of the one configured for your system.
+Do DNS resolves over HTTPS for privacy, performance, and security. It also makes it easier to use a name server of your choice instead of the one configured for your system.
 
 # Spec
 
@@ -10,7 +10,7 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 
 | Who runs it | Base URL | Comment |
 |-------------|----------|---------|
-| [AdGuard](https://adguard.com/en/adguard-dns/overview.html)     | Default: https://dns.adguard.com/dns-query <br> Family protection: https://dns-family.adguard.com/dns-query <br> | Default provides ad blocking at DNS level, while Family protection adds adult site blocking. 
+| [AdGuard](https://adguard.com/en/adguard-dns/overview.html)     | Default: https://dns.adguard.com/dns-query <br> Family protection: https://dns-family.adguard.com/dns-query <br> | Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. 
 | Google      | https://dns.google/dns-query | Full RFC 8484 support
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br> also available via [Tor onion service](https://blog.cloudflare.com/welcome-hidden-resolver)| Supports both -04 and -13 content-types
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/)       | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query| Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
@@ -26,8 +26,8 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | No Logging & DNSSEC |
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
-| ContainerPI | Unfiltered by CloudFlare:<br>https://dns.containerpi.com/dns-query <br>Filtered by CleanBrowsing, blocks adult content:<br>https://dns.containerpi.com/doh/family-filter/ <br>Filtered, blocks malicious domains only:<br>https://dns.containerpi.com/doh/secure-filter/ | Based on [m13253/DNS-over-HTTPS](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled. Multiple nodes in China Mainland, Japan and Germany. |
-| @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query https://doh.seby.io:8443/dns-query | Australian server that runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), Unbound with DNSSEC, No ECS and No logs
+| ContainerPI | Unfiltered by Cloudflare:<br>https://dns.containerpi.com/dns-query <br>Filtered by CleanBrowsing, blocks adult content:<br>https://dns.containerpi.com/doh/family-filter/ <br>Filtered, blocks malicious domains only:<br>https://dns.containerpi.com/doh/secure-filter/ | Based on [m13253/DNS-over-HTTPS](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled. Multiple nodes in China Mainland, Japan, and Germany. |
+| @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query https://doh.seby.io:8443/dns-query | Australian server that runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), Unbound with DNSSEC, No ECS, and No logs
 | Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
 | [DnsWarden](https://dnswarden.com) | Adblocking DNS: https://doh.dnswarden.com/adblock <br> Uncensored DNS: https://doh.dnswarden.com/uncensored <br> Adult-filter DNS: https://doh.dnswarden.com/adult-filter | No query/IP logging with DNSSEC enabled. <br>  Blocks ads and trackers in Adblocking DNS.<br> No filtering in Uncensored DNS. <br> Blocks adult content, ads, trackers and also enforces force safe search for search engines and youtube in Adult-filter DNS. |
 |[aaflalo.me](https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/) | Server US: https://dns-nyc.aaflalo.me/dns-query <br> Server EU: https://dns.aaflalo.me/dns-query | Runs on Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) <br> Both servers check for DNSSEC and block advertising|
@@ -39,15 +39,15 @@ Do DNS resolves over HTTPS for privacy, performance and security. Also makes it 
 | [doh.li](https://doh.li)| https://doh.li/dns-query | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock not currently enabled. |
 | [armadillodns.net](https://www.armadillodns.net/) | https://doh.armadillodns.net/dns-query | No source IP logging. |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| No Censorship, No Logging, No ECS, support DNSSEC in Japan |
-|[Association 42l](https://42l.fr) | https://doh.42l.fr/dns-query | DNSSEC, not logging queries' content, uses [doh-proxy](https://github.com/jedisct1/rust-doh) and [edgedns](https://github.com/jedisct1/edgedns) for caching. Queries proxied randomly through [FFDN](https://www.ffdn.org/) members' open DNS resolvers (French ISPs commiting for net neutrality).
+|[Association 42l](https://42l.fr) | https://doh.42l.fr/dns-query | DNSSEC, not logging queries' content, uses [doh-proxy](https://github.com/jedisct1/rust-doh) and [edgedns](https://github.com/jedisct1/edgedns) for caching. Queries proxied randomly through [FFDN](https://www.ffdn.org/) members' open DNS resolvers (French ISPs committing for net neutrality).
 | [Hostux.net](https://dns.hostux.net) | Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))
 |[@matthewgall - mydns.network](https://twitter.com/matthewgall) | https://adblock.mydns.network/dns-query (adblock, using PiHole) | no logging, DNSSEC enforcing, DDoS protected (using Spectrum by Cloudflare), anycast)
 | [ibksturm.synology.me](https://ibksturm.synology.me)| https://ibksturm.synology.me/dns-query | doh-server (nginx - dnsproxy - unbound), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy Hosted in Switzerland by ibksturm, aka Andreas Ziegler. |
 | [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell. |
-| [@null31](http://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | Brazilian server that runs [dnsdist](https://dnsdist.org/), [Unbound](https://nlnetlabs.nl/projects/unbound/about/) with DNSSEC doing recursion with no upstream servers, QNAME minimization, TLS 1.3, DoT, uncensored, no logging, no ECS, hosted on Google Cloud VPS by [null31](https://github.com/null31). Toy server, may fail. |
+| [@null31](http://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | Brazilian server that runs [dnsdist](https://dnsdist.org/), [Unbound](https://nlnetlabs.nl/projects/unbound/about/) with DNSSEC doing recursion with no upstream servers, QNAME minimization, TLS 1.3, DoT, uncensored, no logging, no ECS, hosted on Google Cloud VPS by [null31](https://github.com/null31). Toy server -- may fail. |
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
-| [blockerDNS](https://blockerdns.com/) | https://example.doh.blockerdns.com/dns-query | DNS-based ad blocking service; One-man operation; ZERO IP and DNS query logging for DoH and DoT. **Charges 99c per month** for https DOH service |
+| [blockerDNS](https://blockerdns.com/) | https://example.doh.blockerdns.com/dns-query | DNS-based ad-blocking service; One-man operation; ZERO IP and DNS query logging for DoH and DoT. **Charges 99c per month** for https DOH service |
 
 # Supported in browsers and clients
 
@@ -66,7 +66,7 @@ Facebook's [doh-proxy](https://facebookexperimental.github.io/doh-proxy/) and as
 
 Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions.
 
-Frank Denis' [doh-proxy](https://github.com/jedisct1/rust-doh) (server-side proxy) and [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) (client proxy).
+Frank Denis's [doh-proxy](https://github.com/jedisct1/rust-doh) (server-side proxy) and [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) (client proxy).
 
 Daniel Cid's [doh-php-client](https://github.com/dcid/doh-php-client) can be used to test and run DoH requests via PHP applications.
 
@@ -76,9 +76,9 @@ Travis Burtrum's [jDnsProxy](https://github.com/moparisthebest/jDnsProxy) DNS pr
 
 Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https), with server-side and client-side implementation, written in Golang.
 
-Alberto Bertogli's [dnss](https://github.com/albertito/dnss), a daemon written in Go which act as a proxy (the most common use case), and as a server (in case you want end to end control).
+Alberto Bertogli's [dnss](https://github.com/albertito/dnss), a daemon written in Go which acts as a proxy (the most common use case), and as a server (in case you want end-to-end control).
 
-Dima Krasner's [nss-tls](https://github.com/dimkr/nss-tls), a daemon that makes gethostbyname(), getaddrinfo(), etc' happen through DoH, without any change to applications, thus transparently migrating all applications that don't use their own resolver (like some browsers) from DNS to DoH.
+Dima Krasner's [nss-tls](https://github.com/dimkr/nss-tls), a daemon that makes gethostbyname(), getaddrinfo(), etc. happen through DoH, without any change to applications, thus transparently migrating all applications that don't use their own resolver (like some browsers) from DNS to DoH.
 
 Maxime Elomari's [dealdoh](https://github.com/noglitchyo/dealdoh), a middleware to proxy DoH requests to different DNS upstreams, written in PHP.
 
@@ -86,8 +86,8 @@ Frank Olbricht's [RouteDNS](https://github.com/folbricht/routedns), a flexible s
 
 Max Kostikov's [h2odoh](https://github.com/xm74/h2odoh), an implementation with H2O HTTP/2 server using embedded mruby.
 
-Frank Denis' [Encrypted DNS Server](https://github.com/jedisct1/encrypted-dns-server), written in Rust, can serve DNSCrypt and DoH traffic simultaneously. A [Docker image](https://github.com/dnscrypt/dnscrypt-server-docker) including a recursive server is also available.
+Frank Denis's [Encrypted DNS Server](https://github.com/jedisct1/encrypted-dns-server), written in Rust, can serve DNSCrypt and DoH traffic simultaneously. A [Docker image](https://github.com/dnscrypt/dnscrypt-server-docker) including a recursive server is also available.
 
-Matthieu Treussart' [quart-doh](https://github.com/treussart/quart-doh), written in Python, with [Quart](https://pgjones.gitlab.io/quart/index.html) Python web microframework. HTTP/2 server who serve a DOH proxy.
+Matthieu Treussart's [quart-doh](https://github.com/treussart/quart-doh), written in Python, with [Quart](https://pgjones.gitlab.io/quart/index.html) Python web microframework. HTTP/2 server who serves a DOH proxy.
 
-ElevenPaths [EasyDoH](https://github.com/ElevenPaths/EasyDoH), a simple [addon for Firefox](https://addons.mozilla.org/es/firefox/addon/easydoh/) that allows to easily activate DNS over HTTPS and its working mode with just one click.
+ElevenPaths's [EasyDoH](https://github.com/ElevenPaths/EasyDoH), a simple [add-on for Firefox](https://addons.mozilla.org/es/firefox/addon/easydoh/) that allows one to easily activate DNS over HTTPS and its working mode with just one click.
