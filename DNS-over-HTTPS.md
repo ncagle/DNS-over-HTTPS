@@ -53,7 +53,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 
 |Name|Version|Comments|
 |----|-------|----|
-|Firefox|62| [temporary docs](https://daniel.haxx.se/trr) |
+|Firefox|62| [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https) |
 |[Bromite](https://www.bromite.org/)|67.0.3396.88|[How to enable DoH](https://github.com/bromite/bromite/wiki/Enabling-DNS-over-HTTPS)|
 |curl| 7.62.0 | See [DOH-implementation](DOH-implementation) |
 |[OkHttp](https://github.com/square/okhttp/tree/master/okhttp-dnsoverhttps)| 3.11 | See [Providers](https://github.com/square/okhttp/blob/master/okhttp-dnsoverhttps/src/test/java/okhttp3/dnsoverhttps/DohProviders.java) |
