@@ -48,6 +48,8 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [@null31](http://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | Brazilian server that runs [dnsdist](https://dnsdist.org/), [Unbound](https://nlnetlabs.nl/projects/unbound/about/) with DNSSEC doing recursion with no upstream servers, QNAME minimization, TLS 1.3, DoT, uncensored, no logging, no ECS, hosted on Google Cloud VPS by [null31](https://github.com/null31). Toy server -- may fail. |
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | [blockerDNS](https://blockerdns.com/) | https://example.doh.blockerdns.com/dns-query | DNS-based ad-blocking service; One-man operation; ZERO IP and DNS query logging for DoH and DoT. **Charges 99c per month** for https DOH service |
+| [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) | https://dns.digitale-gesellschaft.ch/dns-query | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
+
 
 # Supported in browsers and clients
 
