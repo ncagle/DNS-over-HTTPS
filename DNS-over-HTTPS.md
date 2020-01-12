@@ -49,7 +49,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | [blockerDNS](https://blockerdns.com/) | https://example.doh.blockerdns.com/dns-query | DNS-based ad-blocking service; One-man operation; ZERO IP and DNS query logging for DoH and DoT. **Charges 99c per month** for https DOH service |
 | [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) | https://dns.digitale-gesellschaft.ch/dns-query | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
-| [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | no logging |
+| [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | no logging, TLS 1.3, No DNSSEC |
 
 
 # Supported in browsers and clients
