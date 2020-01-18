@@ -65,35 +65,23 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 
 # DOH Tools
 
-Facebook's [doh-proxy](https://facebookexperimental.github.io/doh-proxy/) and associated tools.
-
-Daniel's [dns2doh](https://github.com/bagder/dns2doh) tool for generating DOH responses and questions.
-
-Frank Denis's [doh-proxy](https://github.com/jedisct1/rust-doh) (server-side proxy) and [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) (client proxy).
-
-Daniel Cid's [doh-php-client](https://github.com/dcid/doh-php-client) can be used to test and run DoH requests via PHP applications.
-
-Peter Lai's [doh-js-client](https://github.com/sc0Vu/doh-js-client) client-side implementation of DoH, can be used in nodejs backend.
-
-Travis Burtrum's [jDnsProxy](https://github.com/moparisthebest/jDnsProxy) DNS proxy and cache, implementing [DNS-over-TLS](https://tools.ietf.org/html/rfc7858), [DNS-over-HTTPS](https://tools.ietf.org/html/draft-hoffman-dns-over-https), and [Serve-Stale](https://tools.ietf.org/html/draft-ietf-dnsop-serve-stale)
-
-Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https), with server-side and client-side implementation, written in Golang.
-
-Alberto Bertogli's [dnss](https://github.com/albertito/dnss), a daemon written in Go which acts as a proxy (the most common use case), and as a server (in case you want end-to-end control).
-
-Dima Krasner's [nss-tls](https://github.com/dimkr/nss-tls), a daemon that makes gethostbyname(), getaddrinfo(), etc. happen through DoH, without any change to applications, thus transparently migrating all applications that don't use their own resolver (like some browsers) from DNS to DoH.
-
-Maxime Elomari's [dealdoh](https://github.com/noglitchyo/dealdoh), a middleware to proxy DoH requests to different DNS upstreams, written in PHP.
-
-Frank Olbricht's [RouteDNS](https://github.com/folbricht/routedns), a flexible stub resolver, proxy, and router with support for DoH, DoT, and plain DNS written in Go.
-
-Max Kostikov's [h2odoh](https://github.com/xm74/h2odoh), an implementation with H2O HTTP/2 server using embedded mruby.
-
-Frank Denis's [Encrypted DNS Server](https://github.com/jedisct1/encrypted-dns-server), written in Rust, can serve DNSCrypt and DoH traffic simultaneously. A [Docker image](https://github.com/dnscrypt/dnscrypt-server-docker) including a recursive server is also available.
-
-Matthieu Treussart's [quart-doh](https://github.com/treussart/quart-doh), written in Python, with [Quart](https://pgjones.gitlab.io/quart/index.html) Python web microframework. HTTP/2 server who serves a DOH proxy.
-
-ElevenPaths's [EasyDoH](https://github.com/ElevenPaths/EasyDoH), a simple [add-on for Firefox](https://addons.mozilla.org/es/firefox/addon/easydoh/) that allows one to easily activate DNS over HTTPS and its working mode with just one click.
+|Name|Provider|Comments|
+|----|-------|----|
+|[doh-proxy](https://facebookexperimental.github.io/doh-proxy/)|Facebook| tools for DoH|
+|[dns2doh](https://github.com/bagder/dns2doh)|Daniel| tool for generating DOH responses and questions.|
+|[doh-proxy](https://github.com/jedisct1/rust-doh)|Frank Denis| server-side proxy in rust|
+|[doh-php-client](https://github.com/dcid/doh-php-client)|Daniel Cid| can be used to test and run DoH requests via PHP applications.|
+|[doh-js-client](https://github.com/sc0Vu/doh-js-client)|Peter Lai| client-side implementation of DoH, can be used in nodejs backend.|
+|[jDnsProxy](https://github.com/moparisthebest/jDnsProxy)|Travis Burtrum| DNS proxy and cache, implementing [DNS-over-TLS](https://tools.ietf.org/html/rfc7858), [DNS-over-HTTPS](https://tools.ietf.org/html/draft-hoffman-dns-over-https), and [Serve-Stale](https://tools.ietf.org/html/draft-ietf-dnsop-serve-stale)|
+|[dns-over-https](https://github.com/m13253/dns-over-https)|Star Brilliant| server-side and client-side implementation, written in Golang|
+|[dnss](https://github.com/albertito/dnss)|Alberto Bertogli|daemon written in Go which acts as a proxy (the most common use case), and as a server (in case you want end-to-end control).|
+|[nss-tls](https://github.com/dimkr/nss-tls)|Dima Krasner| a daemon that makes gethostbyname(), getaddrinfo(), etc. happen through DoH, without any change to applications, thus transparently migrating all applications that don't use their own resolver (like some browsers) from DNS to DoH.|
+|[dealdoh](https://github.com/noglitchyo/dealdoh)|Maxime Elomari| a middleware to proxy DoH requests to different DNS upstreams, written in PHP.|
+|[RouteDNS](https://github.com/folbricht/routedns)|Frank Olbricht| a flexible stub resolver, proxy, and router with support for DoH, DoT, and plain DNS written in Go.|
+|[h2odoh](https://github.com/xm74/h2odoh)|Max Kostikov| an implementation with H2O HTTP/2 server using embedded mruby.|
+|[Encrypted DNS Server](https://github.com/jedisct1/encrypted-dns-server)|Frank Denis|can serve DNSCrypt and DoH traffic simultaneously,  written in Rust.|
+|[quart-doh](https://github.com/treussart/quart-doh)|Matthieu Treussart| HTTP/2 server who serves a DOH proxy written in Python, with [Quart](https://pgjones.gitlab.io/quart/index.html) Python web microframework.|
+|[EasyDoH](https://github.com/ElevenPaths/EasyDoH)|ElevenPaths| a simple [add-on for Firefox](https://addons.mozilla.org/es/firefox/addon/easydoh/) that allows one to easily activate DNS over HTTPS and its working mode with just one click.|
 
 # Other
 
