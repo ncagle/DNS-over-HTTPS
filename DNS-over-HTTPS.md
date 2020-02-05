@@ -65,8 +65,9 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 
 # DOH Tools
 
-|Name|Provider|Comments|
+|Name|Author/Organization|Comments|
 |----|-------|----|
+|[coredns](https://github.com/coredns/coredns)|Cloudflare| CoreDNS is a DNS server/forwarder, written in Go from the Cloud Native Computing Foundation. |
 |[doh-proxy](https://facebookexperimental.github.io/doh-proxy/)|Facebook| tools for DoH|
 |[dns2doh](https://github.com/bagder/dns2doh)|Daniel| tool for generating DOH responses and questions.|
 |[doh-proxy](https://github.com/jedisct1/rust-doh)|Frank Denis| server-side proxy in rust|
