@@ -134,7 +134,7 @@ git push upstream                  # Double-check everything then push again
 
 ## How to work with a PR branch
 
-Using all you've learned above, let's say you want to commit PR 239. First name it as local branch pr_239, then check out a temporary branch from that and rebase on upstream/master.
+Using all you've learned above, let's say you want to commit PR 239 which you did not author. First name it as local branch pr_239, then check out a temporary branch from that and rebase on upstream/master.
 ~~~
 # First sure your index is clean.
 git diff-index --quiet --cached HEAD || echo "WARNING: INDEX ISN'T CLEAN"
