@@ -101,7 +101,7 @@ We encourage discussion and review for all substantial changes, and any change i
 
 Do not force your push to upstream/master, as you would just overwrite someone else's work and cause problems for those who have cloned the repo in that state. github will prevent forced pushes as the master branch is "protected".
 
-In feature-branches and especially when working on a pull-request, a forced push after a rebase and squash can in fact often be suggested and preferred - to keep the set of commits clean and easily reviewable. At least as long that branch is primarily developed by a single developer.
+In feature-branches and especially when working on a pull-request, a forced push after a rebase and squash can in fact often be suggested and preferred - to keep the set of commits clean and easily reviewable. At least as long as that branch is primarily developed by a single developer.
 
 ## Handling rejected pushes
 
