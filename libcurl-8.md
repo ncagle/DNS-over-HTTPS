@@ -4,7 +4,7 @@ At some point we should bump the libcurl version number to 8 and in that same mo
 
 ## curl_getenv
 
-Not transfer related, not necessary for libcurl-using applications.
+Not transfer related, not necessary for libcurl-using applications. However the curl tool uses it for a compatible getenv on all platforms.
 
 ## curl_*printf family
 
