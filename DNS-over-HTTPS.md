@@ -23,6 +23,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | @jedisct1  | https://doh.crypto.sx/dns-query | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 | PowerDNS  | https://doh.powerdns.org | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
 | blahdns.com | Finland: https://doh-fi.blahdns.com/dns-query <br> Japan: https://doh-jp.blahdns.com/dns-query <br> Germany: https://doh-de.blahdns.com/dns-query | Based on [Go implementation](https://github.com/m13253/dns-over-https), knot-resolver, Unbound with DNSSEC, No ECS, No logs, Adsblock
+| ffmuc.net | https://doh.ffmuc.net/dns-query | DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
 | NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
 | SecureDNS.eu | https://doh.securedns.eu/dns-query | No Logging & DNSSEC |
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
