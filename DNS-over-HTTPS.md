@@ -53,7 +53,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) | https://dns.digitale-gesellschaft.ch/dns-query | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
 | [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | no logging, TLS 1.3, No DNSSEC |
 | [pi-dns.com](https://pi-dns.com) | https://doh.centraleu.pi-dns.com/dns-query <br> https://doh.northeu.pi-dns.com/dns-query <br> https://doh.westus.pi-dns.com/dns-query <br> https://doh.eastus.pi-dns.com/dns-query | Public ad-blocking DNS service built on Pi-hole that support DNS over HTTPS (DoH) and DNS over TLS (DoT). |
-| [dns.flatuslifir.is] |  https://dns.flatuslifir.is/dns-query | Public adblock server that supports DoT & DoH for fun and learning, no logging, supports DNSSEC,  qname-minimisation, ECS is not enabled. Located in Iceland, built on pihole, nginx, unbound, m13253/DNS-over-HTTPS |
+| dns.flatuslifir.is |  https://dns.flatuslifir.is/dns-query | Public adblock server that supports DoT & DoH for fun and learning, no logging, supports DNSSEC,  qname-minimisation, ECS is not enabled. Located in Iceland, built on pihole, nginx, unbound, m13253/DNS-over-HTTPS |
 
 
 # Supported in browsers and clients
