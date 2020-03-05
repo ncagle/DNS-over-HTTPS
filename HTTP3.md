@@ -4,13 +4,15 @@ HTTP/3 support (**experimental**) has landed in master. We encourage you to buil
 
 [Instructions](https://github.com/curl/curl/blob/master/docs/HTTP3.md)
 
-## h3-25
+## h3-27
 
-As of January 30, 2020 curl speaks h3-25 with either backend.
+As of March, 2020 curl speaks h3-27 with either backend.
 
 ## Still doesn't work
 
 (mostly because enough time and effort hasn't been put into it yet)
+
+- certificates (we need to make sure the checks work and can be disabled like before, that we can provide custom certs like for other connections and we need show cert info in the verbose output like "normally")
 
 - multiplexing (for quiche, a new API has been provided to map streams to `Curl_easy *`)
 - push
