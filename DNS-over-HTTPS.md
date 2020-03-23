@@ -12,7 +12,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 |-------------|----------|---------|
 | [AdGuard](https://adguard.com/en/adguard-dns/overview.html)     | Default: https://dns.adguard.com/dns-query <br> Family protection: https://dns-family.adguard.com/dns-query <br> | Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. 
 | Google      | https://dns.google/dns-query | Full RFC 8484 support
-| [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br> also available via [Tor onion service](https://blog.cloudflare.com/welcome-hidden-resolver)| Supports both -04 and -13 content-types
+| [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br> also available via [Tor onion service](https://blog.cloudflare.com/welcome-hidden-resolver) <br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query | Supports both -04 and -13 content-types
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/)       | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query| Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
 | Cisco Umbrella/OpenDNS | https://doh.opendns.com/dns-query | Experimental, No DNSSEC
 | CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
