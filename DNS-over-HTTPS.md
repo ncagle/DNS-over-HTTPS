@@ -56,6 +56,11 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [pi-dns.com](https://pi-dns.com) | https://doh.centraleu.pi-dns.com/dns-query <br> https://doh.northeu.pi-dns.com/dns-query <br> https://doh.westus.pi-dns.com/dns-query <br> https://doh.eastus.pi-dns.com/dns-query | Public ad-blocking DNS service built on Pi-hole that support DNS over HTTPS (DoH) and DNS over TLS (DoT). |
 | dns.flatuslifir.is |  https://dns.flatuslifir.is/dns-query | Public adblock server that supports DoT & DoH for fun and learning, no logging, supports DNSSEC,  qname-minimisation, ECS is not enabled. Located in Iceland, built on pihole, nginx, unbound, m13253/DNS-over-HTTPS |
 
+# Private DNS Server with DoH setup examples
+| Base | Source | Comment |
+|-------------|----------|---------|
+| Docker | https://github.com/satishweb/docker-doh | Complete Docker stack using Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) and [Docker Flow Proxy](https://github.com/docker-flow/docker-flow-proxy)
+
 
 # Supported in browsers and clients
 
