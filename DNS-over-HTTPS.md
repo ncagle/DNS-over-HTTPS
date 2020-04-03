@@ -14,7 +14,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | Google      | https://dns.google/dns-query | Full RFC 8484 support
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br> also available via [Tor onion service](https://blog.cloudflare.com/welcome-hidden-resolver) <br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query | Supports both -04 and -13 content-types
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/)       | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query| Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
-| Cisco Umbrella/OpenDNS | https://doh.opendns.com/dns-query | Experimental, No DNSSEC
+| Cisco Umbrella/OpenDNS | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query | Experimental, DNSSEC
 | CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | Comcast | https://doh.xfinity.com/dns-query | Experimental, DNSSEC
 | Cox | https://dohdot.coxlab.net/dns-query | Experimental, No DNSSEC
@@ -55,6 +55,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | no logging, TLS 1.3, No DNSSEC |
 | [pi-dns.com](https://pi-dns.com) | https://doh.centraleu.pi-dns.com/dns-query <br> https://doh.northeu.pi-dns.com/dns-query <br> https://doh.westus.pi-dns.com/dns-query <br> https://doh.eastus.pi-dns.com/dns-query | Public ad-blocking DNS service built on Pi-hole that support DNS over HTTPS (DoH) and DNS over TLS (DoT). |
 | dns.flatuslifir.is |  https://dns.flatuslifir.is/dns-query | Public adblock server that supports DoT & DoH for fun and learning, no logging, supports DNSSEC,  qname-minimisation, ECS is not enabled. Located in Iceland, built on pihole, nginx, unbound, m13253/DNS-over-HTTPS |
+| [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: https://private.canadianshield.cira.ca/dns-query <br> Protected: https://protected.canadianshield.cira.ca/dns-query <br> Family: https://family.canadianshield.cira.ca/dns-query | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
 
 # Private DNS Server with DoH setup examples
 | Base | Source | Comment |
