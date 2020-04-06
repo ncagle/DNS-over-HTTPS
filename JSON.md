@@ -57,7 +57,7 @@ keys should always be lower-cased:
         "etag": "....",
     }
 
-## `--write-out-json`
+## `--write-out '%{json}`
 
 Writes all the supported --write-out variables in the form of a JSON object.  Something like:
 
