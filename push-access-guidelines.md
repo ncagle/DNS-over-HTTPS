@@ -184,3 +184,7 @@ git branch -D temp
 ~~~
 
 The result in this case is [895168b](https://github.com/curl/curl/commit/895168b)
+
+## Helpful references
+
+[Git commands visualized](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
