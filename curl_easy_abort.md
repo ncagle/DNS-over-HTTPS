@@ -18,5 +18,5 @@ Trying to abort a non-participating transfer will only result in a
 A transfer that is successfully stopped by this function will return the
 `CURLE_ABORTED` (new) return code.
 
-Users if this function must take precautions to make sure that the handle
+Users of this function must take precautions to make sure that the handle
 itself is still valid when used in this function.
