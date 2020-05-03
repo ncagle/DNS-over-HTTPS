@@ -20,3 +20,7 @@ As of March, 2020 curl speaks h3-27 with either backend.
 - `CURLINFO_CONNECT_TIME_T` and `CURLINFO_APPCONNECT_TIME_T` don't work (at least with quiche) [#4516](https://github.com/curl/curl/issues/4516)
 
 If you find other things that don't work, add them here (with details) or [file them as an issue](https://github.com/curl/curl/issues)!
+
+## HTTP/3 tests
+
+We don't have any HTTP/3 testing at all in the test suite. One approach to get it going, is probably to use a h3<=>h1 proxy so that we can keep using `sws` for the backend HTTP contents etc. We have this setup working for h2.
