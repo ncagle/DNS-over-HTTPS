@@ -2,7 +2,7 @@ HTTP/3 support (**experimental**) has landed in master. We encourage you to buil
 
 ## Build instructions
 
-[Instructions](https://github.com/curl/curl/blob/master/docs/HTTP3.md)
+[Instructions](https://github.com/curl/curl/blob/master/docs/HTTP3.md) are in the source tree.
 
 ## h3-27
 
