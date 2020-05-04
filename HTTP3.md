@@ -24,3 +24,7 @@ If you find other things that don't work, add them here (with details) or [file 
 ## HTTP/3 tests
 
 We don't have any HTTP/3 testing at all in the test suite. One approach to get it going, is probably to use a h3<=>h1 proxy so that we can keep using `sws` for the backend HTTP contents etc. We have this setup working for h2.
+
+## qlog
+
+qlog is a common QUIC logging format and it would be helpful if curl could be told to output qlogs for easier QUIC level debugging.
