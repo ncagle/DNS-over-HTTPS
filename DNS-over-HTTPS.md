@@ -56,6 +56,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: https://private.canadianshield.cira.ca/dns-query <br> Protected: https://protected.canadianshield.cira.ca/dns-query <br> Family: https://family.canadianshield.cira.ca/dns-query | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | Also supports DoT and TLS 1.3, Does not support DNSSEC. Anycast servers. |
 | [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
+| [dnsforge.de](https://dnsforge.de/) | https://dnsforge.de/dns-query | No logging. Support DNSSEC. Hosted in Germany|
 
 # Private DNS Server with DoH setup examples
 | Base | Source | Comment |
