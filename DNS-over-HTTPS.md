@@ -57,6 +57,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | Also supports DoT and TLS 1.3, Does not support DNSSEC. Anycast servers. |
 | [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
 | [dnsforge.de](https://dnsforge.de/) | https://dnsforge.de/dns-query | No logging. Support DNSSEC. Hosted in Germany|
+| [Snopyta](https://snopyta.org/service/dns/) | https://fi.doh.dns.snopyta.org/dns-query | Non-logging DoH Server in Finland |
 
 # Private DNS Server with DoH setup examples
 | Base | Source | Comment |
