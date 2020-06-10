@@ -28,10 +28,6 @@ issue #4915 with a thread sanitizer (tsan) build.
 
 ## Solution?
 
-First, make some of the concepts more clear: https://github.com/curl/curl/pull/5009
-
-Then:
-
 When accessing data that is potentially used by more than one thread we need
 to mutex-lock.
 
