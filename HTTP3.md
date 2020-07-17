@@ -4,7 +4,7 @@ HTTP/3 support (**experimental**) has landed in master. We encourage you to buil
 
 [Instructions](https://github.com/curl/curl/blob/master/docs/HTTP3.md) are in the source tree.
 
-## h3-27
+## HTTP/3 draft version
 
 As of July, 2020 curl speaks h3-29 with either backend.
 
