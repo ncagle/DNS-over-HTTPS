@@ -6,7 +6,7 @@ HTTP/3 support (**experimental**) has landed in master. We encourage you to buil
 
 ## h3-27
 
-As of March, 2020 curl speaks h3-27 with either backend.
+As of July, 2020 curl speaks h3-29 with either backend.
 
 ## Still doesn't work
 
@@ -27,4 +27,4 @@ We don't have any HTTP/3 testing at all in the test suite. One approach to get i
 
 ## qlog
 
-qlog is a common QUIC logging format and it would be helpful if curl could be told to output qlogs for easier QUIC level debugging.
+qlog is a common QUIC logging format curl outputs them to the directory set in the `QLOGDIR` environment variable.
