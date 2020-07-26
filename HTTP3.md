@@ -17,7 +17,7 @@ As of July, 2020 curl speaks h3-29 with either backend.
 - multiplexing (for quiche, a new API has been provided to map streams to `Curl_easy *`)
 - push
 - trailers
-- `CURLINFO_CONNECT_TIME_T` and `CURLINFO_APPCONNECT_TIME_T` don't work (at least with quiche) [#4516](https://github.com/curl/curl/issues/4516)
+- `CURLINFO_APPCONNECT_TIME_T` doesn't work
 
 If you find other things that don't work, add them here (with details) or [file them as an issue](https://github.com/curl/curl/issues)!
 
