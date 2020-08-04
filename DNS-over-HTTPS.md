@@ -62,6 +62,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | DoH server in France. No logging, no filtering, DNSSEC support. |
 | [dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php) | https://dns.dnshome.de/dns-query | DoH Server in Germany. No logging, No filtering, DNSSEC and own DNS Resolver |
 | [wugui.zone](https://wugui.zone/archives/48.sghtml) | https://dns.wugui.zone/dns-query <br>https://dns-asia.wugui.zone/dns-query | DoH Server in Russia. No logging, No filtering |
+| [alekberg](https://alekberg.net) | Spain: https://dnses.alekberg.net/dns-query <br> Holland: https://dnsnl.alekberg.net/dns-query <br> Sweden: https://dnsse.alekberg.net/dns-query | DoH Servers in Spain, Holland and Sweden. No logging, no filtering, DNSSEC support.|
 
 # Private DNS Server with DoH setup examples
 | Base | Source | Comment |
