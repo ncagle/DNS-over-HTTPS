@@ -10,59 +10,77 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 
 | Who runs it | Base URL | Comment |
 |-------------|----------|---------|
-|[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
+| **A**
+|[aaflalo.me](https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/) | Server US: https://dns-nyc.aaflalo.me/dns-query <br> Server EU: https://dns.aaflalo.me/dns-query | Runs on Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) <br> Both servers check for DNSSEC and block advertising|
 | [AdGuard](https://adguard.com/en/adguard-dns/overview.html)     | Default: https://dns.adguard.com/dns-query <br> Family protection: https://dns-family.adguard.com/dns-query <br> | Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. 
-| Google      | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query | Full RFC 8484 support
-| [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br> also available via [Tor onion service](https://blog.cloudflare.com/welcome-hidden-resolver) <br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br> Block Malware: https://security.cloudflare-dns.com/dns-query <br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br> DNS64: https://dns64.cloudflare-dns.com/dns-query | Supports both -04 and -13 content-types
-| [Quad9](https://www.quad9.net/doh-quad9-dns-servers/)       | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query| Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
+|[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
+|[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
+| [alekberg](https://alekberg.net) | Spain: https://dnses.alekberg.net/dns-query <br> Holland: https://dnsnl.alekberg.net/dns-query <br> Sweden: https://dnsse.alekberg.net/dns-query | DoH Servers in Spain, Holland and Sweden. No logging, no filtering, DNSSEC support.|
+| [armadillodns.net](https://www.armadillodns.net/) | https://doh.armadillodns.net/dns-query | No source IP logging. |
+|[Association 42l](https://42l.fr) | https://doh.42l.fr/dns-query | DNSSEC, not logging queries' content, uses [doh-proxy](https://github.com/jedisct1/rust-doh) and [edgedns](https://github.com/jedisct1/edgedns) for caching. Queries proxied randomly through [FFDN](https://www.ffdn.org/) members' open DNS resolvers (French ISPs committing for net neutrality).
+| **B**
+| blahdns.com | Finland: https://doh-fi.blahdns.com/dns-query <br> Japan: https://doh-jp.blahdns.com/dns-query <br> Germany: https://doh-de.blahdns.com/dns-query | Based on [Go implementation](https://github.com/m13253/dns-over-https), knot-resolver, Unbound with DNSSEC, No ECS, No logs, Adsblock
+| [blockerDNS](https://blockerdns.com/) | https://example.doh.blockerdns.com/dns-query | DNS-based ad-blocking service; One-man operation; ZERO IP and DNS query logging for DoH and DoT. **Charges 99c per month** for https DOH service |
+| **C**
+| [captnemo.in](https://captnemo.in) | https://doh.captnemo.in/dns-query | Runs [dnss](https://blitiri.com.ar/git/r/dnss/) with local unbound resolver running [DNSCrypt](https://captnemo.in/dnscrypt/) with DNSSEC support as the upstream. [Privacy Policy](https://captnemo.in/dns/privacy/). More details at <https://captnemo.in/doh/>. No logging or filtering. Runs in Bangalore, India | 
+| [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: https://private.canadianshield.cira.ca/dns-query <br> Protected: https://protected.canadianshield.cira.ca/dns-query <br> Family: https://family.canadianshield.cira.ca/dns-query | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
 | [Cisco Umbrella/OpenDNS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query | DNSSEC, Anycast
 | CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
+| [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br> also available via [Tor onion service](https://blog.cloudflare.com/welcome-hidden-resolver) <br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br> Block Malware: https://security.cloudflare-dns.com/dns-query <br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br> DNS64: https://dns64.cloudflare-dns.com/dns-query | Supports both -04 and -13 content-types
 | Comcast | https://doh.xfinity.com/dns-query | Experimental, DNSSEC
+| Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
+| ContainerPI | Unfiltered by Cloudflare:<br>https://dns.containerpi.com/dns-query <br>Filtered by CleanBrowsing, blocks adult content:<br>https://dns.containerpi.com/doh/family-filter/ <br>Filtered, blocks malicious domains only:<br>https://dns.containerpi.com/doh/secure-filter/ | Based on [m13253/DNS-over-HTTPS](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled. Multiple nodes in `China Mainland(limited)`, `China Taiwan`, `Japan`, `South Korea`, `India`, `Germany`, `România`, `Russia`, `USA` and `Brazil`. |
 | Cox | https://dohdot.coxlab.net/dns-query | Experimental, No DNSSEC
 | [CZ.NIC](https://www.nic.cz) | https://odvr.nic.cz/doh | Experimental, using [Knot Resolver](https://www.knot-resolver.cz/)
+| **D**
+| [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) | https://dns.digitale-gesellschaft.ch/dns-query | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
+| dns.flatuslifir.is |  https://dns.flatuslifir.is/dns-query | Public adblock server that supports DoT & DoH for fun and learning, no logging, supports DNSSEC,  qname-minimisation, ECS is not enabled. Located in Iceland, built on pihole, nginx, unbound, m13253/DNS-over-HTTPS |
+| [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query | DNSSEC enabled |
+| [dnsforge.de](https://dnsforge.de/) | https://dnsforge.de/dns-query | No logging. Support DNSSEC. Hosted in Germany|
+| [dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php) | https://dns.dnshome.de/dns-query | DoH Server in Germany. No logging, No filtering, DNSSEC and own DNS Resolver |
 | [DNSlify](https://www.dnslify.com) | https://doh.dnslify.com/dns-query | Anycast, No Logging, Own Recursion, Strict Privacy Policy.
+| [doh.li](https://doh.li)| https://doh.li/dns-query | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock not currently enabled. |
+| **F**
+| [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
+| ffmuc.net | https://doh.ffmuc.net/dns-query | DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
+| [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
+| **G**
+| Google      | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query | Full RFC 8484 support
+| **H**
+| [Hostux.net](https://dns.hostux.net) | Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
+| [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | Also supports DoT and TLS 1.3, Does not support DNSSEC. Anycast servers. |
+| **J**
+| [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell. |
+| [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| No Censorship, No Logging, No ECS, support DNSSEC in Japan |
+| **L**
+| [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | DoH server in France. No logging, no filtering, DNSSEC support. |
+| [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | no logging, TLS 1.3, No DNSSEC |
+| **N**
 | [nextdns.io](https://nextdns.io) | https://dns.nextdns.io/<config_id><br>[Create a config ID](https://my.nextdns.io/start) | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
+| NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
+| **P**
+| [pi-dns.com](https://pi-dns.com) | https://doh.pi-dns.com/dns-query <br> https://doh.centraleu.pi-dns.com/dns-query <br> https://doh.northeu.pi-dns.com/dns-query <br> https://doh.westus.pi-dns.com/dns-query <br> https://doh.eastus.pi-dns.com/dns-query <br> https://doh.eastau.pi-dns.com/dns-query <br> https://doh.eastas.pi-dns.com/dns-query | A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. DNSSEC, TLS 1.3 |
+| PowerDNS  | https://doh.powerdns.org | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
+| **Q**
+| [Quad9](https://www.quad9.net/doh-quad9-dns-servers/)       | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query| Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
+| **R**
+| Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
+| **S**
+| [Snopyta](https://snopyta.org/service/dns/) | https://fi.doh.dns.snopyta.org/dns-query | Non-logging DoH Server in Finland |
+| [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
+| **T**
+| [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
+| [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
+| **W**
+| [wugui.zone](https://wugui.zone/archives/48.sghtml) | https://dns.wugui.zone/dns-query <br>https://dns-asia.wugui.zone/dns-query | DoH Server in Russia. No logging, No filtering |
+| **@#$%**
 | @chantra    | https://dns.dnsoverhttps.net/dns-query | "toy server" which runs [doh-proxy](https://github.com/facebookexperimental/doh-proxy) |
 | @jedisct1  | https://doh.crypto.sx/dns-query | a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
-| PowerDNS  | https://doh.powerdns.org | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
-| blahdns.com | Finland: https://doh-fi.blahdns.com/dns-query <br> Japan: https://doh-jp.blahdns.com/dns-query <br> Germany: https://doh-de.blahdns.com/dns-query | Based on [Go implementation](https://github.com/m13253/dns-over-https), knot-resolver, Unbound with DNSSEC, No ECS, No logs, Adsblock
-| ffmuc.net | https://doh.ffmuc.net/dns-query | DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
-| NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
-| Rubyfish.cn | https://dns.rubyfish.cn/dns-query | East China Zone, Based on https://github.com/m13253/dns-over-https |
-| ContainerPI | Unfiltered by Cloudflare:<br>https://dns.containerpi.com/dns-query <br>Filtered by CleanBrowsing, blocks adult content:<br>https://dns.containerpi.com/doh/family-filter/ <br>Filtered, blocks malicious domains only:<br>https://dns.containerpi.com/doh/secure-filter/ | Based on [m13253/DNS-over-HTTPS](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled. Multiple nodes in `China Mainland(limited)`, `China Taiwan`, `Japan`, `South Korea`, `India`, `Germany`, `România`, `Russia`, `USA` and `Brazil`. |
-| @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query https://doh.seby.io:8443/dns-query | Australian server that runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), Unbound with DNSSEC, No ECS, and No logs
-| Commons Host | https://commons.host | ~20 PoPs worldwide, Node.js/[playdoh](https://github.com/qoelet/playdoh) over [Knot Resolver](https://www.knot-resolver.cz). |
-|[aaflalo.me](https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/) | Server US: https://dns-nyc.aaflalo.me/dns-query <br> Server EU: https://dns.aaflalo.me/dns-query | Runs on Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) <br> Both servers check for DNSSEC and block advertising|
-| [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
-| [captnemo.in](https://captnemo.in) | https://doh.captnemo.in/dns-query | Runs [dnss](https://blitiri.com.ar/git/r/dnss/) with local unbound resolver running [DNSCrypt](https://captnemo.in/dnscrypt/) with DNSSEC support as the upstream. [Privacy Policy](https://captnemo.in/dns/privacy/). More details at <https://captnemo.in/doh/>. No logging or filtering. Runs in Bangalore, India | 
-| [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
-| [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query | DNSSEC enabled |
-| [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
-| [doh.li](https://doh.li)| https://doh.li/dns-query | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock not currently enabled. |
-| [armadillodns.net](https://www.armadillodns.net/) | https://doh.armadillodns.net/dns-query | No source IP logging. |
-| [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| No Censorship, No Logging, No ECS, support DNSSEC in Japan |
-|[Association 42l](https://42l.fr) | https://doh.42l.fr/dns-query | DNSSEC, not logging queries' content, uses [doh-proxy](https://github.com/jedisct1/rust-doh) and [edgedns](https://github.com/jedisct1/edgedns) for caching. Queries proxied randomly through [FFDN](https://www.ffdn.org/) members' open DNS resolvers (French ISPs committing for net neutrality).
-| [Hostux.net](https://dns.hostux.net) | Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
-|[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))
-|[@matthewgall - mydns.network](https://twitter.com/matthewgall) | https://adblock.mydns.network/dns-query (adblock, using PiHole) | no logging, DNSSEC enforcing, DDoS protected (using Spectrum by Cloudflare), anycast)
 | [ibksturm.synology.me](https://ibksturm.synology.me)| https://ibksturm.synology.me/dns-query | doh-server (nginx - dnsproxy - unbound), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy Hosted in Switzerland by ibksturm, aka Andreas Ziegler. |
-| [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell. |
+|[@matthewgall - mydns.network](https://twitter.com/matthewgall) | https://adblock.mydns.network/dns-query (adblock, using PiHole) | no logging, DNSSEC enforcing, DDoS protected (using Spectrum by Cloudflare), anycast)
 | [@null31](http://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | Brazilian server that runs [dnsdist](https://dnsdist.org/), [Unbound](https://nlnetlabs.nl/projects/unbound/about/) with DNSSEC doing recursion with no upstream servers, QNAME minimization, TLS 1.3, DoT, uncensored, no logging, no ECS, hosted on Google Cloud VPS by [null31](https://github.com/null31). Toy server -- may fail. |
-| [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
-| [blockerDNS](https://blockerdns.com/) | https://example.doh.blockerdns.com/dns-query | DNS-based ad-blocking service; One-man operation; ZERO IP and DNS query logging for DoH and DoT. **Charges 99c per month** for https DOH service |
-| [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) | https://dns.digitale-gesellschaft.ch/dns-query | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
-| [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | no logging, TLS 1.3, No DNSSEC |
-| [pi-dns.com](https://pi-dns.com) | https://doh.pi-dns.com/dns-query <br> https://doh.centraleu.pi-dns.com/dns-query <br> https://doh.northeu.pi-dns.com/dns-query <br> https://doh.westus.pi-dns.com/dns-query <br> https://doh.eastus.pi-dns.com/dns-query <br> https://doh.eastau.pi-dns.com/dns-query <br> https://doh.eastas.pi-dns.com/dns-query | A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. DNSSEC, TLS 1.3 |
-| dns.flatuslifir.is |  https://dns.flatuslifir.is/dns-query | Public adblock server that supports DoT & DoH for fun and learning, no logging, supports DNSSEC,  qname-minimisation, ECS is not enabled. Located in Iceland, built on pihole, nginx, unbound, m13253/DNS-over-HTTPS |
-| [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: https://private.canadianshield.cira.ca/dns-query <br> Protected: https://protected.canadianshield.cira.ca/dns-query <br> Family: https://family.canadianshield.cira.ca/dns-query | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
-| [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | Also supports DoT and TLS 1.3, Does not support DNSSEC. Anycast servers. |
-| [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
-| [dnsforge.de](https://dnsforge.de/) | https://dnsforge.de/dns-query | No logging. Support DNSSEC. Hosted in Germany|
-| [Snopyta](https://snopyta.org/service/dns/) | https://fi.doh.dns.snopyta.org/dns-query | Non-logging DoH Server in Finland |
-| [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | DoH server in France. No logging, no filtering, DNSSEC support. |
-| [dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php) | https://dns.dnshome.de/dns-query | DoH Server in Germany. No logging, No filtering, DNSSEC and own DNS Resolver |
-| [wugui.zone](https://wugui.zone/archives/48.sghtml) | https://dns.wugui.zone/dns-query <br>https://dns-asia.wugui.zone/dns-query | DoH Server in Russia. No logging, No filtering |
-| [alekberg](https://alekberg.net) | Spain: https://dnses.alekberg.net/dns-query <br> Holland: https://dnsnl.alekberg.net/dns-query <br> Sweden: https://dnsse.alekberg.net/dns-query | DoH Servers in Spain, Holland and Sweden. No logging, no filtering, DNSSEC support.|
+| @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query https://doh.seby.io:8443/dns-query | Australian server that runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), Unbound with DNSSEC, No ECS, and No logs|
+
 
 # Private DNS Server with DoH setup examples
 | Base | Source | Comment |
