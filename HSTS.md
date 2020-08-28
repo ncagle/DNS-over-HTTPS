@@ -6,7 +6,7 @@ Spec: [HTTP Strict Transport Security](https://tools.ietf.org/html/rfc6797)
 
 We introduce an in-memory cache for HSTS hosts, so that subsequent HTTP-only requests to a host name present in the cache will get internally "redirected" to the HTTPS version.
 
-There needs to be an option to opt out when working with wrongly configured systems.
+There needs to be an option to opt out when working with wrongly configured systems. Or possibly an opt in to remain true to the spirit of curl only doing the basics until told otherwise.
 
 ## On-disk cache
 
