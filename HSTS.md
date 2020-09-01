@@ -2,6 +2,10 @@
 
 Spec: [HTTP Strict Transport Security](https://tools.ietf.org/html/rfc6797)
 
+## Work-In-Progress
+
+https://github.com/curl/curl/pull/5896
+
 ## Behavior
 
 We introduce an in-memory cache for HSTS hosts, so that subsequent HTTP-only requests to a host name present in the cache will get internally "redirected" to the HTTPS version.
