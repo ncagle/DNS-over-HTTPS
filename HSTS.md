@@ -15,6 +15,7 @@ We introduce an in-memory cache for HSTS hosts, so that subsequent HTTP-only req
  - `CURLOPT_HSTS` - enable HSTS for this easy handle
  - `CURLOPT_HSTS_PRELOAD` - provide a set of preloaded HSTS host names
  - `CURLOPT_HSTS_FILE` - specify file name where to store the HSTS cache on close (and possibly read from at startup)
+ - Should we consider ability to save to something else than a file?
 
 ## curl cmdline options
 
