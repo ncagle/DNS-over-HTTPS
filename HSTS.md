@@ -29,3 +29,5 @@ For each hsts entry:
 
 `SUB` means `includeSubDomains` was used for the name.
 The time stamp is when the entry expires.
+
+I considered using wget's file format for the HSTS cache. However, they store the time stamp as the epoch (number of seconds since 1970) and I strongly disagree with using that format. Instead I opted to use a format similar to the curl alt-svc cache file format.
