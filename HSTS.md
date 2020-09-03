@@ -20,3 +20,12 @@ We introduce an in-memory cache for HSTS hosts, so that subsequent HTTP-only req
 ## curl cmdline options
 
  - `--hsts [filename]` - enable HSTS, use the file as HSTS cache. If filename is `""` (no length) then no file will be used, only in-memory cache.
+
+## HSTS cache file format
+
+For each hsts entry:
+
+    [host name] [SUB/-] "YYYYMMDD HH:MM:SS"
+
+`SUB` means `includeSubDomains` was used for the name.
+The time stamp is when the entry expires.
