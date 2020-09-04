@@ -23,6 +23,8 @@ We introduce an in-memory cache for HSTS hosts, so that subsequent HTTP-only req
 
 ## HSTS cache file format
 
+Lines starting with `#` are ignored.
+
 For each hsts entry:
 
     [host name] "YYYYMMDD HH:MM:SS"
