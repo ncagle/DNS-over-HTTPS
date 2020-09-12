@@ -33,7 +33,44 @@ The time stamp is when the entry expires.
 
 I considered using wget's file format for the HSTS cache. However, they store the time stamp as the epoch (number of seconds since 1970) and I strongly disagree with using that format. Instead I opted to use a format similar to the curl alt-svc cache file format.
 
-## Possible future additions
+# Possible future
 
- - `CURLOPT_HSTS_PRELOAD` - provide a set of preloaded HSTS host names
+ - provide a set of preloaded HSTS host names
  - ability to save to something else than a file
+
+~~~c
+struct curl_hstsentry
+{
+   char *buf;
+   size_t buflen;
+   bool includeSubDomain;
+};
+
+/*
+ * CURLOPT_HSTSREADFUNCTION
+ * gets called repeatedly by libcurl to populate the in-memory HSTS cache.
+ *
+ * Copy the name to 'buf' (no longer than buflen bytes).
+ * Set 'buflen' to the length of the name
+ * Set 'includeSubDomain' to TRUE or FALSE.
+ *
+ * Return codes:
+ * CURLSTS_AGAIN - call the function again
+ * CURLSTS_DONE - this was the last entry
+ * CURLSTS_FAIL - major problem, abort the transfer now
+ */
+CURLSTScode hstsread(CURL *easy, struct curl_hstsentry *sts, void *userp);
+
+/*
+ * CURLOPT_HSTSWRITEFUNCTION
+ * gets called repeatedly by libcurl to save the HSTS cache on closure.
+ *
+ * Copy the name from 'buf' (buflen bytes).
+ * Clone the 'includeSubDomain' status
+ *
+ * Return codes:
+ * CURLSTS_AGAIN - call the function again
+ * CURLSTS_DONE - this was the last entry
+ * CURLSTS_FAIL - major problem, no more HSTS entries will be saved
+ */
+CURLSTScode hstswrite(CURL *easy, struct curl_hstsentry *sts, void *userp);
