@@ -68,9 +68,13 @@ CURLSTScode hstsread(CURL *easy, struct curl_hstsentry *sts, void *userp);
  * Copy the name from 'buf' (buflen bytes).
  * Clone the 'includeSubDomain' status
  *
+ * if 'flags & CURLSTS_FLAG_LASTONE` equals true, this is the last callback
+ * in this save "round".
+ *
  * Return codes:
  * CURLSTS_AGAIN - call the function again (if there are more entries)
  * CURLSTS_DONE - don't call the callback again
  * CURLSTS_FAIL - major problem, no more HSTS entries will be saved
  */
-CURLSTScode hstswrite(CURL *easy, struct curl_hstsentry *sts, void *userp);
+CURLSTScode hstswrite(CURL *easy, struct curl_hstsentry *sts,
+                      unsigned int flags, void *userp);
