@@ -41,8 +41,8 @@ I considered using wget's file format for the HSTS cache. However, they store th
 ~~~c
 struct curl_hstsentry
 {
-   char *buf;
-   size_t buflen;
+   char *name;
+   size_t namelen;
    bool includeSubDomain;
    char expire[18]; /* YYYYMMDD HH:MM:SS [null-terminated] */
 };
@@ -51,8 +51,8 @@ struct curl_hstsentry
  * CURLOPT_HSTSREADFUNCTION
  * gets called repeatedly by libcurl to populate the in-memory HSTS cache.
  *
- * Copy the name to 'buf' (no longer than buflen bytes).
- * Set 'buflen' to the length of the name
+ * Copy the host name to 'name' (no longer than namelen bytes).
+ * Set 'namelen' to the actual length of the stored name
  * Set 'includeSubDomain' to TRUE or FALSE.
  * Set 'expire' to a date stamp or a zero length string for *forever*
  * (wrong date stamp format might cause the name to not get accepted)
@@ -68,7 +68,7 @@ CURLSTScode hstsread(CURL *easy, struct curl_hstsentry *sts, void *userp);
  * CURLOPT_HSTSWRITEFUNCTION
  * gets called repeatedly by libcurl to save the HSTS cache on closure.
  *
- * Copy the name from 'buf' (buflen bytes).
+ * Copy the host name from 'name' (namelen bytes).
  * Clone the 'includeSubDomain' status
  * Copy or parse the 'expire' timestamp (which might be a zero string if
  * previously set to *forever*)
