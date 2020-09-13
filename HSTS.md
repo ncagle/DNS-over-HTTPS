@@ -44,6 +44,7 @@ struct curl_hstsentry
    char *buf;
    size_t buflen;
    bool includeSubDomain;
+   char expire[18]; /* YYYYMMDD HH:MM:SS [null-terminated] */
 };
 
 /*
@@ -53,6 +54,8 @@ struct curl_hstsentry
  * Copy the name to 'buf' (no longer than buflen bytes).
  * Set 'buflen' to the length of the name
  * Set 'includeSubDomain' to TRUE or FALSE.
+ * Set 'expire' to a date stamp or a zero length string for *forever*
+ * (wrong date stamp format might cause the name to not get accepted)
  *
  * Return codes:
  * CURLSTS_AGAIN - call the function again
@@ -67,6 +70,8 @@ CURLSTScode hstsread(CURL *easy, struct curl_hstsentry *sts, void *userp);
  *
  * Copy the name from 'buf' (buflen bytes).
  * Clone the 'includeSubDomain' status
+ * Copy or parse the 'expire' timestamp (which might be a zero string if
+ * previously set to *forever*)
  *
  * if 'flags & CURLSTS_FLAG_LASTONE` equals true, this is the last callback
  * in this save "round".
