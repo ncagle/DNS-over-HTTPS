@@ -47,11 +47,17 @@ struct curl_hstsentry
    char expire[18]; /* YYYYMMDD HH:MM:SS [null-terminated] */
 };
 
+struct curl_index
+{
+   size_t index; /* the provided entry's "index" or count */
+   size_t total; /* total number of entries to save */
+};
+
 /*
  * CURLOPT_HSTSREADFUNCTION
  * gets called repeatedly by libcurl to populate the in-memory HSTS cache.
  *
- * Copy the host name to 'name' (no longer than namelen bytes).
+ * Copy the host name to 'name' (no longer than 'namelen' bytes).
  * Set 'namelen' to the actual length of the stored name
  * Set 'includeSubDomain' to TRUE or FALSE.
  * Set 'expire' to a date stamp or a zero length string for *forever*
@@ -73,8 +79,8 @@ CURLSTScode hstsread(CURL *easy, struct curl_hstsentry *sts, void *userp);
  * Copy or parse the 'expire' timestamp (which might be a zero string if
  * previously set to *forever*)
  *
- * if 'flags & CURLSTS_FLAG_LASTONE` equals true, this is the last callback
- * in this save "round".
+ * 'index' points to a struct with information about each entry and the
+ * expected total amount to get save using this callback.
  *
  * Return codes:
  * CURLSTS_AGAIN - call the function again (if there are more entries)
@@ -82,4 +88,4 @@ CURLSTScode hstsread(CURL *easy, struct curl_hstsentry *sts, void *userp);
  * CURLSTS_FAIL - major problem, no more HSTS entries will be saved
  */
 CURLSTScode hstswrite(CURL *easy, struct curl_hstsentry *sts,
-                      unsigned int flags, void *userp);
+                      struct curl_index *index, void *userp);
