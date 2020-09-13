@@ -69,8 +69,8 @@ CURLSTScode hstsread(CURL *easy, struct curl_hstsentry *sts, void *userp);
  * Clone the 'includeSubDomain' status
  *
  * Return codes:
- * CURLSTS_AGAIN - call the function again
- * CURLSTS_DONE - this was the last entry
+ * CURLSTS_AGAIN - call the function again (if there are more entries)
+ * CURLSTS_DONE - don't call the callback again
  * CURLSTS_FAIL - major problem, no more HSTS entries will be saved
  */
 CURLSTScode hstswrite(CURL *easy, struct curl_hstsentry *sts, void *userp);
