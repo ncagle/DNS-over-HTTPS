@@ -6,6 +6,9 @@ Spec: [HTTP Strict Transport Security](https://tools.ietf.org/html/rfc6797)
 
 https://github.com/curl/curl/pull/5896
 
+(What is described in this wiki page is supposedly matching the code and docs in the PR. It means that we will eventually remove this
+wiki page and instead refer to code and docs in the source tree.)
+
 ## Behavior
 
 We introduce an in-memory cache for HSTS hosts, so that subsequent HTTP-only requests to a host name present in the cache will get internally "redirected" to the HTTPS version.
