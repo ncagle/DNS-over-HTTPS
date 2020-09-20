@@ -54,7 +54,7 @@ struct curl_index
 };
 
 typedef enum {
-  CURLSTS_AGAIN,
+  CURLSTS_OK,
   CURLSTS_DONE,
   CURLSTS_FAIL
 } CURLSTScode;
@@ -70,8 +70,8 @@ typedef enum {
  * (wrong date stamp format might cause the name to not get accepted)
  *
  * Return codes:
- * CURLSTS_AGAIN - call the function again
- * CURLSTS_DONE - this was the last entry
+ * CURLSTS_OK - call the function again
+ * CURLSTS_DONE - done, no more entries
  * CURLSTS_FAIL - major problem, abort the transfer now
  * [others] - all other return codes are reserved for future use
  */
@@ -90,7 +90,7 @@ CURLSTScode hstsread(CURL *easy, struct curl_hstsentry *sts, void *userp);
  * expected total amount to get save using this callback.
  *
  * Return codes:
- * CURLSTS_AGAIN - call the function again (if there are more entries)
+ * CURLSTS_OK - call the function again (if there are more entries)
  * CURLSTS_DONE - don't call the callback again
  * CURLSTS_FAIL - major problem, no more HSTS entries will be saved
  * [others] - all other return codes are reserved for future use
