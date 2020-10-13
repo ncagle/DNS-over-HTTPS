@@ -50,7 +50,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [Hostux.net](https://dns.hostux.net) | Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | Also supports DoT and TLS 1.3, Does not support DNSSEC. Anycast servers. |
 | **J**
-| [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell. |
+| [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell. **DOES NOT SEEM TO BE WORKING (ANYMORE)** |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 | **L**
 | [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | DoH server in France. No logging, no filtering, DNSSEC support. |
