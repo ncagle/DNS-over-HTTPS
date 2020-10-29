@@ -1,1 +1,1 @@
-https://curl.haxx.se.uk/
+https://curl.haxx.se/
