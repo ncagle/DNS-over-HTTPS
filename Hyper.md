@@ -12,10 +12,11 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 ## October 30, 2020
 
+- I can run curl's test case 1 with CH! I only modified it slightly to use lowercase headers and CRLF newlines for the response headers.
 - With Sean's new updates and a cleanup of my code, I got rid of the memory leaks when I run my test command line with CH against my local Apache. Success!
 - I made use of the new API to extract the HTTP version from the response. Used to create the status-line to send in the first header callback
 
-Sean works on two new things for me:
+Sean works on a new API for me:
  1. an API to extract the "status message", the text that is last on the first line of a HTTP/1.x response
 
 Outstanding issues to ponder about:
