@@ -23,7 +23,7 @@ Outstanding issues to ponder about:
 
 ### Case of incoming headers
 
-Hyper lowercases them. libcurl passed them on as-is.
+~~Hyper lowercases them. libcurl passed them on as-is.~~ This is fixed!
 
 ### CRLF headers
 
