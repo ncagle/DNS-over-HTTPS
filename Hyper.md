@@ -2,7 +2,7 @@
 
 Also known as curl+hyper. Or CH.
 
-Pull-request: https://github.com/curl/curl/pull/6110
+Pull-requests: [curl](https://github.com/curl/curl/pull/6110) and [Hyper](https://github.com/hyperium/hyper/pull/2278)
 
 Explanatory blog post: [rust in curl with hyper](https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/)
 
