@@ -10,6 +10,10 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 2, 2020
+
+CH works fine to fetch `https://curl.haxx.se/` too, as long as I force it to speak HTTP/1.1 only - curl will default to HTTP/2 but so far I can't tell Hyper that...
+
 ## October 30, 2020
 
 - I can run curl's test case 1 with CH! I only modified it slightly to use CRLF newlines for the response headers.
