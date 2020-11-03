@@ -12,7 +12,7 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 ## November 3, 2020
 
-- The travis CI job for Hyper ran green!
+- The travis CI job for CH ran green!
 
 ## November 2, 2020
 
