@@ -10,6 +10,10 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 3, 2020
+
+- The travis CI job for Hyper ran green!
+
 ## November 2, 2020
 
 - I'm adding a CI job to travis to build with Hyper and run test case 1 (with valgrind)
