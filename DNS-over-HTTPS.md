@@ -54,7 +54,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | :heavy_multiplication_x:| secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell.  |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 | **L**
-| [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. No logging, no filtering, no ECS, DNSSEC support. |
+| [LavaDNS](https://dns.lavate.ch/) | USA: https://us1.dns.lavate.ch/dns-query, Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in USA and Finland. No logging, no filtering, no ECS, DNSSEC support. |
 | [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | :heavy_multiplication_x: | DoH server in France. No logging, no filtering, DNSSEC support. |
 | [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
 | **N**
