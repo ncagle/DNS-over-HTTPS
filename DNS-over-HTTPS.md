@@ -54,7 +54,8 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [jcdns.fun](https://jcdns.fun)| https://jcdns.fun/dns-query | :heavy_multiplication_x:| secure nginx, Non-Logged / Uncensored, hosted on Digital Ocean VPS by [jamesacampbell](https://github.com/jamesacampbell) AKA James Campbell.  |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 | **L**
-| [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | :heavy_multiplication_x:| DoH server in France. No logging, no filtering, DNSSEC support. |
+| [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. No logging, no filtering, no ECS, DNSSEC support. |
+| [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | :heavy_multiplication_x: | DoH server in France. No logging, no filtering, DNSSEC support. |
 | [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
 | **N**
 | [nextdns.io](https://nextdns.io) | https://dns.nextdns.io/<config_id><br>[Create a config ID](https://my.nextdns.io/start) | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free! Quite a fine-granular dashboard, the same account can be used for multiple devices with prefixes to easier track activities on the dashboard!
