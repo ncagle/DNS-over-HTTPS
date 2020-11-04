@@ -12,7 +12,7 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 ## November 3, 2020
 
-- "torture tests" on test case 1 brought up an interesting API issue
+- "torture tests" on test case 1 brought up an interesting API issue (which turned out to be me not understanding it)
 - Use the new API to enable H2 and now `curl https://curl.haxx.se` works as expected
 - The travis CI job for CH ran green!
 
