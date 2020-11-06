@@ -10,6 +10,13 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 6, 2020
+
+- in sync with the hyper-capi branch of November 4
+- fixed the torture test mistakes by making sure I use the API correctly
+- rebased the work on top of the HSTS stuff that landed the other day, although HSTS is not even close to working with Hyper builds yet
+
+
 ## November 3, 2020
 
 - "torture tests" on test case 1 brought up an interesting API issue (which turned out to be me not understanding it)
