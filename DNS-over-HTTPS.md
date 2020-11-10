@@ -83,7 +83,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [@null31](https://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | :heavy_check_mark: | Brazilian server that runs Nginx, [Unbound](https://nlnetlabs.nl/projects/unbound/about/) with DNSSEC doing recursion with no upstream servers, QNAME minimization, TLS 1.3, DoT, uncensored, no logging, no ECS, hosted on Oracle Cloud VPS by [null31](https://github.com/null31). |
 | @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query <br> https://doh.seby.io:8443/dns-query | :heavy_multiplication_x: <br> :heavy_check_mark: | Australian server that runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), Unbound with DNSSEC, No ECS, and No logs|
 
-*:Last tested via `curl --doh-url <RESOLVER_URI> http://google.com` in Singapore on 27/10/2020.
+*: Tested via `curl --doh-url <RESOLVER_URI> http://google.com`.
 
 # Private DNS Server with DoH setup examples
 | Base | Source | Comment |
