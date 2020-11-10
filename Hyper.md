@@ -25,7 +25,7 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 ## November 3, 2020
 
 - "torture tests" on test case 1 brought up an interesting API issue (which turned out to be me not understanding it)
-- Use the new API to enable H2 and now `curl https://curl.haxx.se` works as expected
+- Use the new API to enable H2 and now `curl https://curl.se` works as expected
 - The travis CI job for CH ran green!
 
 ## November 2, 2020
@@ -33,7 +33,7 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 - I'm adding a CI job to travis to build with Hyper and run test case 1 (with valgrind)
 - The debug callback is now called with all the outgoing request headers, matching default libcurl behavior
 - Custom provided headers are supported in the request 
-- CH works fine to fetch `https://curl.haxx.se/` too, as long as I force it to speak HTTP/1.1 only - curl will default to HTTP/2 but so far I can't tell Hyper that...
+- CH works fine to fetch `https://curl.se/` too, as long as I force it to speak HTTP/1.1 only - curl will default to HTTP/2 but so far I can't tell Hyper that...
 
 ## October 30, 2020
 
