@@ -10,6 +10,11 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 10, 2020
+
+- Added calls to `hyper_error_print()` for error cases
+- I got an issue with `HEAD` over HTTPS + h2 (probably a dupe of [hyper#2279](https://github.com/hyperium/hyper/issues/2279))
+
 ## November 6, 2020
 
 - in sync with the hyper-capi branch of November 4
