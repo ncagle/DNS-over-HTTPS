@@ -59,7 +59,7 @@ The way to PIN such certificates is either by storing the public key of the cert
 # Requirements
 
 This requires that libcurl in use was built with a TLS backend that supports
-1. [CURLOPT_CERTINFO](https://curl.haxx.se/libcurl/c/CURLOPT_CERTINFO.html)
+1. [CURLOPT_CERTINFO](https://curl.se/libcurl/c/CURLOPT_CERTINFO.html)
 2. key pinning support
 
 To ponder about is what curl should do when a libcurl is used without these super powers.
