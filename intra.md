@@ -1,0 +1,1 @@
+Salam dost lar intranyn taze kody yokmy
