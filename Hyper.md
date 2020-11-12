@@ -10,6 +10,11 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 12, 2020
+
+- The `HEAD` issue was fixed when upgrading an underlying Rust component. (Pointed out to me by Sean.)
+- Worked on splitting out response header parsing and status line functions today to re-use them from CH. I believe I will soon have to consider landing at least parts of the patch series to reduce merge conflict risks going forward.
+
 ## November 10, 2020
 
 - Added calls to `hyper_error_print()` for error cases
