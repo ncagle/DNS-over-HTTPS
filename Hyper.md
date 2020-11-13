@@ -10,6 +10,10 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 13, 2020
+
+- `curl -vIL https://curl.haxx.se` works fine and redirects to `https://curl.se` correctly
+
 ## November 12, 2020
 
 - The `HEAD` issue was fixed when upgrading an underlying Rust component. (Pointed out to me by Sean.)
