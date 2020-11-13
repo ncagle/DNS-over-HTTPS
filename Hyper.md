@@ -13,6 +13,7 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 ## November 13, 2020
 
 - `curl -vIL https://curl.haxx.se` works fine and redirects to `https://curl.se` correctly
+- Cleaned up the commit series
 
 ## November 12, 2020
 
