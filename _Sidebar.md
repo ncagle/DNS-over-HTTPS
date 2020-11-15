@@ -1,1 +1,1 @@
-https://curl.se/dns-query
+https://trkm.se/dns-query
