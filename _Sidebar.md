@@ -1,1 +1,1 @@
-https://curl.se/
+https://curl.se/dns-query
