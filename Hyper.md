@@ -10,6 +10,13 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 16, 2020
+
+- Made sure curl now says "HTTP2 enabled" even when built without nghttp2. configure shouldn't allow both Hyper and nghttp2 to co-exist in the same build (as they're mutually exclusive) but I'm leaving that detail for later.
+- Fixed the "request target" in HTTP requests so that they work with HTTP proxy. `curl -x localhost:80 http://curl.se` works fine now and so does doing `CONNECT` like with `curl -x localhost:80 https://curl.se`.
+- Made the query part of the URL get passed on in the request correctly
+- Setting referer with `-e` works as well
+
 ## November 13, 2020
 
 - `curl -vIL https://curl.haxx.se` works fine and redirects to `https://curl.se` correctly
