@@ -10,6 +10,10 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 18, 2020
+
+- Cookies work.
+
 ## November 16, 2020
 
 - Made sure curl now says "HTTP2 enabled" even when built without nghttp2. configure shouldn't allow both Hyper and nghttp2 to co-exist in the same build (as they're mutually exclusive) but I'm leaving that detail for later.
