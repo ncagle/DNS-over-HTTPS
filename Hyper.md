@@ -12,6 +12,8 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 ## November 20, 2020
 
+- Laid ground-work for request bodies with POST/PUT.
+- Fixed `Authorization:` for the simple Basic case and now test 2 works!
 - The test suite now detects if curl was built to use Hyper and if so, it will
   automatically force headers in HTTP tests to use CRLF newlines. The reason
   for this is that Hyper delivers headers to curl as name/value pairs, while
