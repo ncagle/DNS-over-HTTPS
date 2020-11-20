@@ -10,6 +10,18 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 20, 2020
+
+- The test suite now detects if curl was built to use Hyper and if so, it will
+  automatically force headers in HTTP tests to use CRLF newlines. The reason
+  for this is that Hyper delivers headers to curl as name/value pairs, while
+  the native HTTP engine provides the headers as-is. This means that a
+  non-hyper curl will save headers with the delivered newline while a Hyper
+  build always will save them with CRLF. By having the test code convert the
+  test cases on the fly, no test cases need to be adapted and I deem this to
+  be the change with the least friction that will now allow us to run the
+  "real" test suite with unmodified tests with CH.
+
 ## November 18, 2020
 
 - Cookies work.
