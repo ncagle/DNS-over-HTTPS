@@ -10,6 +10,21 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 23, 2020
+
+- 10 of the first 20 tests run OK.
+- Test 8 fails now because curl can't extract the "reason" from the status
+  line (the first) in the HTTP responses, because Hyper has no API that
+  provides it.
+- Turns out I hadn't fixed cookies. Did now. Test 6 and 7: OK
+- Fixed `Proxy-Connection: Keep-Alive` for proxies. Test 5: OK.
+- Found out that [Hyper always adds a space after the
+  colon](https://github.com/hyperium/hyper/pull/2278#pullrequestreview-536261198)
+  in outgoing HTTP request headers even if there's no value set in
+  them. libcurl does not do that, so now test 4 fails because CH has a space
+  too much in the requests! :-/
+- Made POSTs with CURLOPT_POSTFIELDS work. Test 1 - 3 work now!
+
 ## November 20, 2020
 
 - Laid ground-work for request bodies with POST/PUT.
