@@ -104,7 +104,7 @@ Outstanding issues to ponder about:
 
 curl deals with incoming HTTP responses headers using either LF or CRLF (or mixed) just fine and we have many test cases like that and with the right option curl will pass on the response as-is to the application. With Hyper I can only extract the headers without having a clue about the used newline so right now I "invent" CRLF separations when passing on the data to the application. It thus makes the content different and of different sizes for server responses using LF-only...
 
-Possible solution is to have a "hyper mode" for the HTTP test server and always deliver HTTP headers with CRLF then.
+The solution is to a "hyper mode" for the test suite. It detects when CH runs and makes sure to always deliver HTTP headers with CRLF.
 
 ## October 21, 2020
 
