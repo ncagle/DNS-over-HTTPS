@@ -90,7 +90,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | Base | Source | Comment |
 |-------------|----------|---------|
 | Docker | https://github.com/satishweb/docker-doh | Complete Docker stack using Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) and [Docker Flow Proxy](https://github.com/docker-flow/docker-flow-proxy)
-
+| Docker | https://github.com/coolquasar/dnsproxy | Complete DoH, DoT and DoQ stack in docker based on Adguard home dnsproxy project. Could host DoH,DoT and DoQ quickly in a cloud server, and run respective clients in local Docker env. It has been tested in Raspberry PI as well
 
 # Supported in browsers and clients
 
