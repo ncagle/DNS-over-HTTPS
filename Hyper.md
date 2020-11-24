@@ -18,8 +18,8 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 | 4    | Trailing space after header with no content (API flaw) |
 | 5 - 7| OK |
 | 8    | The HTTP/1 status line "reason" is missing (API flaw) |
-| 9    | multipart formposting is not supported yet |
-| 10   | PUT upload is not supported yet |
+| 9    | multipart formposting is only partially supported |
+| 10   | PUT upload is only partially supported |
 
 
 
