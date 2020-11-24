@@ -10,6 +10,20 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 24, 2020
+
+| Test | Status |
+|------|--------|
+| 1 - 3|  OK |
+| 4    | Trailing space after header with no content (API flaw) |
+| 5 - 7| OK |
+| 8    | The HTTP/1 status line "reason" is missing (API flaw) |
+| 9    | multipart formposting is not supported yet |
+| 10   | PUT upload is not supported yet |
+
+
+
+
 ## November 23, 2020
 
 - 10 of the first 20 tests run OK.
