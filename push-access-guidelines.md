@@ -25,6 +25,10 @@ We use a linear history, do not push merge commits on master. Instead, when you 
 ## You are the Committer of *anything* you push
 
 The person who did the work in a commit must be set in that commit as the *Author*. The person who pushes that commit to the repo must be set in that commit as the *Committer*. In this way you take responsibility for what you commit.
+A good way to check the commiter and author name is
+```sh
+git log --pretty=fuller
+```
 
 ## Do not use the merge button in pull requests
 
