@@ -12,6 +12,7 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 ## November 25, 2020
 
+- Test 11 works too now. Just needed to make sure curl ignores the body of the first request when it knows it will follow a redirect to another.
 - I pulled down Sean's updates to the hyper-capi branch he did ten hours ago and **kaboom** now test 1 - 10 are all OK! I'll get to work on the test 11 failure.
 
 ## November 24, 2020
