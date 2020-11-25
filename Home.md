@@ -4,4 +4,4 @@ This wiki is meant as a way for users to easily contribute to the project. Addit
 
 ## An editable wiki!
 
-This wiki is editable for users. It is not a security problem so stop reporting it. **All and any vandalizing done in the wiki will be reported as abuse.**
+This wiki is editable for users. It is not a security problem so stop reporting it. **All and any vandalizing done in the wiki will be reported as abuse.**?
