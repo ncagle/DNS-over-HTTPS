@@ -10,6 +10,10 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 25, 2020
+
+- I pulled down Sean's updates to the hyper-capi branch he did ten hours ago and **kaboom** now test 1 - 10 are all OK! I'll get to work on the test 11 failure.
+
 ## November 24, 2020
 
 | Test | Status |
