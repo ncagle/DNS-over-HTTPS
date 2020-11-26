@@ -10,6 +10,10 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 26, 2020
+
+- Test 1-15 run OK.
+
 ## November 25, 2020
 
 - Test 11 works too now. Just needed to make sure curl ignores the body of the first request when it knows it will follow a redirect to another.
