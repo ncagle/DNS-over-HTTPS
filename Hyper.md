@@ -10,6 +10,15 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 27, 2020
+
+- Test 30 is again complicated. It returns 52 (`CURLE_GOT_NOTHING`) for native curl but 56 (`CURLE_RECV_ERROR`) for CH. Because Hyper doesn't give us a detailed enough error code to figure this out...
+- Test 1 - 29 OK.
+- Test 28 has and tests an extra leading space in the content of a HTTP header, which in the Hyper case is stripped out before delivered to curl while it isn't in "native" curl, making the end saved result different and thus the test case currently fails. I "fixed" this by introducing a new "conditional" mode for test files that allows a test case to evaluate slightly differently depending on specific curl features.
+- Fixed proxy auth
+- Made curl -f work
+- Fixed the receive byte countere
+
 ## November 26, 2020
 
 - Test 1-15 run OK.
