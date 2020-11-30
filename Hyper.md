@@ -10,6 +10,18 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## November 30, 2020
+
+While work is progressing, there are numerous little things that are different between CH and "native". A list of the ones I'm currently dealing with:
+
+1. removed leading space in header value (test 30)
+2. multiple leading spaces in header value (test 31)
+3. removes trailing space in header value (test 31)
+4. bad chunk in chunked encoded body not reported as error (test 36)
+5. Hyper can't return `CURLE_GOT_NOTHING` (test 37)
+6. Hyper can't issue HTTP/1.0 requests (test 47)
+7. Won't allow an all-caps `SET-COOKIE:` header unmodified? (test 61)
+
 ## November 27, 2020
 
 - Test 30 is again complicated. It returns 52 (`CURLE_GOT_NOTHING`) for native curl but 56 (`CURLE_RECV_ERROR`) for CH. Because Hyper doesn't give us a detailed enough error code to figure this out...
