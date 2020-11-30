@@ -19,7 +19,7 @@ While work is progressing, there are numerous little things that are different b
 3. removes trailing space in header value (test 31)
 4. bad chunk in chunked encoded body not reported as error (test 36)
 5. Hyper can't return `CURLE_GOT_NOTHING` (test 37)
-6. Hyper can't issue HTTP/1.0 requests (test 47) - **hm, wait - it can...**
+6. Hyper can't issue HTTP/1.0 requests (test 47)
 7. Won't allow an all-caps `SET-COOKIE:` header unmodified? (test 61)
 
 ## November 27, 2020
