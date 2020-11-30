@@ -14,11 +14,11 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 While work is progressing, there are numerous little things that are different between CH and "native". A list of the ones I'm currently dealing with:
 
-1. removed leading space in header value (test 30)
+1. removed leading space in header value (test 31)
 2. multiple leading spaces in header value (test 31)
 3. removes trailing space in header value (test 31)
 4. bad chunk in chunked encoded body not reported as error (test 36)
-5. Hyper can't return `CURLE_GOT_NOTHING` (test 37)
+5. Hyper can't return `CURLE_GOT_NOTHING` (test 30)
 6. Hyper can't issue HTTP/1.0 requests (test 47)
 7. Won't allow an all-caps `SET-COOKIE:` header unmodified? (test 61)
 
