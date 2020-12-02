@@ -10,6 +10,13 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## December 2, 2020
+
+- fighting with test 38 - asking for a Range but getting a full response
+- made test 33 work
+- made test 31 work by doing conditional headers in the test
+- made HTTP 1.0 requests work (with the new Hyper API for it)
+
 ## November 30, 2020
 
 While work is progressing, there are numerous little things that are different between CH and "native". A list of the ones I'm currently dealing with:
