@@ -10,6 +10,40 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## December 10, 2020
+
+- `28 files changed, 2973 insertions(+), 1317 deletions(-)`
+- we run 29 tests in the CI now
+- preparing for initial merge of patch set into curl master post the curl 7.74.0 release
+- changed the configure output for Hyper detection
+
+Out of the first 99 HTTP tests, these are the **26** tests that still fail.
+Some seem to be due to lack of Hyper (API) support but most of them are just
+integration related.
+
+| Test   | Status |
+|--------|--------|
+| 30     | Hyper doesn't detect "no data" like native |
+| 36     | Hyper doesn't detect bad chunked Transfer-Encoding like native |
+| 37     | Hyper doesn't detect "no data" like native |
+| 38     | refused resume, needs work |
+| 43     | redirects over HTTP proxy |
+| 56     | HUGE chunked transfer-encoded POST |
+| 60     | PUT from stdin with wrong content-length |
+| 64,65  | Digest auth |
+| 66     | HTTP/0.9 response |
+| 67-70  | NTLM auth |
+| 72     | auth |
+| 77-78  | `-z` |
+| 80     | CONNECT and auth |
+| 81     | proxy and NTLM auth |
+| 83     | proxy-tunnel server auth |
+| 88     | PUT with Digest auth |
+| 89-91  | NTLM |
+| 94     | CONNECT and failed proxy auth |
+| 95     | proxytunnel using POST |
+| 99     | refused resume |
+
 ## December 2, 2020
 
 - fighting with test 38 - asking for a Range but getting a full response
