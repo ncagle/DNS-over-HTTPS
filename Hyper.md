@@ -10,6 +10,20 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## December 11, 2020
+
+Status: 77 of the first 99 tests run OK
+
+- I merged all the changes to `runtests.pl` I had done in this branch.
+  Primarily for the new conditional stuff but I let the "hyper mode" go with
+  it to not complicate matters.
+- Sean updated `hyper-capi` to help me better return the error back from the
+  body write callback.
+- Test 38 OK!
+- Test 43 OK!
+- Test 58 OK!
+- Test 60 OK!
+
 ## December 10, 2020
 
 - `28 files changed, 2973 insertions(+), 1317 deletions(-)`
