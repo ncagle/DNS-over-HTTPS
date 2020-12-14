@@ -8,6 +8,23 @@ Explanatory blog post: [rust in curl with hyper](https://daniel.haxx.se/blog/202
 
 Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
+# Outstanding work
+
+The first phase is to (slowly) go through all tests and make sure they run as
+fine with Hyper as with the native backend.
+
+Some of the funtionality still not "there" yet include:
+
+- multiplexed HTTP/2
+ -h2 Upgrade:
+- HTTP auth beyond Basic
+- pausing transfers
+- co-exist with a HTTP/3 build
+- receiving HTTP/1 trailers
+- sending HTTP/1 trailers
+- accept-encoding
+- transfer encoding
+
 # Daniel's Work Log
 
 ## December 14, 2020
