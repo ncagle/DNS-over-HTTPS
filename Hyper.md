@@ -10,6 +10,10 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
 # Daniel's Work Log
 
+## December 14, 2020
+
+Cleanining up the branch and the commits in preparation for an initial merge.
+
 ## December 11, 2020
 
 Status: 77 of the first 99 tests run OK
