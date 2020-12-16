@@ -27,6 +27,20 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## December 16, 2020
+
+- Continuing from yesterday. I need to fix
+  [#6328](https://github.com/curl/curl/pull/6328) first (which I discovered
+  while investiging a failure in the Hyper branch for a non-Hyper build using
+  wolfSSL for TLS), while I've been working on this the Github actions CI
+  started to fail, so I had to first fix
+  [#6332](https://github.com/curl/curl/pull/6332) and then come back to make
+  sure 6228 builds fine...
+
+## December 15, 2020
+
+- Fixing test failures with and without Hyper enabled
+
 ## December 14, 2020
 
 Cleanining up the branch and the commits in preparation for an initial merge.
