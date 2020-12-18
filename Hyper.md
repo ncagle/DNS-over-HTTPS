@@ -27,6 +27,16 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## December 18, 2020
+
+- Merged the first 10 commits into master and closed
+  [#6110](https://github.com/curl/curl/pull/6110). As this is a pretty big
+  changed of the `http.c` file I wanted this merged to reduce the risk for
+  futher merge conflicts. This merge should not affect the default curl build
+  at all, but will enable curious parties to build curl with Hyper using the
+  plain master branch of curl. You still need the `hyper-capi` branch of
+  Hyper to build the necessary C API.
+
 ## December 16, 2020
 
 - Continuing from yesterday. I need to fix
