@@ -18,3 +18,7 @@ The use of MSXI as packaging/installer format was suggested, because this can be
 3. Trigger the CI pipeline from the existing curl-for-win repository or the curl website once a new release is published
 4. Once everything is working, get a trusted code signing certificate (testing can be done with a self-signed one)
 5. _Optional:_ talk to Microsoft about shipping via the Microsoft Store (and superseeding their curl installation)
+
+## Refs
+
+https://github.com/curl/curl/issues/5424
