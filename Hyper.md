@@ -16,14 +16,18 @@ fine with Hyper as with the native backend.
 Some of the funtionality still not "there" yet include:
 
 - multiplexed HTTP/2
- -h2 Upgrade:
-- HTTP auth beyond Basic
+- h2 Upgrade:
+- HTTP multi-stage auth methods: Digest, Negotiate, NTLM
 - pausing transfers
 - co-exist with a HTTP/3 build
 - receiving HTTP/1 trailers
 - sending HTTP/1 trailers
 - accept-encoding
 - transfer encoding
+- alt-svc
+- hsts
+- CONNECT
+- time conditions
 
 # Daniel's Work Log
 
