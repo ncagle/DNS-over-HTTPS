@@ -66,7 +66,7 @@ Status: 77 of the first 99 tests run OK
   body write callback.
 - Test 38 OK!
 - Test 43 OK!
-- Test 58 OK!
+- Test 56 OK!
 - Test 60 OK!
 
 ## December 10, 2020
