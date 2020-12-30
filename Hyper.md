@@ -17,7 +17,6 @@ Some of the funtionality still not "there" yet include:
 
 - multiplexed HTTP/2
 - h2 Upgrade:
-- HTTP multi-stage auth methods: Digest, Negotiate, NTLM
 - pausing transfers
 - co-exist with a HTTP/3 build
 - receiving HTTP/1 trailers
@@ -27,7 +26,6 @@ Some of the funtionality still not "there" yet include:
 - alt-svc
 - hsts
 - CONNECT
-- time conditions
 - DoH ([#6389](https://github.com/curl/curl/issues/6389))
 
 # Daniel's Work Log
@@ -36,6 +34,7 @@ Some of the funtionality still not "there" yet include:
 
 - **84/99 tests work**
 - Fixed HTTP auth with Digest and NTLM. Test 64, 65, 67, 68, 69, 70, 72: OK ([#6390](https://github.com/curl/curl/pull/6390))
+- time conditions (test 77-78) are pending PR [#6391](https://github.com/curl/curl/pull/6391)
 
 ## December 18, 2020
 
