@@ -34,7 +34,7 @@ Some of the funtionality still not "there" yet include:
 
 - **84/99 tests work**
 - Fixed HTTP auth with Digest and NTLM. Test 64, 65, 67, 68, 69, 70, 72: OK ([#6390](https://github.com/curl/curl/pull/6390))
-- time conditions (test 77-78) are pending PR [#6391](https://github.com/curl/curl/pull/6391)
+- time conditions (test 77-78) are OK! [#6391](https://github.com/curl/curl/pull/6391)
 
 ## December 18, 2020
 
