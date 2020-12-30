@@ -28,7 +28,7 @@ Some of the funtionality still not "there" yet include:
 - hsts
 - CONNECT
 - time conditions
-- DoH
+- DoH ([#6389](https://github.com/curl/curl/issues/6389))
 
 # Daniel's Work Log
 
