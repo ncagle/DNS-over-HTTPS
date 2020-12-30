@@ -32,6 +32,11 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## December 30, 2020
+
+- **84/99 tests work**
+- Fixed HTTP auth with Digest and NTLM. Test 64, 65, 67, 68, 69, 70, 72: OK ([#6390](https://github.com/curl/curl/pull/6390))
+
 ## December 18, 2020
 
 - Merged the first 10 commits into master and closed
