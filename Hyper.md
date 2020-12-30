@@ -28,6 +28,7 @@ Some of the funtionality still not "there" yet include:
 - hsts
 - CONNECT
 - time conditions
+- DoH
 
 # Daniel's Work Log
 
