@@ -25,10 +25,23 @@ Some of the funtionality still not "there" yet include:
 - transfer encoding
 - alt-svc
 - hsts
-- CONNECT
 - DoH ([#6389](https://github.com/curl/curl/issues/6389))
 
 # Daniel's Work Log
+
+## January 5, 2021
+
+- **96/99 tests pass**
+- made CONNECT work
+- fixed a bad use of the Hyper API that made test 36 fail
+- made libcurl do `CURLE_GOT_NOTHING` correctly with Hyper (test 30)
+- skip HTTP/0.9 since Hyper doesn't support it
+- The outstanding test failures among the first 99 are:
+
+| Test  | Area                   |
+|-------|------------------------|
+| 88 90 | Auth related           |
+| 94    | HTTP auth over CONNECT |
 
 ## December 30, 2020
 
