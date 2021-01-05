@@ -60,6 +60,8 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [LavaDNS](https://dns.lavate.ch/) | USA: https://us1.dns.lavate.ch/dns-query, Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in USA and Finland. No logging, no filtering, no ECS, DNSSEC support. |
 | [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | :heavy_multiplication_x: | DoH server in France. No logging, no filtering, DNSSEC support. |
 | [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
+| **M**
+| [Moulticast](https://moulticast.net/dns) | https://dns.moulticast.net/dns-query | :heavy_check_mark: | IPv6 Anycast DoH servers in Europe (more locations to come). No logging, no filtering, no ECS, DNSSEC support. |
 | **N**
 | [nextdns.io](https://nextdns.io) | https://dns.nextdns.io/<config_id><br>[Create a config ID](https://my.nextdns.io/start) | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free! Quite a fine-granular dashboard, the same account can be used for multiple devices with prefixes to easier track activities on the dashboard!
 | NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | :heavy_check_mark: | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
