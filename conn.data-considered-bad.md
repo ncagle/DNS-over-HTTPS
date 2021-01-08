@@ -16,7 +16,7 @@ This is the pointer in the transfer struct that pointers to the connection curre
 
 **Danger!** This is the pointer in the connection struct that points to the *current owner* of the connection. This changes often and rapidly since a connection can be multiplexed by multiple and many transfers. The existence and use of this pointer is error prone and should be subject for removal over time.
 
-Removing the use in one big sweep is deemed too much work and too big a change for us to muster. However, we can move *towards* this goal by taking small steps every now and then.
+## Current status
 
 At January 8, 2021:
 ~~~shell
@@ -25,6 +25,8 @@ $ git grep 'conn->data'  | wc -l
 ~~~
 
 ## How to do it
+
+Removing the use in one big sweep is deemed too much work and too big a change for us to muster. However, we can move *towards* this goal by taking small steps every now and then.
 
 In many places in the code, we can make sure to pass *both* `data` and `conn` to functions that need access to both.
 
