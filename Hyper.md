@@ -2,7 +2,7 @@
 
 Also known as curl+hyper. Or CH.
 
-Pull-requests: (merged into master in curl) [Hyper](https://github.com/hyperium/hyper/pull/2278)
+Initial work is merged into master in both curl and Hyper.
 
 Explanatory blog post: [rust in curl with hyper](https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/)
 
@@ -28,6 +28,30 @@ Some of the funtionality still not "there" yet include:
 - DoH ([#6389](https://github.com/curl/curl/issues/6389))
 
 # Daniel's Work Log
+
+## January 8, 2021
+
+- 
+- To make test 178 work, we would benefit from more details from Hyper
+- Fixed test 179
+
+- `185 tests out of 198 reported OK: 93%` (Tests 1 to 199)
+
+| Test | Area                                                  |
+|------|-------------------------------------------------------|
+| 88   | PUT with Digest authorization                         |
+| 90   | NTLM via --anyauth                                    |
+| 94   | auth over CONNECT                                     |
+| 154  | PUT with --anyauth authorization (picking Digest)     |
+| 155  | PUT with --anyauth authorization (picking NTLM)       |
+| 158  | multipart formpost with only a 100 reply              |
+| 159  | NTLM authorization when talking HTTP/1.0              |
+| 170  | POST with --proxy-ntlm and no SSL with no response    |
+| 175  | POST --digest to server not requiring any auth at all |
+| 176  | POST --ntlm to server not requiring any auth at all   |
+| 177  | POST --digest to server doing a 302-location          |
+| 178  | response with negative Content-Length                 |
+| 179  | using proxy and cookies with path checks              |
 
 ## January 5, 2021
 
