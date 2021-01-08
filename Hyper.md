@@ -31,8 +31,7 @@ Some of the funtionality still not "there" yet include:
 
 ## January 8, 2021
 
-- 
-- To make test 178 work, we would benefit from more details from Hyper
+- To make test 178 work, we would benefit from more details from Hyper. Discussing with Sean.
 - Fixed test 179
 
 - `185 tests out of 198 reported OK: 93%` (Tests 1 to 199)
