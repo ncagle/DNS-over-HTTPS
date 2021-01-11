@@ -24,6 +24,11 @@ $ git grep 'conn->data'  | wc -l
 939
 ~~~
 
+|Date| count | comment |
+|----|-------|---------|
+|Jan 11 | 919 | Fixed the grep, it should be for `'conn->data\W'` :grin: 
+
+
 ## How to do it
 
 Removing the use in one big sweep is deemed too much work and too big a change for us to muster. However, we can move *towards* this goal by taking small steps every now and then.
