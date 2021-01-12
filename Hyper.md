@@ -29,6 +29,21 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## January 12, 2021
+
+- `190 tests out of 198 reported OK: 95%` (Tests 1 to 199)
+
+| Test | Area                                                |
+|------|-----------------------------------------------------|
+| 90   | NTLM via --anyauth                                  |
+| 94   | auth over CONNECT                                   |
+| 154  | PUT with --anyauth authorization (picking Digest)   |
+| 155  | PUT with --anyauth authorization (picking NTLM)     |
+| 158  | multipart formpost with only a 100 reply            |
+| 159  | NTLM authorization when talking HTTP/1.0            |
+| 176  | POST --ntlm to server not requiring any auth at all |
+| 178  | response with negative Content-Length               |
+
 ## January 8, 2021
 
 - To make test 178 work, we would benefit from more details from Hyper. Discussing with Sean.
