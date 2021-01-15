@@ -38,3 +38,12 @@ In many places in the code, we can make sure to pass *both* `data` and `conn` to
 For functions that are transfer-oriented, we should rather *just* pass `data` to them as the connection can be inferred from that.
 
 Functions that *only* gets `conn` passed to them **should not** do things for the transfer, as we need to stop assuming we know the transfer based on the connection.
+
+## counter.sh
+~~~shell
+#!/bin/sh
+total=`git grep  'conn->data\W'  | wc -l`
+
+git grep -c 'conn->data\W'  | sort -k2 -t: -g
+
+echo "Total: $total"
