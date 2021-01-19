@@ -26,6 +26,7 @@ $ git grep 'conn->data'  | wc -l
 
 |Date| count | comment |
 |----|-------|---------|
+|Jan 19 | 203 | landed [#6425](https://github.com/curl/curl/pull/6479)
 |Jan 18 | 367 | landed [#6425](https://github.com/curl/curl/pull/6425)
 |Jan 11 | 919 | Fixed the grep, it should be for `'conn->data\W'` :grin: 
 
