@@ -26,6 +26,7 @@ $ git grep 'conn->data'  | wc -l
 
 |Date| count | comment |
 |----|-------|---------|
+|Jan 20 | 162 |  |
 |Jan 19 | 172 | fixed quic backends in [2bdec0b3636e113](https://github.com/curl/curl/commit/2bdec0b3636e)
 |Jan 19 | 198 | fixed ftplistparser.c
 |Jan 19 | 203 | landed [#6479](https://github.com/curl/curl/pull/6479)
