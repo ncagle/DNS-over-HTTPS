@@ -2,11 +2,11 @@ Every transfer in libcurl can be associated with one connection (or none).
 
 ## data
 
-the name we use internally for pointing to the main transfer object
+the name we use internally for pointing to the main transfer object: `struct Curl_easy`
 
 ## conn
 
-the name we use internally for connection objects
+the name we use internally for connection objects: `struct connectdata`
 
 ## `data->conn`
 
