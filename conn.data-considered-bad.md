@@ -26,6 +26,7 @@ $ git grep 'conn->data'  | wc -l
 
 |Date| count | comment |
 |----|-------|---------|
+|Jan 26 | 67 | with [1dc8aa870e879d3](https://github.com/curl/curl/commit/1dc8aa870e879d3)
 |Jan 24 | 89 | with [ecb13416](https://github.com/curl/curl/commit/ecb13416)
 |Jan 22 | 120 | with [14e075d1a7fd](https://github.com/curl/curl/commit/14e075d1a7fd)
 |Jan 22 | 122 | with [8335c6417ea21bd](https://github.com/curl/curl/commit/8335c6417ea21bd)
