@@ -60,6 +60,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | [lelux.fi](https://lelux.fi/resolver/) | https://resolver-eu.lelux.fi/dns-query | :heavy_multiplication_x: | DoH server in France. No logging, no filtering, DNSSEC support. |
 | [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
 | **M**
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
 | [Moulticast](https://moulticast.net/dns) | https://dns.moulticast.net/dns-query | :heavy_check_mark: | IPv6 Anycast DoH servers in Europe (more locations to come). No logging, no filtering, no ECS, DNSSEC support. |
 | **N**
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io/<config_id><br>[Create a config ID](https://my.nextdns.io/start) | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterwards until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard.
