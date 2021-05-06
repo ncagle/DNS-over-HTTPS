@@ -13,10 +13,11 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | **A**
 |[aaflalo.me](https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/) | Server US: https://dns-nyc.aaflalo.me/dns-query | :heavy_check_mark: | Runs on Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) <br> Checks for DNSSEC and block advertising |
 | [AdGuard](https://adguard.com/en/adguard-dns/overview.html)     | Default: https://dns.adguard.com/dns-query <br> Family protection: https://dns-family.adguard.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. 
-| [AhaDNS](https://ahadns.com) | Netherland : https://doh.nl.ahadns.net/dns-query <br> India : https://doh.in.ahadns.net/dns-query <br> Los Angeles : https://doh.la.ahadns.net/dns-query <br> New York : https://doh.ny.ahadns.net/dns-query <br> Poland : https://doh.pl.ahadns.net/dns-query <br> Italy : https://doh.it.ahadns.net/dns-query <br> Spain : https://doh.es.ahadns.net/dns-query <br> Norway : https://doh.no.ahadns.net/dns-query <br> Chicago : https://doh.chi.ahadns.net/dns-query <br> Australia : https://doh.au.ahadns.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. DNSSEC, TLS 1.3, Open Source. |
+| [AhaDNS](https://ahadns.com) | Netherland : https://doh.nl.ahadns.net/dns-query <br> India : https://doh.in.ahadns.net/dns-query <br> Los Angeles : https://doh.la.ahadns.net/dns-query <br> New York : https://doh.ny.ahadns.net/dns-query <br> Poland : https://doh.pl.ahadns.net/dns-query <br> Italy : https://doh.it.ahadns.net/dns-query <br> Spain : https://doh.es.ahadns.net/dns-query <br> Norway : https://doh.no.ahadns.net/dns-query <br> Chicago : https://doh.chi.ahadns.net/dns-query <br> Australia : https://doh.au.ahadns.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. DNSSEC, TLS 1.3, Open Source. Uses OISD list |
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [alekberg](https://alekberg.net) | Spain: https://dnses.alekberg.net/dns-query <br> Holland: https://dnsnl.alekberg.net/dns-query <br> Sweden: https://dnsse.alekberg.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_multiplication_x:| DoH Servers in Spain, Holland and Sweden. No logging, no filtering, DNSSEC support.|
+| [Arapuyaril](https://www.dns.arapurayil.com/) | https://dns.arapurayil.com/dns-query | :heavy_check_mark: | Encrypted ad-blocking DNS resolver located in Mumbai|
 |[Association 42l](https://42l.fr) | https://doh.42l.fr/dns-query | :heavy_check_mark:| DNSSEC, not logging queries' content, uses [doh-proxy](https://github.com/jedisct1/rust-doh) and [edgedns](https://github.com/jedisct1/edgedns) for caching. Queries proxied randomly through [FFDN](https://www.ffdn.org/) members' open DNS resolvers (French ISPs committing for net neutrality).
 | **B**
 | [BebasDNS](https://github.com/bebasid/bebasdns) | Singapore Linode : https://doh.doh.my.id/dns-query | :heavy_check_mark: | DNS-based ad-blocking service
@@ -65,6 +66,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | NekomimiRouter.com | https://dns.dns-over-https.com/dns-query | :heavy_check_mark: | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
 | **P**
 | [pf-doh](https://dns.post-factum.tk) | https://doh.post-factum.tk/dns-query | :heavy_check_mark: | DoH server by post-factum. Hosted in Zürich, Switzerland using Oracle Cloud, cached globally via Cloudflare. Non-logging, non-filtering, supports DNSSEC |
+| [Plan9-dns](https://jlongua.github.io/plan9-dns/) | New Jersey : https://hydra.plan9-ns1.com/dns-query <br> Florida : https://draco.plan9-ns2.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted on Vultr 
 | PowerDNS  | https://doh.powerdns.org | :heavy_check_mark: | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
 | **Q**
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/)       |  Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query| :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
@@ -77,6 +79,8 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | **T**
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
+| **U**
+| [Usable Privacy](https://docs.usableprivacy.com/updns/) | https://adfree.usableprivacy.net/dns-query | :heavy_check_mark: | Public non-logging DNS server with advertising and tracker filtering, use AdAway and Peter Lowe's list |
 | **Others**
 | @jedisct1  | https://doh.crypto.sx/dns-query | :heavy_check_mark: |a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 | [ibksturm.synology.me](https://ibksturm.synology.me)| https://ibksturm.synology.me/dns-query | :heavy_check_mark: | doh-server (nginx - dnsproxy - unbound), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy Hosted in Switzerland by ibksturm, aka Andreas Ziegler. |
@@ -90,7 +94,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 | Base | Source | Comment |
 |-------------|----------|---------|
 | Docker | https://github.com/satishweb/docker-doh | Complete Docker stack using Star Brilliant's [dns-over-https](https://github.com/m13253/dns-over-https) and [Docker Flow Proxy](https://github.com/docker-flow/docker-flow-proxy)
-| Docker | https://github.com/coolquasar/dnsproxy | Complete DoH, DoT and DoQ stack in docker based on Adguard home dnsproxy project. Could host DoH,DoT and DoQ quickly in a cloud server, and run respective clients in local Docker env. It has been tested in Raspberry PI as well
+| Docker | https://github.com/coolquasar/dnsproxy | Complete DoH, DoT, and DoQ stack in docker based on Adguard home dnsproxy project. Could host DoH, DoT and DoQ quickly in a cloud server, and run respective clients in local Docker env. It has been tested in Raspberry PI as well
 
 # Supported in browsers and clients
 
@@ -130,7 +134,7 @@ Do DNS resolves over HTTPS for privacy, performance, and security. It also makes
 |[EasyDoH](https://github.com/ElevenPaths/EasyDoH)|ElevenPaths| a simple [add-on for Firefox](https://addons.mozilla.org/es/firefox/addon/easydoh/) that allows one to easily activate DNS over HTTPS and its working mode with just one click.|
 |[dohjs](https://github.com/byu-imaal/dohjs) | [BYU IMAAL](https://imaal.byu.edu) | Client DoH JavaScript library for accessing DNS information from web applications. Can be tested at [dohjs.org](https://dohjs.org)
 |[Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)|Technitium|A FOSS, cross-platform DNS Server written in C# that can consume as well as host DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT) services.
-|[kdig](https://gitlab.nic.cz/knot/knot-dns)|CZ.NIC|Utility that sends one or more DNS queries to a nameserver. Each query can have individual settings, or it can be specified globally via common-settings, which must precede query specification. This utility supports DoH.
+|[kdig](https://gitlab.nic.cz/knot/knot-dns)|CZ.NIC|Utility that sends one or more DNS queries to a nameserver. Each query can have individual settings, or it can be specified globally via common settings, which must precede query specification. This utility supports DoH.
 
 # Other
 
