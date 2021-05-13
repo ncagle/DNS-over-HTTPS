@@ -1,6 +1,6 @@
-# DOH
+# DOH - DNS over HTTPS (Public Servers List)
 
-Do DNS resolves over HTTPS for privacy, performance, and security. It also makes it easier to use a name server of your choice instead of the one configured for your system.
+Dns over HTTPS (DoH) queries resolve over HTTPS for privacy, performance, and security. DoH also makes it easier to use a name server of your choice instead of the one configured for your system.
 
 # Spec
 
