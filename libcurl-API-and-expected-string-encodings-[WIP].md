@@ -1,12 +1,17 @@
 An attempt to assess and document the expected string encoding for libcurl APIs where strings are used as inputs or return values.
 
-The initial state is the result of a quick walktrough and following "common-sense", without verification. The only ones with a 100% confidence is **binary** types, as these always go together with an explicit length. Also the initial list may not cover all libcurl APIs, as it was extracted from an actual libcurl wrapper. But, it may still be a useful base to start on.
+Notes:
+- The initial state is the result of a quick walktrough and following "common-sense", without verification. Even those without a `?` may not be correct.
+- The only ones with a 100% confidence is **binary** types, as these always go together with an explicit length.
+- The initial list may not cover all libcurl APIs, as it was extracted from an actual libcurl wrapper. But, it may still be a useful base to start on.
 
+String types:
 - **binary** = raw bytes with an explicit length
 - **ASCII**  = zero terminated, 7-bit ASCII string<br>usually strings internal to libcurl
 - **UTF-8**  = zero terminated, UTF-8 encoded string<br>URLs, filenames, human-readable text, etc.
 - **raw**    = zero terminated, 8-bit string<br>none of the above, codepage to be determined by context on either the local or remote side
 
+APIs:
 ```
 binary : CURLFORM_COPYCONTENTS
 UTF-8? : CURLFORM_COPYNAME
@@ -114,10 +119,10 @@ raw?   : CURLOPT_USERAGENT
 ?      : CURLOPT_USERNAME
 ?      : CURLOPT_USERPWD
 ASCII  : CURLOPT_XOAUTH2_BEARER
-binary : curl_mime_data
-ASCII  : curl_mime_encoder
-ASCII? : curl_mime_filedata
-UTF-8  : curl_mime_filename
-?      : curl_mime_name
-ASCII  : curl_mime_type
+binary : curl_mime_data()
+ASCII  : curl_mime_encoder()
+ASCII? : curl_mime_filedata()
+UTF-8  : curl_mime_filename()
+?      : curl_mime_name()
+ASCII  : curl_mime_type()
 ```
