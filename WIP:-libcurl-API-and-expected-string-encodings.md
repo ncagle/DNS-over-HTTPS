@@ -1,7 +1,7 @@
 An attempt to assess and document the expected string encoding for libcurl APIs where strings are used as inputs or return values.
 
 Notes:
-- The initial state is the result of a quick walktrough and following "common-sense", without verification. Even those without a `?` may not be correct.
+- The initial state is the result of a quick walkthrough and following "common-sense", without verification. Even those without a `?` may not be correct.
 - The only ones with a 100% confidence is **binary** types, as these always go together with an explicit length.
 - The initial list may not cover all libcurl APIs, as it was extracted from an actual libcurl wrapper. But, it may still be a useful base to start on.
 
