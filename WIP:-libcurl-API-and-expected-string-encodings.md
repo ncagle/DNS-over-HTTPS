@@ -1,9 +1,9 @@
 An attempt to assess and document the expected string encoding for libcurl APIs where strings are used as inputs or return values.
 
 Notes:
-- The initial state is the result of a quick walkthrough and following "common sense", without verification. Even those without a `?` may not be correct.
-- The only ones with a 100% confidence is **binary** types, as these always go together with an explicit length.
-- The initial list may not cover all libcurl APIs, as it was extracted from an actual libcurl wrapper. But, it may still be a useful base to start on.
+- Encodings describe how the string _should_ work, based on content and how/where it is being used. This may differ from reality depending on build configuration.
+- Please feel free to add any missing API to the list.
+- Entries without a checkmark or with a `?` need to be finalized.
 
 String types:
 - **binary** = raw bytes with an explicit length
@@ -17,15 +17,15 @@ APIs:
 - [ ] `UTF-8?` : `CURLFORM_FILE`
 - [ ] `?_____` : `CURLFORM_FILECONTENT`
 - [ ] `ASCII?` : `CURLINFO_CONTENT_TYPE`
-- [ ] `ASCII_` : `CURLINFO_EFFECTIVE_METHOD`
-- [ ] `UTF-8_` : `CURLINFO_EFFECTIVE_URL`
+- [x] `ASCII_` : `CURLINFO_EFFECTIVE_METHOD`
+- [x] `UTF-8_` : `CURLINFO_EFFECTIVE_URL` (URL)
 - [ ] `UTF-8?` : `CURLINFO_FTP_ENTRY_PATH`
-- [ ] `ASCII_` : `CURLINFO_LOCAL_IP`
-- [ ] `ASCII_` : `CURLINFO_PRIMARY_IP`
-- [ ] `UTF-8_` : `CURLINFO_REDIRECT_URL`
+- [x] `ASCII_` : `CURLINFO_LOCAL_IP`
+- [x] `ASCII_` : `CURLINFO_PRIMARY_IP`
+- [x] `UTF-8_` : `CURLINFO_REDIRECT_URL` (URL)
 - [ ] `UTF-8_` : `CURLINFO_REFERER`
-- [ ] `ASCII?` : `CURLINFO_RTSP_SESSION_ID`
-- [ ] `ASCII_` : `CURLINFO_SCHEME`
+- [x] `raw___` : `CURLINFO_RTSP_SESSION_ID`
+- [x] `ASCII_` : `CURLINFO_SCHEME`
 - [x] `UTF-8_` : `CURLOPT_ABSTRACT_UNIX_SOCKET` (local filename)
 - [x] `ASCII_` : `CURLOPT_ACCEPT_ENCODING` / `CURLOPT_ENCODING` (sent to remote, normally ASCII)
 - [x] `UTF-8_` : `CURLOPT_ALTSVC` (local filename)
@@ -91,8 +91,8 @@ APIs:
 - [x] `raw___` : `CURLOPT_PROXY_TLSAUTH_USERNAME` (remote credentials)
 - [x] `UTF-8_` : `CURLOPT_RANDOM_FILE` (local filename)
 - [x] `ASCII_` : `CURLOPT_RANGE` (ASCII, sent to remote)
-- [ ] `raw?__` : `CURLOPT_REFERER` (URL or any string)
-- [ ] `UTF-8_` : `CURLOPT_REQUEST_TARGET` (URL)
+- [ ] `raw__?` : `CURLOPT_REFERER` (URL or any string)
+- [ ] `UTF-8?` : `CURLOPT_REQUEST_TARGET` (URL)
 - [x] `raw___` : `CURLOPT_RTSP_SESSION_ID` (sent to remote)
 - [x] `UTF-8?` : `CURLOPT_RTSP_STREAM_URI` (URL)
 - [x] `ASCII_` : `CURLOPT_RTSP_TRANSPORT` (sent to remote, normally ASCII)
