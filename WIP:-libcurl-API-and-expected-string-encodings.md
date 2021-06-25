@@ -26,103 +26,105 @@ APIs:
 - [ ] `UTF-8_` : `CURLINFO_REFERER`
 - [ ] `ASCII?` : `CURLINFO_RTSP_SESSION_ID`
 - [ ] `ASCII_` : `CURLINFO_SCHEME`
-- [ ] `UTF-8_` : `CURLOPT_ABSTRACT_UNIX_SOCKET`
-- [x] `ASCII_` : `CURLOPT_ACCEPT_ENCODING`
-- [ ] `UTF-8_` : `CURLOPT_ALTSVC`
-- [x] `ASCII_` : `CURLOPT_AWS_SIGV4`
-- [ ] `UTF-8_` : `CURLOPT_CAINFO`
+- [x] `UTF-8_` : `CURLOPT_ABSTRACT_UNIX_SOCKET` (local filename)
+- [x] `ASCII_` : `CURLOPT_ACCEPT_ENCODING` / `CURLOPT_ENCODING` (sent to remote, normally ASCII)
+- [x] `UTF-8_` : `CURLOPT_ALTSVC` (local filename)
+- [x] `ASCII_` : `CURLOPT_AWS_SIGV4` (sent to remote, normally ASCII)
+- [x] `UTF-8_` : `CURLOPT_CAINFO` (local filename)
 - [x] `binary` : `CURLOPT_CAINFO_BLOB` (ptr + length)
-- [ ] `UTF-8_` : `CURLOPT_CAPATH`
+- [x] `UTF-8_` : `CURLOPT_CAPATH` (local directory)
 - [x] `raw___` : `CURLOPT_COOKIE` (cookie string sent to remote)
 - [x] `UTF-8_` : `CURLOPT_COOKIEFILE` (local filename)
 - [x] `UTF-8_` : `CURLOPT_COOKIEJAR` (local filename)
 - [x] `raw___` : `CURLOPT_COOKIELIST` (ASCII internal string `ALL/SESS/FLUSH/RELOAD` or raw string sent to remote)
 - [x] `binary` : `CURLOPT_COPYPOSTFIELDS` (ptr + length)
-- [ ] `UTF-8_` : `CURLOPT_CRLFILE`
+- [x] `UTF-8_` : `CURLOPT_CRLFILE` (local filename)
 - [x] `ASCII_` : `CURLOPT_CUSTOMREQUEST` (sent to remote, normally ASCII)
-- [ ] `ASCII_` : `CURLOPT_DEFAULT_PROTOCOL`
-- [ ] `UTF-8_` : `CURLOPT_DNS_SERVERS`
+- [x] `ASCII_` : `CURLOPT_DEFAULT_PROTOCOL` (normally ASCII)
+- [x] `UTF-8_` : `CURLOPT_DNS_SERVERS` (URL host:port)
+- [x] `ASCII_` : `CURLOPT_DNS_INTERFACE` (local ASCII)
+- [x] `UTF-8_` : `CURLOPT_DNS_LOCAL_IPV4` (local ASCII)
+- [x] `UTF-8_` : `CURLOPT_DNS_LOCAL_IPV6` (local ASCII)
 - [x] `UTF-8_` : `CURLOPT_DOH_URL` (URL)
 - [x] `UTF-8_` : `CURLOPT_EGDSOCKET` (local filename)
-- [ ] `ASCII_` : `CURLOPT_ENCODING`
 - [x] `ASCII_` : `CURLOPT_FTPPORT` (URL IP:port)
-- [x] `raw___` : `CURLOPT_FTP_ACCOUNT` (credentials)
-- [x] `raw___` : `CURLOPT_FTP_ALTERNATIVE_TO_USER` (credentials)
-- [ ] `UTF-8_` : `CURLOPT_HSTS`
-- [ ] `ASCII?` : `CURLOPT_INTERFACE`
-- [ ] `UTF-8_` : `CURLOPT_ISSUERCERT`
+- [x] `raw___` : `CURLOPT_FTP_ACCOUNT` (remote credentials)
+- [x] `raw___` : `CURLOPT_FTP_ALTERNATIVE_TO_USER` (remote credentials)
+- [x] `UTF-8_` : `CURLOPT_HSTS` (local filename)
+- [x] `UTF-8_` : `CURLOPT_INTERFACE` (URL address or host)
+- [x] `UTF-8_` : `CURLOPT_ISSUERCERT` (local filename)
 - [x] `binary` : `CURLOPT_ISSUERCERT_BLOB` (ptr + length)
-- [ ] `raw?__` : `CURLOPT_KEYPASSWD`
-- [ ] `ASCII_` : `CURLOPT_KRB4LEVEL`
-- [ ] `ASCII_` : `CURLOPT_KRBLEVEL`
+- [x] `raw___` : `CURLOPT_KEYPASSWD` (local credentials)
+- [x] `ASCII_` : `CURLOPT_KRBLEVEL` / `CURLOPT_KRB4LEVEL` (ASCII)
 - [x] `raw___` : `CURLOPT_LOGIN_OPTIONS` (sent to remote)
-- [ ] `UTF-8?` : `CURLOPT_MAIL_AUTH`
-- [ ] `UTF-8?` : `CURLOPT_MAIL_FROM`
+- [x] `raw___` : `CURLOPT_MAIL_AUTH` (sent to remote)
+- [x] `raw___` : `CURLOPT_MAIL_FROM` (sent to remote)
 - [x] `UTF-8_` : `CURLOPT_NETRC_FILE` (local filename)
-- [ ] `UTF-8_` : `CURLOPT_NOPROXY`
-- [x] `raw___` : `CURLOPT_PASSWORD` (credentials)
-- [ ] `UTF-8_` : `CURLOPT_PINNEDPUBLICKEY`
+- [x] `UTF-8_` : `CURLOPT_NOPROXY` (URL domain/IP list)
+- [x] `raw___` : `CURLOPT_PASSWORD` (remote credentials)
+- [x] `UTF-8_` : `CURLOPT_PINNEDPUBLICKEY` (local filename)
 - [x] `binary` : `CURLOPT_POSTFIELDS` (ptr + length)
 - [x] `UTF-8_` : `CURLOPT_PRE_PROXY` (URL server:port)
 - [x] `UTF-8_` : `CURLOPT_PROXY` (URL server:port)
-- [x] `raw___` : `CURLOPT_PROXYPASSWORD` (credentials)
-- [x] `raw___` : `CURLOPT_PROXYUSERNAME` (credentials)
-- [x] `raw___` : `CURLOPT_PROXYUSERPWD` (credentials)
-- [ ] `UTF-8_` : `CURLOPT_PROXY_CAINFO`
+- [x] `raw___` : `CURLOPT_PROXYPASSWORD` (remote credentials)
+- [x] `raw___` : `CURLOPT_PROXYUSERNAME` (remote credentials)
+- [x] `raw___` : `CURLOPT_PROXYUSERPWD` (remote credentials)
+- [x] `UTF-8_` : `CURLOPT_PROXY_CAINFO` (local filename)
 - [x] `binary` : `CURLOPT_PROXY_CAINFO_BLOB` (ptr + length)
-- [ ] `UTF-8_` : `CURLOPT_PROXY_CAPATH`
-- [ ] `UTF-8_` : `CURLOPT_PROXY_CRLFILE`
-- [ ] `UTF-8_` : `CURLOPT_PROXY_ISSUERCERT`
+- [x] `UTF-8_` : `CURLOPT_PROXY_CAPATH` (local directory)
+- [x] `UTF-8_` : `CURLOPT_PROXY_CRLFILE` (local filename)
+- [x] `UTF-8_` : `CURLOPT_PROXY_ISSUERCERT` (local filename)
 - [x] `binary` : `CURLOPT_PROXY_ISSUERCERT_BLOB` (ptr + length)
-- [ ] `raw?__` : `CURLOPT_PROXY_KEYPASSWD`
-- [ ] `ASCII_` : `CURLOPT_PROXY_PINNEDPUBLICKEY`
+- [x] `raw___` : `CURLOPT_PROXY_KEYPASSWD` (local credentials)
+- [x] `UTF-8_` : `CURLOPT_PROXY_PINNEDPUBLICKEY` (local filename)
 - [x] `ASCII_` : `CURLOPT_PROXY_SERVICE_NAME` (normally ASCII)
-- [ ] `UTF-8_` : `CURLOPT_PROXY_SSLCERT`
-- [ ] `ASCII_` : `CURLOPT_PROXY_SSLCERTTYPE`
+- [x] `UTF-8_` : `CURLOPT_PROXY_SSLCERT` (local filename)
+- [x] `ASCII_` : `CURLOPT_PROXY_SSLCERTTYPE` (local ASCII)
 - [x] `binary` : `CURLOPT_PROXY_SSLCERT_BLOB` (ptr + length)
-- [ ] `UTF-8_` : `CURLOPT_PROXY_SSLKEY`
-- [ ] `ASCII_` : `CURLOPT_PROXY_SSLKEYTYPE`
+- [x] `UTF-8_` : `CURLOPT_PROXY_SSLKEY` (local filename)
+- [x] `ASCII_` : `CURLOPT_PROXY_SSLKEYTYPE` (local ASCII)
 - [x] `binary` : `CURLOPT_PROXY_SSLKEY_BLOB` (ptr + length)
 - [x] `ASCII_` : `CURLOPT_PROXY_SSL_CIPHER_LIST`
 - [x] `ASCII_` : `CURLOPT_PROXY_TLS13_CIPHERS`
-- [x] `raw___` : `CURLOPT_PROXY_TLSAUTH_PASSWORD` (credentials)
-- [ ] `ASCII_` : `CURLOPT_PROXY_TLSAUTH_TYPE`
-- [x] `raw___` : `CURLOPT_PROXY_TLSAUTH_USERNAME` (credentials)
+- [x] `raw___` : `CURLOPT_PROXY_TLSAUTH_PASSWORD` (remote credentials)
+- [x] `ASCII_` : `CURLOPT_PROXY_TLSAUTH_TYPE` (internal ASCII)
+- [x] `raw___` : `CURLOPT_PROXY_TLSAUTH_USERNAME` (remote credentials)
 - [x] `UTF-8_` : `CURLOPT_RANDOM_FILE` (local filename)
-- [ ] `ASCII?` : `CURLOPT_RANGE`
-- [ ] `UTF-8?` : `CURLOPT_REFERER` (URL or any string)
+- [x] `ASCII_` : `CURLOPT_RANGE` (ASCII, sent to remote)
+- [ ] `raw?__` : `CURLOPT_REFERER` (URL or any string)
 - [ ] `UTF-8_` : `CURLOPT_REQUEST_TARGET` (URL)
-- [ ] `ASCII?` : `CURLOPT_RTSP_SESSION_ID`
-- [ ] `UTF-8?` : `CURLOPT_RTSP_STREAM_URI`
-- [ ] `ASCII?` : `CURLOPT_RTSP_TRANSPORT`
-- [ ] `?_____` : `CURLOPT_SASL_AUTHZID`
+- [x] `raw___` : `CURLOPT_RTSP_SESSION_ID` (sent to remote)
+- [x] `UTF-8?` : `CURLOPT_RTSP_STREAM_URI` (URL)
+- [x] `ASCII_` : `CURLOPT_RTSP_TRANSPORT` (sent to remote, normally ASCII)
+- [x] `raw___` : `CURLOPT_SASL_AUTHZID` (remote credentials)
 - [x] `ASCII_` : `CURLOPT_SERVICE_NAME` (normally ASCII)
 - [x] `ASCII_` : `CURLOPT_SOCKS5_GSSAPI_SERVICE` (normally ASCII)
-- [ ] `ASCII_` : `CURLOPT_SSH_HOST_PUBLIC_KEY_MD5`
-- [ ] `UTF-8_` : `CURLOPT_SSH_KNOWNHOSTS`
-- [ ] `UTF-8_` : `CURLOPT_SSH_PRIVATE_KEYFILE`
-- [ ] `UTF-8_` : `CURLOPT_SSH_PUBLIC_KEYFILE`
-- [ ] `UTF-8_` : `CURLOPT_SSLCERT`
-- [ ] `raw?__` : `CURLOPT_SSLCERTPASSWD`
-- [ ] `ASCII_` : `CURLOPT_SSLCERTTYPE`
+- [x] `ASCII_` : `CURLOPT_SSH_HOST_PUBLIC_KEY_MD5` (local ASCII)
+- [x] `UTF-8_` : `CURLOPT_SSH_KNOWNHOSTS` (local filename)
+- [x] `UTF-8_` : `CURLOPT_SSH_PRIVATE_KEYFILE` (local filename)
+- [x] `UTF-8_` : `CURLOPT_SSH_PUBLIC_KEYFILE` (local filename)
+- [x] `UTF-8_` : `CURLOPT_SSLCERT` (local filename)
+- [x] `ASCII_` : `CURLOPT_SSLCERTTYPE` (local ASCII)
 - [x] `binary` : `CURLOPT_SSLCERT_BLOB` (ptr + length)
-- [ ] `ASCII_` : `CURLOPT_SSLENGINE`
-- [ ] `ASCII_` : `CURLOPT_SSLKEY`
-- [ ] `raw?__` : `CURLOPT_SSLKEYPASSWD`
-- [ ] `ASCII_` : `CURLOPT_SSLKEYTYPE`
+- [x] `ASCII_` : `CURLOPT_SSLENGINE` (internal)
+- [x] `UTF-8_` : `CURLOPT_SSLKEY` (local filename)
+- [x] `ASCII_` : `CURLOPT_SSLKEYTYPE` (local ASCII)
 - [x] `binary` : `CURLOPT_SSLKEY_BLOB` (ptr + length)
 - [x] `ASCII_` : `CURLOPT_SSL_CIPHER_LIST`
-- [ ] `ASCII_` : `CURLOPT_SSL_EC_CURVES`
+- [x] `ASCII_` : `CURLOPT_SSL_EC_CURVES` (local ASCII)
 - [x] `ASCII_` : `CURLOPT_TLS13_CIPHERS`
-- [ ] `UTF-8_` : `CURLOPT_UNIX_SOCKET_PATH`
+- [x] `raw___` : `CURLOPT_TLSAUTH_PASSWORD` (remote credentials)
+- [x] `ASCII_` : `CURLOPT_TLSAUTH_TYPE` (internal ASCII)
+- [x] `raw___` : `CURLOPT_TLSAUTH_USERNAME` (remote credentials)
+- [x] `UTF-8_` : `CURLOPT_UNIX_SOCKET_PATH` (local filename)
 - [x] `UTF-8_` : `CURLOPT_URL` (URL)
-- [ ] `raw?__` : `CURLOPT_USERAGENT`
-- [x] `raw___` : `CURLOPT_USERNAME` (credentials)
-- [x] `raw___` : `CURLOPT_USERPWD` (credentials)
+- [x] `raw___` : `CURLOPT_USERAGENT` (sent to remote)
+- [x] `raw___` : `CURLOPT_USERNAME` (remote credentials)
+- [x] `raw___` : `CURLOPT_USERPWD` (remote credentials)
 - [x] `raw___` : `CURLOPT_XOAUTH2_BEARER` (sent to remote)
 - [x] `binary` : `curl_mime_data()` (ptr + length)
-- [ ] `ASCII_` : `curl_mime_encoder()`
-- [ ] `ASCII?` : `curl_mime_filedata()`
-- [ ] `UTF-8_` : `curl_mime_filename()`
-- [ ] `?_____` : `curl_mime_name()`
-- [x] `ASCII_` : `curl_mime_type()`
+- [x] `ASCII_` : `curl_mime_encoder()` (internal ASCII)
+- [x] `raw___` : `curl_mime_filedata()` (sent to remote)
+- [x] `raw___` : `curl_mime_filename()` (sent to remote)
+- [x] `ASCII_` : `curl_mime_name()` (sent to remote, normally ASCII)
+- [x] `ASCII_` : `curl_mime_type()` (sent to remote, normally ASCII)
