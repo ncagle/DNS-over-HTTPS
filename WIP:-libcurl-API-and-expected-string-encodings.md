@@ -29,17 +29,17 @@ APIs:
 - [ ] `UTF-8_` : `CURLOPT_ABSTRACT_UNIX_SOCKET`
 - [x] `ASCII_` : `CURLOPT_ACCEPT_ENCODING`
 - [ ] `UTF-8_` : `CURLOPT_ALTSVC`
-- [x] `ASCII`  : `CURLOPT_AWS_SIGV4`
+- [x] `ASCII_` : `CURLOPT_AWS_SIGV4`
 - [ ] `UTF-8_` : `CURLOPT_CAINFO`
 - [x] `binary` : `CURLOPT_CAINFO_BLOB` (ptr + length)
 - [ ] `UTF-8_` : `CURLOPT_CAPATH`
-- [x] `raw__`  : `CURLOPT_COOKIE` (cookie string sent to remote)
+- [x] `raw___` : `CURLOPT_COOKIE` (cookie string sent to remote)
 - [x] `UTF-8_` : `CURLOPT_COOKIEFILE` (local filename)
 - [x] `UTF-8_` : `CURLOPT_COOKIEJAR` (local filename)
 - [x] `raw___` : `CURLOPT_COOKIELIST` (ASCII internal string `ALL/SESS/FLUSH/RELOAD` or raw string sent to remote)
 - [x] `binary` : `CURLOPT_COPYPOSTFIELDS` (ptr + length)
 - [ ] `UTF-8_` : `CURLOPT_CRLFILE`
-- [x] `ASCII`  : `CURLOPT_CUSTOMREQUEST` (sent to remote, normally ASCII)
+- [x] `ASCII_` : `CURLOPT_CUSTOMREQUEST` (sent to remote, normally ASCII)
 - [ ] `ASCII_` : `CURLOPT_DEFAULT_PROTOCOL`
 - [ ] `UTF-8_` : `CURLOPT_DNS_SERVERS`
 - [x] `UTF-8_` : `CURLOPT_DOH_URL` (URL)
