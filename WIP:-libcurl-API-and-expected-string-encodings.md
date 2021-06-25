@@ -7,12 +7,12 @@ Notes:
 
 String types:
 - **binary** = raw bytes with an explicit length
-- **ASCII**  = zero terminated, 7-bit ASCII string<br>usually strings internal to libcurl
+- **ASCII**  = zero terminated, 7-bit ASCII string<br>usually strings internal to libcurl. Internally, these behave the same as 'raw', but documented/accepted values are 7-bit ASCII.
 - **UTF-8**  = zero terminated, UTF-8 encoded string<br>URLs, filenames, human-readable text, etc.
 - **raw**    = zero terminated, 8-bit string<br>none of the above, codepage to be determined by context on either the local or remote side
 
 APIs:
-- [ ] `binary` : `CURLFORM_COPYCONTENTS`
+- [x] `binary` : `CURLFORM_COPYCONTENTS` (ptr + length)
 - [ ] `UTF-8?` : `CURLFORM_COPYNAME` (ptr + length)
 - [ ] `UTF-8?` : `CURLFORM_FILE`
 - [ ] `?_____` : `CURLFORM_FILECONTENT`
@@ -31,7 +31,7 @@ APIs:
 - [ ] `UTF-8_` : `CURLOPT_ALTSVC`
 - [ ] `ASCII?` : `CURLOPT_AWS_SIGV4`
 - [ ] `UTF-8_` : `CURLOPT_CAINFO`
-- [ ] `binary` : `CURLOPT_CAINFO_BLOB`
+- [x] `binary` : `CURLOPT_CAINFO_BLOB` (ptr + length)
 - [ ] `UTF-8_` : `CURLOPT_CAPATH`
 - [ ] `UTF-8?` : `CURLOPT_COOKIE`
 - [ ] `UTF-8_` : `CURLOPT_COOKIEFILE`
@@ -51,7 +51,7 @@ APIs:
 - [ ] `UTF-8_` : `CURLOPT_HSTS`
 - [ ] `ASCII?` : `CURLOPT_INTERFACE`
 - [ ] `UTF-8_` : `CURLOPT_ISSUERCERT`
-- [ ] `binary` : `CURLOPT_ISSUERCERT_BLOB`
+- [x] `binary` : `CURLOPT_ISSUERCERT_BLOB` (ptr + length)
 - [ ] `raw?__` : `CURLOPT_KEYPASSWD`
 - [ ] `ASCII_` : `CURLOPT_KRB4LEVEL`
 - [ ] `ASCII_` : `CURLOPT_KRBLEVEL`
@@ -68,20 +68,20 @@ APIs:
 - [ ] `?_____` : `CURLOPT_PROXYUSERNAME`
 - [ ] `?_____` : `CURLOPT_PROXYUSERPWD`
 - [ ] `UTF-8_` : `CURLOPT_PROXY_CAINFO`
-- [ ] `binary` : `CURLOPT_PROXY_CAINFO_BLOB`
+- [x] `binary` : `CURLOPT_PROXY_CAINFO_BLOB` (ptr + length)
 - [ ] `UTF-8_` : `CURLOPT_PROXY_CAPATH`
 - [ ] `UTF-8_` : `CURLOPT_PROXY_CRLFILE`
 - [ ] `UTF-8_` : `CURLOPT_PROXY_ISSUERCERT`
-- [ ] `binary` : `CURLOPT_PROXY_ISSUERCERT_BLOB`
+- [x] `binary` : `CURLOPT_PROXY_ISSUERCERT_BLOB` (ptr + length)
 - [ ] `raw?__` : `CURLOPT_PROXY_KEYPASSWD`
 - [ ] `ASCII_` : `CURLOPT_PROXY_PINNEDPUBLICKEY`
 - [ ] `ASCII_` : `CURLOPT_PROXY_SERVICE_NAME`
 - [ ] `UTF-8_` : `CURLOPT_PROXY_SSLCERT`
 - [ ] `ASCII_` : `CURLOPT_PROXY_SSLCERTTYPE`
-- [ ] `binary` : `CURLOPT_PROXY_SSLCERT_BLOB`
+- [x] `binary` : `CURLOPT_PROXY_SSLCERT_BLOB` (ptr + length)
 - [ ] `UTF-8_` : `CURLOPT_PROXY_SSLKEY`
 - [ ] `ASCII_` : `CURLOPT_PROXY_SSLKEYTYPE`
-- [ ] `binary` : `CURLOPT_PROXY_SSLKEY_BLOB`
+- [x] `binary` : `CURLOPT_PROXY_SSLKEY_BLOB` (ptr + length)
 - [ ] `ASCII_` : `CURLOPT_PROXY_SSL_CIPHER_LIST`
 - [ ] `ASCII_` : `CURLOPT_PROXY_TLS13_CIPHERS`
 - [ ] `raw?__` : `CURLOPT_PROXY_TLSAUTH_PASSWORD`
@@ -104,12 +104,12 @@ APIs:
 - [ ] `UTF-8_` : `CURLOPT_SSLCERT`
 - [ ] `raw?__` : `CURLOPT_SSLCERTPASSWD`
 - [ ] `ASCII_` : `CURLOPT_SSLCERTTYPE`
-- [ ] `binary` : `CURLOPT_SSLCERT_BLOB`
+- [x] `binary` : `CURLOPT_SSLCERT_BLOB` (ptr + length)
 - [ ] `ASCII_` : `CURLOPT_SSLENGINE`
 - [ ] `ASCII_` : `CURLOPT_SSLKEY`
 - [ ] `raw?__` : `CURLOPT_SSLKEYPASSWD`
 - [ ] `ASCII_` : `CURLOPT_SSLKEYTYPE`
-- [ ] `binary` : `CURLOPT_SSLKEY_BLOB`
+- [x] `binary` : `CURLOPT_SSLKEY_BLOB` (ptr + length)
 - [ ] `ASCII_` : `CURLOPT_SSL_CIPHER_LIST`
 - [ ] `ASCII_` : `CURLOPT_SSL_EC_CURVES`
 - [ ] `ASCII_` : `CURLOPT_TLS13_CIPHERS`
@@ -119,9 +119,9 @@ APIs:
 - [ ] `?_____` : `CURLOPT_USERNAME`
 - [ ] `?_____` : `CURLOPT_USERPWD`
 - [ ] `ASCII_` : `CURLOPT_XOAUTH2_BEARER`
-- [ ] `binary` : `curl_mime_data()`
+- [x] `binary` : `curl_mime_data()` (ptr + length)
 - [ ] `ASCII_` : `curl_mime_encoder()`
 - [ ] `ASCII?` : `curl_mime_filedata()`
 - [ ] `UTF-8_` : `curl_mime_filename()`
 - [ ] `?_____` : `curl_mime_name()`
-- [ ] `ASCII_` : `curl_mime_type()`
+- [x] `ASCII_` : `curl_mime_type()`
