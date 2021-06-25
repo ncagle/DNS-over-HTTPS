@@ -7,7 +7,7 @@ Notes:
 
 String types:
 - **binary** = raw bytes with an explicit length
-- **ASCII**  = zero terminated, 7-bit ASCII string<br>usually strings internal to libcurl. Internally, these behave the same as 'raw', but documented/accepted values are 7-bit ASCII.
+- **ASCII**  = zero terminated, 7-bit ASCII string<br>usually strings internal to libcurl. Internally, these behave the same as **raw**, but documented/accepted/valid/typical values are 7-bit ASCII.
 - **UTF-8**  = zero terminated, UTF-8 encoded string<br>URLs, filenames, human-readable text, etc.
 - **raw**    = zero terminated, 8-bit string<br>none of the above, codepage to be determined by context on either the local or remote side
 
