@@ -3,7 +3,7 @@ An attempt to assess and document the expected string encoding for libcurl APIs 
 Notes:
 - Encodings describe how the string _should_ work, based on content and how/where it is being used. This may differ from reality depending on build configuration.
 - Please feel free to add any missing API to the list.
-- Entries without a checkmark or with a `?` need to be finalized.
+- Entries without a checkmark or with a `?` are yet to be finalized.
 
 String types:
 - **binary** = raw bytes with an explicit length
