@@ -8,6 +8,8 @@ This is meant as a brain-storm area for writing down how WebSockets in curl coul
 
 Ideas were bouncing on [the curl-library list in June 2021](https://curl.se/mail/lib-2021-06/).
 
+Spec: [RFC 6455](https://datatracker.ietf.org/doc/html/rfc6455)
+
 ## Not transfer-oriented
 
 WebSockets is similar to "TCP over HTTP". It provides a bidirectional transport meant for "anything". As such, it doesn't fit the "normal" libcurl transfer paradigms very well. It is rather similar to doing `CONNECT_ONLY` + `curl_easy_send/recv.
