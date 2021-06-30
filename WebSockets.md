@@ -4,6 +4,10 @@ For a long time people have expressed wishes and ideas about getting WebSockets 
 
 This is meant as a brain-storm area for writing down how WebSockets in curl could be made to work.
 
+[Weston Schmidt's proposals](https://github.com/schmidtw/curl-websocket-proposal)
+
+Ideas were bouncing on [the curl-library list in June 2021](https://curl.se/mail/lib-2021-06/).
+
 ## Not transfer-oriented
 
 WebSockets is similar to "TCP over HTTP". It provides a bidirectional transport meant for "anything". As such, it doesn't fit the "normal" libcurl transfer paradigms very well. It is rather similar to doing `CONNECT_ONLY` + `curl_easy_send/recv.
