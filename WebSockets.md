@@ -18,6 +18,8 @@ WebSockets is similar to "TCP over HTTP". It provides a bidirectional transport 
 
 Due to it being a transport for anything, it seems likely that websockets won't be exposed by the command line tool. Unless someone thinks of a good way to do it.
 
+(FG: Please reconsider? A simple “netcat” analogue would be _hugely_ useful!)
+
 # API
 
 - We probably want to support `ws://` and `wss://` URLs, and then have special handling of them to imply `CONNECT_ONLY`-style: do the WebSockets upgrade dance and then return.
