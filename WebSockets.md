@@ -12,7 +12,7 @@ Spec: [RFC 6455](https://datatracker.ietf.org/doc/html/rfc6455)
 
 ## Not transfer-oriented
 
-WebSockets is similar to "TCP over HTTP". It provides a bidirectional transport meant for "anything". As such, it doesn't fit the "normal" libcurl transfer paradigms very well. It is rather similar to doing `CONNECT_ONLY` + `curl_easy_send/recv.
+WebSockets is similar to "TCP over HTTP". It provides a bidirectional transport meant for "anything". As such, it doesn't fit the "normal" libcurl transfer paradigms very well. It is rather similar to doing `CONNECT_ONLY` + `curl_easy_send/recv`.
 
 ## libcurl-only
 
