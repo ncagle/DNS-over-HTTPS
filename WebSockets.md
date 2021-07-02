@@ -28,6 +28,33 @@ Makes it work similar to 'nc'.
 - We probably want to support `ws://` and `wss://` URLs, and then have special handling of them to imply `CONNECT_ONLY`-style: do the WebSockets upgrade dance and then return.
 - We probably need new functions for recv/send so that we can pass on extra flags for websockets use (like end of packet flag, compression, binary/text etc)
 
+## `CURLOPT_URL`
+
+Setting a URL with the scheme `ws://` or `wss://` marks this as a "special"
+websockets transfer.
+
+## `curl_ws_send`
+
+    curl_ws_send( easy, buffer, buflen, &sent, flags );
+
+**flags** is a bitmask featuring the following flags:
+
+- `CURL_WS_TEXT` - this is text data (binary is default)
+- `CURL_WS_NOCOMPRESS` - no-op if there’s no compression anyway
+- `CURL_WS_MORE` - this is not the end of the packet
+
+## `curl_ws_recv`
+
+    curl_ws_recv( easy, buffer, buflen, &recvflags, flags )
+
+**recvflags** is a bitmask featuring the following flags:
+
+- `CURL_WS_PARTIAL` - received a partial message (without the FIN flag)
+
+**flags** is a bitmask featuring the following flags:
+
+- `CURL_WS_PARTIAL` - accept partial message
+
 ## Mockup client psuedo source code
 
 ~~~c
