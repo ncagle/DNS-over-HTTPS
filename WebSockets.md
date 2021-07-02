@@ -8,7 +8,7 @@ This is meant as a brain-storm area for writing down how WebSockets in curl coul
 
 Ideas were bouncing on [the curl-library list in June 2021](https://curl.se/mail/lib-2021-06/).
 
-Spec: [RFC 6455](https://datatracker.ietf.org/doc/html/rfc6455)
+Spec: [RFC 6455 - WebSocket](https://datatracker.ietf.org/doc/html/rfc6455), [RFC 7692 - Compression](https://datatracker.ietf.org/doc/html/rfc7692)
 
 ## Not transfer-oriented
 
