@@ -55,6 +55,9 @@ websockets transfer.
 
 - `CURL_WS_PARTIAL` - accept partial message
 
+**To deal with**: what if the provided buffer is not big enough to hold the
+entire message?
+
 ## Mockup client psuedo source code
 
 ~~~c
