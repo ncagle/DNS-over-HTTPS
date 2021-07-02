@@ -28,3 +28,26 @@ Makes it work similar to 'nc'.
 - We probably want to support `ws://` and `wss://` URLs, and then have special handling of them to imply `CONNECT_ONLY`-style: do the WebSockets upgrade dance and then return.
 - We probably need new functions for recv/send so that we can pass on extra flags for websockets use (like end of packet flag, compression, binary/text etc)
 
+## Mockup client psuedo source code
+
+~~~c
+CURLcode result;
+CURL *ws = curl_easy_init();
+curl_easy_setopt(ws, CURLOPT_URL, "ws://websockets.example.org");
+
+result = curl_easy_perform(ws);
+
+if(CURLE_OK == result) {
+  /* this means it actually negotiated WebSockets successfully */
+
+  /* send data */
+  curl_ws_send();
+
+  /* recv data */
+  curl_ws_recv();
+
+  /* wait for data to arrive */
+  /* just using select() ? */
+}
+
+curl_easy_cleanup(ws); /* done */
