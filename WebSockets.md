@@ -14,11 +14,14 @@ Spec: [RFC 6455](https://datatracker.ietf.org/doc/html/rfc6455)
 
 WebSockets is similar to "TCP over HTTP". It provides a bidirectional transport meant for "anything". As such, it doesn't fit the "normal" libcurl transfer paradigms very well. It is rather similar to doing `CONNECT_ONLY` + `curl_easy_send/recv`.
 
-## libcurl-only
+## The curl tool
 
-Due to it being a transport for anything, it seems likely that websockets won't be exposed by the command line tool. Unless someone thinks of a good way to do it.
+Due to it being a transport for anything, it isn't ideal for the command line tool. It could possibly be made to work like TELNET does:
 
-(FG: Please reconsider? A simple “netcat” analogue would be _hugely_ useful!)
+ - read from stdin and pass it on to the server
+ - send data from server to stdout
+
+Makes it work similar to 'nc'.
 
 # API
 
