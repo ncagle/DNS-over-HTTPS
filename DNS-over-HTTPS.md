@@ -84,6 +84,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | **U**
 | [Usable Privacy](https://docs.usableprivacy.com/updns/) | https://adfree.usableprivacy.net/dns-query | :heavy_check_mark: | Public non-logging DNS server with advertising and tracker filtering, use AdAway and Peter Lowe's list |
+| **W**
+| | [WeDNS](https://wevpn.com/wedns) | Non-blocking : https://dns.wevpn.com/dns-query <be> Ad and malware blocking : https://dns-weblock.wevpn.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run on WeVPN infrastructure, freely available for public use.
 | **Others**
 | @jedisct1  | https://doh.crypto.sx/dns-query | :heavy_check_mark: |a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 | [ibksturm.synology.me](https://ibksturm.synology.me)| https://ibksturm.synology.me/dns-query | :heavy_check_mark: | doh-server (nginx - dnsproxy - unbound), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy Hosted in Switzerland by ibksturm, aka Andreas Ziegler. |
