@@ -12,10 +12,17 @@ Specs:
 
 - [RFC 6455 - WebSocket](https://datatracker.ietf.org/doc/html/rfc6455)
 - [RFC 7692 - Compression](https://datatracker.ietf.org/doc/html/rfc7692)
+- [RFC 8441 - Bootstrapping WebSockets with HTTP/2](https://datatracker.ietf.org/doc/html/rfc8441)
 
-## Not transfer-oriented
+## Aim for what's used
 
-WebSockets is similar to "TCP over HTTP". It provides a bidirectional transport meant for "anything". As such, it doesn't fit the "normal" libcurl transfer paradigms very well. It is rather similar to doing `CONNECT_ONLY` + `curl_easy_send/recv`.
+WebSockets is highly extensible. This described API and first implemention do
+not aim to support all existing and future extensions. But we should not write
+the API or implementation to necessarily prevent us from implementing and
+providing support for more extensions in a future.
+
+We should support basic WebSockets and the "common" existing extensions to
+make this WebSockets support usable for *most* use cases.
 
 ## The curl tool
 
@@ -34,6 +41,8 @@ Makes it work similar to 'nc'.
 - New functions for recv/send so that we can pass on extra flags for
   websockets use (like end of packet flag, compression, binary/text etc)
 
+TBD: do we need options for HTTP/2 ?
+
 ## `CURLOPT_URL`
 
 Setting a URL with the scheme `ws://` or `wss://` marks this as a WebSockets
@@ -41,28 +50,32 @@ transfer.
 
 ## `curl_ws_send`
 
-    curl_ws_send( easy, buffer, buflen, &sent, flags );
+    curl_ws_send( easy, buffer, buflen, &sent, sendflags );
 
-**flags** is a bitmask featuring the following flags:
+**sendflags** is a bitmask featuring the following flags:
 
-- `CURL_WS_TEXT` - this is text data (binary is default)
-- `CURL_WS_NOCOMPRESS` - no-op if there’s no compression anyway
-- `CURL_WS_MORE` - this is not the end of the packet
+- `CURLWS_TEXT` - this is text data
+- `CURLWS_BINARY` - this is binary data
+- `CURLWS_NOCOMPRESS` - no-op if there’s no compression anyway
+- `CURLWS_FIN` - this is the end framgment of the message, if this is not set
+                  it implies that there will be another fragment coming.
+- `CURLWS_CLOSE` - close
+
+TBD: what about other types like in a future extension? Should we reserve or
+do something for that possibility?
 
 ## `curl_ws_recv`
 
-    curl_ws_recv( easy, buffer, buflen, &recvflags, flags )
+    curl_ws_recv( easy, buffer, buflen, &iflags, recvflags )
+
+This function returns as much as possible of a received WebSockets data
+fragment.
+
+**iflags** is a bitmask featuring the following (incoming) flags:
+
+- `CURLWS_FIN` - this is also the final fragment of a message
 
 **recvflags** is a bitmask featuring the following flags:
-
-- `CURL_WS_PARTIAL` - received a partial message (without the FIN flag)
-
-**flags** is a bitmask featuring the following flags:
-
-- `CURL_WS_PARTIAL` - accept partial message
-
-**To deal with**: what if the provided buffer is not big enough to hold the
-entire message?
 
 ## Multi interface
 
@@ -130,3 +143,10 @@ curl_easy_cleanup(ws); /* done */
 This method also works for the multi interface and then it can do many
 parallel transfers and coexist with other protocol transfers in the same main
 loop. Also even-based.
+
+# Ping pong
+
+By default libcurl does ping/pongs transparently without involving the
+application.
+
+TBD: do we need to offer the ability to send/recv "custom" pings?
