@@ -78,6 +78,11 @@ fragment.
 - `CURLWS_FIN` - this is also the final fragment of a message
 - `CURLWS_CLOSE` - this transfer is now closed
 
+## `curl_ws_poll`?
+
+TBD: do we nee a `curl_ws_poll()` for the `WS_ALONE` use case? It could wait
+for websockets activity and transparently handle ping/pongs.
+
 ## Multi interface
 
 We want the API to allow for and handle *any* amount of concurrent WebSocket
@@ -111,7 +116,7 @@ if(CURLE_OK == result) {
   curl_ws_recv();
 
   /* wait for data to arrive */
-  /* just using select() ? */
+  /* just using select() or curl_ws_poll() ? */
 }
 
 curl_easy_cleanup(ws); /* done */
