@@ -59,23 +59,24 @@ transfer.
 - `CURLWS_NOCOMPRESS` - no-op if there’s no compression anyway
 - `CURLWS_FIN` - this is the end framgment of the message, if this is not set
                   it implies that there will be another fragment coming.
-- `CURLWS_CLOSE` - close
+- `CURLWS_CLOSE` - close this transfer
 
 TBD: what about other types like in a future extension? Should we reserve or
 do something for that possibility?
 
 ## `curl_ws_recv`
 
-    curl_ws_recv( easy, buffer, buflen, &iflags, recvflags )
+    curl_ws_recv( easy, buffer, buflen, &iflags )
 
 This function returns as much as possible of a received WebSockets data
 fragment.
 
 **iflags** is a bitmask featuring the following (incoming) flags:
 
+- `CURLWS_TEXT` - this is text data
+- `CURLWS_BINARY` - this is binary data
 - `CURLWS_FIN` - this is also the final fragment of a message
-
-**recvflags** is a bitmask featuring the following flags:
+- `CURLWS_CLOSE` - this transfer is now closed
 
 ## Multi interface
 
