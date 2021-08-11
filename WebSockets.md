@@ -28,13 +28,16 @@ Makes it work similar to 'nc'.
 
 # API
 
-- We probably want to support `ws://` and `wss://` URLs, and then have special handling of them to imply `CONNECT_ONLY`-style: do the WebSockets upgrade dance and then return.
-- We probably need new functions for recv/send so that we can pass on extra flags for websockets use (like end of packet flag, compression, binary/text etc)
+- Provide a mode (`WS_ALONE`) that makes `CONNECT_ONLY`-style: only the
+  WebSockets upgrade dance and then return to the application for
+  `curl_easy_perform()`.
+- New functions for recv/send so that we can pass on extra flags for
+  websockets use (like end of packet flag, compression, binary/text etc)
 
 ## `CURLOPT_URL`
 
-Setting a URL with the scheme `ws://` or `wss://` marks this as a "special"
-websockets transfer.
+Setting a URL with the scheme `ws://` or `wss://` marks this as a WebSockets
+transfer.
 
 ## `curl_ws_send`
 
@@ -61,12 +64,26 @@ websockets transfer.
 **To deal with**: what if the provided buffer is not big enough to hold the
 entire message?
 
-## Mockup client psuedo source code
+## Multi interface
+
+We want the API to allow for and handle *any* amount of concurrent WebSocket
+transfers *in addition* to other libcurl transfers using the same multi
+handle.
+
+Therefore, we want WebSockets transfers able to deliver data using a
+"WebSocket write callback" for the easy handle. From within that callback, we
+should allow `curl_ws_send()` calls, and probably further `curl_ws_recv()`
+calls as well.
+
+## Mockup client psuedo source code using `WS_ALONE`
 
 ~~~c
 CURLcode result;
 CURL *ws = curl_easy_init();
 curl_easy_setopt(ws, CURLOPT_URL, "ws://websockets.example.org");
+
+/* only do the initial bootstrap */
+curl_easy_setopt(ws, CURLOPT_WS_OPTIONS, CURLWS_ALONE);
 
 result = curl_easy_perform(ws);
 
@@ -84,3 +101,32 @@ if(CURLE_OK == result) {
 }
 
 curl_easy_cleanup(ws); /* done */
+~~~
+
+## Mockup client psuedo source code using, easy interface with callbaks
+
+~~~c
+
+static int write_cb( ... char *data, size_t len ... ) 
+{
+  /* WebSocket data from the peer */
+
+  /* If we want to send something here, use curl_ws_send() */
+}
+
+CURLcode result;
+struct customstuff writep;
+CURL *ws = curl_easy_init();
+curl_easy_setopt(ws, CURLOPT_URL, "ws://websockets.example.org");
+
+curl_easy_setopt(ws, CURLOPT_WS_WRITEFUNCTION, write_cb);
+curl_easy_setopt(ws, CURLOPT_WS_WRITEDATA, &writep);
+
+result = curl_easy_perform(ws);
+
+curl_easy_cleanup(ws); /* done */
+~~~
+
+This method also works for the multi interface and then it can do many
+parallel transfers and coexist with other protocol transfers in the same main
+loop. Also even-based.
