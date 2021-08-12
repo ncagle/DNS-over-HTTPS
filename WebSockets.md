@@ -60,6 +60,8 @@ transfer.
 - `CURLWS_FIN` - this is the end framgment of the message, if this is not set
                   it implies that there will be another fragment coming.
 - `CURLWS_CLOSE` - close this transfer
+- `CURLWS_PING` - send this as a ping
+- `CURLWS_PONG` - send this as a pong
 
 TBD: what about other types like in a future extension? Should we reserve or
 do something for that possibility?
@@ -77,11 +79,20 @@ fragment.
 - `CURLWS_BINARY` - this is binary data
 - `CURLWS_FIN` - this is also the final fragment of a message
 - `CURLWS_CLOSE` - this transfer is now closed
+- `CURLWS_PING` - this is a ping
 
 ## `curl_ws_poll`?
 
 TBD: do we nee a `curl_ws_poll()` for the `WS_ALONE` use case? It could wait
 for websockets activity and transparently handle ping/pongs.
+
+## `CURLOPT_WS_OPTIONS`
+
+A new *setopt() option to control ws behavior:
+
+- `CURLWS_ALONE` - ask for "stand alone" control using the easy API
+- `CURLWS_COMPRESS` - negotiate compression
+- `CURLWS_PINGOFF` - disable automated ping/pong handling
 
 ## Multi interface
 
