@@ -41,7 +41,17 @@ Makes it work similar to 'nc'.
 - New functions for recv/send so that we can pass on extra flags for
   websockets use (like end of packet flag, compression, binary/text etc)
 
+## Questions
+
 TBD: do we need options for HTTP/2 ?
+
+TBD: how to set/change the maximum allowed message-size?
+
+TBD: what about other types like in a future extension? Should we reserve or
+do something for that possibility?
+
+TBD: do we nee a `curl_ws_poll()` for the `WS_ALONE` use case? It could wait
+for websockets activity and transparently handle ping/pongs.
 
 ## `CURLOPT_URL`
 
@@ -63,15 +73,12 @@ transfer.
 - `CURLWS_PING` - send this as a ping
 - `CURLWS_PONG` - send this as a pong
 
-TBD: what about other types like in a future extension? Should we reserve or
-do something for that possibility?
-
 ## `curl_ws_recv`
 
     curl_ws_recv( easy, buffer, buflen, &iflags )
 
 This function returns as much as possible of a received WebSockets data
-fragment.
+*fragment*.
 
 **iflags** is a bitmask featuring the following (incoming) flags:
 
@@ -83,8 +90,7 @@ fragment.
 
 ## `curl_ws_poll`?
 
-TBD: do we nee a `curl_ws_poll()` for the `WS_ALONE` use case? It could wait
-for websockets activity and transparently handle ping/pongs.
+
 
 ## `CURLOPT_WS_OPTIONS`
 
@@ -93,6 +99,21 @@ A new *setopt() option to control ws behavior:
 - `CURLWS_ALONE` - ask for "stand alone" control using the easy API
 - `CURLWS_COMPRESS` - negotiate compression
 - `CURLWS_PINGOFF` - disable automated ping/pong handling
+
+## `CURLOPT_WS_WRITEFUNCTION`
+
+This sets a websockets write callback to which libcurl will deliver incoming
+*messages*.
+
+    int message_callback(CURL *easy, char *data, size_t len,
+                         unsigned int msgflags);
+
+**msgflags** is a bitmask featuring the following (incoming) flags:
+
+- `CURLWS_TEXT` - this is text data
+- `CURLWS_BINARY` - this is binary data
+- `CURLWS_CLOSE` - this transfer is now closed
+- `CURLWS_PING` - this is a ping (if enabled)
 
 ## Multi interface
 
@@ -164,6 +185,4 @@ loop. Also even-based.
 # Ping pong
 
 By default libcurl does ping/pongs transparently without involving the
-application.
-
-TBD: do we need to offer the ability to send/recv "custom" pings?
+application. They can be set to "manual mode" with `CURLOPT_WS_OPTIONS`.
