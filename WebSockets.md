@@ -133,7 +133,7 @@ if(CURLE_OK == result) {
 curl_easy_cleanup(ws); /* done */
 ~~~
 
-## Mockup client psuedo source code using, easy interface with callbaks
+## Mockup client psuedo source code using, easy interface with callbacks
 
 ~~~c
 
