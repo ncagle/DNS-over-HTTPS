@@ -186,3 +186,9 @@ loop. Also even-based.
 
 By default libcurl does ping/pongs transparently without involving the
 application. They can be set to "manual mode" with `CURLOPT_WS_OPTIONS`.
+
+# Credits
+
+People who have contributed thoughts and design ideas for this work:
+
+Daniel Stenberg, Dmitry Karpov, Felipe Gasper, Stefan Eissing, Weston Schmidt
