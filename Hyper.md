@@ -21,13 +21,23 @@ Some of the funtionality still not "there" yet include:
 - co-exist with a HTTP/3 build
 - receiving HTTP/1 trailers
 - sending HTTP/1 trailers
-- accept-encoding
 - transfer encoding
-- alt-svc
-- hsts
 - DoH ([#6389](https://github.com/curl/curl/issues/6389))
 
 # Daniel's Work Log
+
+## August 14, 2021
+
+Landed initial support for 100-continue. Made test 154 run in hyper CI builds.
+97 tests remain disabled for hyper.
+
+## July 2021
+
+Worked on fixing more details in the hyper build.
+
+Tests that fail when built with hyper are now disabled by default in hyper
+builds, which allows us to run "all tests" in CI jobs. There are about 150
+tests disabled, many of them are using `Exepect: 100-continue`.
 
 ## January 12, 2021
 
