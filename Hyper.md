@@ -37,7 +37,7 @@ Worked on fixing more details in the hyper build.
 
 Tests that fail when built with hyper are now disabled by default in hyper
 builds, which allows us to run "all tests" in CI jobs. There are about 150
-tests disabled, many of them are using `Exepect: 100-continue`.
+tests disabled, many of them are using `Expect: 100-continue`.
 
 ## January 12, 2021
 
