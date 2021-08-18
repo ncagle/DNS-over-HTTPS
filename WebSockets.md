@@ -1,14 +1,8 @@
-# WebSockets
+# WebSockets in libcurl - draft
 
 For a long time people have expressed wishes and ideas about getting WebSockets support added to curl. Every year in the annual survey a large portion of users say they'd like it.
 
-This is meant as a brain-storm area for writing down how WebSockets in curl could be made to work.
-
-[Weston Schmidt's proposals](https://github.com/schmidtw/curl-websocket-proposal)
-
-Ideas were bouncing on [the curl-library list in June 2021](https://curl.se/mail/lib-2021-06/).
-
-Specs:
+## Specs
 
 - [RFC 6455 - WebSocket](https://datatracker.ietf.org/doc/html/rfc6455)
 - [RFC 7692 - Compression](https://datatracker.ietf.org/doc/html/rfc7692)
@@ -33,7 +27,7 @@ Due to it being a transport for anything, it isn't ideal for the command line to
 
 Makes it work similar to 'nc'.
 
-# API
+# Proposed API
 
 - Provide a mode (`WS_ALONE`) that makes `CONNECT_ONLY`-style: only the
   WebSockets upgrade dance and then return to the application for
@@ -41,17 +35,17 @@ Makes it work similar to 'nc'.
 - New functions for recv/send so that we can pass on extra flags for
   websockets use (like end of packet flag, compression, binary/text etc)
 
-## Questions
+## Outstanding questions
 
-TBD: do we need options for HTTP/2 ?
+- do we need options for HTTP/2 ?
 
-TBD: how to set/change the maximum allowed message-size?
+- how to set/change the maximum allowed message-size?
 
-TBD: what about other types like in a future extension? Should we reserve or
-do something for that possibility?
+- what about other types like in a future extension? Should we reserve or do
+  something for that possibility?
 
-TBD: do we nee a `curl_ws_poll()` for the `WS_ALONE` use case? It could wait
-for websockets activity and transparently handle ping/pongs.
+- do we need a `curl_ws_poll()` for the `WS_ALONE` use case? It could wait
+  for websockets activity and transparently handle ping/pongs.
 
 ## `CURLOPT_URL`
 
@@ -75,12 +69,12 @@ transfer.
 
 ## `curl_ws_recv`
 
-    curl_ws_recv( easy, buffer, buflen, &iflags )
+    curl_ws_recv( easy, buffer, buflen, &recvflags )
 
 This function returns as much as possible of a received WebSockets data
 *fragment*.
 
-**iflags** is a bitmask featuring the following (incoming) flags:
+**recvflags** is a bitmask featuring the following (incoming) flags:
 
 - `CURLWS_TEXT` - this is text data
 - `CURLWS_BINARY` - this is binary data
@@ -94,10 +88,10 @@ This function returns as much as possible of a received WebSockets data
 
 ## `CURLOPT_WS_OPTIONS`
 
-A new *setopt() option to control ws behavior:
+A new *setopt() option that sets a bitmask:
 
 - `CURLWS_ALONE` - ask for "stand alone" control using the easy API
-- `CURLWS_COMPRESS` - negotiate compression
+- `CURLWS_COMPRESS` - negotiate compression for this transfer
 - `CURLWS_PINGOFF` - disable automated ping/pong handling
 
 ## `CURLOPT_WS_WRITEFUNCTION`
@@ -181,6 +175,17 @@ curl_easy_cleanup(ws); /* done */
 This method also works for the multi interface and then it can do many
 parallel transfers and coexist with other protocol transfers in the same main
 loop. Also even-based.
+
+# Implementation
+
+There's no implementation yet and the work has yet to be started.
+
+It seems clever to base the implementation on an existing websockets library
+for the bits over the wire at least.
+[libwebsockets.org](https://libwebsockets.org/) looks like a viable contender.
+
+It is expected that the API and details in this description will need updates
+and polish once the implementation starts.
 
 # Ping pong
 
