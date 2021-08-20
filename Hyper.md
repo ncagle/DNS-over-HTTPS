@@ -26,10 +26,16 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## August 20, 2021
+
+Sean fixed hyper 1xx responses in hyper, and with
+[#7597](https://github.com/curl/curl/pull/7597) landed it seems to work more
+in curl with tests 155 and 158 enabled. At **93** disabled tests.
+
 ## August 14, 2021
 
 Landed initial support for 100-continue. Made test 154 run in hyper CI builds.
-97 tests remain disabled for hyper.
+**97** tests remain disabled for hyper.
 
 ## July 2021
 
