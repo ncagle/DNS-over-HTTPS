@@ -26,6 +26,13 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## August 23, 2021
+
+- Went through more tests that could be enabled now with the 1xx support.
+- Fixed a few smaller issues
+
+At **79** disabled tests.
+
 ## August 20, 2021
 
 Sean fixed hyper 1xx responses in hyper, and with
