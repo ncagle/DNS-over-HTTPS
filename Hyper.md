@@ -30,8 +30,11 @@ Some of the funtionality still not "there" yet include:
 
 - Went through more tests that could be enabled now with the 1xx support.
 - Fixed a few smaller issues
+- Fixed HTTP/1.1 => HTTP/1.0 downgrades
+- Fixed Expect: 100-continue with `CURLOPT_POSTFIELDS`
+- Made `CURLOPT_IGNORE_CONTENT_LENGTH` work in hyper builds again (for FTP)
 
-At **79** disabled tests.
+At **76** disabled tests.
 
 ## August 20, 2021
 
