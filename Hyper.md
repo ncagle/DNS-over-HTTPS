@@ -26,6 +26,14 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## August 26, 2021
+
+- Made the built-in HTTP code similar to hyper and reject >3 digit response
+  codes and enabled test 1432 for hyper too.
+- Tweaked two more tests to work with hyper
+
+At **73** disabled tests.
+
 ## August 23, 2021
 
 - Went through more tests that could be enabled now with the 1xx support.
