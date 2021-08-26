@@ -31,6 +31,7 @@ Some of the funtionality still not "there" yet include:
 - Made the built-in HTTP code similar to hyper and reject >3 digit response
   codes and enabled test 1432 for hyper too.
 - Tweaked two more tests to work with hyper
+- Started [transfer-encoding discussion](https://github.com/hyperium/hyper/discussions/2633) in hyper
 
 At **73** disabled tests.
 
