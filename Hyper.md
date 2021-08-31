@@ -66,10 +66,12 @@ Landed initial support for 100-continue. Made test 154 run in hyper CI builds.
 
 ## July 2021
 
-Worked on fixing more details in the hyper build.
+Worked on fixing more details in the hyper build to work like built-in HTTP.
+
+## June 8, 2021
 
 Tests that fail when built with hyper are now disabled by default in hyper
-builds, which allows us to run "all tests" in CI jobs. There are about 150
+builds, which allows us to run "all tests" in CI jobs. There are **106**
 tests disabled, many of them are using `Expect: 100-continue`.
 
 ## January 12, 2021
