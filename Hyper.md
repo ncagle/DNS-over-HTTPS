@@ -21,10 +21,18 @@ Some of the funtionality still not "there" yet include:
 - co-exist with a HTTP/3 build
 - receiving HTTP/1 trailers
 - sending HTTP/1 trailers
-- transfer encoding
 - DoH ([#6389](https://github.com/curl/curl/issues/6389))
 
 # Daniel's Work Log
+
+## August 31, 2021
+
+- The Transfer-Encoding issue turned out to be a curl problem, not a hyper
+  one. With the landing of [#7649](https://github.com/curl/curl/pull/7649) the
+  treatment has been unified and now even more tests are enabled in hyper
+  builds.
+
+At **67** disabled tests.
 
 ## August 26, 2021
 
