@@ -25,6 +25,13 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## September 1, 2021
+
+- Fixed an output issue with TFTP that made the test suite wrongly apply
+  "hyper mode" which made some TFTP tests fail with curl+hyper. Fixed now.
+
+At **64** disabled tests.
+
 ## August 31, 2021
 
 - The Transfer-Encoding issue turned out to be a curl problem, not a hyper
