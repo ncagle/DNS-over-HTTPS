@@ -25,6 +25,13 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## September 6, 2021
+
+- David Cook spotted how [hyper doesn't provide enough API
+  powers](https://github.com/curl/curl/issues/7679) to issue correct h2 psuedo
+  headers which in turn makes curl fail when talking h2 to for example
+  `google.com`...
+
 ## September 1, 2021
 
 - Fixed an output issue with TFTP that made the test suite wrongly apply
