@@ -61,7 +61,7 @@ transfer.
 - `CURLWS_TEXT` - this is text data
 - `CURLWS_BINARY` - this is binary data
 - `CURLWS_NOCOMPRESS` - no-op if there’s no compression anyway
-- `CURLWS_FIN` - this is the end framgment of the message, if this is not set
+- `CURLWS_FIN` - this is the end fragment of the message, if this is not set
                   it implies that there will be another fragment coming.
 - `CURLWS_CLOSE` - close this transfer
 - `CURLWS_PING` - send this as a ping
