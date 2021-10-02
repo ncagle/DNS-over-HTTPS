@@ -7,6 +7,7 @@ For a long time people have expressed wishes and ideas about getting WebSockets 
 - [RFC 6455 - WebSocket](https://datatracker.ietf.org/doc/html/rfc6455)
 - [RFC 7692 - Compression](https://datatracker.ietf.org/doc/html/rfc7692)
 - [RFC 8441 - Bootstrapping WebSockets with HTTP/2](https://datatracker.ietf.org/doc/html/rfc8441)
+- [i-d Bootstrapping WebSockets with HTTP/3](https://www.ietf.org/archive/id/draft-ietf-httpbis-h3-websockets-00.html)
 
 ## Aim for what's used
 
