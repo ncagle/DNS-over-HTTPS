@@ -25,6 +25,14 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## October 22, 2021
+
+- I'm back. Iterating over the disabled tests one by one. Some tests need a
+  little editing, some have been disabled because hyper doesn't support
+  everything. Some needed bug-fixes.
+
+At **57** disabled tests.
+
 ## September 6, 2021
 
 - David Cook spotted how [hyper doesn't provide enough API
