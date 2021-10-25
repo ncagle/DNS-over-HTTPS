@@ -25,6 +25,14 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## October 25, 2021
+
+- Found a few more disabled tests that actually work now since a recent fix
+- Adjusted a few HTTP/0.9 tests not just not run with Hyper since it doesn't support
+- Adjusted some more tests to not run with hyper due to lack of support
+
+At **47** disabled tests.
+
 ## October 22, 2021
 
 - I'm back. Iterating over the disabled tests one by one. Some tests need a
