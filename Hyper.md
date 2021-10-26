@@ -25,6 +25,16 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## October 26, 2021
+
+- Disabled test 1294 since native libcurl supports "crazier" HTTP request
+  headers than hyper does. Hyper is strict, libcurl is liberal.
+- Made `CURLOPT_SUPPRESS_CONNECT_HEADERS` work with hyper
+- test 1266/1267: disabled on hyper: no HTTP/0.9 support
+- test 1287 need a massage to work
+
+At **42** disabled tests.
+
 ## October 25, 2021
 
 - Found a few more disabled tests that actually work now since a recent fix
