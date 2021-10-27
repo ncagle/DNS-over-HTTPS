@@ -18,12 +18,18 @@ Some of the funtionality still not "there" yet include:
 - multiplexed HTTP/2
 - h2 Upgrade:
 - pausing transfers
-- co-exist with a HTTP/3 build
 - receiving HTTP/1 trailers
 - sending HTTP/1 trailers
-- DoH ([#6389](https://github.com/curl/curl/issues/6389))
 
 # Daniel's Work Log
+
+## October 27, 2021
+
+- I verified that DoH works with hyper builds
+- I verified that both QUIC/h3 backends work fine in combination with hyper
+- Unified handling of "too low" HTTP response codes and now test 1430 works
+
+At **34** disabled tests.
 
 ## October 26, 2021
 
