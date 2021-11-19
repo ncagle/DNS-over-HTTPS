@@ -24,6 +24,12 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## November 19, 2021
+
+- Fixed the HA proxy protocol support, enabled two more tests.
+
+At **32** disabled tests.
+
 ## October 27, 2021
 
 - I verified that DoH works with hyper builds
