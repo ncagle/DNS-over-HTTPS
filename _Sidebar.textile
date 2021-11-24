@@ -1,1 +1,2 @@
-https://curl.se
+https://curl.se 
+CMake/CurlSymbolHiding.cmake
