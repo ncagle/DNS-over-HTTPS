@@ -24,6 +24,14 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## December 10, 2021
+
+At **26** disabled tests.
+
+## December 8, 2021
+
+At **30** disabled tests.
+
 ## November 19, 2021
 
 - Fixed the HA proxy protocol support, enabled two more tests.
