@@ -1,0 +1,1 @@
+İntra kod gerek
