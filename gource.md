@@ -205,6 +205,7 @@ Some "notable" moments in time to use as caption file for the gource. Save as `c
 1607468400|December 9 2020 - at 454 man pages
 1607986800|December 15 2020 - GOPHERS support
 1612306800|February 3 2021 - the hyper HTTP backend and rustls support
+1613602800|February 18 2021 - helped land Ingenuity on Mars
 1616713200|March 26 2021 - curl 7.77.0 (release 200)
 1617228000|April 1 2021 - at 172,623 lines of code
 1621980000|May 26 2021 - at 1,427 tests
