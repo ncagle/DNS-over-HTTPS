@@ -20,6 +20,7 @@ Some "notable" moments in time to use as caption file for the gource. Save as `c
 946681200|January 1 2000 - Daniel is the sole committer
 948063600|January 17 2000 - curl 6.4 (release 36)
 949359600|February 1 2000 - at 18,937 lines of code
+953506800|March 20 2000 - OS/2 support
 953593200|March 21 2000 - 48 command line options
 960501600|June 9 2000 - website is live on curl.haxx.se
 965599200|August 7 2000 - the first libcurl release (7.1)
@@ -28,6 +29,7 @@ Some "notable" moments in time to use as caption file for the gource. Save as `c
 971388000|October 13 2000 - the first CVE was reported on curl
 975625200|December 1 2000 - curl 7.5 at 24,959 lines of code
 978303600|January 2001 - MIT licensed
+980118000|January 22 2001 - IPv6
 982018800|February 13 2001 - at 13 man pages
 985215600|March 22 2001 - curl 7.7 added HTTP/1.1 support
 990568800|May 23 2001 - introduced the "new" test file format
@@ -42,6 +44,7 @@ Some "notable" moments in time to use as caption file for the gource. Save as `c
 1015455600|March 7 2002 - curl 7.9.5
 1022882400|June 2002 - 35,000 lines of product code
 1028325600|August 3 2002 - at 5 committers
+1030658400|August 30 2002 - SOCKS5 support
 1033423200|October 1 2002 - curl 7.10 verifies server certificates by default
 1033423200|October 1 2002 - added the --limit-rate option
 1038697200|December 1 2002 - at 42,977 lines of code
@@ -69,6 +72,7 @@ Some "notable" moments in time to use as caption file for the gource. Save as `c
 1129154400|October 13 2005 - at 109 command line options
 1133823600|December 6 2005 - at 301 tests
 1136070000|January 2006 - dropped GOPHER
+1140476400|February 21 2006 - SOCKS4 support
 1143842400|April 1 2006 - at 63,965 lines of code
 1150063200|June 12 2006 - curl 7.15.4
 1154901600|August 7 2006 - curl 7.15.5 at 53 man pages
@@ -184,6 +188,7 @@ Some "notable" moments in time to use as caption file for the gource. Save as `c
 1543618800|December 1 2018 - droped axTLS support
 1546297200|January 1 2019 - at 156,023 lines of code
 1551394800|March 2019 - experimental alt-svc support and AmiSSL support
+1553554800|March 26 2019 - Plan 9 support
 1558476000|May 22 2019 - curl 7.65.0
 1564610400|August 2019 - first HTTP/3 code
 1567288800|September 2019 - parallel downloads with the curl tool
