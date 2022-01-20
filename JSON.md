@@ -2,17 +2,19 @@
 
 This page is for brainstorming and gather ideas and suggestions on how to improve curl when used to send and receive JSON formatted data.
 
+These are **ideas** and **a proposal**. We can still improve, discard, replace and add to them.
+
 ## `--json -|<data>|@filename`
 
     curl --json [whatever] http://example.com
 
-A shortcut. Equals doing `-d [whatever] -H "Accept: application/json"`. This also supports `-` to read JSON from stdin and `@filename` to read it from a given file. Does not check/verify that the data is actually conforming JSON.
+A shortcut. Equals doing `-d [whatever] -H "Content-Type: application/json"`. This also supports `-` to read JSON from stdin and `@filename` to read it from a given file. Does not check/verify that the data is actually conforming JSON.
 
 ## `--jp [part]`
 
 ('jp' as short for "JSON part")
 
-Build a JSON request body, and use the request header `Accept:
+Build a JSON request body, and use the request header `Content-Type:
 application/json`.
 
 Multiple `--jp` options can be provided on the same command line to add
