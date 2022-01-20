@@ -66,7 +66,7 @@ Body:
 
 Input:
 
-    --jp map=europe --jp prime[]=13 --jp prime[]=17 --jp target[x]=-10 --jp target[x]=32
+    --jp map=europe --jp prime[]=13 --jp prime[]=17 --jp target[x]=-10 --jp target[y]=32
 
     {
       "map": "europe",
