@@ -61,7 +61,7 @@ Body:
       "Monday",
       "Tuesday",
       "Wednesday",
-      "Thursday",
+      "Thursday"
     ]
 
 Input:
