@@ -4,6 +4,8 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 
 These are **ideas** and **a proposal**. We can still improve, discard, replace and add to them.
 
+Discuss it [here](https://github.com/curl/curl/discussions/8312) also seen on [hackernews](https://news.ycombinator.com/item?id=30011382)
+
 ## `--json -|<data>|@filename`
 
     curl --json [whatever] http://example.com
