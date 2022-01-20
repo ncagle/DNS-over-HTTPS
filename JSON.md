@@ -4,80 +4,84 @@ This page is for brainstorming and gather ideas and suggestions on how to improv
 
 ## `--json -|<data>|@filename`
 
-    curl --json '{"msg": "$msg"}' http://example.com
+    curl --json [whatever] http://example.com
 
-- Makes a POST
-- Sets a `Content-Type: application/json` header in the request.
-- Replaces the $msg with the environment variable called 'msg', and escapes it
-  correctly according to JSON string rules (but how would it know when to escape like a string and when it is other kinds of data?)
+A shortcut. Equals doing `-d [whatever] -H "Accept: application/json"`. This also supports `-` to read JSON from stdin and `@filename` to read it from a given file. Does not check/verify that the data is actually conforming JSON.
 
-Should also support `-` to read JSON from stdin and `@filename` to read it from a given file.
+## `--jp [part]`
 
-## `--data={}`
+('jp' as short for "JSON part")
 
-If the first byte of the --data content starts with '{' or '[' use `application/json` as Content-type instead
-of `application/x-www-form-urlencoded`.  If you really wanted `application/x-www-form-urlencoded` in that case
-you could override it with --header.
+Build a JSON request body, and use the request header `Accept:
+application/json`.
 
-Not completely backwards compatible.
+Multiple `--jp` options can be provided on the same command line to add
+multiple parts to the body.
 
-## `--header-format=json`
+**[part]** is an instruction how to build JSON content
 
-    curl --dump-header header.json --header-format=json http://example.com/baz >body.json
+The idea is to be able to create and pass on most simple JSON data bodies and
+allow scripts and users to pass in parts of that data as shell variables etc
+when required (== handle quoting conveniently).
 
-    $ cat header.json
-    {
-      "http_code": 200,
-      "headers": {
-        "Content-Type": "application/json".
-        "Last-Modified": "....",
-        "ETag": "\"134a-6d5-530904afbe7c0\"",
-        ...
-     }
-    }
+(Syntax inspired by [jo](https://github.com/jpmens/jo/blob/master/jo.md))
 
-A problem with "headers" is that it's not clear what to do about repeated headers.
-The repeated header might also have their field name written with inconsistent
-casing.  One option is to return it as an array:
+## Idea of how it could work
+
+Input:
+
+    --jp a=b
+
+Body sent:
 
     {
-      "headers": [
-        { "name": "Content-Type", "value": "application/json" },
-        { "name": "Last-Modified", "value: "....",
-        { "name": "ETag", "value": "\"134a-6d5-530904afbe7c0\"" }
-      ]
+       "a": "b"
     }
 
-It's also inconvenient to not have fixed casing for the headers keys, so perhaps
-keys should always be lower-cased:
+Input:
 
-    { "headers": {
-        "content-type": "application/json",
-        "last-modified": "....",
-        "etag": "....",
-    }
+    --jp a=b --jp c=d --jp e=2 --jp f=false
 
-## `--write-out '%{json}'`
-
-Writes all the supported --write-out variables in the form of a JSON object.  Something like:
+Body:
 
     {
-      "content_type": "text/html",
-      "filename_effective": "example.html",
-      "http_code": 200,
-      ...
-      "time_total": 453
+       "a": "b",
+       "c": "d",
+       "e": 2,
+       "f": false
     }
 
-## `--accept=json|<content-type>|<majortype>/*`
+Input:
 
-Where `json` is just a shorthand for `application/json`.  This sets the "Accept:" header in the
-request and checks that the Content-Type in the response is actually `application/json`. If the
-response content type doesn't match it is treated as `--fail` (no output and status set to 22).
+    --jp ":list Monday, Tuesday, Wednesday, Thursday"
 
-If `--accept=<content-type>` is repeated all listed types is acceptable.
+Body:
+
+    [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+    ]
+
+Input:
+
+    --jp map=europe --jp prime[]=13 --jp prime[]=17 --jp target[x]=-10 --jp target[x]=32
+
+    {
+      "map": "europe",
+      "prime": [
+        13,
+        17
+      ],
+      "target": {
+        "x": -10,
+        "y": 32
+      }
+    }
+
 
 ## JSON response
 
-Not needed. Pipe output to [jq](https://stedolan.github.io/jq/) or similar.
+Not particular handling. Pipe output to [jq](https://stedolan.github.io/jq/) or similar.
 
