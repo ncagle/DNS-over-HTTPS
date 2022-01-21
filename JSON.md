@@ -57,7 +57,7 @@ Body:
 
 Input:
 
-    --jp ":list Monday, Tuesday, Wednesday, Thursday"
+    --jp '[]="Monday, Tuesday, Wednesday, Thursday"'
 
 Body:
 
