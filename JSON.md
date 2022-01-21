@@ -10,7 +10,7 @@ Discuss it [here](https://github.com/curl/curl/discussions/8312) also seen on [h
 
     curl --json [whatever] http://example.com
 
-A shortcut. Equals doing `-d [whatever] -H "Content-Type: application/json"`. This also supports `-` to read JSON from stdin and `@filename` to read it from a given file. Does not check/verify that the data is actually conforming JSON.
+A shortcut. Equals doing `-d [whatever] -H "Content-Type: application/json"`. This also supports `@-` to read JSON from stdin and `@filename` to read it from a given file. Does not check/verify that the data is actually conforming JSON.
 
 ## `--jp [part]`
 
