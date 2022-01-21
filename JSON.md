@@ -2,7 +2,7 @@
 
 This page is for brainstorming and gather ideas and suggestions on how to improve curl when used to send and receive JSON formatted data.
 
-These are **ideas** and **a proposal**. We can still improve, discard, replace and add to them.
+These are **ideas** and **a proposal**. We *should* improve, discard, replace and add to them.
 
 Discuss it [here](https://github.com/curl/curl/discussions/8312) also seen on [hackernews](https://news.ycombinator.com/item?id=30011382) and [reddit](https://www.reddit.com/r/programming/comments/s8puao/curl_to_add_native_json_support/)
 
