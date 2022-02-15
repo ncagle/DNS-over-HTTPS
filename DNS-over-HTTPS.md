@@ -89,8 +89,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Usable Privacy](https://docs.usableprivacy.com/updns/) | https://adfree.usableprivacy.net/dns-query | :heavy_check_mark: | Public non-logging DNS server with advertising and tracker filtering, use AdAway and Peter Lowe's list |
 | **W**
 | [WeDNS](https://wevpn.com/wedns) | Non-blocking : https://dns.wevpn.com/dns-query <be> Ad and malware blocking : https://dns-weblock.wevpn.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run on WeVPN infrastructure, freely available for public use.
-| **X**
-| [Xfinity](https://www.xfinity.com/privacy/policy/dns) | https://doh.xfinity.com/dns-query | :heavy_check_mark: | Logged for 24 hours, or longer with legal request.
 | **Others**
 | @jedisct1  | https://doh.crypto.sx/dns-query | :heavy_check_mark: |a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 |[@matthewgall - mydns.network](https://twitter.com/matthewgall) | https://freedom.mydns.network/dns-query (no blocking, using unbound) <br /> https://adblock.mydns.network/dns-query (adblock, using unbound) | :heavy_check_mark: <br /> :heavy_check_mark: | **freedom** <br />DNSSEC / no logging / DDoS protected / anycast <br /> **adblock** <br /> DNSSEC / no logging / DDoS protected / anycast / blocks adverts, phishing and malware / updated daily|
