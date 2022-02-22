@@ -13,14 +13,16 @@ Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 The first phase is to (slowly) go through all tests and make sure they run as
 fine with Hyper as with the native backend.
 
-Some of the funtionality still not "there" yet include:
+Some of the functionality still not "there" yet include:
 
-- multiplexed HTTP/2
+- multiplexed HTTP/2 ([hyper issue #2761](https://github.com/hyperium/hyper/issues/2761))
 - h2 Upgrade:
 - pausing transfers
 - receiving HTTP/1 trailers
 - sending HTTP/1 trailers
 - HTTP/0.9 (I've been informed Hyper supports this now but lacks C API access)
+
+
 
 # Daniel's Work Log
 
