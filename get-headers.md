@@ -1,5 +1,7 @@
 # A header access API?
 
+Replaced by [proposal v2](https://github.com/curl/curl/wiki/get-headers-v2)
+
 Question: should this be for HTTP only?
 
 Question: should this require being enabled in the request or should it always
