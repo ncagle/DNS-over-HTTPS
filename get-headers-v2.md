@@ -73,6 +73,8 @@ subsequent calls to `curl_easy_header()` will clobber the struct. Applications
 need to copy the data if it wants to keep it around. The memory used for the
 struct gets freed with calling `curl_easy_cleanup()` of the easy handle.
 
+For *redirects*, this function returns headers from the most recent response only.
+
 ### Examples
 
 Get the Content-Type header
