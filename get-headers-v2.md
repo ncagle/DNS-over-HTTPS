@@ -19,6 +19,7 @@ during a transfer.
     };
     
     #define CURLHEADER_TRAILER (1<<0) /* arrived as a trailer */
+    #define CURLHEADER_EARLY (1<<1) /* all headers ave not arrived yet */
 
     typedef enum {
        CURLH_OK,
