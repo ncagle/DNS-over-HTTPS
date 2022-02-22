@@ -18,8 +18,9 @@ Some of the functionality still not "there" yet include:
 - multiplexed HTTP/2 ([hyper issue #2761](https://github.com/hyperium/hyper/issues/2761))
 - h2 Upgrade:
 - pausing transfers
-- receiving HTTP/1 trailers
+- receiving HTTP/1 trailers ([hyper issue #2699](https://github.com/hyperium/hyper/issues/2699))
 - sending HTTP/1 trailers
+- receiving multiple identical headers (closed [hyper issue #2572](https://github.com/hyperium/hyper/issues/2572))
 
 # Daniel's Work Log
 
