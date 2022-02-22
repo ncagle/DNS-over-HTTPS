@@ -5,6 +5,8 @@
 Designed for HTTP(S). Headers are available in the easy handle after and
 during a transfer.
 
+[Feedback here](https://github.com/curl/curl/discussions/8496)
+
 ## Header struct
 
     struct curl_header {
