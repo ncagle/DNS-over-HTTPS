@@ -17,7 +17,8 @@ during a transfer.
        unsigned int flags; /* extra info */
        void *private; /* handle privately used by libcurl */
     };
-    
+
+    /* for the 'flags' field in the struct above  */
     #define CURLHEADER_TRAILER (1<<0) /* arrived as a trailer */
     #define CURLHEADER_EARLY (1<<1) /* all headers ave not arrived yet */
 
@@ -32,9 +33,14 @@ during a transfer.
 
 ## Get a single header
 
+    /* for the 'flags' argument below */
+    #define CURLHFLAG_NOHEADER (1<<0)  /* ignore headers */
+    #define CURLHFLAG_NOTRAILER (1<<1) /* ignore trailers */
+
     CURLHcode curl_easy_header(CURL *easy,
                                const char *name,
                                size_t index,
+                               unsigned int flags,
                                struct curl_header **hout);
 
 Returns a pointer to a `curl_header` struct in `hout` with data for the header
@@ -45,6 +51,9 @@ without colon.
 header struct has `->amount` set larger than 1, that means there are more
 instances of the same header name to get. Asking for a too big index makes
 `CURLH_BADINDEX` get returned.
+
+`flags` are for specifying if the user wants only headers, trailers or both.
+Setting flags to `0` (zero) makes it get both kinds.
 
 The contents of the returned `value` comes as delivered over the network but
 with leading and trailing whitespace and newlines stripped off. The `value`
