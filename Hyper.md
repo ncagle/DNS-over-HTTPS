@@ -24,6 +24,36 @@ Some of the funtionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## February 22, 2022
+
+At **24** disabled tests.
+
+- 265 CONNECT + NTLM
+- 266 trailer
+- 357 PUT with Expect: 100 and 417 response
+- 358 alt-svc and HTTP/2
+- 359 alt-svc and HTTP/2
+- 565 POST read-callback chunked transfer + digest
+- 579 chunked HTTP POSTs with digest auth. and progress callback
+- 580 multiple Location: headers
+- 581 multiple Content-Type: headers
+- 587 multi-part formpost with aborted read callback
+- 670 Request pause from mime read callback: multi
+- 671 Request pause from mime read callback: easy
+- 672 Request pause from form read callback: multi
+- 673 Request pause from form read callback: easy
+- 718 HTTP proxy CONNECT (no auth) with proxy returning 407 and closing
+- 1021 HTTP proxy CONNECT with any proxyauth and proxy offers NTLM and close
+- 1417 chunked encoding and chunked trailer
+- 1533 CURLOPT_KEEP_SENDING_ON_ERROR and an early error response
+- 1540 chunked with trailers and pausing the receive
+- 1591 PUT with trailers
+- 1700 HTTP/2 GET with Upgrade:
+- 1701 HTTP/2 POST with Upgrade:
+- 1702 HTTP/2 HEAD with Upgrade:
+- 1800 HTTP/2 upgrade refused
+
+
 ## December 10, 2021
 
 At **26** disabled tests.
