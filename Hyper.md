@@ -20,9 +20,6 @@ Some of the functionality still not "there" yet include:
 - pausing transfers
 - receiving HTTP/1 trailers
 - sending HTTP/1 trailers
-- HTTP/0.9 (I've been informed Hyper supports this now but lacks C API access)
-
-
 
 # Daniel's Work Log
 
