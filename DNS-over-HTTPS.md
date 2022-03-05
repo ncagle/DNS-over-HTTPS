@@ -69,7 +69,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io/<config_id><br>[Create a config ID](https://my.nextdns.io/start) | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterwards until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard.
 | [NekomimiRouter](https://nekomimirouter.com) | https://dns.dns-over-https.com/dns-query | :heavy_check_mark: | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
 | **P**
-| [pf-doh](https://dns.post-factum.tk) | https://doh.post-factum.tk/dns-query | :heavy_check_mark: | DoH server by post-factum. Hosted in Zürich, Switzerland using Oracle Cloud, cached globally via Cloudflare. Non-logging, non-filtering, supports DNSSEC |
 | [Plan9-dns](https://jlongua.github.io/plan9-dns/) | New Jersey : https://hydra.plan9-ns1.com/dns-query <br> Florida : https://draco.plan9-ns2.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted on Vultr 
 | PowerDNS  | https://doh.powerdns.org | :heavy_check_mark: | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
 | **Q**
