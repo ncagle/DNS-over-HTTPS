@@ -1,6 +1,8 @@
 # An HTTP header access API (v2)
 
-(This is proposal v2, v1 is in [A header access API](get-headers.md))
+This was proposal v2, v1 is in [A header access API](get-headers.md).
+
+The work on implementing takes places in [PR 8593](https://github.com/curl/curl/pull/8593). The API has already been changed a bit in that PR compared to this wiki page. This page will be removed when the PR lands, to keep the proper documentation at a single place: the libcurl man pages.
 
 Designed for HTTP(S). Headers are available in the easy handle after and
 during a transfer.
