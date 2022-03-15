@@ -135,7 +135,7 @@ List all response headers (including trailers):
     struct curl_header *prev = NULL;
     struct curl_header *h;
 
-    while((h = curl_easy_nextheader(easy, prev))) {
+    while((h = curl_easy_nextheader(easy, CURLH_SERVER|CURLH_TRAILER, prev))) {
        print "%s: %s\n", h->name, h->value);
        prev = h;
     }
