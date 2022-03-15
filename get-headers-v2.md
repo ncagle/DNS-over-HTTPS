@@ -24,7 +24,7 @@ struct curl_header {
 /* 'flags' can have this bit */
 #define CURLH_EARLY     (1<<8) /* all headers ave not arrived yet */
 
-/* for the 'flags' field AND 'type' argument: */
+/* for the 'flags' field AND 'origin' argument: */
 #define CURLH_SERVER    (1<<0) /* plain server header */
 #define CURLH_TRAILER   (1<<1) /* trailers */
 #define CURLH_CONNECT   (1<<2) /* CONNECT headers */
