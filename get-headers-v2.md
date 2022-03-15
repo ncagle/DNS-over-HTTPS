@@ -11,42 +11,44 @@ during a transfer.
 
 ## Header struct
 
-    struct curl_header {
-       char *name;    /* this might not use the same case */
-       char *value;
-       size_t amount; /* number of headers using this name  */
-       size_t index;  /* ... of this instance, 0 or higher */
-       unsigned int flags; /* extra info */
-       void *anchor; /* handle privately used by libcurl */
-    };
-    /* Available flags: */
-    #define CURLHEADER_EARLY   (1<<0) /* all headers ave not arrived yet */
-    #define CURLHEADER_TRAILER (1<<1) /* trailer header */
-    #define CURLHEADER_CONNECT (1<<2) /* CONNECT header */
-    #define CURLHEADER_1XX     (1<<3) /* 1xx header */
+~~~c
+struct curl_header {
+  char *name;    /* this might not use the same case */
+  char *value;
+  size_t amount; /* number of headers using this name  */
+  size_t index;  /* ... of this instance, 0 or higher */
+  unsigned int flags; /* extra info, see bits below */
+  void *anchor; /* handle privately used by libcurl */
+};
 
-    typedef enum {
-       CURLHE_OK,
-       CURLHE_BADINDEX,      /* header exists but not with this index */
-       CURLHE_MISSING,       /* no such header exists */
-       CURLHE_NOHEADERS,     /* no headers at all exist (yet) */
-       CURLHE_BADNAME,       /* the given header name is bad */
-       CURLHE_OUT_OF_MEMORY, /* out of memory while processing */
-    } CURLHcode;
+/* 'flags' can have this bit */
+#define CURLH_EARLY     (1<<8) /* all headers ave not arrived yet */
 
+/* for the 'flags' field AND 'type' argument: */
+#define CURLH_SERVER    (1<<0) /* plain server header */
+#define CURLH_TRAILER   (1<<1) /* trailers */
+#define CURLH_CONNECT   (1<<2) /* CONNECT headers */
+#define CURLH_1XX       (1<<3) /* 1xx headers */
+
+typedef enum {
+  CURLHE_OK,
+  CURLHE_BADINDEX,      /* header exists but not with this index */
+  CURLHE_MISSING,       /* no such header exists */
+  CURLHE_NOHEADERS,     /* no headers at all exist (yet) */
+  CURLHE_OUT_OF_MEMORY, /* out of memory while processing */
+  CURLHE_BAD_ARGUMENT,
+} CURLHcode;
+~~~
 ## Get a single header
 
-    /* for the 'type' argument below */
-    #define CURLH_NORMAL    0 /* plain headers */
-    #define CURLH_TRAILER   1 /* trailers */
-    #define CURLH_CONNECT   2 /* CONNECT headers */
-    #define CURLH_1XX       3 /* 1xx headers */
+~~~c
+CURLHcode curl_easy_header(CURL *easy,
+                           const char *name,
+                           size_t index,
+                           unsigned int origin,
+                           struct curl_header **hout);
 
-    CURLHcode curl_easy_header(CURL *easy,
-                               const char *name,
-                               size_t index,
-                               unsigned int type,
-                               struct curl_header **hout);
+~~~
 
 Returns a pointer to a `curl_header` struct in `hout` with data for the header
 `name`. The case insensitive nul-terminated header name should be specified
@@ -57,7 +59,7 @@ header struct has `->amount` set larger than 1, that means there are more
 instances of the same header name to get. Asking for a too big index makes
 `CURLH_BADINDEX` get returned.
 
-`type` is for specifying if the user wants headers, trailers, CONNECT or 1xx headers.
+`origin` is a bitmask for specifying when headers to look among. See bits above.
 
 The contents of the returned `value` comes as delivered over the network but
 with leading and trailing whitespace and newlines stripped off. The `value`
@@ -84,14 +86,14 @@ For *redirects*, this function returns headers from the most recent response onl
 Get the Content-Type header
 
     struct curl_header *type;
-    CURLHcode h = curl_easy_header(easy, "Content-Type", &type, 0);
+    CURLHcode h = curl_easy_header(easy, "Content-Type", 0, CURLH_SERVER, &type);
 
 Get all Set-Cookie: headers
 
     struct curl_header *cookie;
-    CURLHcode h = curl_easy_header(easy, "Set-Cookie", &cookie, 0);
+    CURLHcode h = curl_easy_header(easy, "Set-Cookie", 0, CURLH_SERVER, &cookie);
     
-    if(h == CURLH_OK) {
+    if(h == CURLHE_OK) {
        size_t num = cookie->amount,
        unsigned int i = 0;
        do {
@@ -104,14 +106,19 @@ Get all Set-Cookie: headers
 
 ## Get all headers
 
-    struct curl_header *curl_easy_nextheader(CURL *easy,
-                                             struct curl_header *prev);
+~~~c
+struct curl_header *curl_easy_nextheader(CURL *easy,
+                                         unsigned int origin,
+                                         struct curl_header *prev);
+~~~
 
 If `prev` is NULL, it returns the first header stored.
 
 If `prev` is a pointer to a previously returned header struct, this function
 returns the next header stored. This way, an application can iterate over all
 headers.
+
+`origin` is a bitmask for specifying when headers to look among. See bits above.
 
 This function returns NULL if there is no more headers to return. If this
 function returns NULL when `prev` was set to NULL, then there are no headers
