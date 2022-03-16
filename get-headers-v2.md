@@ -58,7 +58,7 @@ header struct has `->amount` set larger than 1, that means there are more
 instances of the same header name to get. Asking for a too big index makes
 `CURLH_BADINDEX` get returned.
 
-`origin` is a bitmask for specifying when headers to look among. See bits above.
+`origin` is a bitmask for specifying which headers to look among. See bits above.
 
 `request` is the 0-index request number. There are multiple request done when redirects
  or multi-pass authentication is used. `-1` means the "last one" currently stored.
