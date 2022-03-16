@@ -86,12 +86,12 @@ For *redirects*, this function returns headers from the most recent response onl
 Get the Content-Type header
 
     struct curl_header *type;
-    CURLHcode h = curl_easy_header(easy, "Content-Type", 0, CURLH_SERVER, &type);
+    CURLHcode h = curl_easy_header(easy, "Content-Type", 0, CURLH_HEADER, &type);
 
 Get all Set-Cookie: headers
 
     struct curl_header *cookie;
-    CURLHcode h = curl_easy_header(easy, "Set-Cookie", 0, CURLH_SERVER, &cookie);
+    CURLHcode h = curl_easy_header(easy, "Set-Cookie", 0, CURLH_HEADER, &cookie);
     
     if(h == CURLHE_OK) {
        size_t num = cookie->amount,
@@ -135,7 +135,7 @@ List all response headers (including trailers):
     struct curl_header *prev = NULL;
     struct curl_header *h;
 
-    while((h = curl_easy_nextheader(easy, CURLH_SERVER|CURLH_TRAILER, prev))) {
+    while((h = curl_easy_nextheader(easy, CURLH_HEADER|CURLH_TRAILER, prev))) {
        print "%s: %s\n", h->name, h->value);
        prev = h;
     }
