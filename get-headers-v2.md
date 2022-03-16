@@ -17,14 +17,11 @@ struct curl_header {
   char *value;
   size_t amount; /* number of headers using this name  */
   size_t index;  /* ... of this instance, 0 or higher */
-  unsigned int flags; /* extra info, see bits below */
+  unsigned int origin; /* from where */
   void *anchor; /* handle privately used by libcurl */
 };
 
-/* 'flags' can have this bit */
-#define CURLH_EARLY     (1<<8) /* all headers ave not arrived yet */
-
-/* for the 'flags' field AND 'origin' argument: */
+/* 'origin' bits */
 #define CURLH_HEADER    (1<<0) /* plain server header */
 #define CURLH_TRAILER   (1<<1) /* trailers */
 #define CURLH_CONNECT   (1<<2) /* CONNECT headers */
