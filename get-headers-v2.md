@@ -47,6 +47,7 @@ CURLHcode curl_easy_header(CURL *easy,
                            const char *name,
                            size_t index,
                            unsigned int origin,
+                           int request,
                            struct curl_header **hout);
 
 ~~~
@@ -61,6 +62,9 @@ instances of the same header name to get. Asking for a too big index makes
 `CURLH_BADINDEX` get returned.
 
 `origin` is a bitmask for specifying when headers to look among. See bits above.
+
+`request` is the 0-index request number. There are multiple request done when redirects
+ or multi-pass authentication is used. `-1` means the "last one" currently stored.
 
 The contents of the returned `value` comes as delivered over the network but
 with leading and trailing whitespace and newlines stripped off. The `value`
@@ -87,12 +91,12 @@ For *redirects*, this function returns headers from the most recent response onl
 Get the Content-Type header
 
     struct curl_header *type;
-    CURLHcode h = curl_easy_header(easy, "Content-Type", 0, CURLH_HEADER, &type);
+    CURLHcode h = curl_easy_header(easy, "Content-Type", 0, CURLH_HEADER, -1, &type);
 
 Get all Set-Cookie: headers
 
     struct curl_header *cookie;
-    CURLHcode h = curl_easy_header(easy, "Set-Cookie", 0, CURLH_HEADER, &cookie);
+    CURLHcode h = curl_easy_header(easy, "Set-Cookie", 0, CURLH_HEADER, -1, &cookie);
     
     if(h == CURLHE_OK) {
        size_t num = cookie->amount,
@@ -110,6 +114,7 @@ Get all Set-Cookie: headers
 ~~~c
 struct curl_header *curl_easy_nextheader(CURL *easy,
                                          unsigned int origin,
+                                         int request,
                                          struct curl_header *prev);
 ~~~
 
@@ -120,6 +125,9 @@ returns the next header stored. This way, an application can iterate over all
 headers.
 
 `origin` is a bitmask for specifying when headers to look among. See bits above.
+
+`request` is the 0-index request number. There are multiple request done when redirects
+ or multi-pass authentication is used. `-1` means the "last one" currently stored.
 
 This function returns NULL if there is no more headers to return. If this
 function returns NULL when `prev` was set to NULL, then there are no headers
