@@ -16,13 +16,20 @@ fine with Hyper as with the native backend.
 Some of the functionality still not "there" yet include:
 
 - multiplexed HTTP/2 ([hyper issue #2761](https://github.com/hyperium/hyper/issues/2761))
-- h2 Upgrade:
 - pausing transfers
 - receiving HTTP/1 trailers ([hyper issue #2699](https://github.com/hyperium/hyper/issues/2699))
 - sending HTTP/1 trailers
 - receiving multiple identical headers (closed [hyper issue #2572](https://github.com/hyperium/hyper/issues/2572))
 
 # Daniel's Work Log
+
+## March 20, 2022
+
+I hadn't realized but hyper doesn't support h2c upgrade. This was the direct or indirect explanation for no less than
+six still disabled test. The lack of support for HTTP/2 over clear text HTTP:// URLs is now a documented restriction for
+hyper builds - we can always fix that if support is ever added to hyper in the future.
+
+At **18** disabled tests.
 
 ## February 22, 2022
 
