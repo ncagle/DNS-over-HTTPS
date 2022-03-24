@@ -25,6 +25,10 @@ Some of the functionality still not "there" yet include:
 
 ## March 20, 2022
 
+Test 718 was just wrong, when fixed it runs fine with hyper.
+
+At **17** disabled tests.
+
 I hadn't realized but hyper doesn't support h2c upgrade. This was the direct or indirect explanation for no less than
 six still disabled test. The lack of support for HTTP/2 over clear text HTTP:// URLs is now a documented restriction for
 hyper builds - we can always fix that if support is ever added to hyper in the future.
