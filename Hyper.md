@@ -8,6 +8,10 @@ Explanatory blog post: [rust in curl with hyper](https://daniel.haxx.se/blog/202
 
 Persons involved: Daniel Stenberg (on curl) and Sean McArthur (on Hyper)
 
+# Known limitations
+
+While we strive at having full and synced feature support in the hyper backend, we accept some limitations and restrictions in the hyper support. They are documented in the separate [HYPER document](https://github.com/curl/curl/blob/master/docs/HYPER.md#limitations) in the source tree.
+
 # Outstanding work
 
 The first phase is to (slowly) go through all tests and make sure they run as
