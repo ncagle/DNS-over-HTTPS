@@ -27,6 +27,10 @@ Some of the functionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## April 26, 2022
+
+At **15** disabled tests.
+
 ## March 20, 2022
 
 Test 718 was just wrong, when fixed it runs fine with hyper.
