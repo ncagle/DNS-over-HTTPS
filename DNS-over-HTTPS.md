@@ -70,7 +70,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NekomimiRouter](https://nekomimirouter.com) | https://dns.dns-over-https.com/dns-query | :heavy_check_mark: | Runs [Go implementation](https://github.com/m13253/dns-over-https). Does recursion itself with no upstream servers. Toy server may fail, please report if fails |
 | **P**
 | [Plan9-dns](https://jlongua.github.io/plan9-dns/) | New Jersey : https://hydra.plan9-ns1.com/dns-query <br> Florida : https://draco.plan9-ns2.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted on Vultr 
-| PowerDNS  | https://doh.powerdns.org | :heavy_check_mark: | Based on [dnsdist-doh](https://github.com/ahupowerdns/pdns/tree/dnsdist-doh) branch
 | **Q**
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/)       |  Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query| :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
 | **R**
