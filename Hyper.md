@@ -27,6 +27,10 @@ Some of the functionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## May 9, 2022
+
+At **12** disabled tests.
+
 ## April 26, 2022
 
 At **15** disabled tests.
