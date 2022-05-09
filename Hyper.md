@@ -23,13 +23,26 @@ Some of the functionality still not "there" yet include:
 - pausing transfers ([curl issue #8600](https://github.com/curl/curl/issues/8600))
 - receiving HTTP/1 trailers ([hyper issue #2699](https://github.com/hyperium/hyper/issues/2699))
 - sending HTTP/1 trailers ([hyper issue #2699](https://github.com/hyperium/hyper/issues/2699))
-- receiving multiple identical headers (closed [hyper issue #2572](https://github.com/hyperium/hyper/issues/2572))
 
 # Daniel's Work Log
 
 ## May 9, 2022
 
-At **12** disabled tests.
+At **13** disabled tests.
+
+- 265 CONNECT + NTLM
+- 266 trailer
+- 565 POST read-callback chunked transfer + digest
+- 579 chunked HTTP POSTs with digest auth. and progress callback
+- 587 multi-part formpost with aborted read callback
+- 670 Request pause from mime read callback: multi
+- 671 Request pause from mime read callback: easy
+- 672 Request pause from form read callback: multi
+- 673 Request pause from form read callback: easy
+- 1417 chunked encoding and chunked trailer
+- 1533 CURLOPT_KEEP_SENDING_ON_ERROR and an early error response
+- 1540 chunked with trailers and pausing the receive
+- 1591 PUT with trailers
 
 ## April 26, 2022
 
