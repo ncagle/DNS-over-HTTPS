@@ -23,6 +23,7 @@ Some of the functionality still not "there" yet include:
 - pausing transfers ([curl issue #8600](https://github.com/curl/curl/issues/8600))
 - receiving HTTP/1 trailers ([hyper issue #2699](https://github.com/hyperium/hyper/issues/2699))
 - sending HTTP/1 trailers ([hyper issue #2699](https://github.com/hyperium/hyper/issues/2699))
+- co-exist with HTTP/3 ([mention](https://github.com/curl/curl/issues/8894#issuecomment-1137027355))
 
 # Daniel's Work Log
 
