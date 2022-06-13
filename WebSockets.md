@@ -2,6 +2,12 @@
 
 For a long time people have expressed wishes and ideas about getting WebSockets support added to curl. Every year in the annual survey a large portion of users say they'd like it.
 
+## Initial work
+
+[PR 8995](https://github.com/curl/curl/pull/8995)
+
+Note that the PR has the final say in documentation and functionality. Details will be removed from this wiki page and added to the documentation in the PR as we progress.
+
 ## Specs
 
 - [RFC 6455 - WebSocket](https://datatracker.ietf.org/doc/html/rfc6455)
@@ -11,7 +17,7 @@ For a long time people have expressed wishes and ideas about getting WebSockets 
 
 ## Aim for what's used
 
-WebSockets is highly extensible. This described API and first implemention do
+WebSockets is highly extensible. This described API and first implementation do
 not aim to support all existing and future extensions. But we should not write
 the API or implementation to necessarily prevent us from implementing and
 providing support for more extensions in a future.
@@ -30,22 +36,17 @@ Makes it work similar to 'nc'.
 
 # Proposed API
 
-- Provide a mode (`WS_ALONE`) that makes `CONNECT_ONLY`-style: only the
-  WebSockets upgrade dance and then return to the application for
+- Set `CURLOPT_CONNECT_ONLY` to `2` to tell libcurl to do the
+  WebSockets upgrade dance only and then return to the application for
   `curl_easy_perform()`.
 - New functions for recv/send so that we can pass on extra flags for
   websockets use (like end of packet flag, compression, binary/text etc)
 
 ## Outstanding questions
 
-- do we need options for HTTP/2 ?
-
 - how to set/change the maximum allowed message-size?
 
-- what about other types like in a future extension? Should we reserve or do
-  something for that possibility?
-
-- do we need a `curl_ws_poll()` for the `WS_ALONE` use case? It could wait
+- do we need a `curl_ws_poll()` for the `CONNECT_ONLY` use case? It could wait
   for websockets activity and transparently handle ping/pongs.
 
 ## `CURLOPT_URL`
@@ -57,41 +58,22 @@ transfer.
 
     curl_ws_send( easy, buffer, buflen, &sent, sendflags );
 
-**sendflags** is a bitmask featuring the following flags:
-
-- `CURLWS_TEXT` - this is text data
-- `CURLWS_BINARY` - this is binary data
-- `CURLWS_NOCOMPRESS` - no-op if there’s no compression anyway
-- `CURLWS_FIN` - this is the end fragment of the message, if this is not set
-                  it implies that there will be another fragment coming.
-- `CURLWS_CLOSE` - close this transfer
-- `CURLWS_PING` - send this as a ping
-- `CURLWS_PONG` - send this as a pong
+Send a websocket frame.
 
 ## `curl_ws_recv`
 
     curl_ws_recv( easy, buffer, buflen, &recvflags )
 
-This function returns as much as possible of a received WebSockets data
-*fragment*.
-
-**recvflags** is a bitmask featuring the following (incoming) flags:
-
-- `CURLWS_TEXT` - this is text data
-- `CURLWS_BINARY` - this is binary data
-- `CURLWS_FIN` - this is also the final fragment of a message
-- `CURLWS_CLOSE` - this transfer is now closed
-- `CURLWS_PING` - this is a ping
+Received a websocket frame.
 
 ## `curl_ws_poll`?
 
-
+Pending.
 
 ## `CURLOPT_WS_OPTIONS`
 
 A new *setopt() option that sets a bitmask:
 
-- `CURLWS_ALONE` - ask for "stand alone" control using the easy API
 - `CURLWS_COMPRESS` - negotiate compression for this transfer
 - `CURLWS_PINGOFF` - disable automated ping/pong handling
 
@@ -99,16 +81,6 @@ A new *setopt() option that sets a bitmask:
 
 This sets a websockets write callback to which libcurl will deliver incoming
 *messages*.
-
-    int message_callback(CURL *easy, char *data, size_t len,
-                         unsigned int msgflags);
-
-**msgflags** is a bitmask featuring the following (incoming) flags:
-
-- `CURLWS_TEXT` - this is text data
-- `CURLWS_BINARY` - this is binary data
-- `CURLWS_CLOSE` - this transfer is now closed
-- `CURLWS_PING` - this is a ping (if enabled)
 
 ## Multi interface
 
