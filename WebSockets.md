@@ -1,6 +1,8 @@
-# WebSockets in libcurl - draft
+# WebSockets in libcurl
 
 For a long time people have expressed wishes and ideas about getting WebSockets support added to curl. Every year in the annual survey a large portion of users say they'd like it.
+
+**Sponsored by [Corellium](https://www.corellium.com/)**
 
 ## Initial work
 
@@ -36,18 +38,27 @@ Makes it work similar to 'nc'.
 
 # Proposed API
 
-- Set `CURLOPT_CONNECT_ONLY` to `2` to tell libcurl to do the
-  WebSockets upgrade dance only and then return to the application for
-  `curl_easy_perform()`.
-- New functions for recv/send so that we can pass on extra flags for
-  websockets use (like end of packet flag, compression, binary/text etc)
+There are two ways to do WebSockets with libcurl:
 
-## Outstanding questions
+1. Set `CURLOPT_CONNECT_ONLY` to `2` to tell libcurl to do the WebSockets
+  upgrade dance only and then return to the application for
+  `curl_easy_perform()`. Then use `curl_ws_send()` and `curl_ws_recv()`.
+2. Set a write callback with `CURLOPT_WRITEFUNCTION` and get data delivered to
+   that and use `curl_ws_send()` from within the callback to send back
+   WebSockets frames.
+   
+libcurl offers WebSockets handling in different modes:
 
-- how to set/change the maximum allowed message-size?
-
-- do we need a `curl_ws_poll()` for the `CONNECT_ONLY` use case? It could wait
-  for websockets activity and transparently handle ping/pongs.
+1. "Raw mode" makes libcurl deliver and send data raw to the application
+   without parsing or understanding the protocol. This lets the application do
+   all the heavy lifting. Primarily perhaps to work as an interface to legacy
+   WebSockets users.
+2. "Frame mode" makes libcurl deliver WebSockets frames in the API to the
+   application. With each parsed frame comes meta-data and information about
+   it.
+   
+A future enhancement might be to provide a "message mode" that can send full
+(multi-frame) messages.
 
 ## `CURLOPT_URL`
 
@@ -66,21 +77,23 @@ Send a websocket frame.
 
 Received a websocket frame.
 
-## `curl_ws_poll`?
+## `curl_ws_poll`
 
 Pending.
+
+## `curl_ws_meta`
+
+Pending. Returns information about the incoming WebSockets frame within a
+`CURLOPT_WRITEFUNCTION` callback.
 
 ## `CURLOPT_WS_OPTIONS`
 
 A new *setopt() option that sets a bitmask:
 
+- `CURLWS_RAW_MODE` - get/send raw websockets data
+
 - `CURLWS_COMPRESS` - negotiate compression for this transfer
 - `CURLWS_PINGOFF` - disable automated ping/pong handling
-
-## `CURLOPT_WS_WRITEFUNCTION`
-
-This sets a websockets write callback to which libcurl will deliver incoming
-*messages*.
 
 ## Multi interface
 
@@ -115,7 +128,7 @@ if(CURLE_OK == result) {
   curl_ws_recv();
 
   /* wait for data to arrive */
-  /* just using select() or curl_ws_poll() ? */
+  curl_ws_poll();
 }
 
 curl_easy_cleanup(ws); /* done */
@@ -137,8 +150,8 @@ struct customstuff writep;
 CURL *ws = curl_easy_init();
 curl_easy_setopt(ws, CURLOPT_URL, "ws://websockets.example.org");
 
-curl_easy_setopt(ws, CURLOPT_WS_WRITEFUNCTION, write_cb);
-curl_easy_setopt(ws, CURLOPT_WS_WRITEDATA, &writep);
+curl_easy_setopt(ws, CURLOPT_WRITEFUNCTION, write_cb);
+curl_easy_setopt(ws, CURLOPT_WRITEDATA, &writep);
 
 result = curl_easy_perform(ws);
 
