@@ -58,7 +58,7 @@ We have a [coding style](https://github.com/curl/curl/blob/master/docs/CODE_STYL
 
 ## Commit style -- it's not a suggestion
 
-Read the [CONTRIBUTE](https://github.com/curl/curl/blob/master/docs/CONTRIBUTE.md) document if you haven't already! There's a section in it on writing [good commit messages](https://github.com/curl/curl/blob/master/docs/CONTRIBUTE.md#write-good-commit-messages) that must be followed. Notably, not everyone's git editor wraps commit messages. For example I use gitk and if a commit message is one long line it's not wrapped and I can't easily read it. You must wrap the message at 72 with some rare exceptions like URLs, shell commands that shouldn't be broken up, etc. The subject _ideally_ should be less than 60 columns but we don't strictly enforce that.
+Read the [CONTRIBUTE](https://github.com/curl/curl/blob/master/docs/CONTRIBUTE.md) document if you haven't already! There's a section in it on writing [good commit messages](https://github.com/curl/curl/blob/master/docs/CONTRIBUTE.md#commit-messages) that must be followed. Notably, not everyone's git editor wraps commit messages. For example I use gitk and if a commit message is one long line it's not wrapped and I can't easily read it. You must wrap the message at 72 with some rare exceptions like URLs, shell commands that shouldn't be broken up, etc. The subject _ideally_ should be less than 60 columns but we don't strictly enforce that.
 
 Commit subject messages should be in imperative style present tense.
 
