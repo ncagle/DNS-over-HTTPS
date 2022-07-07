@@ -53,7 +53,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Google      | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:|Full RFC 8484 support
 | **H**
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
-| [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Now supports DNSSEC. Anycast servers. |
+| [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
 | **J**
 | jitender| https://jit.ddns.net/dns-query | :heavy_check_mark: | DoH server - India, Oracle Cloud, Hyderabad, India, Runs with nginx, high availability, load balanced by nginx with multiple backend DNS servers. Blocks ad, analytics, trackers blocking provides a clean browsing experience. @coolquasar |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
