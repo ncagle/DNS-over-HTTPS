@@ -61,6 +61,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
 | **I**
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/ | :heavy_check_mark: | Planned to run until March 2024 
+| [Infotek](http://infotek.net.id/dns/) | https://doh.infotek.net.id:3443/dns-query | :heavy_check_mark: | Compliant with Indonesia censorship
 | **J**
 | jitender| https://jit.ddns.net/dns-query | :x: | DoH server - India, Oracle Cloud, Hyderabad, India, Runs with nginx, high availability, load balanced by nginx with multiple backend DNS servers. Blocks ad, analytics, trackers blocking provides a clean browsing experience. @coolquasar |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
@@ -83,6 +84,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **R**
 | [Restena](https://www.restena.lu/en/service/public-dns-resolver) | https://kaitain.restena.lu/dns-query | :heavy_check_mark: | Based in Luxembourg, DNSSEC, minimal logging for technical functions
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://basic.rethinkdns.com/dns-query <br> Configure custom blocklists: https://rethinkdns.com/configure | :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app).
+| [Rezhajul](https://doh.rezhajul.io/) | https://doh.rezhajul.io/dns-query | :heavy_check_mark: | No Logging, DNSSEC enabled, 1.7M+ hosts filtered (ads, tracker, malware, spam, coinminer and phising).
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | :heavy_check_mark: | East China Zone, Based on https://github.com/m13253/dns-over-https |
 | **S**
 | [Snopyta](https://snopyta.org/service/dns/) | https://fi.doh.dns.snopyta.org/dns-query | :heavy_check_mark: | Non-logging DoH Server in Finland |
