@@ -10,3 +10,9 @@ Already planned work related to CI:
 
 * Migration from Zuul to other CI services
 * Merging and de-duplication of all Linux workflows on GitHub Actions by @mback2k, see e.g. [#9501](https://github.com/curl/curl/pull/9501)
+
+# Proposals
+
+## Containerised builds
+
+Containerising builds mitigates the "random unavailability of package repositories" problem, but would introduce an "unavailability of container repository" problem instead. However, we have a lot more control over which container repository can be used, and it would also allow for developers to get started faster.
