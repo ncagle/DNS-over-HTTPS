@@ -17,3 +17,7 @@ Already planned work related to CI:
 ## Containerised builds
 
 Containerising builds mitigates the "random unavailability of package repositories" problem, but would introduce an "unavailability of container repository" problem instead. However, we have a lot more control over which container repository can be used, and it would also allow for developers to get started faster.
+
+## Disabling all flaky tests to get to constantly green pipelines
+
+@cmeister2 proposes disabling all flaky test suites so that we can be strict about "only green pipelines get merged" - this reduces the burden on both the developer and the reviewer to be able to say that a set of changes is "good" or not.
