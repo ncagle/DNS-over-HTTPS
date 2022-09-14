@@ -16,7 +16,7 @@ Already planned work related to CI:
 
 Visibility issues:
 
-* Appveyor and Zuul both appear as a single CI job on GitHub, while still having many sub-job. A single :x: in the list, can then mean one to 25 failures. Flaky, or not flaky.
+* Appveyor and Zuul both appear as a single CI job on GitHub, while still having many sub-jobs. A single :x: in the list, can then mean one to 25 failures. Flaky, or not flaky.
 
 # Proposals
 
