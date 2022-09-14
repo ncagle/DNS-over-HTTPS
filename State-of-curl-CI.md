@@ -12,6 +12,7 @@ Already planned work related to CI:
 
 * Migration from Zuul to other CI services
 * Merging and de-duplication of all Linux workflows on GitHub Actions by @mback2k, see e.g. [#9501](https://github.com/curl/curl/pull/9501)
+* Introduce new (eventually better) ways to build and test for Windows by @mback2k, e.g. using WSL for test servers on Windows or Wine for curl on Linux
 
 # Proposals
 
@@ -22,6 +23,8 @@ Containerising builds mitigates the "random unavailability of package repositori
 ## Disabling all flaky tests to get to constantly green pipelines
 
 @cmeister2 proposes disabling all flaky test suites so that we can be strict about "only green pipelines get merged" - this reduces the burden on both the developer and the reviewer to be able to say that a set of changes is "good" or not.
+
+@mback2k does not think this is feasible as this would remove too many useful CI builds at this point.
 
 ## Having a CI "team" that reviews CI-tagged changes
 
