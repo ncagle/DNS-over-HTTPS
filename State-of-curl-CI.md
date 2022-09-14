@@ -5,3 +5,8 @@ Known issues affecting CI stability:
 * Random unavailability of package repositories for Linux (Ubuntu APT), macOS (Homebrew) and FreeBSD
 * FTP (and maybe other pingpong-protocols or those tested with sockfilt) randomly loose data on Windows CI, see [#9380](https://github.com/curl/curl/issues/9380)
 * At the end (sometimes in the middle of them) of the Windows CI builds we randomly get exit code 143, see [#9469](https://github.com/curl/curl/pull/9469) and e.g. [this run](https://github.com/curl/curl/runs/8285644244)
+
+Already planned work related to CI:
+
+* Migration from Zuul to other CI services
+* Merging and de-duplication of all Linux workflows on GitHub Actions by @mback2k, see e.g. [#9501](https://github.com/curl/curl/pull/9501)
