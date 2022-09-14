@@ -33,3 +33,7 @@ Containerising builds mitigates the "random unavailability of package repositori
 ## Having a CI "team" that reviews CI-tagged changes
 
 @cmeister2 proposes that there's a specific subteam for reviewing any changes that modify CI or responding to CI-tagged issues.
+
+## Creating a GitHub Actions that splits AppVeyor CI status
+
+@mback2k proposes to have a GitHub Actions that adds status entries to a commit for each AppVeyor job to solve the visibility issue mentioned above.
