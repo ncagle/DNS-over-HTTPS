@@ -14,6 +14,10 @@ Already planned work related to CI:
 * Merging and de-duplication of all Linux workflows on GitHub Actions by @mback2k, see e.g. [#9501](https://github.com/curl/curl/pull/9501)
 * Introduce new (eventually better) ways to build and test for Windows by @mback2k, e.g. using WSL for test servers on Windows or Wine for curl on Linux
 
+Visibility issues:
+
+Appveyor and Zuul both appear as a single CI job on GitHub, while still having many sub-job. A single :x: in the list, can then mean one to 25 failures. Flaky, or not flaky.
+
 # Proposals
 
 ## Containerised builds
