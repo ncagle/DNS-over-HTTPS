@@ -28,7 +28,7 @@ Containerising builds mitigates the "random unavailability of package repositori
 
 @cmeister2 proposes disabling all flaky test suites so that we can be strict about "only green pipelines get merged" - this reduces the burden on both the developer and the reviewer to be able to say that a set of changes is "good" or not.
 
-@mback2k does not think this is feasible as this would remove too many useful CI builds at this point.
+@mback2k does not think this is feasible as this would remove too many "useful" CI builds at this point. "useful" meaning here that without those we are probably not able to discover relevant issues on e.g. Windows before a release.
 
 ## Having a CI "team" that reviews CI-tagged changes
 
