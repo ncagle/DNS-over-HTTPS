@@ -18,17 +18,13 @@ With HTTP/3, a very similar transcoding to HTTP/2 came, but the underlying conne
 
 The other special thing about HTTP is Proxy CONNECT (optional with Encryption), meaning establishing a bidirectional byte pipe over which protocol handlers can operate. This is not only used for HTTP(S) requests, but also for FTP. The case for other protocols can be made as well (SSH?).
 
-The HTTP Proxy CONNECT implementation of today faces 2 challenges:
-1. It only works for HTTP/1.x proxies
-2. It does not re-use much from the HTTP Curl_handler. For example, it has it own `sprintf` request transcoding.
-
+The HTTP Proxy CONNECT implementation of today faces the challenge that it only works for HTTP/1.x proxies.
 Proxying over HTTP/2 is now in the project plan. It is not unthinkable that H3 will follow one day.
 
 **tl;dr**
 
 1. The current `HTTP` protocol handler code needs to handle too many combinations of versions in its implementation.
-1. There is no benefit for PROXY handling by improvements in the HTTP handler.
-1. H3 does not exactly help here.
+1. PROXY handling is restricted to HTTP/1.1.
 
 ## What To Do?
 
