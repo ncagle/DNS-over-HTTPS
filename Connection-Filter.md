@@ -10,9 +10,9 @@ are handled.
 
 This flattens out all possible combinations of how layering of these protocols may be done. This is a simple, easy model, but it has consequences for the code working with it. That code needs to check which combination is present in an instance and act accordingly.
 
-Another example where the "flat" handling is tricky and the `conndata` members `send/recv`. These function pointers are responsible to passing data back and forth on the connection. Initially, these just use the raw socket. When TLS is used, that implementation replaces them with its own that work on the SSL*. The SSL* is told to use the original socket via `SSL_set_fd()`.
+Another example where the "flat" handling is tricky and the `conndata` members `send/recv`. These function pointers are responsible to passing data back and forth on the connection. Initially, these just use the raw socket. When TLS is used, that implementation replaces them with its own that work on the `SSL*`. The SSL* is told to use the original socket via `SSL_set_fd()`.
 
-Of course, when a https: proxy is in place, it has already done that and the same thing does not work twice. Instead, it fetched the SSL* from the proxy and builds a chain via `BIO_set_ssl()` to chain the two SSL* instances. This will not work for a HTTP/2 proxy, as the encrypted data needs to go over a H2 stream inside the underlying proxy SSL*.
+Of course, when a https: proxy is in place, it has already done that and the same thing does not work twice. Instead, it fetches the `SSL*` from the proxy and builds a chain via `BIO_set_ssl()` to chain the two `SSL*` instances. This will not work for a HTTP/2 proxy, as the encrypted data needs to go over a H2 stream inside the underlying proxy SSL*.
 
 So, something needs to give.
 
