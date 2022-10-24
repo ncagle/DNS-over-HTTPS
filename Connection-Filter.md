@@ -77,6 +77,18 @@ connectdata.filter_chain0
                                        next --> CF_TCP
 ```
 
+and a typical filter callback would work like:
+
+```
+CURLcode cf_proxy_connect(struct Curl_conn_filter *f) {
+  CURLcode res = f->next->connect(f);
+  if (res != CURL_OK)
+    return res;
+  // check/continue proxy CONNECT
+  return res;
+}
+```
+
 Many members of `conndata` could be migrated into the `Curl_conn_filter` instances. For example the `struct ssl_connect_data *` for TLS filters would be kept there. The overall memory use would probably less in several cases if `conndata` does not have to keep all possible things around. Same for PROXY filters. Things like the HAProxy protocol would also nicely fit.
 
 This design has no limits on stacking. One could to PROXY to a PROXY to a server, etc with as many TLS in between or not.
