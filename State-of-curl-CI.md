@@ -31,10 +31,10 @@ Containerising builds mitigates the "random unavailability of package repositori
 
 @mback2k does not think this is feasible as this would remove too many "useful" CI builds at this point. "useful" meaning here that without those we are probably not able to discover relevant issues on e.g. Windows before a release.
 
-## Having a CI "team" that reviews CI-tagged changes
-
-@cmeister2 proposes that there's a specific subteam for reviewing any changes that modify CI or responding to CI-tagged issues.
-
 ## Creating a GitHub Actions that splits AppVeyor CI status
 
 @mback2k proposes to have a GitHub Actions that adds status entries to a commit for each AppVeyor job to solve the visibility issue mentioned above.
+
+# Completed
+
+- curl has a CI "team" that reviews CI-tagged changes.
