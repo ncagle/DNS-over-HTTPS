@@ -67,7 +67,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [ibksturm](https://ibksturm.synology.me/?p=33) | https://ibksturm.synology.me/dns-query | :heavy_check_mark: | Uncensored, non logging, DNSSEC enabled
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/ | :heavy_check_mark: | Planned to run until March 2024 
 | [Infotek](http://infotek.net.id/dns/) | https://doh.infotek.net.id:3443/dns-query | :heavy_check_mark: | Compliant with Indonesia censorship
-| [iQDNS](https://www.v2ex.com/t/785666) | https://a.passcloud.xyz/dns-query | :heavy_check_mark: | Based in China
+| [iQDNS](https://www.v2ex.com/t/785666) | https://a.passcloud.xyz/dns-query | ❌ | Based in China
 | **J**
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 | **L**
