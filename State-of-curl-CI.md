@@ -17,7 +17,7 @@ Already planned work related to CI:
 
 Visibility issues:
 
-* Appveyor and Zuul both appear as a single CI job on GitHub, while still having many sub-jobs. A single :x: in the list, can then mean one to 25 failures. Flaky, or not flaky.
+* AppVeyor and Zuul both appear as a single CI job on GitHub, while still having many sub-jobs. A single :x: in the list, can then mean one to 25 failures. Flaky, or not flaky.
 
 # Proposals
 
@@ -31,10 +31,11 @@ Containerising builds mitigates the "random unavailability of package repositori
 
 @mback2k does not think this is feasible as this would remove too many "useful" CI builds at this point. "useful" meaning here that without those we are probably not able to discover relevant issues on e.g. Windows before a release.
 
-## Creating a GitHub Actions that splits AppVeyor CI status
+## Creating a GitHub Action that splits the AppVeyor CI status
 
-@mback2k proposes to have a GitHub Actions that adds status entries to a commit for each AppVeyor job to solve the visibility issue mentioned above.
+@mback2k proposes to have a GitHub Action that adds status entries to a commit for each AppVeyor job to solve the visibility issue mentioned above.
 
 # Completed
 
 - curl has a CI "team" that reviews CI-tagged changes.
+- a GitHub Action that splits the AppVeyor CI status
