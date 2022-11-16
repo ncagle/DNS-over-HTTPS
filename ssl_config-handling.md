@@ -29,3 +29,32 @@ The advantage of this is that these records are only cloned when needed. The cos
 * I believe `certverifyresult` should become part of the connection, not `data`.
 * vtls backends should no longer use `data->ssl.primary` during handshake, the copies should be there.
 * `setopt.c` sets some parameters on the `conn` copy (if present in `data->conn`). I am not sure this has any effect, unless the underlying connection is closed.
+
+# Daniel's feedback on the three issues
+
+## certverifyresult
+
+This is only accessible via the `curl_easy_getinfo()` API with a `CURL *`
+handle as argument, that is `data` internally. The values must thus be stored
+associated with the handle. Also because the connection may have been closed
+and gone by the time `curl_easy_getinfo()` is called.
+
+If you want to remove them from the struct where they are now, as they are
+rather different in nature, perhaps a more suitable home for them would be
+`struct PureInfo` where other values is stored for the purpose of being
+available for `curl_easy_getinfo()` calls.
+
+## not use `data->ssl.primary` during handshake
+
+Seems fair, the copies are made for the connection to have its own set.
+
+## setopt.c setting variables in 'conn'
+
+Looking at that code now, it seems like we shouldn't have to set the variables
+in existing connections as they are already created and the values should not
+be considered anymore.
+
+But this said, the commit that brought this code (5505df7d24) was a reaction
+to issue #1941 which was fixed by this so there is/was a use case. I believe
+the user is then setting this value in a callback for the currently live
+connection.
