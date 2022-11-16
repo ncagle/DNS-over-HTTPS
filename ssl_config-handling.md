@@ -54,7 +54,7 @@ Looking at that code now, it seems like we shouldn't have to set the variables
 in existing connections as they are already created and the values should not
 be considered anymore.
 
-But this said, the commit that brought this code (5505df7d24) was a reaction
-to issue #1941 which was fixed by this so there is/was a use case. I believe
+But this said, the commit that brought this code ([5505df7d24](https://github.com/curl/curl/commit/5505df7d24a2c251c7ed81a389781abca0cc5b25)) was a reaction
+to issue [#1941](https://github.com/curl/curl/issues/1941) which was fixed by this so there is/was a use case. I believe
 the user is then setting this value in a callback for the currently live
 connection.
