@@ -16,7 +16,7 @@ Some properties seem to be in the wrong place right now, mainly `certverifyresul
 
 Curl could move `conn->ssl_config` or `conn->proxy_ssl_config` into the SSL filter instances. It would work like this:
 
-1. adding an SSL filter is given `data` and the filter makes a clone of the used `ssl_primary_config` on creation.
+1. adding an SSL filter is given `data`. The filter makes a clone of the used `ssl_primary_config` when it starts connecting, preserving the effective values.
 1. the SSL filters frees it on its destruction
 1. when looking into the connection cache, `(data, new_conn)` is used for matching an `existing` connection. New functions to query SSL data present at a connection are added to match `data`'s ssl configuration:
   - `Curl_ssl_cf_get_config(data, conn, sockindex) -> *ssl_primary_config or NULL`
