@@ -15,10 +15,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [AdGuard](https://adguard.com/en/adguard-dns/overview.html)     | Default: https://dns.adguard.com/dns-query <br> Family protection: https://dns-family.adguard.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
 | [AhaDNS](https://ahadns.com) | Netherland : https://doh.nl.ahadns.net/dns-query <br> India : https://doh.in.ahadns.net/dns-query <br> Los Angeles : https://doh.la.ahadns.net/dns-query <br> New York : https://doh.ny.ahadns.net/dns-query <br> Poland : https://doh.pl.ahadns.net/dns-query <br> Italy : https://doh.it.ahadns.net/dns-query <br> Spain : https://doh.es.ahadns.net/dns-query <br> Norway : https://doh.no.ahadns.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | A zero-logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, and telemetry. DNSSEC, TLS 1.3, Open Source. Uses OISD list |
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 <br> OISD & Energized Porn filter : https://blitz.ahadns.com/1:1.12 | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
+| [alekberg](https://alekberg.net) | Holland: https://dnsnl.alekberg.net/dns-query <br> Sweden: https://dnsse.alekberg.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DoH Servers in Spain, Holland and Sweden. No logging, no filtering, DNSSEC support.|
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
-| [alekberg](https://alekberg.net) | Holland: https://dnsnl.alekberg.net/dns-query <br> Sweden: https://dnsse.alekberg.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DoH Servers in Spain, Holland and Sweden. No logging, no filtering, DNSSEC support.|
 |[Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
+| [Aviontex keweonDNS](https://aviontex.de/) | https://dns.keweon.center/dns-query | :heavy_check_mark: | 
 | **B**
 | [BebasDNS](https://github.com/bebasid/bebasdns) | Singapore : https://dns.bebasid.com/dns-query | :heavy_check_mark: | DNS-based ad-blocking service
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
@@ -33,9 +34,12 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | CleanBrowsing | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br> also available via [Tor onion service](https://blog.cloudflare.com/welcome-hidden-resolver) <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 | Comcast | https://doh.xfinity.com/dns-query | :heavy_check_mark:| DNSSEC Validation, [DNS Privacy Policy](https://www.xfinity.com/privacy/policy/dns) |
+| [Computer Incident Response Center Luxembourg](https://circl.lu/) | https://dns.circl.lu/dns-query | :heavy_check_mark:| 
 | [ControlD](https://controld.com/) | Unfiltered : https://freedns.controld.com/p0 <br> Block Malware : https://freedns.controld.com/p1 <br> Block Malware + Ads : https://freedns.controld.com/p2 <br> Block Malware + Ads + Social : https://freedns.controld.com/p3 | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more, but also unblock over 180 services through a network of proxies in over 100 cities.
+| [Neubsi.at](https://cube.neubsi.at/) | https://cube.neubsi.at/dns-query | :heavy_check_mark:|
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
 | **D**
+| [Datahata.by](https://doh.datahata.by/) | https://doh.datahata.by/dns-query | :heavy_check_mark: | 
 | [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) |  https://dns.digitale-gesellschaft.ch/dns-query | :heavy_check_mark: | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
 | [dns.digitalsize.net](https://dns.digitalsize.net/) | https://dns.digitalsize.net/dns-query | :heavy_check_mark: | A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany |
 | dns.flatuslifir.is |  https://dns.flatuslifir.is/dns-query | :heavy_check_mark:| Public adblock server that supports DoT & DoH for fun and learning, no logging, supports DNSSEC, qname-minimization, ECS is not enabled. Located in Iceland, built on pihole, nginx, unbound, m13253/DNS-over-HTTPS |
@@ -62,6 +66,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **G**
 | Google      | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:|Full RFC 8484 support
 | **H**
+| [HDNS](https://docs.namebase.io/guides-1/resolving-handshake-1/hdns.io) | https://query.hdns.io/dns-query | :heavy_check_mark: | Also resolve Handshake domains
 | [Hinet](https://hinet.net/) | https://dns.hinet.net/dns-query | :heavy_check_mark: | Run by Taiwanese ISP
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
@@ -69,10 +74,14 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **I**
 | [i2pd](https://opennic.i2pd.xyz/) | https://opennic.i2pd.xyz/dns-query | :heavy_check_mark: | OpenNIC resolver
 | [ibksturm](https://ibksturm.synology.me/?p=33) | https://ibksturm.synology.me/dns-query | :heavy_check_mark: | Uncensored, non logging, DNSSEC enabled
+| [Institute of Operating Systems and Computer Networks](https://wiki.ibr.cs.tu-bs.de/en/services) | :heavy_check_mark: |
+| [Inter-University Computation Center](https://www.iucc.ac.il/en/) | https://doh.iucc.ac.il/dns-query | :heavy_check_mark: |
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/ | :heavy_check_mark: | Planned to run until March 2024 
 | [Infotek](http://infotek.net.id/dns/) | https://doh.infotek.net.id:3443/dns-query | :heavy_check_mark: | Compliant with Indonesia censorship
+| [IPv6DNS](https://www.ipv6dns.com/index) | https://dns.ipv6dns.com/dns-query | :heavy_check_mark: |
 | [iQDNS](https://www.v2ex.com/t/785666) | https://a.passcloud.xyz/dns-query | :heavy_check_mark: | Based in China
 | **J**
+| [Jabber Germany](https://jabber-germany.de/) | https://jabber-germany.de/dns-query | :heavy_check_mark: | Part of OpenNIC project
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query| :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 | **K**
 | [Kawa.tf](https://servers.opennicproject.org/edit.php?srv=ns2.fr.dns.opennic.glue) | https://dns.kawa.tf/dns-query | :heavy_check_mark: | Hosted in Strasbourg, France
@@ -83,7 +92,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
 | [Limo Telu](https://www.limotelu.org/) | https://sby-doh.limotelu.org/dns-query | :heavy_check_mark: | No logging, DNSSEC, query minimization and prefetch, based in Surabaya, Indonesia
 | **M**
+| [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://chewbacca.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
+| [Melian](https://dns.melalandia.tk/) | https://dns.melalandia.tk/dns-query | :heavy_check_mark: |
+| [Micronets.in](https://doh.micronets.in/) | https://doh.micronets.in/dns-query | :heavy_check_mark: | Logged to publicly available API.
+| [Morbitzer](https://morbitzer.de/) | https://www.morbitzer.de/dns-query | :heavy_check_mark: | 
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
 | **N**
 | [ndom91](https://ndo.dev/posts/doh) | https://dns.ndo.dev/dns-query | :heavy_check_mark: | Non-logging, adblocking, ECS disabled, QNAME minimization, recursive resolver through Unbound with DNSSEC.
@@ -91,6 +104,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 | **O**
+| [Open BLD DNS](Open BLD DNS) | Adapted : https://a-bld.sys-adm.in/dns-query <br> Balanced : https://bld.sys-adm.in/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Block ads and trackers
 | [Open Internet](https://openinternet.io/) | https://resolver4.dns.openinternet.io/dns-query | :heavy_check_mark: | No log, no filter, DNSSEC
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking
@@ -108,9 +122,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Ryan Palmer | https://dns1.ryan-palmer.com/dns-query | :heavy_check_mark: | Hosted in UK, Non-logging, non-filtering, DNSSEC
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
+| [Scapetical DNS](https://dns.scapetical.com/) | https://dns.scapetical.com/dns-query | :heavy_check_mark: | No-logging, DNSSEC enabled, recursive resolver.
 | [Snopyta](https://snopyta.org/service/dns/) | https://fi.doh.dns.snopyta.org/dns-query | :heavy_check_mark: | Non-logging DoH Server in Finland |
 | [Spacedns](https://spacedns.org/) | https://spacedns.org/dns-query | :heavy_check_mark: | Hosted in Poland, adblocking, non-logging.
 | [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | :heavy_check_mark: | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
+| [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
 | **T**
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
@@ -121,6 +137,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Usable Privacy](https://docs.usableprivacy.com/updns/) | https://adfree.usableprivacy.net/dns-query | :heavy_check_mark: | Public non-logging DNS server with advertising and tracker filtering, use AdAway and Peter Lowe's list |
 | **W**
 | [WeDNS](https://wevpn.com/wedns) | Non-blocking : https://dns.wevpn.com/dns-query <br> Ad and malware blocking : https://dns-weblock.wevpn.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run on WeVPN infrastructure, freely available for public use.
+| **X**
+| [xcom.pro](https://doh.xcom.pro/) | https://doh.xcom.pro/dns-query | :heavy_check_mark: |
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 | **Others**
