@@ -133,6 +133,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
 | **T**
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
+| [Tuxis](https://www.tuxis.nl/public-doh-dot-dns64-nat64-service/) | https://nat64.tuxis.nl/ | :heavy_check_mark: | IPv6 only, queries logged for abuse tracking, removed after three days
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | therifleman.name | https://dns.therifleman.name/dns-query | :heavy_check_mark: | Based in Mumbai, IP not logged, query logged for 24 hours
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
