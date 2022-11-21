@@ -85,7 +85,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2024 
 | [Infotek](http://infotek.net.id/dns/) | https://doh.infotek.net.id:3443/dns-query | :heavy_check_mark: | Compliant with Indonesia censorship
 | [IPv6DNS](https://www.ipv6dns.com/index) | https://dns.ipv6dns.com/dns-query | :heavy_check_mark: |
-| [iQDNS](https://www.v2ex.com/t/785666) | https://a.passcloud.xyz/dns-query | :heavy_check_mark: | Based in China
+| [iQDNS](https://iqdns.xyz/all.html) | Anycast https://a.vvvglass.com/iq <br> CDN https://a.vvvglass.com/cdn  | :heavy_check_mark: <br> :heavy_check_mark: | Based in China
 | **J**
 | [Jabber Germany](https://jabber-germany.de/) | https://jabber-germany.de/dns-query | :heavy_check_mark: | Part of OpenNIC project
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
