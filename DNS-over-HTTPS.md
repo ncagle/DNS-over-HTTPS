@@ -124,6 +124,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking
 | [Plan9-dns](https://jlongua.github.io/plan9-dns/) | New Jersey : https://kronos.plan9-dns.com/dns-query <br> Florida : https://pluton.plan9-dns.com/dns-query <br> Mexico : https://helios.plan9-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted on Vultr
+| Pope.cnblw.me | https://pope.cnblw.me/dns-query | :heavy_check_mark: |
 | [PureDNS](https://puredns.org/) | https://puredns.org/dns-query | :heavy_check_mark: | Hosted in Indonesia and Singapore
 | **Q**
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/) | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
