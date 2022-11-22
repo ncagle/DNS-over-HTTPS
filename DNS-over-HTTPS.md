@@ -84,6 +84,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Hinet](https://hinet.net/) | https://dns.hinet.net/dns-query | :heavy_check_mark: | Run by Taiwanese ISP
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
+| [Hshh.org](https://www.hshh.org/) | https://ns2.hshh.org/dns-query | :heavy_check_mark: | 
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
 | **I**
 | [i-Evolve](https://www.i-evolve.com/) | https://ns1.i-evolve.net/dns-query | :heavy_check_mark: |
