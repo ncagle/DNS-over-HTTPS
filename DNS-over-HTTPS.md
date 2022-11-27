@@ -21,6 +21,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [alekberg](https://alekberg.net) | Holland: https://dnsnl.alekberg.net/dns-query <br> Sweden: https://dnsse.alekberg.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DoH Servers in Spain, Holland and Sweden. No logging, no filtering, DNSSEC support.|
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
+| [Arnor.org](https://arnor.org) | https://nsec.arnor.org/dns-query | :heavy_check_mark: | Adblocking
 |[Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
 | **B**
@@ -39,6 +40,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Charter | California: https://doh-01.spectrum.com/dns-query <br> Texas: https://doh-02.spectrum.com/dns-query |:heavy_check_mark:| Trial - Testing multiple platforms
 | [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: https://private.canadianshield.cira.ca/dns-query <br> Protected: https://protected.canadianshield.cira.ca/dns-query <br> Family: https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
 | [Cisco Umbrella (OpenDNS)](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query | :heavy_check_mark: <br><br> :heavy_check_mark:| DNSSEC, Anycast
+| Clanless.ovh | https://dns.clanless.ovh/dns-query | :heavy_check_mark:| Adblocking
 | [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 | [CloudVeil](https://www.cloudveil.org/) | Canada : https://ca.doh.cloudveil.org/dns-query <br> US : https://us.doh.cloudveil.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Block adult and gambling sites. 
@@ -50,6 +52,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
 | **D**
 | [Daniel Woffinden](https://daw.dev/) | https://dns.daw.dev/dns-query | :heavy_check_mark: | Adblocking
+| [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 | [Datahata.by](https://doh.datahata.by/) | https://doh.datahata.by/dns-query | :heavy_check_mark: |
 | [David888](https://blog.david888.com/2020/06/adgurad-home.html) | https://dns.david888.com/dns-query | :heavy_check_mark: | Adblocking, queries logged
 | [Decloudus](https://decloudus.com/) |  https://dns.decloudus.com/dns-query | :heavy_check_mark: | Based in Germany.
@@ -87,6 +90,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 | Fuchur | https://fuchur.pentament.de/dns-query | :heavy_check_mark: |
 | Funtopia.tv | https://doh.funtopia.tv/dns-query | :heavy_check_mark: | Adblocking
+| Funil.de | https://doh.funil.de/dns-query | :heavy_check_mark: |
 | [FutaDNS](https://site.futa.gg/) | https://doh.futa.gg/dns-query | :heavy_check_mark: | Based in Taiwan, query logged for 24 hours.
 | **G**
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
@@ -97,11 +101,14 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Himedns | https://himedns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Hinet](https://hinet.net/) | https://dns.hinet.net/dns-query | :heavy_check_mark: | Run by Taiwanese ISP
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
+| [Hoerli.NET](https://hoerli.net/dns-over-https-fuer-den-firefox-mit-hoerlis-pi-hole/) | https://pihole2.hoerli.net/dns-query | :heavy_check_mark: | Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
-| [Hshh.org](https://www.hshh.org/) | https://ns2.hshh.org/dns-query | :heavy_check_mark: | 
+| [Hshh.org](https://www.hshh.org/) | https://hshh.org/dns-query | :heavy_check_mark: | 
+| Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
 | **I**
 | [i2pd](https://opennic.i2pd.xyz/) | https://opennic.i2pd.xyz/dns-query | :heavy_check_mark: | OpenNIC resolver
+| iLLMods | https://buc-m2.illmods.com/dns-query | :heavy_check_mark: | Block ads, porn, force safe search
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
 | [Institute of Operating Systems and Computer Networks](https://wiki.ibr.cs.tu-bs.de/en/services) | https://doh.ibr.cs.tu-bs.de/dns-query | :heavy_check_mark: |
 | [Inter-University Computation Center](https://www.iucc.ac.il/en/) | https://doh.iucc.ac.il/dns-query | :heavy_check_mark: |
@@ -114,9 +121,12 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **J**
 | [Jabber Germany](https://jabber-germany.de/) | https://jabber-germany.de/dns-query | :heavy_check_mark: | Part of OpenNIC project
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
+| [JeroenHD](https://jeroenhd.nl/) | https://doh.jeroenhd.nl/dns-query | :heavy_check_mark: | Adblocking
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
+| [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 | **K**
+| [Kamil Szczepański](https://kamilszczepanski.com/) | https://dns.kamilszczepanski.com/dns-query | :heavy_check_mark: |
 | [Kawa.tf](https://servers.opennicproject.org/edit.php?srv=ns2.fr.dns.opennic.glue) | https://dns.kawa.tf/dns-query | :heavy_check_mark: | Hosted in Strasbourg, France
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
 | [K3nny.fr](https://www.k3nny.fr/doh-dot-pi-hole-unbound.html) | https://dns.k3nny.fr/dns-query | :heavy_check_mark: | Adblocking
@@ -129,8 +139,10 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Limo Telu](https://www.limotelu.org/) | https://sby-doh.limotelu.org/dns-query | :heavy_check_mark: | No logging, DNSSEC, query minimization and prefetch, based in Surabaya, Indonesia
 | **M**
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
+| Maybe.icu | https://dns.maybe.icu/dns-query | :heavy_check_mark: | Adblocking
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://chewbacca.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 | [Melian](https://dns.melalandia.tk/) | https://dns.melalandia.tk/dns-query | :heavy_check_mark: |
+| Meshkov.info | https://testaghome.meshkov.info/dns-query | :heavy_check_mark: | Adblocking
 | [Micronets.in](https://doh.micronets.in/) | https://doh.micronets.in/dns-query | :heavy_check_mark: | Logged to publicly available API.
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 | [Monzoon](https://www.monzoon.net/) | https://zrh1-ns01.monzoon.net/dns-query | :heavy_check_mark: |
@@ -146,6 +158,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
+| [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 | [Novg.net](https://novg.net/) | https://dns.novg.net/dns-query | :heavy_check_mark: |
 | Nsc.torgues.net | https://nsc.torgues.net/dns-query | :heavy_check_mark: | Adblocking
 | Nullgate.net | https://dns.nullgate.net/dns-query | :heavy_check_mark: | Adblocking
@@ -168,11 +181,13 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Restena](https://www.restena.lu/en/service/public-dns-resolver) | https://kaitain.restena.lu/dns-query | :heavy_check_mark: | Based in Luxembourg, DNSSEC, minimal logging for technical functions
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://basic.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure)
 | [Rezhajul](https://doh.rezhajul.io/) | https://doh.rezhajul.io/dns-query | :heavy_check_mark: | No Logging, DNSSEC enabled, 1.7M+ hosts filtered (ads, tracker, malware, spam, coinminer and phising).
+| Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | :heavy_check_mark: | East China Zone, Based on https://github.com/m13253/dns-over-https |
 | Ryan Palmer | https://dns1.ryan-palmer.com/dns-query | :heavy_check_mark: | Hosted in UK, Non-logging, non-filtering, DNSSEC
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 | [SFR](http://sfr.fr/) | https://pates.services.sfr.fr.casepp.sfr.fr | :heavy_check_mark: |
+| [Shimul D](https://shimul.me) | https://do.shimul.me/dns-query | :heavy_check_mark: | Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
 | [Spacedns](https://spacedns.org/) | https://spacedns.org/dns-query | :heavy_check_mark: | Hosted in Poland, adblocking, non-logging.
@@ -192,6 +207,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | therifleman.name | https://dns.therifleman.name/dns-query | :heavy_check_mark: | Based in Mumbai, IP not logged, query logged for 24 hours
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
 | **U**
+| Ueni.dyndns.org | https://ueni.dyndns.org/dns-query | :heavy_check_mark: | Adblocking
 | [Universität Bremen](https://www.uni-bremen.de/zfn/weitere-it-dienste/domain-name-service-dns) | https://ines.zfn.uni-bremen.de/dns-query | :heavy_check_mark: | 
 | [Università di Padova](https://www.unipd.it/) | https://galileo.math.unipd.it/dns-query | :heavy_check_mark: | 
 | [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/) | Anycast : https://anycast.uncensoreddns.org/dns-query <br> https://anycast.censurfridns.dk/dns-query <br> Denmark : https://unicast.uncensoreddns.org/dns-query <br> https://unicast.censurfridns.dk/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, anycast on Denmark and US
@@ -211,6 +227,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 | [Yoooo](https://wyx.cloud/) | https://wyx.cloud/dns-query | :heavy_check_mark: | 
+| [your-dns](https://github.com/yegle/your-dns) | https://your-dns.run/dns-query | :heavy_check_mark: | Adblocking
 | **Z**
 | Zougloub.eu | https://zougloub.eu/dns-query | :heavy_check_mark: |
 | **Others**
