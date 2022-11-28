@@ -29,7 +29,7 @@ example.com 300 IN HTTPS  1 cdn.example.net
 | data            | meaning                 |
 |-----------------|-------------------------|
 | example.com     | domain name             |
-| 300             | TLS                     |
+| 300             | TTL                     |
 | IN              | class                   |
 | HTTPS           | record type             |
 | 1               | priority                |
