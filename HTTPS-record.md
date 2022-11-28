@@ -80,3 +80,8 @@ resolver.
 
 If c-ares is used also for the name resolve, adding just another lookup on the
 same channel should be less complicated.
+
+## Caching
+
+The existing DNS cache could be extended to also hold this HTTPS data per entry so that
+repeated lookups of the same host name within a short period of time are done faster.
