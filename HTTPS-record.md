@@ -9,7 +9,7 @@ RRs)](https://www.ietf.org/archive/id/draft-ietf-dnsop-svcb-https-11.html)
 `HTTPS` is the name of a new DNS record that provides application protocol
 information to a client early. Using the data returned in this record, the
 client can connect directly to the appropriate host and use the most suitable
-applicaiton protocol version.
+application protocol version.
 
 Using this record lets a client use HTTP/3 directly instead of having to
 "bounce" over an initial HTTP/1 or HTTP/2 request using the `Alt-Svc:`
