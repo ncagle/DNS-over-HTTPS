@@ -86,6 +86,10 @@ same channel should be less complicated.
 The existing DNS cache could be extended to also hold this HTTPS data per entry so that
 repeated lookups of the same host name within a short period of time are done faster.
 
+When a HTTPS record is received, and the target name in there does not already exist in
+the DNS cache, curl should use the provided ipv*hints addresses to connect to and populate
+the cache with for this entry. To avoid having to resolve that name.
+
 ## DNS over HTTPS
 
 This features our own resolver code, so we would have to do the HTTPS record request
