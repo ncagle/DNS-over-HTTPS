@@ -114,6 +114,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Grqu.de | https://dns.grqu.de/dns-query | :heavy_check_mark: | Adblocking
 | [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query <br> https://cluster-1.gac.edu/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| 
 | **H**
+| [HafidzRadhivalDNS](https://server.hafidzradhival.my.id/) | https://dns.hafidzradhival.my.id/dns-query | :heavy_check_mark: |
 | Hanmey.de | https://dns.hanmey.de/dns-query | :heavy_check_mark: | Adblocking
 | [HDNS](https://docs.namebase.io/guides-1/resolving-handshake-1/hdns.io) | https://query.hdns.io/dns-query | :heavy_check_mark: | Also resolve Handshake domains
 | Himedns | https://himedns.com/dns-query | :heavy_check_mark: | Adblocking
