@@ -30,6 +30,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
 | **B**
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore : https://sg-dns1.bancuh.com/dns-query <br> France : https://fr-dns1.bancuh.com/dns-query <br> Tokyo : https://jp-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
+| [bayasdev](https://bayas.dev/dns/) | https://dns.bayas.dev/dns-query | :heavy_check_mark: | Adblocking, located in Ashburn VA, queries logged for 24 hours
 | [BebasDNS](https://github.com/bebasid/bebasdns) | Singapore : https://dns.bebasid.com/dns-query | :heavy_check_mark: | DNS-based ad-blocking service
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
@@ -159,7 +160,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Lars Lehmn](https://larsl.net/services/dns/) | https://dns.lars-lehmann.net/dns-query | :heavy_check_mark: | Based in Germany, [privacy policy](https://larsl.net/privacy-policy/)
 | [Lastentarvike](https://lastentarvike.fi) | https://lastentarvike.fi/dns-query | :heavy_check_mark: |
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. No logging, no filtering, no ECS, DNSSEC support. |
-| [LibreDNS](https://libredns.gr/) | https://doh.libredns.gr/dns-query | :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
+| [LibreDNS](https://libredns.gr/) | Non-filtering https://doh.libredns.gr/dns-query <br> https://doh.libredns.gr/ads  | :heavy_check_mark: <br> :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
 | Lightmaster.pw | https://dns.lightmaster.pw/dns-query | :heavy_check_mark: | Adblocking
 | [Limo Telu](https://www.limotelu.org/) | https://sby-doh.limotelu.org/dns-query | :heavy_check_mark: | No logging, DNSSEC, query minimization and prefetch, based in Surabaya, Indonesia
 | **M**
@@ -210,6 +211,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/) | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
 | [Quadrant](https://quadrantsec.com/quadrants_public_dns_resolver_with_tls_https_support/) | https://doh.qis.io/dns-query | :heavy_check_mark: | No filtering, no logging 
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
+| [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | **R**
 | rafn.is | https://dns.rafn.is/dns-query | :heavy_check_mark: | Adblocking
 | [Rayneau](https://rayneau.fr/) | https://rayneau.fr/dns-query | :heavy_check_mark: | Block porn and ads
