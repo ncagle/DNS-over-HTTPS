@@ -61,6 +61,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Connedata](https://conne.net/) | https://dns1.conne.net/dns-query | :heavy_check_mark: |
 | [ControlD](https://controld.com/) | Unfiltered : https://freedns.controld.com/p0 <br> Block Malware : https://freedns.controld.com/p1 <br> Block Malware + Ads : https://freedns.controld.com/p2 <br> Block Malware + Ads + Social : https://freedns.controld.com/p3 <br> Block Malware, Ads, Adult content : https://freedns.controld.com/family <br> OISD : https://freedns.controld.com/x-oisd | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more, but also unblock over 180 services through a network of proxies in over 100 cities.
 | Cryptroute | https://dotdns.cryptroute.com/dns-query | :heavy_check_mark:| Adblocking
+| [Cybershell](https://blog.cybershell.xyz/page/services-6367519a3e34207f1d323d5a) | https://dns.cybershell.xyz/dns-query | :heavy_check_mark:| Block ads and porn, client IP and queries logged for 24 hours
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
 | **D**
 | [Daniel Woffinden](https://daw.dev/) | https://dns.daw.dev/dns-query | :heavy_check_mark: | Adblocking
