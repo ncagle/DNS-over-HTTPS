@@ -265,6 +265,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Usable Privacy](https://docs.usableprivacy.com/updns/) | https://adfree.usableprivacy.net/dns-query | :heavy_check_mark: | Public non-logging DNS server with advertising and tracker filtering, use AdAway and Peter Lowe's list |
 | **V**
 | [Vasili Sviridov](https://vasi.li/) | https://tor.vasi.li/dns-query | :heavy_check_mark: | 
+| [Velyn DNS](https://dns.velyn.my.id/) | https://doh.velyn.my.id/dns-query | :heavy_check_mark: | Adblocking
 | [VinnyP](https://dns.vinnyp.xyz/privacy) | https://dns.vinnyp.xyz/dns-query | :heavy_check_mark: | No logging, self recursive resolved, block ads, malware & porn.
 | Vinokurov | https://dns.vinokurov.tk/dns-query | :heavy_check_mark: | Adblocking
 | **W**
