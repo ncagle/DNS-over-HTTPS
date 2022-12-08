@@ -125,6 +125,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
 | [Hoerli.NET](https://hoerli.net/hoerlis-pi-holes-fuers-internet/) | Falkenstein https://pihole1.hoerli.net/dns-query <br> Frankfurt https://pihole2.hoerli.net/dns-query <br> New Jersey https://pihole3.hoerli.net/dns-query <br> Baden-Baden https://pihole4.hoerli.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, no logging
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
+| Hotta.page | https://dns.hotta.page/dns-query | :heavy_check_mark: | Adblocking
 | [Hshh.org](https://www.hshh.org/) | https://hshh.org/dns-query | :heavy_check_mark: | 
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
