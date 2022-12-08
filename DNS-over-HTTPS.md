@@ -116,7 +116,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Funil.de | https://doh.funil.de/dns-query | :heavy_check_mark: |
 | [FutaDNS](https://site.futa.gg/) | https://doh.futa.gg/dns-query | :heavy_check_mark: | Based in Taiwan, query logged for 24 hours, adblocking.
 | **G**
-| [Goodbye Gambling](Goodbye Gambling) | https://doh-primary-pool.goodbyegambling.com/dns-query | :heavy_check_mark: | Block ads and gambling
+| [Goodbye Gambling](https://goodbyegambling.com) | https://doh-primary-pool.goodbyegambling.com/dns-query | :heavy_check_mark: | Block ads and gambling
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 | Ginovs.nl | https://dns.ginovs.nl/dns-query | :heavy_check_mark: | Adblocking
 | Grqu.de | https://dns.grqu.de/dns-query | :heavy_check_mark: | Adblocking
