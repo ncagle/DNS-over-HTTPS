@@ -27,6 +27,12 @@ Some of the functionality still not "there" yet include:
 
 # Daniel's Work Log
 
+## December 9, 2022
+
+At **13** disabled tests again.
+
+- Fixed CONNECT with a HTTP/1.0 response
+
 ## May 25, 2022
 
 At **19** disabled tests.
