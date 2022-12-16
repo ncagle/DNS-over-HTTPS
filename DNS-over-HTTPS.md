@@ -60,7 +60,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Comcast | https://doh.xfinity.com/dns-query | :heavy_check_mark:| DNSSEC Validation, [DNS Privacy Policy](https://www.xfinity.com/privacy/policy/dns) |
 | [Computer Incident Response Center Luxembourg](https://circl.lu/) | https://dns.circl.lu/dns-query | :heavy_check_mark:| 
 | [Comss](https://www.comss.ru/page.php?id=7315) | https://dns.comss.one/dns-query | :heavy_check_mark: | Block ads, tracker, phishing and malware
-| [Connedata](https://conne.net/) | https://dns1.conne.net/dns-query | :heavy_check_mark: |
 | [ControlD](https://controld.com/) | Unfiltered : https://freedns.controld.com/p0 <br> Block Malware : https://freedns.controld.com/p1 <br> Block Malware + Ads : https://freedns.controld.com/p2 <br> Block Malware + Ads + Social : https://freedns.controld.com/p3 <br> Block Malware, Ads, Adult content : https://freedns.controld.com/family <br> OISD : https://freedns.controld.com/x-oisd | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more, but also unblock over 180 services through a network of proxies in over 100 cities.
 | Cryptroute | https://dotdns.cryptroute.com/dns-query | :heavy_check_mark:| Adblocking
 | [Cybershell](https://blog.cybershell.xyz/page/services-6367519a3e34207f1d323d5a) | https://dns.cybershell.xyz/dns-query | :heavy_check_mark:| Block ads and porn, client IP and queries logged for 24 hours
@@ -129,7 +128,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Himedns | https://himedns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Hinet](https://hinet.net/) | https://dns.hinet.net/dns-query | :heavy_check_mark: | Run by Taiwanese ISP
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
-| [Hoerli.NET](https://hoerli.net/hoerlis-pi-holes-fuers-internet/) | Falkenstein https://pihole1.hoerli.net/dns-query <br> Frankfurt https://pihole2.hoerli.net/dns-query <br> New Jersey https://pihole3.hoerli.net/dns-query <br> Baden-Baden https://pihole4.hoerli.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, no logging
+| [Hoerli.NET](https://hoerli.net/hoerlis-pi-holes-fuers-internet/) | Falkenstein https://pihole1.hoerli.net/dns-query <br> Frankfurt https://pihole2.hoerli.net/dns-query <br> New Jersey https://pihole3.hoerli.net/dns-query <br> Baden-Baden https://pihole4.hoerli.net/dns-query | :heavy_multiplication_x: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, no logging
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 | Hotta.page | https://dns.hotta.page/dns-query | :heavy_check_mark: | Adblocking
 | Hottis.de | https://doh.hottis.de/dns-query | :heavy_check_mark: | Adblocking
@@ -137,7 +136,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
 | **I**
-| [i2pd](https://opennic.i2pd.xyz/) | https://opennic.i2pd.xyz/dns-query | :heavy_check_mark: | OpenNIC resolver
 | ihaveacloud | https://dns.ihaveacloud.com/dns-query | :heavy_check_mark: | Adblocking
 | [iKuuu VPN](https://ikuuu.co/) | https://doh.buzz/dns-query <br> https://doh.beauty/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | 
 | iLLMods | https://buc-m2.illmods.com/dns-query | :heavy_check_mark: | Block ads, porn, force safe search
