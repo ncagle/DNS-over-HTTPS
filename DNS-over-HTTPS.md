@@ -136,16 +136,19 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
 | **I**
+| [ibksturm](https://ibksturm.synology.me/?p=33) | https://ibksturm.synology.me/dns-query | :heavy_check_mark: | Adblocking
 | ihaveacloud | https://dns.ihaveacloud.com/dns-query | :heavy_check_mark: | Adblocking
+| ihctw | https://ihctw.synology.me/dns-query | :heavy_check_mark: | Adblocking
 | [iKuuu VPN](https://ikuuu.co/) | https://doh.buzz/dns-query <br> https://doh.beauty/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | 
 | iLLMods | https://buc-m2.illmods.com/dns-query | :heavy_check_mark: | Block ads, porn, force safe search
 | Indus.me | https://dns.indust.me/dns-query | :heavy_check_mark: | 
+| [Infotek](http://infotek.net.id/dns/) | https://doh.infotek.net.id:3443/dns-query | :heavy_check_mark: | Compliant with Indonesia censorship
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
 | [Institute of Operating Systems and Computer Networks](https://wiki.ibr.cs.tu-bs.de/en/services) | https://doh.ibr.cs.tu-bs.de/dns-query | :heavy_check_mark: |
 | [Inter-University Computation Center](https://www.iucc.ac.il/en/) | https://doh.iucc.ac.il/dns-query | :heavy_check_mark: |
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2024 
-| [Infotek](http://infotek.net.id/dns/) | https://doh.infotek.net.id:3443/dns-query | :heavy_check_mark: | Compliant with Indonesia censorship
 | [In-Berlin](https://www.in-berlin.de/) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
+| [Invisv](https://invisv.com/articles/dns.html) | https://dns.invisv.com/dns-query | :heavy_check_mark: | Implements Oblivious DNS
 | [IPv6DNS](https://www.ipv6dns.com/index) | https://dns.ipv6dns.com/dns-query | :heavy_check_mark: |
 | Irre.li | https://irre.li/dns-query | :heavy_check_mark: | Adblocking
 | **J**
@@ -187,7 +190,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 | [Monzoon](https://www.monzoon.net/) | https://zrh1-ns01.monzoon.net/dns-query | :heavy_check_mark: |
 | [Morbitzer](https://morbitzer.de/) | https://www.morbitzer.de/dns-query | :heavy_check_mark: | 
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_multiplication_x: <br> :heavy_multiplication_x: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
 | [murgi.de](https://www.murgi.de/) | https://dns.murgi.de/dns-query | :heavy_check_mark: | Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
 | **N**
