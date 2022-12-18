@@ -128,7 +128,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Himedns | https://himedns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Hinet](https://hinet.net/) | https://dns.hinet.net/dns-query | :heavy_check_mark: | Run by Taiwanese ISP
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
-| [Hoerli.NET](https://hoerli.net/hoerlis-pi-holes-fuers-internet/) | Falkenstein https://pihole1.hoerli.net/dns-query <br> Frankfurt https://pihole2.hoerli.net/dns-query <br> New Jersey https://pihole3.hoerli.net/dns-query <br> Baden-Baden https://pihole4.hoerli.net/dns-query | :heavy_multiplication_x: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, no logging
+| [Hoerli.NET](https://hoerli.net/hoerlis-pi-holes-fuers-internet/) | Falkenstein https://pihole1.hoerli.net/dns-query <br> Frankfurt https://pihole2.hoerli.net/dns-query <br> New Jersey https://pihole3.hoerli.net/dns-query <br> Baden-Baden https://pihole4.hoerli.net/dns-query | :x: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, no logging
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: https://dns.hostux.net/dns-query <br> Adblocking DNS: https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 | Hotta.page | https://dns.hotta.page/dns-query | :heavy_check_mark: | Adblocking
 | Hottis.de | https://doh.hottis.de/dns-query | :heavy_check_mark: | Adblocking
@@ -190,7 +190,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 | [Monzoon](https://www.monzoon.net/) | https://zrh1-ns01.monzoon.net/dns-query | :heavy_check_mark: |
 | [Morbitzer](https://morbitzer.de/) | https://www.morbitzer.de/dns-query | :heavy_check_mark: | 
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_multiplication_x: <br> :heavy_multiplication_x: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :x: <br> :x: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
 | [murgi.de](https://www.murgi.de/) | https://dns.murgi.de/dns-query | :heavy_check_mark: | Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
 | **N**
@@ -250,6 +250,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
+| Southam.family | https://doh.southam.family/dns-query | :heavy_check_mark: | Adblocking
 | [Spacedns](https://spacedns.org/) | https://spacedns.org/dns-query | :heavy_check_mark: | Hosted in Poland, adblocking, non-logging.
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
 | [Steven Zhu](https://www.stevenz.blog/dns/) | https://dns.stevenz.net/dns-query | :heavy_check_mark: | Adblocking, based in the US
@@ -302,6 +303,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | ypbind.de | https://dns.ypbind.de/dns-query | :heavy_check_mark: | Adblocking
 | **Z**
 | [Zach Zheng](https://zachitect.com/) | https://adguard.zachitect.com/dns-query | :heavy_check_mark: | Adblocking
+| [Zephyrus.id](https://zephyrus.id/) | https://doh.zephyrus.id/dns-query | :heavy_check_mark: | Adblocking
 | zernico.de | https://adguard-kartoffel.zernico.de/dns-query | :heavy_check_mark: | Adblocking 
 | Zfsystem | https://dns.zfsystem.tech/dns-query | :heavy_check_mark: | Adblocking
 | **Others**
