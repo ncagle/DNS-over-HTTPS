@@ -17,10 +17,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [AdGuard](https://adguard.com/en/adguard-dns/overview.html)     | Default: https://dns.adguard.com/dns-query <br> Family protection: https://dns-family.adguard.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
 | [AhaDNS](https://ahadns.com) | Netherland : https://doh.nl.ahadns.net/dns-query <br> Los Angeles : https://doh.la.ahadns.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | A zero-logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, and telemetry. DNSSEC, TLS 1.3, Open Source. Uses OISD list |
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 <br> OISD & Energized Porn filter : https://blitz.ahadns.com/1:1.12 | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
-| Aihee | https://aihe.app/dns-query | :heavy_check_mark: | 
+| Aihe | https://aihe.app/dns-query | :heavy_check_mark: | 
 | [alekberg](https://alekberg.net) | Amsterdam Non-filtering: https://dnsnl.alekberg.net/dns-query <br> Sweden Non-filtering: https://dnsse.alekberg.net/dns-query <br> Amsterdam Adblocking: https://dnsnl-noads.alekberg.net/dns-query <br> Sweden Non-filtering: https://dnsse-noads.alekberg.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| DoH Servers in Spain, Holland and Sweden. No logging, DNSSEC support.|
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
 | Almir1904 | https://dns.almir1904.eu/dns-query | :heavy_check_mark: | Adblocking
+| Ambiya | https://adguard.ambiya.net/dns-query | :heavy_check_mark: | Adblocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Arnor.org](https://arnor.org) | https://nsec.arnor.org/dns-query | :heavy_check_mark: | Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
@@ -167,6 +168,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [K3nny.fr](https://www.k3nny.fr/doh-dot-pi-hole-unbound.html) | https://dns.k3nny.fr/dns-query | :heavy_check_mark: | Adblocking
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 | [Kosan](https://kosan.moe/) | https://dns.kosan.moe/dns-query | :heavy_check_mark: | Adblocking
+| [K0RAP](https://k0rap.com/) | https://adguard.k0rap.com/dns-query | :heavy_check_mark: | Adblocking
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
 | Kswro | https://kswro.web.id/dns-query | :heavy_check_mark: | Adblocking
 | **L**
@@ -247,6 +249,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Shecan](https://shecan.ir/) | https://free.shecan.ir/dns-query <br> https://dns.shecan.ir/dns-query <br> https://pro.shecan.ir/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Iran, proxies sanctioned websites
 | [Shimul D](https://shimul.me) | https://do.shimul.me/dns-query | :heavy_check_mark: | Adblocking
 | [Shunhang](https://www.shimmerl.top/archives/dnsqx-ls-20-12-21) | https://dns.lsho.top:444/dns-query | :heavy_check_mark: | Adblocking
+| Shuting | https://adguard.shuting.idv.tw/dns-query | :heavy_check_mark: | Adblocking
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
