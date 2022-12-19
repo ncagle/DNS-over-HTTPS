@@ -229,6 +229,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Q**
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/) | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
+| [Quadrant](https://quadrantsec.com/blog/quadrants-public-dns-resolver-tls-https-support) | https://doh.qis.io/dns-query | :heavy_check_mark: | No filtering & logging
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | **R**
 | rafn.is | https://dns.rafn.is/dns-query | :heavy_check_mark: | Adblocking
