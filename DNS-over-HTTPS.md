@@ -126,6 +126,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [HafidzRadhivalDNS](https://server.hafidzradhival.my.id/) | https://dns.hafidzradhival.my.id/dns-query | :heavy_check_mark: |
 | [HaNeulo](https://haneulo.com/) | https://adguard.haneulo.com/dns-query | :heavy_check_mark: | Adblocking
 | Hanmey.de | https://dns.hanmey.de/dns-query | :heavy_check_mark: | Adblocking
+| ha-dvin.pp.ua | https://dns.ha-dvin.pp.ua/dns-query | :heavy_check_mark: | Adblocking
 | [HDNS](https://docs.namebase.io/guides-1/resolving-handshake-1/hdns.io) | https://query.hdns.io/dns-query | :heavy_check_mark: | Also resolve Handshake domains
 | [HeliumCloud](https://servers.opennic.org/edit.php?srv=ns2.nj.us.dns.opennic.glue) | https://us-ny-alula.heliumcloud.cc/dns-query | :heavy_check_mark: | OpenNIC
 | Himedns | https://himedns.com/dns-query | :heavy_check_mark: | Adblocking
@@ -305,6 +306,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 | [Yoooo](https://wyx.cloud/) | https://wyx.cloud/dns-query | :heavy_check_mark: | 
+| Youni | https://dns.youni.win/dns-query | :heavy_check_mark: | Adblocking
 | [your-dns](https://github.com/yegle/your-dns) | https://your-dns.run/dns-query | :heavy_check_mark: | Adblocking
 | ypbind.de | https://dns.ypbind.de/dns-query | :heavy_check_mark: | Adblocking
 | **Z**
