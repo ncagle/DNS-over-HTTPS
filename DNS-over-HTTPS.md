@@ -129,6 +129,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [HaNeulo](https://haneulo.com/) | https://adguard.haneulo.com/dns-query | :heavy_check_mark: | Adblocking
 | Hanmey.de | https://dns.hanmey.de/dns-query | :heavy_check_mark: | Adblocking
 | ha-dvin.pp.ua | https://dns.ha-dvin.pp.ua/dns-query | :heavy_check_mark: | Adblocking
+| hakutakucn | https://dns.hakutakucn.com/dns-query | :heavy_check_mark: | Adblocking 
 | [HDNS](https://docs.namebase.io/guides-1/resolving-handshake-1/hdns.io) | https://query.hdns.io/dns-query | :heavy_check_mark: | Also resolve Handshake domains
 | [HeliumCloud](https://servers.opennic.org/edit.php?srv=ns2.nj.us.dns.opennic.glue) | https://us-ny-alula.heliumcloud.cc/dns-query | :heavy_check_mark: | OpenNIC
 | Himedns | https://himedns.com/dns-query | :heavy_check_mark: | Adblocking
@@ -287,6 +288,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **U**
 | Ueni.dyndns.org | https://ueni.dyndns.org/dns-query | :heavy_check_mark: | Adblocking
 | Ultima Thule | https://adguard-ironhide.ultima-thule.ru/dns-query | :heavy_check_mark: | Adblocking
+| unasw | https://www.unasw.eu:8443/dns-query | :heavy_check_mark: | Adblocking
 | [Universität Bremen](https://www.uni-bremen.de/zfn/weitere-it-dienste/domain-name-service-dns) | https://ines.zfn.uni-bremen.de/dns-query | :heavy_check_mark: | 
 | [Università di Padova](https://www.unipd.it/) | https://galileo.math.unipd.it/dns-query | :heavy_check_mark: | 
 | [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/) | Anycast : https://anycast.uncensoreddns.org/dns-query <br> https://anycast.censurfridns.dk/dns-query <br> Denmark : https://unicast.uncensoreddns.org/dns-query <br> https://unicast.censurfridns.dk/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, anycast on Denmark and US
