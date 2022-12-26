@@ -23,7 +23,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Almir1904 | https://dns.almir1904.eu/dns-query | :heavy_check_mark: | Adblocking
 | Ambiya | https://adguard.ambiya.net/dns-query | :heavy_check_mark: | Adblocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
-| [Aquilenet](https://www.aquilenet.fr) | https://dns.aquilenet.fr | :heavy_check_mark: | French non profit Internet service provider http://dns.aquilenet.fr|
+| [Aquilenet](https://www.aquilenet.fr) | https://dns.aquilenet.fr/dns-query | :heavy_check_mark: | French non profit Internet service provider http://dns.aquilenet.fr|
 | [Arnor.org](https://arnor.org) | https://nsec.arnor.org/dns-query | :heavy_check_mark: | Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
