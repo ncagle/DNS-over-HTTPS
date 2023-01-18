@@ -86,7 +86,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [dnscrypt.uk](https://dnscrypt.uk/) | Digital Ocean : https://doh.dnscrypt.uk/dns-query <br> Vultr : https://v.dnscrypt.uk/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | UK-based
 | [DNS For Family](https://dnsforfamily.com/#DNS_Servers_DNS_Over_HTTPS) | https://dns-doh.dnsforfamily.com/dns-query | :heavy_check_mark: | Filter websites for family use, and enforces safe search in Google, YouTube, Bing, DuckDuckGo and Yandex. DNSSEC-ready, non-logging
 | [dnsforge.de](https://dnsforge.de/) | https://dnsforge.de/dns-query |:heavy_check_mark:|  No logging. Support DNSSEC. Hosted in Germany|
-| [dns-ga.de](https://servers.opennic.org/edit.php?srv=ns5.de.dns.opennic.glue) | https://secure-dns.dns-ga.de/dns-query | :heavy_check_mark: | OpenNIC, logged for 6 hours
+| [dns-ga.de](https://servers.opennic.org/edit.php?srv=ns5.de.dns.opennic.glue) | https://dns2.dns-ga.de/dns-query <br> https://dns3.dns-ga.de/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | OpenNIC, logged for 6 hours
 | [dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php) |  https://dns.dnshome.de/dns-query | :heavy_check_mark:| DoH Server in Germany. No logging, No filtering, DNSSEC and own DNS Resolver |
 | [doh.li](https://doh.li)| https://doh.li/dns-query | :heavy_check_mark: | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock are not currently enabled. |
 | [dns4me](https://dns4me.net/) | https://nz01.dns4me.net <br> https://au01.dns4me.net <br> https://au02.dns4me.net <br> https://sg01.dns4me.net <br> https://uk01.dns4me.net <br> https://us01.dns4me.net <br> https://us02.dns4me.net <br> https://sa01.dns4me.net <br> https://ca01.dns4me.net <br> https://ca02.dns4me.net | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: |
@@ -164,7 +164,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Kawa.tf](https://servers.opennicproject.org/edit.php?srv=ns2.fr.dns.opennic.glue) | https://dns.kawa.tf/dns-query | :heavy_check_mark: | Hosted in Strasbourg, France
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
-| [K3nny.fr](https://www.k3nny.fr/doh-dot-pi-hole-unbound.html) | https://dns.k3nny.fr/dns-query | :heavy_check_mark: | Adblocking
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 | [Kosan](https://kosan.moe/) | https://dns.kosan.moe/dns-query | :heavy_check_mark: | Adblocking
 | [K0RAP](https://k0rap.com/) | https://adguard.k0rap.com/dns-query | :heavy_check_mark: | Adblocking
@@ -185,7 +184,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://chewbacca.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 | [Melian](https://dns.melalandia.tk/) | https://dns.melalandia.tk/dns-query | :heavy_check_mark: |
 | Meshkov.info | https://testaghome.meshkov.info/dns-query | :heavy_check_mark: | Adblocking
-| [Micronets.in](https://doh.micronets.in/) | https://doh.micronets.in/dns-query | :heavy_check_mark: | Logged to publicly available API.
 | [Minh Truong](https://truong.fi/) | https://dns.truong.fi/dns-query | :heavy_check_mark: | Adblocking
 | [Mobik](https://www.mobik.com/) | https://dnstls.mobik.com/dns-query | :heavy_check_mark: |
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
@@ -270,7 +268,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 | [Totoro625](https://www.totoro.pub/adguardhome-conf) | https://doh.totoro.pub/dns-query/ | :heavy_check_mark: | Adblocking, based in Shanghai
-| [Tuxis](https://www.tuxis.nl/public-doh-dot-dns64-nat64-service/) | https://nat64.tuxis.nl/ | :heavy_check_mark: | IPv6 only, queries logged for abuse tracking, removed after three days
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | therifleman.name | https://dns.therifleman.name/dns-query | :heavy_check_mark: | Based in Mumbai, IP not logged, query logged for 24 hours, adblocking
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
@@ -294,7 +291,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Wirimij.nl | https://adguard.wirimij.nl/dns-query | :heavy_check_mark: | Adblocking
 | [Woozeno](https://iris.woozeno.eu/) | https://iris.woozeno.eu/dns-query | :heavy_check_mark: | 
 | **X**
-| xhr0no | https://1.xhr0no.my/dns-query | :heavy_check_mark: | Adblocking
 | [xcom.pro](https://doh.xcom.pro/) | https://doh.xcom.pro/dns-query | :heavy_check_mark: | Adblocking
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
