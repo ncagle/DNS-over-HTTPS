@@ -177,6 +177,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [LibreDNS](https://libredns.gr/) | Non-filtering https://doh.libredns.gr/dns-query <br> Adblocking https://doh.libredns.gr/ads  | :heavy_check_mark: <br> :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
 | Lightmaster.pw | https://dns.lightmaster.pw/dns-query | :heavy_check_mark: | Adblocking
 | [Limo Telu](https://www.limotelu.org/) | https://sby-doh.limotelu.org/dns-query | :heavy_check_mark: | No logging, DNSSEC, query minimization and prefetch, based in Surabaya, Indonesia
+| [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 | **M**
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 | [Matteus Legat](https://legat.ml/) | https://br.servers.legat.ml/dns-query | :heavy_check_mark: | Adblocking
