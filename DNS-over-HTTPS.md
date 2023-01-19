@@ -28,6 +28,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
 | Atakorah | https://adguardhome.atakorah.com/dns-query | :heavy_check_mark: | Block ads and porn
+| [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
 | [Avengers Infosec](https://infosec.xyz/blog/2019/new-dns-service/) | https://dns.infosec.xyz/dns-query | :heavy_check_mark: | Adblocking, blocked queries logged, others aren't, forwarded to Google/Cloudflare/Quad.
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
 | [AzSoPro](https://dns.azsopro.net/) | https://dns.azsopro.net/dns-query | :heavy_check_mark: | Non filtering, non logging, DNSSEC enabled 
@@ -238,6 +239,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Rezhajul](https://doh.rezhajul.io/) | https://doh.rezhajul.io/dns-query | :heavy_check_mark: | No Logging, DNSSEC enabled, 1.7M+ hosts filtered (ads, tracker, malware, spam, coinminer and phising).
 | Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 | [R0cket](https://resolver.r0cket.net/) | https://resolver.r0cket.net/dns-query | :heavy_check_mark: | Adblocking, queries are logged and monitored when there's abuse
+| [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | :heavy_check_mark: | East China Zone, Based on https://github.com/m13253/dns-over-https |
 | Ryan Palmer | https://dns1.ryan-palmer.com/dns-query | :heavy_check_mark: | Hosted in UK, Non-logging, non-filtering, DNSSEC
 | **S**
