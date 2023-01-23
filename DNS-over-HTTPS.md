@@ -74,8 +74,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bruckmoser.it|https://home.bruckmoser.it/dns-query|:heavy_check_mark:|Adblocking
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
-| C-dns | https://www.c-dns.com/dns-query | :heavy_check_mark: | 
 | **C**
+| C-dns | https://www.c-dns.com/dns-query | :heavy_check_mark: | 
 |[carson-family.com](https://carson-family.com/)|https://dns.carson-family.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |cbio.top|https://dns2.cbio.top/dns-query|:heavy_check_mark:|Adblocking
 | Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
@@ -151,8 +151,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
 |[DutchWhite](https://dutchwhite.nl/)|https://dns.dutchwhite.nl/dns-query|:heavy_check_mark:|Adblocking
 | Dyn1.de | https://dns.dyn1.de/dns-query | :heavy_check_mark: | Adblocking
-| [e-utp.net](https://fido.e-utp.net/display/EUTPNET/Recursive+DNS) | https://dnscache.e-utp.net/dns-query | :heavy_check_mark: | IPv6 only
 | **E**
+| [e-utp.net](https://fido.e-utp.net/display/EUTPNET/Recursive+DNS) | https://dnscache.e-utp.net/dns-query | :heavy_check_mark: | IPv6 only
 | [Easyhandshake](https://easyhandshake.com/) | https://easyhandshake.com:8053/dns-query | :heavy_check_mark: | Also resolve Handshake domains
 | [Edgy DNS](https://edgy.network/dns) | https://edgy-dns.com/dns-query | :heavy_check_mark: | Adblocking
 |[ekipapi.com](https://ekipapi.com/)|https://dns.ekipapi.com/dns-query|:heavy_check_mark:|Adblocking
