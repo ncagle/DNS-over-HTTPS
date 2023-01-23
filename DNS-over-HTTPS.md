@@ -312,7 +312,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |grantbruneau.com|https://adguard.grantbruneau.com/dns-query|:heavy_check_mark:|Adblocking
 |[Gray Area Consulting](https://gaconsulting.com.au/)|https://adguard2.gaconsulting.com.au/dns-query|:heavy_check_mark:|Ad & porn blocking
 |greatharts.com|https://hostedadguard.greatharts.com/dns-query|:heavy_check_mark:|Ad & porn blocking
-|greendns.green1052.com|https://server1.greendns.green1052.com/dns-query|:heavy_check_mark:|Adblocking
 |groupy.ga|https://groupy.ga/dns-query|:heavy_check_mark:|Adblocking
 | Grqu.de | https://dns.grqu.de/dns-query | :heavy_check_mark: | Adblocking
 |gslb2.xfinity.com|https://doh2.gslb2.xfinity.com/dns-query|:heavy_check_mark:|
