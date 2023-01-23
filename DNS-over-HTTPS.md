@@ -81,8 +81,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
 |cdzopi|https://cdzopi.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | Ceai | https://dns.ceai.com.tw/dns-query | :heavy_check_mark: | Adblocking 
-| Chaos System | https://chaos-system.de/dns-query | :heavy_check_mark: | Adblocking 
-|[Charles London Online](https://charleslondon.online/)|https://secureadguarddns.charleslondon.online/dns-query|:heavy_check_mark:|Adblocking
+| Chaos System | https://chaos-system.de/dns-query | :heavy_check_mark: | Adblocking
 | Charter | California: https://doh-01.spectrum.com/dns-query <br> Texas: https://doh-02.spectrum.com/dns-query |:heavy_check_mark:| Trial - Testing multiple platforms
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
 | Chromeina | https://dns.chromeina.top/dns-query | :heavy_check_mark: | Adblocking 
