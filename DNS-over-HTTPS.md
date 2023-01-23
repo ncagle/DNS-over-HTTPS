@@ -141,7 +141,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |cirruscloud|https://cirruscloud.it/dns-query|:heavy_check_mark:|Adblocking
 | [Cisco Umbrella (OpenDNS)](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query | :heavy_check_mark: <br><br> :heavy_check_mark:| DNSSEC, Anycast
 | Clanless.ovh | https://dns.clanless.ovh/dns-query | :heavy_check_mark:| Adblocking
-|clanless.ovh|https://two.clanless.ovh/dns-query|:heavy_check_mark:|Adblocking
 |clawsucht.nrw|https://adguard.clawsucht.nrw/dns-query|:heavy_check_mark:|Adblocking
 | [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 |[CLEARVIEW](https://clearviewtechnology.net/)|https://cvt-ic-us-adns-001.clearviewtechnology.net/dns-query|:heavy_check_mark:|Adblocking
@@ -163,8 +162,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |cossxiu|https://cossxiu.ga/dns-query|:heavy_check_mark:|Adblocking
 |[CryptoMize](https://privacy.cm/)|https://dns.privacy.cm/dns-query|:heavy_check_mark:|Adblocking
 | Cryptroute | https://dotdns.cryptroute.com/dns-query | :heavy_check_mark:| Adblocking
-|[cryptroute.com](https://cryptroute.com/)|https://dns-guard1.cryptroute.com/dns-query|:heavy_check_mark:|Adblocking
-|cust.nexific.it|https://spiderman.cust.nexific.it/dns-query|:heavy_check_mark:|Adblocking
 |cwlys.com|https://dns.cwlys.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Cybershell](https://blog.cybershell.xyz/page/services-6367519a3e34207f1d323d5a) | https://dns.cybershell.xyz/dns-query | :heavy_check_mark:| Block ads and porn, client IP and queries logged for 24 hours
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
