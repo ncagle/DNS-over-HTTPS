@@ -101,7 +101,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Bortzmeyer](https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html) | https://doh.bortzmeyer.fr | :heavy_check_mark: | French-based, non-logging. 
 |bosco.ovh|https://cloudns.bosco.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
-|brb.pp.ua|https://brb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 |brian-hong.tech|https://dns.brian-hong.tech/dns-query|:heavy_check_mark:|Adblocking
 |[BrightestTV](https://brightesttv.com/)|https://dns.brightesttv.com/dns-query|:heavy_check_mark:|Adblocking
 |[BroSena](https://brosena.xyz/)|https://home3.brosena.xyz/dns-query|:heavy_check_mark:|Adblocking
@@ -165,13 +164,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dankatapich.eu.org|https://adg.dankatapich.eu.org/dns-query|:heavy_check_mark:|Adblocking
 |darkness.is.my.waifu|https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[DarkNET](https://darknet.bg/)|https://firewall.darknet.bg/dns-query|:heavy_check_mark:|Adblocking
-|darktraffic.cloud|https://dns.darktraffic.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [data.haus](https://data.haus/) | https://mail.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | [DataCore](https://datacore.ch/website/page/frontpage) | https://doh.datacore.ch/dns-query | :heavy_check_mark: | Adblocking
 | [Datahata.by](https://doh.datahata.by/) | https://doh.datahata.by/dns-query | :heavy_check_mark: |
 |datamatter.co.za|https://pihole.datamatter.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[David Ruhmann](https://davidruhmann.com/)|https://dns.davidruhmann.com/dns-query|:heavy_check_mark:|Ad & porn blocking
-| [David888](https://blog.david888.com/2020/06/adgurad-home.html) | https://dns.david888.com/dns-query | :heavy_check_mark: | Adblocking, queries logged
 | [Decloudus](https://decloudus.com/) |  https://dns.decloudus.com/dns-query | :heavy_check_mark: | Based in Germany. Adblocking
 |deekshith.in|https://dns.deekshith.in/dns-query|:heavy_check_mark:|Adblocking
 | Dekonix.ru | https://adguard.dekonix.ru/dns-query | :heavy_check_mark: | Adblocking
@@ -417,7 +414,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Kswro | Adblocking: https://kswro.web.id/dns-query <br> Ad & porn blocking: https://safe.kswro.web.id/dns-query | :heavy_check_mark: |
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
-|landgame.net|https://ads-eu.landgame.net/dns-query|:heavy_check_mark:|Adblocking
 | [Lars Lehmn](https://larsl.net/services/dns/) | https://dns.lars-lehmann.net/dns-query | :heavy_check_mark: | Based in Germany, [privacy policy](https://larsl.net/privacy-policy/)
 | [Lastentarvike](https://lastentarvike.fi) | https://lastentarvike.fi/dns-query | :heavy_check_mark: |
 |[Lauren Laufman](https://laurenlaufman.com/)|https://adguard.laurenlaufman.com/dns-query|:heavy_check_mark:|Adblocking
@@ -451,7 +447,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Meeo.win | https://dns.meeo.win/dns-query | :heavy_check_mark: | Adblocking
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://chewbacca.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 |meidouling.com|https://jp3.meidouling.com/dns-query|:heavy_check_mark:|Adblocking
-| [Melian](https://dns.melalandia.tk/) | https://dns.melalandia.tk/dns-query | :heavy_check_mark: |
 | Meshkov.info | https://testaghome.meshkov.info/dns-query | :heavy_check_mark: | Adblocking
 |mgiptvpro.ml|https://dns.mgiptvpro.ml/dns-query|:heavy_check_mark:|Adblocking
 |mhsystems.net|https://securenet.mhsystems.net/dns-query|:heavy_check_mark:|Adblocking
@@ -511,7 +506,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[nolo.ltd](https://nolo.ltd/)|https://sink.nolo.ltd/dns-query|:heavy_check_mark:|Adblocking
 |nongdanthanky|https://nongdanthanky.com/dns-query|:heavy_check_mark:|Adblocking
 |[Norgan Networks](https://norgan.net/)|https://dns.norgan.net/dns-query|:heavy_check_mark:|Adblocking
-|norvrandt|https://home.norvrandt.co.uk/dns-query|:heavy_check_mark:|Adblocking
 |notecore|https://notecore.me/dns-query|:heavy_check_mark:|Adblocking
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
 | [Novg.net](https://novg.net/) | https://dns.novg.net/dns-query | :heavy_check_mark: | Adblocking
@@ -529,7 +523,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Ooroot | https://jp2.ooroot.com/dns-query <br> https://sg2.ooroot.com/dns-query <br> https://hk2.ooroot.com/dns-query <br> https://tw2.ooroot.com/dns-query <br> https://kr1.ooroot.com/dns-query <br> https://kr2.ooroot.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: |
 | [Open BLD DNS](https://lab.sys-adm.in/) | Adapted : https://a-bld.sys-adm.in/dns-query <br> Balanced : https://bld.sys-adm.in/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Block ads and trackers
 |[OpenLoop Health](https://apollohct.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Adblocking
-| [opennameserver.org](https://opennameserver.org/) | Baden-Baden https://ns1.opennameserver.org/dns-query <br> Frankfurt https://ns2.opennameserver.org/dns-query <br> Berlin https://ns3.opennameserver.org/dns-query <br> Sandefjord https://ns4.opennameserver.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | DNSSEC, non-logging, OpenNIC 
+| [opennameserver.org](https://opennameserver.org/) | Baden-Baden https://ns1.opennameserver.org/dns-query <br> Frankfurt https://ns2.opennameserver.org/dns-query <br> Sandefjord https://ns4.opennameserver.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | DNSSEC, non-logging, OpenNIC 
 |[opnsource.com.au](https://opnsource.com.au/)|https://dns.opnsource.com.au/dns-query|:heavy_check_mark:|Adblocking
 |osefcorp|https://osefcorp.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [Ozérim](https://ozer.im/) | https://1a.ns.ozer.im/dns-query | :heavy_check_mark: | Adblocking
@@ -546,7 +540,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |porteii|https://dns.porteii.com/dns-query|:heavy_check_mark:|Adblocking
 |[PriviLab.net](https://privilab.net/)|https://dns.privilab.net/dns-query|:heavy_check_mark:|Adblocking
 |project-evoex|https://project-evoex.de/dns-query|:heavy_check_mark:|Adblocking
-|psociety.de|https://dns.psociety.de/dns-query|:heavy_check_mark:|Adblocking
 |punono|https://punono.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [PureDNS](https://puredns.org/) | https://puredns.org/dns-query | :heavy_check_mark: | Hosted in Indonesia and Singapore
 | Pyry.me | https://doh.pyry.me/dns-query | :heavy_check_mark: | Adblocking
@@ -628,12 +621,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[TEK411com](https://tek411.com/)|https://agp01.tek411.com/dns-query|:heavy_check_mark:|Adblocking
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 |[teng.sh](https://teng.sh/)|https://vpn-tw.teng.sh/dns-query|:heavy_check_mark:|Adblocking
-| [TeraDNS](https://teradns.org/dns-over-https/) | UK : https://uk.teradns.org/dns-query <br> Germany : https://de.teradns.org/dns-query <br> New York : https://ny.teradns.org/dns-query <br> Texas : https://tx.teradns.org/dns-query <br> Singapore : https://sg.teradns.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, query logged for 24 hours to detect amplification attack.
+| [TeraDNS](https://teradns.org/dns-over-https/) | Germany : https://de.teradns.org/dns-query <br> New York : https://ny.teradns.org/dns-query <br> Texas : https://tx.teradns.org/dns-query <br> Singapore : https://sg.teradns.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Adblocking, query logged for 24 hours to detect amplification attack.
 | [TÉZOÏ](https://www.tezoi.com/) | https://cloud.tezoi.com/dns-query | :heavy_check_mark: | Adblocking
 |thecremeens|https://thecremeens.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | Theres.one | https://dns.theres.one/dns-query | :heavy_check_mark: | Adblocking
 | therifleman.name | https://dns.therifleman.name/dns-query | :heavy_check_mark: | Based in Mumbai, IP not logged, query logged for 24 hours, adblocking
-|[Thiago Almeida](https://thiagoalmeida.ca/)|https://dns.thiagoalmeida.ca/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
 |tk31z|https://tk31z.com/dns-query|:heavy_check_mark:|Adblocking
