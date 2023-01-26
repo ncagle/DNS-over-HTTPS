@@ -16,7 +16,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Aavesh Kumar Sinha](https://aavesh.tech/)|https://adguard.aavesh.tech/dns-query|:heavy_check_mark:|Adblocking
 |aaytorr.com|https://dns.aaytorr.com/dns-query|:heavy_check_mark:|Adblocking
 | abel.waringer-atg.de | https://abel.waringer-atg.de/dns-query | :heavy_check_mark:| 
-|abgnetwork.es|https://vps.abgnetwork.es/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Absolight](https://www.absolight.fr/) | https://res-acst1.absolight.net/dns-query <br> https://res-acst2.absolight.net/dns-query <br> https://res-acst3.absolight.net/dns-query <br> https://resolver1.absolight.net/dns-query <br> https://resolver2.absolight.net/dns-query <br> https://resolver3.absolight.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | 
 |abstergo.it|https://block.abstergo.it/dns-query|:heavy_check_mark:|Adblocking
 |adblocker.eu.org|https://dns.adblocker.eu.org/dns-query|:heavy_check_mark:|Adblocking
@@ -352,7 +351,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2024 
 |interop.link|https://intertop.link/dns-query|:heavy_check_mark:|Adblocking
 | [Invisv](https://invisv.com/articles/dns.html) | https://dns.invisv.com/dns-query | :heavy_check_mark: | Implements Oblivious DNS
-|ipsecloud.ru|https://ad.ipsecloud.ru/dns-query|:heavy_check_mark:|Adblocking
 | [IPv6DNS](https://www.ipv6dns.com/index) | https://dns.ipv6dns.com/dns-query | :heavy_check_mark: |
 | Irre.li | https://irre.li/dns-query | :heavy_check_mark: | Adblocking
 |[Iruma Technology](https://irumatech.com/)|https://dns1.irumatech.com/dns-query|:heavy_check_mark:|Adblocking
@@ -390,14 +388,12 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |karimdns|https://karimdns.com/dns-query|:heavy_check_mark:|Adblocking
 |[Karl.ONE](https://karl.one/)|https://dns.karl.one/dns-query|:heavy_check_mark:|Adblocking
 | [Kawa.tf](https://servers.opennicproject.org/edit.php?srv=ns2.fr.dns.opennic.glue) | https://dns.kawa.tf/dns-query | :heavy_check_mark: | Hosted in Strasbourg, France
-|kcolspacrm|https://kcolspacrm.ir/dns-query|:heavy_check_mark:|Adblocking
 |keithchung|https://keithchung.hopto.org/dns-query|:heavy_check_mark:|Adblocking
 |kennethhuang|https://kennethhuang.com/dns-query|:heavy_check_mark:|Adblocking
 |kenzohost.de|https://adguard.kenzohost.de/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 |[kescher.at](https://kescher.at/)|https://kudns.kescher.at/dns-query|:heavy_check_mark:|
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
-|keymiagar|https://keymiagar.ir/dns-query|:heavy_check_mark:|Ad & porn blocking
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |kngnet.de|https://adguard.kngnet.de/dns-query|:heavy_check_mark:|Adblocking
@@ -472,7 +468,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |muxinghe.cn|https://dns.muxinghe.cn/dns-query|:heavy_check_mark:|Adblocking
 |muxyuji.ru|https://www.muxyuji.ru/dns-query|:heavy_check_mark:|Adblocking
 |my.to|https://lf-ns-001.my.to/dns-query|:heavy_check_mark:|Adblocking
-|myadguardhome|https://myadguardhome.com/dns-query|:heavy_check_mark:|Adblocking
 |[MyFRITZ](https://myfritz.net/)|https://echoe1yidzu4ioo5.myfritz.net/dns-query|:heavy_check_mark:|Adblocking
 |myhottiemama|https://myhottiemama.de/dns-query|:heavy_check_mark:|Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
@@ -649,7 +644,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Ultima Thule | https://adguard-ironhide.ultima-thule.ru/dns-query | :heavy_check_mark: | Adblocking
 | [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/) | Anycast : https://anycast.uncensoreddns.org/dns-query <br> https://anycast.censurfridns.dk/dns-query <br> Denmark : https://unicast.uncensoreddns.org/dns-query <br> https://unicast.censurfridns.dk/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, anycast on Denmark and US
 | [Università di Padova](https://www.unipd.it/) | https://galileo.math.unipd.it/dns-query | :heavy_check_mark: | 
-| [Universitas Buddhi Dharma](https://www.buddhidharma.ac.id/) | https://doh.ubd.ac.id/dns-query | :heavy_check_mark: | Ad & porn blocking
 | [Universität Bremen](https://www.uni-bremen.de/zfn/weitere-it-dienste/domain-name-service-dns) | https://ines.zfn.uni-bremen.de/dns-query | :heavy_check_mark: | 
 |unixfox|https://unixfox.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
