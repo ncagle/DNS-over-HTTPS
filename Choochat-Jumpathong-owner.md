@@ -1,1 +1,0 @@
-Choochat Jumpathong owner 
