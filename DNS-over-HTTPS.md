@@ -30,7 +30,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |afastserver.com|https://dns2.afastserver.com/dns-query|:heavy_check_mark:|Adblocking
 |[aFixer](https://afixer.app/)|https://shield.afixer.app/dns-query|:heavy_check_mark:|Adblocking
 |aflr.io|https://blackhole.aflr.io/dns-query|:heavy_check_mark:|Adblocking
-|agafon.space|https://www.agafon.space/dns-query|:heavy_check_mark:|Adblocking
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 <br> OISD & Energized Porn filter : https://blitz.ahadns.com/1:1.12 | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query <br> Los Angeles:<br> https://doh.la.ahadns.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | A zero-logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, and telemetry. DNSSEC, TLS 1.3, Open Source. Uses OISD list |
 | Aihe | https://aihe.app/dns-query | :heavy_check_mark: | 
@@ -96,7 +95,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bluestarnc.com|https://dns.bluestarnc.com/dns-query|:heavy_check_mark:|Adblocking
 |[Bob Strecansky](https://bobstrecansky.com/)|https://dns.bobstrecansky.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |boje8.me|https://doh.boje8.me/dns-query|:heavy_check_mark:|Adblocking
-| Borjalopez | https://adblock.borjalopez.eu/dns-query | :heavy_check_mark: | Adblocking
 | [Bortzmeyer](https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html) | https://doh.bortzmeyer.fr | :heavy_check_mark: | French-based, non-logging. 
 |bosco.ovh|https://cloudns.bosco.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
@@ -105,7 +103,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[BroSena](https://brosena.xyz/)|https://home3.brosena.xyz/dns-query|:heavy_check_mark:|Adblocking
 |bruckmoser.it|https://home.bruckmoser.it/dns-query|:heavy_check_mark:|Adblocking
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
-|buck.ovh|https://block.buck.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
 |bw.i81.ru|https://dns.bw.i81.ru/dns-query|:heavy_check_mark:|Adblocking
 | **C**
@@ -364,7 +361,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jabber-server.de|https://jabber-server.de/dns-query|:heavy_check_mark:|Adblocking
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
 |jamesxue.xyz|https://tj.jamesxue.xyz/dns-query|:heavy_check_mark:|
-|[jammerxd](https://jammerxd.dev/)|https://xyz2.jammerxd.dev/dns-query|:heavy_check_mark:|Adblocking
 | [JeroenHD](https://jeroenhd.nl/) | https://doh.jeroenhd.nl/dns-query | :heavy_check_mark: | Adblocking
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
 |[Jimi Robaer](https://jimirobaer.be/)|https://dns.jimirobaer.be/dns-query|:heavy_check_mark:|Adblocking
@@ -419,8 +415,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lege.despagne.net|https://adguard.lege.despagne.net/dns-query|:heavy_check_mark:|Adblocking
 |lekdijk.online|https://externalmobiel.lekdijk.online/dns-query|:heavy_check_mark:|
 | [LibreDNS](https://libredns.gr/) | Non-filtering https://doh.libredns.gr/dns-query <br> Adblocking https://doh.libredns.gr/ads  | :heavy_check_mark: <br> :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
-| Lightmaster.pw | https://dns.lightmaster.pw/dns-query | :heavy_check_mark: | Adblocking
-|lightmaster.space|https://dns.lightmaster.space/dns-query|:heavy_check_mark:|Adblocking
 | [Limo Telu](https://www.limotelu.org/) | https://sby-doh.limotelu.org/dns-query | :heavy_check_mark: | No logging, DNSSEC, query minimization and prefetch, based in Surabaya, Indonesia
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |[lingmont.net](https://lingmont.net/)|https://adgaurd.lingmont.net/dns-query|:heavy_check_mark:|Adblocking
@@ -567,7 +561,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 |[RougaCh](https://rouga.ch/)|https://adguard-dns.rouga.ch/dns-query|:heavy_check_mark:|Adblocking
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | :heavy_check_mark: | East China Zone, Based on https://github.com/m13253/dns-over-https |
-| Ryan Palmer | https://dns1.ryan-palmer.com/dns-query | :heavy_check_mark: | Hosted in UK, Non-logging, non-filtering, DNSSEC
 |ryanleek.com|https://adguard.ryanleek.com/dns-query|:heavy_check_mark:|Adblocking
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
