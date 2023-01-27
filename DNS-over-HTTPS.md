@@ -683,8 +683,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Adblocking
-|0rz.space|https://1.0rz.space/dns-query|:heavy_check_mark:|Adblocking
-|0rz.space|https://2.0rz.space/dns-query|:heavy_check_mark:|Adblocking
+|0rz.space|https://1.0rz.space/dns-query<br>https://2.0rz.space/dns-query|:heavy_check_mark:<br>:heavy_check_mark:|Adblocking
 |11i.eu|https://1.11i.eu/dns-query<br>https://2.11i.eu/dns-query<br>https://3.11i.eu/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking
 |1899.com.mx|https://ns1.1899.com.mx/dns-query|:heavy_check_mark:|Adblocking
 |1899.com.mx|https://ns2.1899.com.mx/dns-query|:heavy_check_mark:|Adblocking
