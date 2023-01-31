@@ -64,7 +64,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |atlantic.dyn1.de|https://atlantic.dyn1.de/dns-query|:heavy_check_mark:|Adblocking
 |audet.cloud|https://dns.audet.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
-| [Avengers Infosec](https://infosec.xyz/blog/2019/new-dns-service/) | https://dns.infosec.xyz/dns-query | :heavy_check_mark: | Adblocking, blocked queries logged, others aren't, forwarded to Google/Cloudflare/Quad.
+| [Avengers Infosec](https://infosec.xyz/posts/new-dns-service/) | https://dns.infosec.xyz/dns-query | :heavy_check_mark: | Adblocking, blocked queries logged, others aren't, forwarded to Google/Cloudflare/Quad.
 |[Aviontex](https://keweon.center/)|https://dns.keweon.center/dns-query|:heavy_check_mark:|Adblocking
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
@@ -192,7 +192,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dns.nomu.pw|https://ttag.dns.nomu.pw/dns-query|:heavy_check_mark:|Adblocking
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query <br> https://doh.sb/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DNSSEC & QNAME minimization enabled, no logging |
 |dns.terumi.club|https://apne1.dns.terumi.club/dns-query|:heavy_check_mark:|Adblocking
-|[DNS4all](https://dns4all.eu/)|https://doh.dns4all.eu/dns-query|:heavy_check_mark:|
+|[DNS4all](https://dns4all.eu/)|https://doh.dns4all.eu/dns-query|:heavy_check_mark:| Non-logging
 | [dns4me](https://dns4me.net/) | https://nz01.dns4me.net <br> https://au01.dns4me.net <br> https://au02.dns4me.net <br> https://sg01.dns4me.net <br> https://uk01.dns4me.net <br> https://us01.dns4me.net <br> https://us02.dns4me.net <br> https://sa01.dns4me.net <br> https://ca01.dns4me.net <br> https://ca02.dns4me.net | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: |
 |dns9999|https://dns9999.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 |dnsadguard.co.uk|https://www.dnsadguard.co.uk/dns-query|:heavy_check_mark:|Adblocking
@@ -208,7 +208,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [dnswarden](https://dnswarden.com)| Adblock - <br> https://dns.dnswarden.com/adblock <br><br> Uncensored -<br> https://dns.dnswarden.com/uncensored <br><br> AdultFilter - <br>  https://dns.dnswarden.com/adultfilter | <br>:heavy_check_mark:<br><br><br>:heavy_check_mark:<br><br><br>:heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT) & Dnscrypt. Supports DNSSEC, TLS 1.3, QNAME minimization and does own Recursion. EDNS Client Subnet is disabled.<br> Provides 4 different types of filtering options.<br> Adblock - Blocks ads, trackers, viruses, and telemetry.<br> Adultfilter - Blocks adult content, enforces safe search, and includes all the features from adblock. <br> Uncensored - Unrestricted access/no filtering.<br>[Custom Filter](https://dnswarden.com/customfilter.html) where you can choose your own filter lists! <br>For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). |
 |dog|https://beacon.dog/dns-query|:heavy_check_mark:|Adblocking
 | [doh.li](https://doh.li)| https://doh.li/dns-query | :heavy_check_mark: | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock are not currently enabled. |
-|[DoTLS](https://dotls.org/)|https://admin.dotls.org/dns-query|:heavy_check_mark:|Adblocking
+|[DoTLS](https://dotls.org/)|https://ns1.dotls.org/dns-query|:heavy_check_mark:|Adblocking
 |douglaster|https://douglaster.com/dns-query|:heavy_check_mark:|Adblocking
 |dr-adguard.de|https://dr-adguard.de/dns-query|:heavy_check_mark:|Ad & porn blocking
 |druta.me|https://dns.druta.me/dns-query|:heavy_check_mark:|Adblocking
@@ -517,7 +517,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |osefcorp|https://osefcorp.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [Ozérim](https://ozer.im/) | https://1a.ns.ozer.im/dns-query | :heavy_check_mark: | Adblocking
 | **P**
-| [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking
+| [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging
 |[PanSzelescik](https://panszelescik.pl/)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Adblocking
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |piekacz.pl|https://adguard.piekacz.pl/dns-query|:heavy_check_mark:|
@@ -689,7 +689,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |1899.com.mx|https://ns2.1899.com.mx/dns-query|:heavy_check_mark:|Adblocking
 |2025up.xyz|https://dhold.2025up.xyz/dns-query|:heavy_check_mark:|
 |240130034.xyz|https://t2c.240130034.xyz/dns-query|:heavy_check_mark:|Adblocking
-|[280blocker](https://doh003.280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
+|[280blocker](https://280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |2poi.com|https://dns.2poi.com/dns-query|:heavy_check_mark:|Adblocking
 |2t9.de|https://dns.2t9.de/dns-query|:heavy_check_mark:|Adblocking
 |3363.net|https://n.3363.net/dns-query|:heavy_check_mark:|
