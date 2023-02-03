@@ -462,6 +462,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |muxinghe.cn|https://dns.muxinghe.cn/dns-query|:heavy_check_mark:|Adblocking
 |muxyuji.ru|https://www.muxyuji.ru/dns-query|:heavy_check_mark:|Adblocking
 |my.to|https://lf-ns-001.my.to/dns-query|:heavy_check_mark:|Adblocking
+|mydns.network|https://freedom.mydns.network/dns-query|:heavy_check_mark:|Non-logging, ECS disabled, QNAME minimization, recursive resolver through dnsdist & Unbound with DNSSEC.
 |[MyFRITZ](https://myfritz.net/)|https://echoe1yidzu4ioo5.myfritz.net/dns-query|:heavy_check_mark:|Adblocking
 |myhottiemama|https://myhottiemama.de/dns-query|:heavy_check_mark:|Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
