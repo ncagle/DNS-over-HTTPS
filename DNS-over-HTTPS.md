@@ -183,6 +183,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Disconnect.app | https://doh.disconnect.app/dns-query | :heavy_check_mark: | 
 |dlcea|https://dlcea.com/dns-query|:heavy_check_mark:|Adblocking
 |dmr.pw|https://dns.dmr.pw/dns-query|:heavy_check_mark:|Adblocking
+| [dns0.eu](https://www.dns0.eu/) | Malware blocking: https://dns0.eu<br>Hardened security: https://zero.dns0.eu<br>Child safe: https://kids.dns0.eu | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Non-logging, GDPR compliant
 | [DNS For Family](https://dnsforfamily.com/#DNS_Servers_DNS_Over_HTTPS) | https://dns-doh.dnsforfamily.com/dns-query | :heavy_check_mark: | Filter websites for family use, and enforces safe search in Google, YouTube, Bing, DuckDuckGo and Yandex. DNSSEC-ready, non-logging
 | [dns-ga.de](https://servers.opennic.org/edit.php?srv=ns5.de.dns.opennic.glue) | https://dns2.dns-ga.de/dns-query <br> https://dns3.dns-ga.de/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | OpenNIC, logged for 6 hours
 | [dns.digitalsize.net](https://dns.digitalsize.net/) | https://dns.digitalsize.net/dns-query | :heavy_check_mark: | A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany |
