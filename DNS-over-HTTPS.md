@@ -567,6 +567,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Rubyfish.cn | https://dns.rubyfish.cn/dns-query | :heavy_check_mark: | East China Zone, Based on https://github.com/m13253/dns-over-https |
 |ryanleek.com|https://adguard.ryanleek.com/dns-query|:heavy_check_mark:|Adblocking
 | **S**
+| [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |sagutxustech|https://sagutxustech.com/dns-query|:heavy_check_mark:|Adblocking
 |[Saikat](https://rsaikat.com/)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Adblocking
