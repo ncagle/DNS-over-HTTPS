@@ -446,6 +446,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[mjanson.de](https://mjanson.de/)|https://adguard.mjanson.de/dns-query|:heavy_check_mark:|Adblocking
 | [Mobik](https://www.mobik.com/) | https://dnstls.mobik.com/dns-query | :heavy_check_mark: |
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
+|[Moe DNS](https://www.moedns.dev/)| https://doh.moedns.dev/dns-query | :heavy_check_mark:| 
 |[Mokocup](https://mokocup.cf/)|https://adguard.mokocup.cf/dns-query|:heavy_check_mark:|Adblocking
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 | [Monzoon](https://www.monzoon.net/) | https://zrh1-ns01.monzoon.net/dns-query | :heavy_check_mark: |
@@ -554,6 +555,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Restena](https://www.restena.lu/en/service/public-dns-resolver) | https://kaitain.restena.lu/dns-query | :heavy_check_mark: | Based in Luxembourg, DNSSEC, minimal logging for technical functions
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://basic.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure)
 | [Rezhajul](https://doh.rezhajul.io/) | https://doh.rezhajul.io/dns-query | :heavy_check_mark: | No Logging, DNSSEC enabled, 1.7M+ hosts filtered (ads, tracker, malware, spam, coinminer and phising).
+| [rferee.dev](https://rferee.dev/setup/dns/) | https://resolver.rferee.dev/dns-query/ |:heavy_check_mark:|Adblocking
 |[Richard Applegate](https://richardapplegate.io/)|https://adguard.richardapplegate.io/dns-query|:heavy_check_mark:|
 | Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 |rjmva|https://rjmva.com/dns-query|:heavy_check_mark:|Adblocking
