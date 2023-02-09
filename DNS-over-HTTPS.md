@@ -218,7 +218,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Electron decomposer](https://jpr.space/)|https://addns.jpr.space/dns-query|:heavy_check_mark:|Adblocking
 |[Element](https://unerror.network/)|https://dns.unerror.network/dns-query|:heavy_check_mark:|Adblocking
 | [Elemental Software](https://elemental.software/) | https://dns.elemental.software/dns-query | :heavy_check_mark: |
-|[Elli's Corner](https://ellichua.com/)|https://dns.ellichua.com/dns-query|:heavy_check_mark:|Ad & porn blocking
+|[Elli](https://ellichua.com/)|https://dns.ellichua.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |elshad-adgh-dns.ru|https://www.elshad-adgh-dns.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |erw.cc|https://hk.erw.cc/dns-query|:heavy_check_mark:|
