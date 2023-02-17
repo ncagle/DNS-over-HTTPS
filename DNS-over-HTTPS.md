@@ -53,7 +53,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |armorrush|https://armorrush.eu.org/dns-query|:heavy_check_mark:|Adblocking
 |[Art-Shpiller](https://art-nas.pp.ua/)|https://dns2.art-nas.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
-|asf1992labs.tk|https://dns.asf1992labs.tk/dns-query|:heavy_check_mark:|Adblocking
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
 |[AT&T](http://att.net)|https://dohtrial.att.net|:heavy_check_mark:|
 |atlantic.dyn1.de|https://atlantic.dyn1.de/dns-query|:heavy_check_mark:|Adblocking
@@ -94,8 +93,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
 |brian-hong.tech|https://dns.brian-hong.tech/dns-query|:heavy_check_mark:|Adblocking
 |[BrightestTV](https://brightesttv.com/)|https://dns.brightesttv.com/dns-query|:heavy_check_mark:|Adblocking
-|[BroSena](https://brosena.xyz/)|https://home3.brosena.xyz/dns-query|:heavy_check_mark:|Adblocking
-|bruckmoser.it|https://home.bruckmoser.it/dns-query|:heavy_check_mark:|Adblocking
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
 |bw.i81.ru|https://dns.bw.i81.ru/dns-query|:heavy_check_mark:|Adblocking
@@ -125,7 +122,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |cloudnx.cloud|https://dns-secondary.cloudnx.cloud/dns-query|:heavy_check_mark:|
 |cloudseriousshit|https://cloudseriousshit.com/dns-query|:heavy_check_mark:|Adblocking
 | [COLA16K](https://cola16.app/) | https://jpdns.cola16.app/dns-query | :heavy_check_mark: | Adblocking
-| Colorfreedom | https://dns.colorfreedom.org/dns-query | :heavy_check_mark: | Adblocking
 | Comcast | https://doh.xfinity.com/dns-query | :heavy_check_mark:| DNSSEC Validation, [DNS Privacy Policy](https://www.xfinity.com/privacy/policy/dns) |
 |[comeonjames.club](https://comeonjames.club/)|https://dns.comeonjames.club/dns-query|:heavy_check_mark:|Adblocking
 | [Computer Incident Response Center Luxembourg](https://circl.lu/) | https://dns.circl.lu/dns-query | :heavy_check_mark:| 
@@ -156,7 +152,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |depieri.net|https://adguard.depieri.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |dessoi.cloud|https://adguard.dessoi.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [Detoxify Porn Blocker](https://detoxifypornblocker.com/) | https://doh-primary-pool.detoxifypornblocker.com/dns-query | :heavy_check_mark: | Block ads and porn
-|deus-server|https://deus-server.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 |dewed.de|https://mainframe.dewed.de/dns-query|:heavy_check_mark:|Adblocking
 |dgca.myds.me|https://dgca.myds.me/dns-query|:heavy_check_mark:|Adblocking
 |dgea.fr|https://dns.dgea.fr/dns-query|:heavy_check_mark:|Adblocking
@@ -188,7 +183,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud
 |dnsuser.info|https://bilidon.dnsuser.info/dns-query|:heavy_check_mark:|Adblocking
 | [dnswarden](https://dnswarden.com)| Adblock - <br> https://dns.dnswarden.com/adblock <br><br> Uncensored -<br> https://dns.dnswarden.com/uncensored <br><br> AdultFilter - <br>  https://dns.dnswarden.com/adultfilter | <br>:heavy_check_mark:<br><br><br>:heavy_check_mark:<br><br><br>:heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT) & Dnscrypt. Supports DNSSEC, TLS 1.3, QNAME minimization and does own Recursion. EDNS Client Subnet is disabled.<br> Provides 4 different types of filtering options.<br> Adblock - Blocks ads, trackers, viruses, and telemetry.<br> Adultfilter - Blocks adult content, enforces safe search, and includes all the features from adblock. <br> Uncensored - Unrestricted access/no filtering.<br>[Custom Filter](https://dnswarden.com/customfilter.html) where you can choose your own filter lists! <br>For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). |
-| [doh.li](https://doh.li)| https://doh.li/dns-query | :heavy_check_mark: | Runs on [dns-over-https](https://github.com/m13253/dns-over-https), no logging, EDNS Client Subnet enabled, based in DigitalOcean London. DNSSEC and adblock are not currently enabled. |
 |[DoTLS](https://dotls.org/)|https://ns1.dotls.org/dns-query|:heavy_check_mark:|Adblocking
 |douglaster|https://douglaster.com/dns-query|:heavy_check_mark:|Adblocking
 |dr-adguard.de|https://dr-adguard.de/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -211,7 +205,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Elli](https://ellichua.com/)|https://dns.ellichua.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |elshad-adgh-dns.ru|https://www.elshad-adgh-dns.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
-|erw.cc|https://hk.erw.cc/dns-query|:heavy_check_mark:|
 | [eSeGeCe](https://www.esegece.com/) | Adblocking: https://dns.esegece.com/dns-query <br> Ad & porn blocking: https://dns-family.esegece.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | 
 | [ETH-Services](https://www.eth-services.de/) | https://opennic1.eth-services.de:853/ | :heavy_check_mark: | Run by Germany hosting company
 |eweyo|https://eweyo.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
@@ -236,11 +229,9 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[fmipauns](https://mipauns.com/)|https://dns.mipauns.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |fomichev.cloud|https://gateway.fomichev.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
-| [Frank Ruan](https://frank-ruan.com/) | https://dns.frank-ruan.com/dns-query | :heavy_check_mark: | Adblocking
 |frankslabs.org|https://dns.frankslabs.org/dns-query|:heavy_check_mark:|Adblocking
 |frece.de|https://adguard.frece.de/dns-query|:heavy_check_mark:|Adblocking
 |freeboxos.fr|https://pcornet.freeboxos.fr/dns-query|:heavy_check_mark:|Adblocking
-|[Freequensi](https://freequensi.com/)|https://dns.freequensi.com/dns-query|:heavy_check_mark:|Adblocking
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 | Fuchur | https://fuchur.pentament.de/dns-query | :heavy_check_mark: |
 | Funtopia.tv | https://doh.funtopia.tv/dns-query | :heavy_check_mark: | Adblocking
@@ -258,8 +249,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Grqu.de | https://dns.grqu.de/dns-query | :heavy_check_mark: | Adblocking
 |gslb2.xfinity.com|https://doh2.gslb2.xfinity.com/dns-query|:heavy_check_mark:|
 |[GugaInfo](https://gugainfo.com.br/)|https://blackhole.gugainfo.com.br/dns-query|:heavy_check_mark:|Adblocking
-|gunag|https://gunag.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
-|gusald|https://gusald.com/dns-query|:heavy_check_mark:|Adblocking
 |gustamadh|https://gustamadh.dynv6.net/dns-query|:heavy_check_mark:|Adblocking
 | [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query <br> https://cluster-1.gac.edu/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| 
 |gztech|https://gztech.me/dns-query|:heavy_check_mark:|Adblocking
@@ -308,7 +297,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [IPv6DNS](https://www.ipv6dns.com/index) | https://dns.ipv6dns.com/dns-query | :heavy_check_mark: |
 | Irre.li | https://irre.li/dns-query | :heavy_check_mark: | Adblocking
 |[Iruma Technology](https://irumatech.com/)|https://dns1.irumatech.com/dns-query|:heavy_check_mark:|Adblocking
-|[isteal](https://isteal.info/)|https://dns.isteal.info/dns-query|:heavy_check_mark:|Adblocking
 |[IT Нинзя](https://iamninja.ru/)|https://dns.iamninja.ru/dns-query|:heavy_check_mark:|Ad & porn blocking
 |itdept.pro|https://dns.itdept.pro/dns-query|:heavy_check_mark:|Adblocking
 |[ItsPig](https://pigs.eu.org/)|https://kr.pigs.eu.org/dns-query|:heavy_check_mark:|Adblocking
@@ -320,7 +308,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jimi Robaer](https://jimirobaer.be/)|https://dns.jimirobaer.be/dns-query|:heavy_check_mark:|Adblocking
 |[Jiří Počta](https://jiripocta.cz/)|https://srv5.jiripocta.cz/dns-query|:heavy_check_mark:|Adblocking
 |jjm.asia|https://jjm.asia/dns-query|:heavy_check_mark:|Adblocking
-|jkdns|https://jkdns.me/dns-query|:heavy_check_mark:|Adblocking
 |jnorton.us|https://adg.jnorton.us/dns-query|:heavy_check_mark:|Adblocking
 |joaofidelix.com.br|https://dns.joaofidelix.com.br/dns-query|:heavy_check_mark:|Adblocking
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
@@ -331,7 +318,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jucker Software Engineering](https://jucker.engineering/)|https://dns.jucker.engineering/dns-query|:heavy_check_mark:|Adblocking
 |jurre-home|https://jurre-home.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | **K**
-| [K0RAP](https://k0rap.com/) | https://adguard.k0rap.com/dns-query | :heavy_check_mark: | Adblocking
 | [Kamil Szczepański](https://kamilszczepanski.com/) | https://dns.kamilszczepanski.com/dns-query | :heavy_check_mark: | Adblocking
 |kano.sh|https://jp.kano.sh/dns-query|:heavy_check_mark:|
 |kapuyhome.hu|https://adguard1.kapuyhome.hu/dns-query|:heavy_check_mark:|Adblocking
@@ -351,7 +337,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |korzhov|https://korzhov.dev/dns-query|:heavy_check_mark:|Adblocking
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Adblocking
 |kr.chavy.dev|https://dns.kr.chavy.dev/dns-query|:heavy_check_mark:|
-|[KREONET](https://kreonet.net/)|https://adns.kreonet.net/dns-query|:heavy_check_mark:|Adblocking
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
 |krtekvpn|https://krtekvpn.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | Kswro | Adblocking: https://kswro.web.id/dns-query <br> Ad & porn blocking: https://safe.kswro.web.id/dns-query | :heavy_check_mark: |
@@ -377,7 +362,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mailchan.eu|https://dnsserver.mailchan.eu/dns-query|:heavy_check_mark:|Adblocking
 |malwarelul.download|https://dns.malwarelul.download/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[maolaohei.xyz](https://maolaohei.xyz)|https://dns.maolaohei.xyz/dns-query|:heavy_check_mark:|Adblocking
-|marcbond.uk|https://dns.marcbond.uk/dns-query|:heavy_check_mark:|Adblocking
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 | [Matteus Legat](https://legat.ml/) | https://br.servers.legat.ml/dns-query | :heavy_check_mark: | Adblocking
 |mcasviper.de|https://doh.mcasviper.de/dns-query|:heavy_check_mark:|Adblocking
@@ -401,7 +385,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |moog.sh|https://dns.moog.sh/dns-query|:heavy_check_mark:|Ad & porn blocking
 |moonssif.com|https://dns.moonssif.com/dns-query|:heavy_check_mark:|Adblocking
 | [Morbitzer](https://morbitzer.de/) | https://www.morbitzer.de/dns-query | :heavy_check_mark: | 
-|mrcapslock|https://mrcapslock.ir/dns-query|:heavy_check_mark:|Adblocking
 |msr177|https://msr177.com/dns-query|:heavy_check_mark:|Adblocking
 |[msxnet.ru](https://msxnet.ru/)|https://dns.msxnet.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
@@ -418,9 +401,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mzrme.cn|https://dns.mzrme.cn/dns-query|:heavy_check_mark:|
 | **N**
 |n-wan|https://n-wan.dynv6.net/dns-query|:heavy_check_mark:|Adblocking
-|n23.io|https://dns.n23.io/dns-query|:heavy_check_mark:|Adblocking
 |n3120.wang|https://dns1.n3120.wang/dns-query|:heavy_check_mark:|Adblocking
-| [NALA ru](http://nala.ru/) | https://doh.nala.ru/dns-query | :heavy_check_mark: |
 |nas-server.ru|https://dns.nas-server.ru/dns-query|:heavy_check_mark:|Adblocking
 |nas1403|https://nas1403.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [ndom91](https://ndo.dev/posts/doh) | https://dns.ndo.dev/dns-query | :heavy_check_mark: | Non-logging, adblocking, ECS disabled, QNAME minimization, recursive resolver through Unbound with DNSSEC.
@@ -440,7 +421,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 |[nolo.ltd](https://nolo.ltd/)|https://sink.nolo.ltd/dns-query|:heavy_check_mark:|Adblocking
-|nongdanthanky|https://nongdanthanky.com/dns-query|:heavy_check_mark:|Adblocking
 |[Norgan Networks](https://norgan.net/)|https://dns.norgan.net/dns-query|:heavy_check_mark:|Adblocking
 |notecore|https://notecore.me/dns-query|:heavy_check_mark:|Adblocking
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
@@ -469,7 +449,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pitnetdns|https://pitnetdns.ga/dns-query|:heavy_check_mark:|Adblocking
 |pleumkungz.com|https://thanos.pleumkungz.com/dns-query|:heavy_check_mark:|Adblocking
 | Pope.cnblw.me | https://pope.cnblw.me/dns-query | :heavy_check_mark: | Adblocking
-| Port53.dk | https://doh.port53.dk/dns-query | :heavy_check_mark: | Adblocking
 |porteii|https://dns.porteii.com/dns-query|:heavy_check_mark:|Adblocking
 |[PriviLab.net](https://privilab.net/)|https://dns.privilab.net/dns-query|:heavy_check_mark:|Adblocking
 |project-evoex|https://project-evoex.de/dns-query|:heavy_check_mark:|Adblocking
@@ -534,7 +513,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Spacedns](https://spacedns.org/) | https://spacedns.org/dns-query | :heavy_check_mark: | Hosted in Poland, adblocking, non-logging.
 | [SPIL](https://www.spil.co.id/) | https://dns.spil.co.id/dns-query | :heavy_check_mark: | Adblocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
-| [Steven Zhu](https://www.stevenz.blog/dns/) | https://dns.stevenz.net/dns-query | :heavy_check_mark: | Adblocking, based in the US
 | [Studentenstadt Freimann](https://www.stusta.de/en/) | https://muli.stusta.mhn.de/dns-query <br> https://esel.stusta.mhn.de/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |
 |stvsk.ml|https://dns.stvsk.ml/dns-query|:heavy_check_mark:|Adblocking
 |[SunTrack](https://sntrk.ru/)|https://guard.sntrk.ru/dns-query|:heavy_check_mark:|Adblocking
@@ -579,10 +557,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Usable Privacy](https://docs.usableprivacy.com/updns/) | https://adfree.usableprivacy.net/dns-query | :heavy_check_mark: | Public non-logging DNS server with advertising and tracker filtering, use AdAway and Peter Lowe's list |
 | **V**
 | [Vasili Sviridov](https://vasi.li/) | https://tor.vasi.li/dns-query | :heavy_check_mark: | 
-| [Velyn DNS](https://dns.velyn.my.id/) | https://doh.velyn.my.id/dns-query | :heavy_check_mark: | Adblocking
 |[vendor vista](https://vendorvista.xyz/)|https://securedns.vendorvista.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [VinnyP](https://dns.vinnyp.xyz/privacy) | https://dns.vinnyp.xyz/dns-query | :heavy_check_mark: | No logging, self recursive resolved, block ads, malware & porn.
-| Vinokurov | https://dns.vinokurov.tk/dns-query | :heavy_check_mark: | Adblocking
 | [vMath](https://www.vmath.my.id/) | https://dns.vmath.my.id/dns-query | :heavy_check_mark: | Adblocking
 |[vpnRF](https://vpnrf.com/)|https://awsdns.vpnrf.com/dns-query|:heavy_check_mark:|Adblocking
 |vpservice.cf|https://vpservice.cf/dns-query|:heavy_check_mark:|Adblocking
@@ -608,7 +584,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ychen|https://ychen.ga/dns-query|:heavy_check_mark:|Adblocking
 | [Yoooo](https://wyx.cloud/) | https://wyx.cloud/dns-query | :heavy_check_mark: | 
 | Youni | https://dns.youni.win/dns-query | :heavy_check_mark: | Adblocking
-| [your-dns](https://github.com/yegle/your-dns) | https://your-dns.run/dns-query | :heavy_check_mark: | Adblocking
 |[YouRoute](https://youroute.ru/)|https://adguard.youroute.ru/dns-query|:heavy_check_mark:|Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
@@ -617,7 +592,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Adblocking
-|0rz.space|https://1.0rz.space/dns-query<br>https://2.0rz.space/dns-query|:heavy_check_mark:<br>:heavy_check_mark:|Adblocking
 |11i.eu|https://1.11i.eu/dns-query<br>https://2.11i.eu/dns-query<br>https://3.11i.eu/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking
 |1899.com.mx|https://ns1.1899.com.mx/dns-query|:heavy_check_mark:|Adblocking
 |1899.com.mx|https://ns2.1899.com.mx/dns-query|:heavy_check_mark:|Adblocking
@@ -625,7 +599,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |240130034.xyz|https://t2c.240130034.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[280blocker](https://280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |2poi.com|https://dns.2poi.com/dns-query|:heavy_check_mark:|Adblocking
-|2t9.de|https://dns.2t9.de/dns-query|:heavy_check_mark:|Adblocking
 |3363.net|https://n.3363.net/dns-query|:heavy_check_mark:|
 |[4Women Clinic](https://lunet.design/)|https://dns.lunet.design/dns-query|:heavy_check_mark:|Adblocking
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
