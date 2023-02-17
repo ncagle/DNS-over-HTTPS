@@ -58,7 +58,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |atlantic.dyn1.de|https://atlantic.dyn1.de/dns-query|:heavy_check_mark:|Adblocking
 |audet.cloud|https://dns.audet.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
-| [Avengers Infosec](https://infosec.xyz/posts/new-dns-service/) | https://dns.infosec.xyz/dns-query | :heavy_check_mark: | Adblocking, blocked queries logged, others aren't, forwarded to Google/Cloudflare/Quad.
 |[Aviontex](https://keweon.center/)|https://dns.keweon.center/dns-query|:heavy_check_mark:|Adblocking
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
@@ -350,7 +349,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |leecurrylawfirm|https://leecurrylawfirm.com/dns-query|:heavy_check_mark:|Adblocking
 |lege.despagne.net|https://adguard.lege.despagne.net/dns-query|:heavy_check_mark:|Adblocking
 |lekdijk.online|https://externalmobiel.lekdijk.online/dns-query|:heavy_check_mark:|
-| [LibreDNS](https://libredns.gr/) | Non-filtering https://doh.libredns.gr/dns-query <br> Adblocking https://doh.libredns.gr/ads  | :heavy_check_mark: <br> :heavy_check_mark: | no logging, TLS 1.3, No DNSSEC |
 | [Limo Telu](https://www.limotelu.org/) | https://sby-doh.limotelu.org/dns-query | :heavy_check_mark: | No logging, DNSSEC, query minimization and prefetch, based in Surabaya, Indonesia
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |[lingmont.net](https://lingmont.net/)|https://adgaurd.lingmont.net/dns-query|:heavy_check_mark:|Adblocking
@@ -541,7 +539,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Totoro625](https://www.totoro.pub/adguardhome-conf) | https://doh.totoro.pub/dns-query/ | :heavy_check_mark: | Adblocking, based in Shanghai
 |[TPM](https://apigw.online/)|https://dns.apigw.online/dns-query|:heavy_check_mark:|Adblocking
 |tuandns|https://tuandns.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
-|[tuankhaiit](https://tuankhaiit.com/)|https://dns.tuankhaiit.com/dns-query|:heavy_check_mark:|Adblocking
 |tungdnsne|https://tungdnsne.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 |[Tyler G. Wahl](https://tylerwahl.com/)|https://dns-east.tylerwahl.com/dns-query|:heavy_check_mark:|Adblocking
@@ -587,7 +584,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[YouRoute](https://youroute.ru/)|https://adguard.youroute.ru/dns-query|:heavy_check_mark:|Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
-| [Zach Zheng](https://zachitect.com/) | https://adguard.zachitect.com/dns-query | :heavy_check_mark: | Adblocking
 | Zfsystem | https://dns.zfsystem.tech/dns-query | :heavy_check_mark: | Adblocking
 |zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
