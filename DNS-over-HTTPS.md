@@ -323,7 +323,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kennethhuang|https://kennethhuang.com/dns-query|:heavy_check_mark:|Adblocking
 |kenzohost.de|https://adguard.kenzohost.de/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
-|[kescher.at](https://kescher.at/)|https://kudns.kescher.at/dns-query|:heavy_check_mark:|
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
