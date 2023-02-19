@@ -101,7 +101,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
 |cdzopi|https://cdzopi.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 |cearhome.top|https://dns.cearhome.top/dns-query|:heavy_check_mark:|
-|cepheus0.com|https://oracle.cepheus0.com/dns-query|:heavy_check_mark:|Adblocking
 | Chaos System | https://chaos-system.de/dns-query | :heavy_check_mark: | Adblocking
 | Charter | California: <br>https://doh-01.spectrum.com/dns-query <br> Texas: <br>https://doh-02.spectrum.com/dns-query |:heavy_check_mark:<br>:heavy_check_mark:| Trial - Testing multiple platforms
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
@@ -320,7 +319,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
-|kngnet.de|https://adguard.kngnet.de/dns-query|:heavy_check_mark:|Adblocking
 |korks.tk|https://adguard.korks.tk/dns-query|:heavy_check_mark:|Adblocking
 |korzhov|https://korzhov.dev/dns-query|:heavy_check_mark:|Adblocking
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Adblocking
