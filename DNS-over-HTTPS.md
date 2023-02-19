@@ -232,7 +232,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **G**
 |gbrossi.com.br|https://adguard.gbrossi.com.br/dns-query|:heavy_check_mark:|Adblocking
 |gclouddns|https://gclouddns.com/dns-query|:heavy_check_mark:|Adblocking
-|ggdns.club|https://ggdns.club/dns-query|:heavy_check_mark:|Adblocking
 |ggrbb.xyz|https://www.ggrbb.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[Gho$t](https://ghost.pm/)|https://dns.ghost.pm/dns-query|:heavy_check_mark:|Adblocking
 | Ginovs.nl | https://dns.ginovs.nl/dns-query | :heavy_check_mark: | Adblocking
@@ -485,7 +484,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 |sillundil.ovh|https://dot.sillundil.ovh/dns-query|:heavy_check_mark:|Adblocking
-|[Simulhost](https://simulhost.com/)|https://dns.simulhost.com/dns-query|:heavy_check_mark:|Adblocking
 |siry.de|https://dns.siry.de/dns-query|:heavy_check_mark:|Adblocking
 |sitdns|https://sitdns.com/dns-query|:heavy_check_mark:|Adblocking
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
@@ -493,7 +491,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[smilence](https://geili.me/)|https://adg.geili.me/dns-query|:heavy_check_mark:|Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
 | Southam.family | https://doh.southam.family/dns-query | :heavy_check_mark: | Adblocking
-| [Spacedns](https://spacedns.org/) | https://spacedns.org/dns-query | :heavy_check_mark: | Hosted in Poland, adblocking, non-logging.
 | [SPIL](https://www.spil.co.id/) | https://dns.spil.co.id/dns-query | :heavy_check_mark: | Adblocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
 | [Studentenstadt Freimann](https://www.stusta.de/en/) | https://muli.stusta.mhn.de/dns-query <br> https://esel.stusta.mhn.de/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |
