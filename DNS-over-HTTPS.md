@@ -545,7 +545,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [WarpNine](https://warpnine.de/) | https://dns.warpnine.de/dns-query | :heavy_check_mark: | 
 | [Wewitro](https://wewitro.de/) | https://doh.wewitro.net/dns-query | :heavy_check_mark: | Adblocking
 |whax|https://whax.eu.org/dns-query|:heavy_check_mark:|Adblocking
-| Wirimij.nl | https://adguard.wirimij.nl/dns-query | :heavy_check_mark: | Adblocking
 | [Woozeno](https://iris.woozeno.eu/) | https://iris.woozeno.eu/dns-query | :heavy_check_mark: | 
 | **X**
 |x-o-x|https://x-o-x.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
@@ -559,7 +558,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ychen.cf|https://ychen.cf/dns-query|:heavy_check_mark:|Adblocking
 |ychen|https://ychen.ga/dns-query|:heavy_check_mark:|Adblocking
 | Youni | https://dns.youni.win/dns-query | :heavy_check_mark: | Adblocking
-|[YouRoute](https://youroute.ru/)|https://adguard.youroute.ru/dns-query|:heavy_check_mark:|Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
 | Zfsystem | https://dns.zfsystem.tech/dns-query | :heavy_check_mark: | Adblocking
