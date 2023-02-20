@@ -74,7 +74,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[benpro](https://benpro.fr/)|https://dns.benpro.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 |betamax65.de|https://adguard.betamax65.de/dns-query|:heavy_check_mark:|Adblocking
 |bielperes.me|https://mydns.bielperes.me/dns-query|:heavy_check_mark:|Ad & porn blocking
-|bin.st|https://dns.bin.st/dns-query|:heavy_check_mark:|Ad & porn blocking
 |bissnes.org|https://goga7777777.bissnes.org/dns-query|:heavy_check_mark:|Ad & porn blocking
 |bit-trail.nl|https://ns3.bit-trail.nl/dns-query|:heavy_check_mark:|Adblocking
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
