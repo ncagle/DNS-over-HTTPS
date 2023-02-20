@@ -342,7 +342,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lujiacai.top|https://doh.lujiacai.top/dns-query|:heavy_check_mark:|Adblocking
 |lz0724.com|https://orau.lz0724.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **M**
-|maddino|https://maddino.dedyn.io/dns-query|:heavy_check_mark:|Adblocking
 |mailchan.eu|https://dnsserver.mailchan.eu/dns-query|:heavy_check_mark:|Adblocking
 |malwarelul.download|https://dns.malwarelul.download/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[maolaohei.xyz](https://maolaohei.xyz)|https://dns.maolaohei.xyz/dns-query|:heavy_check_mark:|Adblocking
@@ -467,7 +466,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |sagutxustech|https://sagutxustech.com/dns-query|:heavy_check_mark:|Adblocking
 |[Saikat](https://rsaikat.com/)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Adblocking
-| Salome | https://tuic.salome.my.id/dns-query | :heavy_check_mark: | Adblocking
 |sbdns.co.in|https://sbdns.co.in/dns-query|:heavy_check_mark:|Adblocking
 | [Sellan DNS](https://dns.sellan.fr/) | https://dns.sellan.fr/dns-query | :heavy_check_mark: | Adblocking, no logging
 | [SFR](http://sfr.fr/) | https://pates.services.sfr.fr.casepp.sfr.fr | :heavy_check_mark: |
@@ -527,7 +525,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Universität Bremen](https://www.uni-bremen.de/zfn/weitere-it-dienste/domain-name-service-dns) | https://ines.zfn.uni-bremen.de/dns-query | :heavy_check_mark: | 
 |unixfox|https://unixfox.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
-| [Usable Privacy](https://docs.usableprivacy.com/updns/) | https://adfree.usableprivacy.net/dns-query | :heavy_check_mark: | Public non-logging DNS server with advertising and tracker filtering, use AdAway and Peter Lowe's list |
 | **V**
 | [Vasili Sviridov](https://vasi.li/) | https://tor.vasi.li/dns-query | :heavy_check_mark: | 
 |[vendor vista](https://vendorvista.xyz/)|https://securedns.vendorvista.xyz/dns-query|:heavy_check_mark:|Adblocking
@@ -564,7 +561,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |11i.eu|https://1.11i.eu/dns-query<br>https://2.11i.eu/dns-query<br>https://3.11i.eu/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking
 |1899.com.mx|https://ns1.1899.com.mx/dns-query|:heavy_check_mark:|Adblocking
 |1899.com.mx|https://ns2.1899.com.mx/dns-query|:heavy_check_mark:|Adblocking
-|2025up.xyz|https://dhold.2025up.xyz/dns-query|:heavy_check_mark:|
 |240130034.xyz|https://t2c.240130034.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[280blocker](https://280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |2poi.com|https://dns.2poi.com/dns-query|:heavy_check_mark:|Adblocking
