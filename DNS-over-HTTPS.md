@@ -223,7 +223,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
 |frankslabs.org|https://dns.frankslabs.org/dns-query|:heavy_check_mark:|Adblocking
 |frece.de|https://adguard.frece.de/dns-query|:heavy_check_mark:|Adblocking
-|freeboxos.fr|https://pcornet.freeboxos.fr/dns-query|:heavy_check_mark:|Adblocking
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 | Fuchur | https://fuchur.pentament.de/dns-query | :heavy_check_mark: |
 | Funtopia.tv | https://doh.funtopia.tv/dns-query | :heavy_check_mark: | Adblocking
@@ -481,7 +480,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Shuting | https://adguard.shuting.idv.tw/dns-query | :heavy_check_mark: | Adblocking
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
-|sillundil.ovh|https://dot.sillundil.ovh/dns-query|:heavy_check_mark:|Adblocking
 |siry.de|https://dns.siry.de/dns-query|:heavy_check_mark:|Adblocking
 |sitdns|https://sitdns.com/dns-query|:heavy_check_mark:|Adblocking
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
@@ -522,7 +520,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tungdnsne|https://tungdnsne.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 |[Tyler G. Wahl](https://tylerwahl.com/)|https://dns-east.tylerwahl.com/dns-query|:heavy_check_mark:|Adblocking
-|[tyler@twtrs.com](https://twtrs.com/)|https://dns.twtrs.com/dns-query|:heavy_check_mark:|Adblocking
 |typaza|https://typaza.com/dns-query|:heavy_check_mark:|Adblocking
 | **U**
 | Ueni.dyndns.org | https://ueni.dyndns.org/dns-query | :heavy_check_mark: | Adblocking
