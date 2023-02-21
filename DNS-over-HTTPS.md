@@ -452,7 +452,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Richard Applegate](https://richardapplegate.io/)|https://adguard.richardapplegate.io/dns-query|:heavy_check_mark:|
 | Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 |rjmva|https://rjmva.com/dns-query|:heavy_check_mark:|Adblocking
-|[RodovaTech](https://rodovatech.com/)|https://dns.rodovatech.com/dns-query|:heavy_check_mark:|Adblocking
 |[ronc.ru](https://ronc.ru/)|https://dns.ronc.ru/dns-query|:heavy_check_mark:|Adblocking
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 |[RougaCh](https://rouga.ch/)|https://adguard-dns.rouga.ch/dns-query|:heavy_check_mark:|Adblocking
