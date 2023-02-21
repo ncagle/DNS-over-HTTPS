@@ -27,7 +27,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |adrianion.eu|https://dns1.adrianion.eu/dns-query|:heavy_check_mark:|Adblocking
 |afastserver.com|https://dns2.afastserver.com/dns-query|:heavy_check_mark:|Adblocking
 |[aFixer](https://afixer.app/)|https://shield.afixer.app/dns-query|:heavy_check_mark:|Adblocking
-|aflr.io|https://blackhole.aflr.io/dns-query|:heavy_check_mark:|Adblocking
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 <br> OISD & Energized Porn filter : https://blitz.ahadns.com/1:1.12 | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
 | Aihe | https://aihe.app/dns-query | :heavy_check_mark: | 
@@ -72,7 +71,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
 |[BenDiom](https://ilker.se/)|https://dns.ilker.se/dns-query|:heavy_check_mark:|Adblocking
 |[benpro](https://benpro.fr/)|https://dns.benpro.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
-|betamax65.de|https://adguard.betamax65.de/dns-query|:heavy_check_mark:|Adblocking
 |bielperes.me|https://mydns.bielperes.me/dns-query|:heavy_check_mark:|Ad & porn blocking
 |bissnes.org|https://goga7777777.bissnes.org/dns-query|:heavy_check_mark:|Ad & porn blocking
 |bit-trail.nl|https://ns3.bit-trail.nl/dns-query|:heavy_check_mark:|Adblocking
@@ -387,7 +385,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Ndr](https://ender.fr/) | https://adguard.ender.fr/dns-query | :heavy_check_mark: | Adblocking
 | [Nebula.sly.io](https://nebula.sly.io) | Adblocking https://nebula.sly.io/dns-query <br> Adblocking & porn blocking https://nebula.sly.io/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |[neocortex.dk](https://norvig.dk/)|https://dns.norvig.dk/dns-query|:heavy_check_mark:|Adblocking
-|nerdpol.ovh|https://levislondon-proxy.nerdpol.ovh/dns-query|:heavy_check_mark:|Adblocking
 |[Neubsi](https://dns.neubsi.at/)|https://dns.neubsi.at/dns-query|:heavy_check_mark:|
 | Nexific.it | https://doh.luigi.nexific.it/dns-query | :heavy_check_mark:|
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
@@ -424,7 +421,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PanSzelescik](https://panszelescik.pl/)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Adblocking
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |piekacz.pl|https://adguard.piekacz.pl/dns-query|:heavy_check_mark:|
-|pitnetdns|https://pitnetdns.ga/dns-query|:heavy_check_mark:|Adblocking
 |pleumkungz.com|https://thanos.pleumkungz.com/dns-query|:heavy_check_mark:|Adblocking
 | Pope.cnblw.me | https://pope.cnblw.me/dns-query | :heavy_check_mark: | Adblocking
 |porteii|https://dns.porteii.com/dns-query|:heavy_check_mark:|Adblocking
@@ -467,7 +463,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Saikat](https://rsaikat.com/)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Adblocking
 |sbdns.co.in|https://sbdns.co.in/dns-query|:heavy_check_mark:|Adblocking
 | [Sellan DNS](https://dns.sellan.fr/) | https://dns.sellan.fr/dns-query | :heavy_check_mark: | Adblocking, no logging
-| [SFR](http://sfr.fr/) | https://pates.services.sfr.fr.casepp.sfr.fr | :heavy_check_mark: |
 |sgpcloud|https://sgpcloud.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 |shalenkov|https://shalenkov.dev/dns-query|:heavy_check_mark:|Adblocking
 | [Shecan](https://shecan.ir/) | https://free.shecan.ir/dns-query <br> https://dns.shecan.ir/dns-query <br> https://pro.shecan.ir/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Iran, proxies sanctioned websites
@@ -537,7 +532,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wantaquddin|https://wantaquddin.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [WarpNine](https://warpnine.de/) | https://dns.warpnine.de/dns-query | :heavy_check_mark: | 
 | [Wewitro](https://wewitro.de/) | https://doh.wewitro.net/dns-query | :heavy_check_mark: | Adblocking
-|whax|https://whax.eu.org/dns-query|:heavy_check_mark:|Adblocking
 | [Woozeno](https://iris.woozeno.eu/) | https://iris.woozeno.eu/dns-query | :heavy_check_mark: | 
 | **X**
 |x-o-x|https://x-o-x.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
