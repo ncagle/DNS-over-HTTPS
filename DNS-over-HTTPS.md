@@ -36,7 +36,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
 |alloxr.info|https://dns.alloxr.info/dns-query|:heavy_check_mark:|
 | Almir1904 | https://dns.almir1904.eu/dns-query | :heavy_check_mark: | Adblocking
-|alpo.pp.ua|https://2.alpo.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 |[Aman](https://aman.ltd/)|https://dns.aman.ltd/dns-query|:heavy_check_mark:|Adblocking
 | Ambiya | https://adguard.ambiya.net/dns-query | :heavy_check_mark: | Adblocking
 |amigo-mgn.ru|https://dns.amigo-mgn.ru/dns-query|:heavy_check_mark:|Adblocking
@@ -49,7 +48,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Apem Legit | https://d.apemlegit.my.id/dns-query | :heavy_check_mark: | Adblocking
 |applewebkit.dev|https://dns.applewebkit.dev/dns-query|:heavy_check_mark:|Adblocking
 |armorrush|https://armorrush.eu.org/dns-query|:heavy_check_mark:|Adblocking
-|[Art-Shpiller](https://art-nas.pp.ua/)|https://dns2.art-nas.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
 |[AT&T](http://att.net)|https://dohtrial.att.net|:heavy_check_mark:|
@@ -166,7 +164,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dns9999|https://dns9999.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 |dnsadguard.co.uk|https://www.dnsadguard.co.uk/dns-query|:heavy_check_mark:|Adblocking
 | [dnscrypt.ca](https://dnscrypt.ca/) | https://dns1.dnscrypt.ca:453/dns-query | :heavy_check_mark:| Canadian, uncensored, no-logs, encrypted, and DNSSEC
-| [dnscrypt.uk](https://dnscrypt.uk/) | Digital Ocean: <br>https://doh.dnscrypt.uk/dns-query <br> Vultr: <br>https://v.dnscrypt.uk/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | UK-based
+| [dnscrypt.uk](https://dnscrypt.uk/) | Digital Ocean: <br>https://doh.dnscrypt.uk/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | UK-based
 | dnsenc.com | https://dnsenc.com/dns-query | :heavy_check_mark:| Adblocking
 |dnsfish.com|https://gpchubjk.dnsfish.com/dns-query|:heavy_check_mark:|Adblocking
 | [dnsforge.de](https://dnsforge.de/) | https://dnsforge.de/dns-query |:heavy_check_mark:|  No logging. Support DNSSEC. Hosted in Germany|
@@ -257,7 +255,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |home27|https://home27.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 |hoover.eu.org|https://doh-dns.hoover.eu.org/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: <br> https://dns.hostux.net/dns-query <br> Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
-| Hottis.de | https://doh.hottis.de/dns-query | :heavy_check_mark: | Adblocking
 |[Howard Luan](https://luan.contact/)|https://dns1.luan.contact/dns-query|:heavy_check_mark:|Adblocking
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 | [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
@@ -390,7 +387,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
 | Nhtsky | https://dns.nhtsky.com/dns-query | :heavy_check_mark: | Adblocking
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
-| [Nielsvoorn](https://nielsvoorn.nl) | https://adguard.nielsvoorn.nl/dns-query | :heavy_check_mark: | Adblocking
 |ninny|https://ninny.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
@@ -408,7 +404,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **O**
 |o1lt|https://o1.lt/dns-query|:heavy_check_mark:|Adblocking
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
-|[Ondřej Šrámek](https://ondrejsramek.cz/)|https://adguard.ondrejsramek.cz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[OneDNS.cc](https://onedns.cc/)|https://secure.onedns.cc/dns-query|:heavy_check_mark:|Adblocking
 |[OneDNS.net](https://onedns.net/)|https://doh.onedns.net/dns-query|:heavy_check_mark:|
 | Ooroot | https://jp2.ooroot.com/dns-query <br> https://sg2.ooroot.com/dns-query <br> https://hk2.ooroot.com/dns-query <br> https://tw2.ooroot.com/dns-query <br> https://kr1.ooroot.com/dns-query <br> https://kr2.ooroot.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: |
@@ -430,7 +425,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [PureDNS](https://puredns.org/) | https://puredns.org/dns-query | :heavy_check_mark: | Hosted in Indonesia and Singapore
 | Pyry.me | https://doh.pyry.me/dns-query | :heavy_check_mark: | Adblocking
 | **Q**
-|q3i6k7j3|https://q3i6k7j3.stackpathcdn.com/dns-query|:heavy_check_mark:|
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | [Quad9](https://www.quad9.net/doh-quad9-dns-servers/) | Recommended: https://dns.quad9.net/dns-query <br> Secured: https://dns9.quad9.net/dns-query <br> Unsecured: https://dns10.quad9.net/dns-query <br> Secured w/ECS Support: https://dns11.quad9.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Secured provides: Security blocklist, DNSSEC, no EDNS Client-Subnet <br> Unsecured provides: No security blocklist, no DNSSEC, no EDNS Client-Subnet <br> Recommend is currently identical to secure.
