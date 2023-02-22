@@ -36,7 +36,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
 |alloxr.info|https://dns.alloxr.info/dns-query|:heavy_check_mark:|
 | Almir1904 | https://dns.almir1904.eu/dns-query | :heavy_check_mark: | Adblocking
-|[Aman](https://aman.ltd/)|https://dns.aman.ltd/dns-query|:heavy_check_mark:|Adblocking
 | Ambiya | https://adguard.ambiya.net/dns-query | :heavy_check_mark: | Adblocking
 |amigo-mgn.ru|https://dns.amigo-mgn.ru/dns-query|:heavy_check_mark:|Adblocking
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Adblocking
@@ -46,7 +45,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |anixlab|https://anixlab.com/dns-query|:heavy_check_mark:|Adblocking
 |anoogohost.net|https://dns.anoogohost.net/dns-query|:heavy_check_mark:|Adblocking
 | Apem Legit | https://d.apemlegit.my.id/dns-query | :heavy_check_mark: | Adblocking
-|applewebkit.dev|https://dns.applewebkit.dev/dns-query|:heavy_check_mark:|Adblocking
 |armorrush|https://armorrush.eu.org/dns-query|:heavy_check_mark:|Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
