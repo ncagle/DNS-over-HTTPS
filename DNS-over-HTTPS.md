@@ -18,7 +18,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Absolight](https://www.absolight.fr/) | https://res-acst1.absolight.net/dns-query <br> https://res-acst2.absolight.net/dns-query <br> https://res-acst3.absolight.net/dns-query <br> https://resolver1.absolight.net/dns-query <br> https://resolver2.absolight.net/dns-query <br> https://resolver3.absolight.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | 
 |abstergo.it|https://block.abstergo.it/dns-query|:heavy_check_mark:|Adblocking
 |[AdFilter](https://adfilter.net/)|Adelaide: https://adl.adfilter.net/dns-query<br>Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
-| adguard-server.cf | https://adguard-server.cf/dns-query | :heavy_check_mark: | Adblocking
 | [AdGuard](https://adguard.com/en/adguard-dns/overview.html)     | Default: https://dns.adguard.com/dns-query <br> Family protection: https://dns-family.adguard.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
 |adguardh.ga|https://adguardh.ga/dns-query|:heavy_check_mark:|Adblocking
 |[Adrian Lam](https://adrianlam.com/)|https://dns.adrianlam.com/dns-query|:heavy_check_mark:|Adblocking
@@ -242,7 +241,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[heronet](https://heronet.nl/)|https://ad1.heronet.nl/dns-query|:heavy_check_mark:|Adblocking
 | [Hinet](https://hinet.net/) | https://dns.hinet.net/dns-query | :heavy_check_mark: | Run by Taiwanese ISP
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
-|hm3.day|https://jp.hm3.day/dns-query|:heavy_check_mark:|
 | [Hoerli.NET](https://hoerli.net/hoerlis-pi-holes-fuers-internet/) | Falkenstein <br> https://pihole1.hoerli.net/dns-query <br> Frankfurt <br> https://pihole2.hoerli.net/dns-query <br> New Jersey <br> https://pihole3.hoerli.net/dns-query <br> Baden-Baden <br> https://pihole4.hoerli.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, no logging
 |home.dlinkddns.com|https://home.dlinkddns.com/dns-query|:heavy_check_mark:|Adblocking
 |home27|https://home27.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
@@ -255,7 +253,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [i2pd](https://opennic.i2pd.xyz/) | https://opennic.i2pd.xyz/dns-query | :heavy_check_mark: | OpenNIC
 |ibytex.systems|https://muc-ns01.ibytex.systems/dns-query|:heavy_check_mark:|
 |[ihatemy.live](https://ihatemy.live/)|https://adguard.ihatemy.live/dns-query|:heavy_check_mark:|Adblocking
-| ihaveacloud | https://dns.ihaveacloud.com/dns-query | :heavy_check_mark: | Adblocking
 | ihctw | https://ihctw.synology.me/dns-query | :heavy_check_mark: | Adblocking
 |ikataruto.com|https://dns.ikataruto.com/dns-query|:heavy_check_mark:|Adblocking
 | [iKuuu VPN](https://ikuuu.co/) | https://doh.buzz/dns-query <br> https://doh.beauty/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | 
@@ -476,7 +473,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
 |[Tardiskhost](https://tardishost.ru/)|Adblocking: https://dns0.tardishost.ru/dns-query<br>Ad & porn blocking: https://dns1.tardishost.ru/dns-query|:heavy_check_mark:<br>:heavy_check_mark:|
 |[TechCPU.NET](https://techcpu.net/)|https://dns.techcpu.net/dns-query|:heavy_check_mark:|Adblocking
-|[TEK411com](https://tek411.com/)|https://agp01.tek411.com/dns-query|:heavy_check_mark:|Adblocking
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 | [TeraDNS](https://teradns.org/dns-over-https/) | Germany : https://de.teradns.org/dns-query <br> New York : https://ny.teradns.org/dns-query <br> Texas : https://tx.teradns.org/dns-query <br> Singapore : https://sg.teradns.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Adblocking, query logged for 24 hours to detect amplification attack.
 | [TÉZOÏ](https://www.tezoi.com/) | https://cloud.tezoi.com/dns-query | :heavy_check_mark: | Adblocking
