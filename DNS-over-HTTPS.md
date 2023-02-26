@@ -223,7 +223,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Gnb09](https://www.gnb09.id/) | https://dns.gnb09.id/dns-query | :heavy_check_mark: | Ad & porn blocking
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 |groupy.ga|https://groupy.ga/dns-query|:heavy_check_mark:|Adblocking
-| Grqu.de | https://dns.grqu.de/dns-query | :heavy_check_mark: | Adblocking
 |gslb2.xfinity.com|https://doh2.gslb2.xfinity.com/dns-query|:heavy_check_mark:|
 |[GugaInfo](https://gugainfo.com.br/)|https://blackhole.gugainfo.com.br/dns-query|:heavy_check_mark:|Adblocking
 |gustamadh|https://gustamadh.dynv6.net/dns-query|:heavy_check_mark:|Adblocking
@@ -541,7 +540,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |68360612.xyz|https://jp.68360612.xyz/dns-query|:heavy_check_mark:|
 | [7vpn](https://dns.7vpn.com/) | https://dns.7vpn.com/dns-query | :heavy_check_mark: | Adblocking
 |886886886.xyz|https://dns.886886886.xyz/dns-query|:heavy_check_mark:|Adblocking
-|996333.xyz|https://jpok.996333.xyz/dns-query|:heavy_check_mark:|Adblocking
 | **Others**
 | @jedisct1  | https://doh.crypto.sx/dns-query | :heavy_check_mark: |a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 |[@MarcRnt](https://marcrnt.de/)|https://home.marcrnt.de/dns-query|:heavy_check_mark:|Adblocking
