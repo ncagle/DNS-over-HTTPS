@@ -368,7 +368,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |nas1403|https://nas1403.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [ndom91](https://ndo.dev/posts/doh) | https://dns.ndo.dev/dns-query | :heavy_check_mark: | Non-logging, adblocking, ECS disabled, QNAME minimization, recursive resolver through Unbound with DNSSEC.
 | [Ndr](https://ender.fr/) | https://adguard.ender.fr/dns-query | :heavy_check_mark: | Adblocking
-| [Nebula.sly.io](https://nebula.sly.io) | Adblocking https://nebula.sly.io/dns-query <br> Adblocking & porn blocking https://nebula.sly.io/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |[neocortex.dk](https://norvig.dk/)|https://dns.norvig.dk/dns-query|:heavy_check_mark:|Adblocking
 |[Neubsi](https://dns.neubsi.at/)|https://dns.neubsi.at/dns-query|:heavy_check_mark:|
 | Nexific.it | https://doh.luigi.nexific.it/dns-query | :heavy_check_mark:|
@@ -501,6 +500,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Vasili Sviridov](https://vasi.li/) | https://tor.vasi.li/dns-query | :heavy_check_mark: | 
 |[vendor vista](https://vendorvista.xyz/)|https://securedns.vendorvista.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [VinnyP](https://dns.vinnyp.xyz/privacy) | https://dns.vinnyp.xyz/dns-query | :heavy_check_mark: | No logging, self recursive resolved, block ads, malware & porn.
+| [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 | [vMath](https://www.vmath.my.id/) | https://dns.vmath.my.id/dns-query | :heavy_check_mark: | Adblocking
 |[vpnRF](https://vpnrf.com/)|https://awsdns.vpnrf.com/dns-query|:heavy_check_mark:|Adblocking
 |vpservice.cf|https://vpservice.cf/dns-query|:heavy_check_mark:|Adblocking
