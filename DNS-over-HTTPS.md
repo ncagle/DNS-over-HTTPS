@@ -154,6 +154,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [dnscrypt.ca](https://dnscrypt.ca/) | https://dns1.dnscrypt.ca:453/dns-query | :heavy_check_mark:| Canadian, uncensored, no-logs, encrypted, and DNSSEC
 | dnsenc.com | https://dnsenc.com/dns-query | :heavy_check_mark:| Adblocking
 |dnsfish.com|https://gpchubjk.dnsfish.com/dns-query|:heavy_check_mark:|Adblocking
+| [DNSFlex](https://dnsflex.com) | https://doh-lb-br.dnsflex.com/dns-query <br> https://doh-lb-gb.dnsflex.com/dns-query <br> https://doh-lb-ca-tor.dnsflex.com/dns-query <br> https://doh-lb-tr.dnsflex.com/dns-query <br> https://doh-lb-sg.dnsflex.com/dns-query <br> https://doh-lb-in.dnsflex.com/dns-query <br> https://doh-lb-atl.dnsflex.com/dns-query <br> https://doh-lb-de.dnsflex.com/dns-query | :heavy_check_mark:|
 | [dnsforge.de](https://dnsforge.de/) | https://dnsforge.de/dns-query |:heavy_check_mark:|  No logging. Support DNSSEC. Hosted in Germany|
 | [dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php) |  https://dns.dnshome.de/dns-query | :heavy_check_mark:| DoH Server in Germany. No logging, No filtering, DNSSEC and own DNS Resolver |
 | [dnslow.me](https://dnslow.me/) | https://dnslow.me/dns-query | :heavy_check_mark: | A protective DNS that blocks Ads, Malware, Trackers, Phishing and Newly Registered Domains. Randomly forward requests to different upstreams for enhanced privacy. |
