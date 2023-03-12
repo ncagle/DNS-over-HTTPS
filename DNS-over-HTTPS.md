@@ -478,6 +478,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [vMath](https://www.vmath.my.id/) | https://dns.vmath.my.id/dns-query | :heavy_check_mark: | Adblocking
 |vpservice.cf|https://vpservice.cf/dns-query|:heavy_check_mark:|Adblocking
 |[vvmm.me](https://vvmm.me/)|https://vvmm.me/dns-query|:heavy_check_mark:|Adblocking
+|[vietdns.vn](https://vietdns.vn/)|Adblocking: https://dns.vietdns.vn/dns-query <br> Adblocking & porn blocking: https://kids.vietdns.vn/dns-query|:heavy_check_mark: <br> :heavy_check_mark: |Adblocking & porn blocking. Hosted in Vietnam
 | **W**
 |[wakgood](https://wakgood.net/)|https://dns.wakgood.net/dns-query|:heavy_check_mark:|Adblocking
 |wantaquddin|https://wantaquddin.com/dns-query|:heavy_check_mark:|Ad & porn blocking
