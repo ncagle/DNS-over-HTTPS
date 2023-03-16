@@ -62,7 +62,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Singapore: <br>https://doh-sg.blahdns.com/dns-query <br> Finland: <br>https://doh-fi.blahdns.com/dns-query <br> Japan: <br>https://doh-jp.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
 | [BlissDNS](https://github.com/BlissDNS) | https://us1.blissdns.net/dns-query | :heavy_check_mark: | Adblocking, queries logged for 24 hours
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
-|[bluemeda.cf](https://bluemeda.cf/)|https://dns.bluemeda.cf/dns-query|:heavy_check_mark:|Adblocking
 |bluemood|https://bluemood.me/dns-query|:heavy_check_mark:|Adblocking
 |[Bob Strecansky](https://bobstrecansky.com/)|https://dns.bobstrecansky.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |boje8.me|https://doh.boje8.me/dns-query|:heavy_check_mark:|Adblocking
@@ -79,7 +78,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |cbio.top|https://dns2.cbio.top/dns-query|:heavy_check_mark:|Adblocking
 | Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
 |cdzopi|https://cdzopi.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
-| Chaos System | https://chaos-system.de/dns-query | :heavy_check_mark: | Adblocking
 | Charter | California: <br>https://doh-01.spectrum.com/dns-query <br> Texas: <br>https://doh-02.spectrum.com/dns-query |:heavy_check_mark:<br>:heavy_check_mark:| Trial - Testing multiple platforms
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
 | Chromeina | https://dns.chromeina.top/dns-query | :heavy_check_mark: | Adblocking 
@@ -196,7 +194,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |gbrossi.com.br|https://adguard.gbrossi.com.br/dns-query|:heavy_check_mark:|Adblocking
 |gclouddns|https://gclouddns.com/dns-query|:heavy_check_mark:|Adblocking
 |ggrbb.xyz|https://www.ggrbb.xyz/dns-query|:heavy_check_mark:|Adblocking
-|[Gho$t](https://ghost.pm/)|https://dns.ghost.pm/dns-query|:heavy_check_mark:|Adblocking
 | [Gnb09](https://www.gnb09.id/) | https://dns.gnb09.id/dns-query | :heavy_check_mark: | Ad & porn blocking
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 |groupy.ga|https://groupy.ga/dns-query|:heavy_check_mark:|Adblocking
@@ -250,7 +247,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jamesxue.xyz|https://tj.jamesxue.xyz/dns-query|:heavy_check_mark:|
 | [JeroenHD](https://jeroenhd.nl/) | https://doh.jeroenhd.nl/dns-query | :heavy_check_mark: | Adblocking
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
-|[Jiří Počta](https://jiripocta.cz/)|https://srv5.jiripocta.cz/dns-query|:heavy_check_mark:|Adblocking
 |jnorton.us|https://adg.jnorton.us/dns-query|:heavy_check_mark:|Adblocking
 |joaofidelix.com.br|https://dns.joaofidelix.com.br/dns-query|:heavy_check_mark:|Adblocking
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
@@ -469,7 +465,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wantaquddin|https://wantaquddin.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Woozeno](https://iris.woozeno.eu/) | https://iris.woozeno.eu/dns-query | :heavy_check_mark: | 
 | **X**
-|x-o-x|https://x-o-x.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [xcom.pro](https://doh.xcom.pro/) | https://doh.xcom.pro/dns-query | :heavy_check_mark: | Adblocking
 |xenergy.cc|https://xenergy.cc/dns-query|:heavy_check_mark:|Adblocking
 | **Y**
@@ -488,7 +483,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |1899.com.mx|https://ns2.1899.com.mx/dns-query|:heavy_check_mark:|Adblocking
 |240130034.xyz|https://t2c.240130034.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[280blocker](https://280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
-|2poi.com|https://dns.2poi.com/dns-query|:heavy_check_mark:|Adblocking
 |3363.net|https://n.3363.net/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 | [5ososea](https://www.5ososea.com/) | Adblocking: https://dns.5ososea.com/dns-query <br> Ad & porn blocking: https://family.5ososea.com/dns-query <br> Ad & porn blocking with safe search: https://kids.5ososea.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Hosted in Germany, query logged for 24 hours.
