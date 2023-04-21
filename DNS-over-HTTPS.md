@@ -228,6 +228,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |keithchung|https://keithchung.hopto.org/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
+| [kilabit.info](https://kilabit.info/) | https://kilabit.info/dns-query | :heavy_check_mark: |
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |korzhov|https://korzhov.dev/dns-query|:heavy_check_mark:|Adblocking
