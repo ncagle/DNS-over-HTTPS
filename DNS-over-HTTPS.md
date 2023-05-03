@@ -7,7 +7,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 [RFC 8484 - DNS Queries over HTTPS (DoH)](https://tools.ietf.org/html/rfc8484)
 
 # Publicly available servers
-**[NEW]** Get the below list as JSON from [https://github.com/cslev/encrypted_dns_resolvers](https://github.com/cslev/encrypted_dns_resolvers)
 
 | Who runs it | Base URL | Working*| Comment |
 |-------------|----------|---------|---------|
