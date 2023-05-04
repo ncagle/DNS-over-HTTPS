@@ -463,3 +463,5 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 # Other
 
 [Script to parse DoH provider URLs from this wiki page](https://gist.github.com/kimbo/dd65d539970e3a28a10628f15398247b)
+
+Download a recent snapshot of the above list as JSON from [here](https://github.com/cslev/encrypted_dns_resolvers/blob/main/doh_resolvers_data_20230428.json)
