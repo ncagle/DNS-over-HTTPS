@@ -27,7 +27,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
 |alloxr.info|https://dns.alloxr.info/dns-query|:heavy_check_mark:|
 | Almir1904 | https://dns.almir1904.eu/dns-query | :heavy_check_mark: | Adblocking
-| [Alvosec](https://alvosec.com/) | https://dns.alvosec.com/dns-query | :heavy_check_mark: | Ad & porn blocking
 | Ambiya | https://adguard.ambiya.net/dns-query | :heavy_check_mark: | Adblocking & porn blocking
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Adblocking
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -53,7 +52,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bit-trail.nl|https://ns3.bit-trail.nl/dns-query|:heavy_check_mark:|Adblocking
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 |bitteeinbyte.de|https://adguard.bitteeinbyte.de/dns-query|:heavy_check_mark:|Adblocking
-| [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Singapore: <br>https://doh-sg.blahdns.com/dns-query <br> Finland: <br>https://doh-fi.blahdns.com/dns-query <br> Japan: <br>https://doh-jp.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
+| [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Singapore: <br>https://doh-sg.blahdns.com/dns-query <br> Finland: <br>https://doh-fi.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
 | [BlissDNS](https://github.com/BlissDNS) | https://us1.blissdns.net/dns-query | :heavy_check_mark: | Adblocking, queries logged for 24 hours
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |bluemood|https://bluemood.me/dns-query|:heavy_check_mark:|Adblocking
@@ -192,7 +191,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [i2pd](https://opennic.i2pd.xyz/) | https://opennic.i2pd.xyz/dns-query | :heavy_check_mark: | OpenNIC
 |[ihatemy.live](https://ihatemy.live/)|https://adguard.ihatemy.live/dns-query|:heavy_check_mark:|Adblocking
 | ihctw | https://ihctw.synology.me/dns-query | :heavy_check_mark: | Adblocking
-|ikataruto.com|https://dns.ikataruto.com/dns-query|:heavy_check_mark:|Adblocking
 | [iKuuu VPN](https://ikuuu.co/) | https://doh.buzz/dns-query <br> https://doh.beauty/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | 
 |imaicool.com|https://dns.imaicool.com/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://www.in-berlin.de/) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
@@ -203,7 +201,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Invisv](https://invisv.com/articles/dns.html) | https://dns.invisv.com/dns-query | :heavy_check_mark: | Implements Oblivious DNS
 | [IPv6DNS](https://www.ipv6dns.com/index) | https://dns.ipv6dns.com/dns-query | :heavy_check_mark: |
 | Irre.li | https://irre.li/dns-query | :heavy_check_mark: | Adblocking
-|[Iruma Technology](https://irumatech.com/)|https://dns1.irumatech.com/dns-query|:heavy_check_mark:|Adblocking
 |[IT Нинзя](https://iamninja.ru/)|https://dns.iamninja.ru/dns-query|:heavy_check_mark:|Ad & porn blocking
 |itdept.pro|https://dns.itdept.pro/dns-query|:heavy_check_mark:|Adblocking
 | **J**
@@ -263,7 +260,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [murgi.de](https://www.murgi.de/) | https://dns.murgi.de/dns-query | :heavy_check_mark: | Adblocking
 |muxinghe.cn|https://dns.muxinghe.cn/dns-query|:heavy_check_mark:|Adblocking
 |muxyuji.ru|https://www.muxyuji.ru/dns-query|:heavy_check_mark:|Adblocking
-|mydns.network|https://freedom.mydns.network/dns-query|:heavy_check_mark:|Non-logging, ECS disabled, QNAME minimization, recursive resolver through dnsdist & Unbound with DNSSEC.
 |[MyFRITZ](https://myfritz.net/)|https://echoe1yidzu4ioo5.myfritz.net/dns-query|:heavy_check_mark:|Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
 |mytm.cc|https://vm.mytm.cc/dns-query|:heavy_check_mark:|Adblocking
@@ -366,7 +362,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tk31z|https://tk31z.com/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |[toairs](https://toairs.com/)|https://d.toairs.com/dns-query|:heavy_check_mark:|Adblocking
-| [Totoro625](https://www.totoro.pub/adguardhome-conf) | https://doh.totoro.pub/dns-query/ | :heavy_check_mark: | Adblocking, based in Shanghai
 |[TPM](https://apigw.online/)|https://dns.apigw.online/dns-query|:heavy_check_mark:|Adblocking
 |tuandns|https://tuandns.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 |tungdnsne|https://tungdnsne.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
