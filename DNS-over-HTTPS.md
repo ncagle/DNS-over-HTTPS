@@ -52,7 +52,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bit-trail.nl|https://ns3.bit-trail.nl/dns-query|:heavy_check_mark:|Adblocking
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 |bitteeinbyte.de|https://adguard.bitteeinbyte.de/dns-query|:heavy_check_mark:|Adblocking
-| [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Singapore: <br>https://doh-sg.blahdns.com/dns-query <br> Finland: <br>https://doh-fi.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
+| [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Finland: <br>https://doh-fi.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
 | [BlissDNS](https://github.com/BlissDNS) | https://us1.blissdns.net/dns-query | :heavy_check_mark: | Adblocking, queries logged for 24 hours
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |bluemood|https://bluemood.me/dns-query|:heavy_check_mark:|Adblocking
@@ -143,7 +143,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Element](https://unerror.network/)|https://dns.unerror.network/dns-query|:heavy_check_mark:|Adblocking
 | [Elemental Software](https://elemental.software/) | https://dns.elemental.software/dns-query | :heavy_check_mark: |
 |[Elli](https://ellichua.com/)|https://dns.ellichua.com/dns-query|:heavy_check_mark:|Ad & porn blocking
-|elshad-adgh-dns.ru|https://www.elshad-adgh-dns.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
@@ -259,7 +258,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [murgi.de](https://www.murgi.de/) | https://dns.murgi.de/dns-query | :heavy_check_mark: | Adblocking
 |muxinghe.cn|https://dns.muxinghe.cn/dns-query|:heavy_check_mark:|Adblocking
 |muxyuji.ru|https://www.muxyuji.ru/dns-query|:heavy_check_mark:|Adblocking
-|[MyFRITZ](https://myfritz.net/)|https://echoe1yidzu4ioo5.myfritz.net/dns-query|:heavy_check_mark:|Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
 |mytm.cc|https://vm.mytm.cc/dns-query|:heavy_check_mark:|Adblocking
 |mywire.org|https://area51.mywire.org/dns-query|:heavy_check_mark:|Adblocking
