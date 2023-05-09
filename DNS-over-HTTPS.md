@@ -25,7 +25,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Aihe | https://aihe.app/dns-query | :heavy_check_mark: | 
 | [alekberg](https://alekberg.net) | Amsterdam Non-filtering: https://dnsnl.alekberg.net/dns-query <br> Sweden Non-filtering: https://dnsse.alekberg.net/dns-query <br> Amsterdam Adblocking: https://dnsnl-noads.alekberg.net/dns-query <br> Sweden Non-filtering: https://dnsse-noads.alekberg.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| DoH Servers in Spain, Holland and Sweden. No logging, DNSSEC support.|
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query | :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/faqs/#dns-safe), Best DoH/DoT server in China |
-|alloxr.info|https://dns.alloxr.info/dns-query|:heavy_check_mark:|
 | Almir1904 | https://dns.almir1904.eu/dns-query | :heavy_check_mark: | Adblocking
 | Ambiya | https://adguard.ambiya.net/dns-query | :heavy_check_mark: | Adblocking & porn blocking
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Adblocking
