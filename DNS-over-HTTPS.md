@@ -86,7 +86,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[comeonjames.club](https://comeonjames.club/)|https://dns.comeonjames.club/dns-query|:heavy_check_mark:|Adblocking
 | [Computer Incident Response Center Luxembourg](https://circl.lu/) | https://dns.circl.lu/dns-query | :heavy_check_mark:| 
 | [Comss](https://www.comss.ru/page.php?id=7315) | https://dns.comss.one/dns-query | :heavy_check_mark: | Block ads, tracker, phishing and malware
-|connect.fail|https://dns.connect.fail/dns-query|:heavy_check_mark:|Adblocking
 | [ControlD](https://controld.com/) | Unfiltered: <br>https://freedns.controld.com/p0 <br> Block Malware: <br>https://freedns.controld.com/p1 <br> Block Malware + Ads: <br>https://freedns.controld.com/p2 <br> Block Malware + Ads + Social: <br>https://freedns.controld.com/p3 <br> Block Malware, Ads, Adult content: <br>https://freedns.controld.com/family <br> OISD: <br>https://freedns.controld.com/x-oisd | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more but also unblock over 180 services through a network of proxies in over 100 cities.
 |cossxiu|https://cossxiu.ga/dns-query|:heavy_check_mark:|Adblocking
 |cwlys.com|https://dns.cwlys.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -259,7 +258,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |muxinghe.cn|https://dns.muxinghe.cn/dns-query|:heavy_check_mark:|Adblocking
 |muxyuji.ru|https://www.muxyuji.ru/dns-query|:heavy_check_mark:|Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
-|mytm.cc|https://vm.mytm.cc/dns-query|:heavy_check_mark:|Adblocking
 |mywire.org|https://area51.mywire.org/dns-query|:heavy_check_mark:|Adblocking
 |mzrme.cn|https://dns.mzrme.cn/dns-query|:heavy_check_mark:|
 | **N**
@@ -367,7 +365,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |typaza|https://typaza.com/dns-query|:heavy_check_mark:|Adblocking
 | **U**
 | Ueni.dyndns.org | https://ueni.dyndns.org/dns-query | :heavy_check_mark: | Adblocking
-| [Università di Padova](https://www.unipd.it/) | https://galileo.math.unipd.it/dns-query | :heavy_check_mark: | 
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 | **V**
 | [Vasili Sviridov](https://vasi.li/) | https://tor.vasi.li/dns-query | :heavy_check_mark: | 
@@ -389,7 +386,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Youni | https://dns.youni.win/dns-query | :heavy_check_mark: | Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
-| Zfsystem | https://dns.zfsystem.tech/dns-query | :heavy_check_mark: | Adblocking
 |zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Adblocking
