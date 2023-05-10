@@ -401,7 +401,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 
 *: Tested via `curl --doh-url <RESOLVER_URI> http://google.com`.
 
-Download a recent snapshot of the above list as JSON from [here](https://github.com/cslev/encrypted_dns_resolvers/blob/main/doh_resolvers_data_20230428.json).
+Download a recent snapshot of the above list as JSON from [here](https://github.com/cslev/encrypted_dns_resolvers).
 
 # Private DNS Server with DoH setup examples
 | Base | Source | Comment |
