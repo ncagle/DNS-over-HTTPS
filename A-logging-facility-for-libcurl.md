@@ -38,19 +38,25 @@ which means no calls or parameter evaluations are done unless the logging is act
 
 ### API
 
-Since logging is global, no easy handle is involved. But maybe we want to follow the same patterns, like in:
-
+General log levels and topics should be set globally and once at the start of the application. This makes
+checks work on write-once, stable memory locations with minimal performance impact.
 ```
+/* at init time */
 curl_log_setopt(CURLLOG_OPT_LEVEL, "info http:debug ssl:trace");
+```
+
+Logging itself will be enabled at the `multi` level to avoid any concurrency issues. When nothing is
+registered at the `multi` logs are disabled for all transfers at that multi. There are easy to use ways
+to provide logging to a file, file (descriptor?) or application provided callback.
 
 /* one of these */
-curl_log_setopt(CURLLOG_OPT_FILE, "libcurl.log");
-curl_log_setopt(CURLLOG_OPT_FD, fd);
-curl_log_setopt(CURLLOG_OPT_WRITE, app_callback);
+curl_multi_log_setopt(CURLLOG_OPT_FILE, "libcurl.log");
+curl_multi_log_setopt(CURLLOG_OPT_FD, fd);
+curl_multi_log_setopt(CURLLOG_OPT_WRITE, app_callback);
 
 ```
 
-The `app_callback` function would get passed the `level`, `topic`, the log message, an optional `CURL *` and `CURLM *`.
+The `app_callback` function would get passed the `level`, `topic`, the log message, the `CURLM *` and an optional `CURL *`.
 
 ### Security
 
@@ -61,8 +67,6 @@ In a non-debug builds, there should be no default logging anywhere unless the ap
 ### Debug Builds
 
 In debug builds, we should defined environment variables to easily change log levels when needed.
-
-
 
 
 
