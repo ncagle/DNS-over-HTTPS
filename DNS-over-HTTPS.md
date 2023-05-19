@@ -75,12 +75,14 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 |cloudnx.cloud|https://dns-secondary.cloudnx.cloud/dns-query|:heavy_check_mark:|
 |[clroot](https://clroot.io/) | https://adguard.clroot.io/dns-query | :heavy_check_mark: | Adblocking
+|[Codepays](https://www.codepays.net/9.html) | https://dns.codepays.net/dns-query | :heavy_check_mark: | Adblocking
 | [COLA16K](https://cola16.app/) | https://jpdns.cola16.app/dns-query | :heavy_check_mark: | Adblocking
 | Comcast | https://doh.xfinity.com/dns-query | :heavy_check_mark:| DNSSEC Validation, [DNS Privacy Policy](https://www.xfinity.com/privacy/policy/dns) |
 |[comeonjames.club](https://comeonjames.club/)|https://dns.comeonjames.club/dns-query|:heavy_check_mark:|Adblocking
 | [Computer Incident Response Center Luxembourg](https://circl.lu/) | https://dns.circl.lu/dns-query | :heavy_check_mark:| 
 | [Comss](https://www.comss.ru/page.php?id=7315) | https://dns.comss.one/dns-query | :heavy_check_mark: | Block ads, tracker, phishing and malware
 | [ControlD](https://controld.com/) | Unfiltered: <br>https://freedns.controld.com/p0 <br> Block Malware: <br>https://freedns.controld.com/p1 <br> Block Malware + Ads: <br>https://freedns.controld.com/p2 <br> Block Malware + Ads + Social: <br>https://freedns.controld.com/p3 <br> Block Malware, Ads, Adult content: <br>https://freedns.controld.com/family <br> OISD: <br>https://freedns.controld.com/x-oisd | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more but also unblock over 180 services through a network of proxies in over 100 cities.
+|[Cooluc](https://dns.cooluc.com/) | https://dns.cooluc.com/dns-query | :heavy_check_mark:|
 |cossxiu|https://cossxiu.ga/dns-query|:heavy_check_mark:|Adblocking
 |cwlys.com|https://dns.cwlys.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
@@ -377,6 +379,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Z**
 |zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
+|[0ms.run](https://0ms.run/) | https://0ms.run/dns-query | :heavy_check_mark:| Can also forward to other DoH servers
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Adblocking
 |240130034.xyz|https://t2c.240130034.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[280blocker](https://280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
