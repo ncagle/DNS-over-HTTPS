@@ -215,6 +215,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [kilabit.info](https://kilabit.info/) | https://kilabit.info/dns-query | :heavy_check_mark: |
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
+|Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
 |korzhov|https://korzhov.dev/dns-query|:heavy_check_mark:|Adblocking
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Adblocking
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
