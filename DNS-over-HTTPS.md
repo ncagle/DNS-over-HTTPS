@@ -90,6 +90,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |d365.in|https://dns.d365.in/dns-query|:heavy_check_mark:|Adblocking
 |d94.xyz|https://dns.d94.xyz/dns-query|:heavy_check_mark:|Adblocking
 |d96.info|https://dns.d96.info/dns-query|:heavy_check_mark:|Adblocking
+| [Dahisea](https://www.dahi.icu/dns/)| https://cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu/webtranslate/api/dlookup | :heavy_check_mark:| 
 | [Daniel Woffinden](https://daw.dev/) | https://dns.daw.dev/dns-query | :heavy_check_mark: | Adblocking
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |darkness.is.my.waifu|https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
