@@ -228,7 +228,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lege.despagne.net|https://adguard.lege.despagne.net/dns-query|:heavy_check_mark:|Adblocking
 |lekdijk.online|https://externalmobiel.lekdijk.online/dns-query|:heavy_check_mark:|
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
-|[loNET](https://lonet.org) | https://doh.dns1.lonet.org/dns-query | :heavy_check_mark:|Adblocking
+|[loNET](https://dns.lonet.org/) | https://doh.dns1.lonet.org/dns-query | :heavy_check_mark:|Adblocking
 |lz0724.com|https://orau.lz0724.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **M**
 |[maolaohei.xyz](https://maolaohei.xyz)|https://dns.maolaohei.xyz/dns-query|:heavy_check_mark:|Adblocking
