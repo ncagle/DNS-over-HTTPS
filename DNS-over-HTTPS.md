@@ -123,6 +123,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [dnslow.me](https://dnslow.me/) | https://dnslow.me/dns-query | :heavy_check_mark: | A protective DNS that blocks Ads, Malware, Trackers, Phishing and Newly Registered Domains. Randomly forward requests to different upstreams for enhanced privacy. |
 | [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud
 | [dnswarden](https://dnswarden.com)| Adblock - <br> https://dns.dnswarden.com/adblock <br><br> Uncensored -<br> https://dns.dnswarden.com/uncensored <br><br> AdultFilter - <br>  https://dns.dnswarden.com/adultfilter | <br>:heavy_check_mark:<br><br><br>:heavy_check_mark:<br><br><br>:heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT) & Dnscrypt. Supports DNSSEC, TLS 1.3, QNAME minimization and does own Recursion. EDNS Client Subnet is disabled.<br> Provides 4 different types of filtering options.<br> Adblock - Blocks ads, trackers, viruses, and telemetry.<br> Adultfilter - Blocks adult content, enforces safe search, and includes all the features from adblock. <br> Uncensored - Unrestricted access/no filtering.<br>[Custom Filter](https://dnswarden.com/customfilter.html) where you can choose your own filter lists! <br>For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). |
+|doh.best|https://dns.doh.best/dns-query|:heavy_check_mark:|Adblocking
 |dscloud.me|https://doh.dscloud.me/dns-query|:heavy_check_mark:|Adblocking
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
 |[DutchWhite](https://dutchwhite.nl/)|https://dns.dutchwhite.nl/dns-query|:heavy_check_mark:|Adblocking
@@ -227,6 +228,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lege.despagne.net|https://adguard.lege.despagne.net/dns-query|:heavy_check_mark:|Adblocking
 |lekdijk.online|https://externalmobiel.lekdijk.online/dns-query|:heavy_check_mark:|
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
+|[loNET](https://lonet.org) | https://doh.dns1.lonet.org/dns-query | :heavy_check_mark:|Adblocking
 |lz0724.com|https://orau.lz0724.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **M**
 |[maolaohei.xyz](https://maolaohei.xyz)|https://dns.maolaohei.xyz/dns-query|:heavy_check_mark:|Adblocking
@@ -327,6 +329,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
 | [Studentenstadt Freimann](https://www.stusta.de/en/) | https://muli.stusta.mhn.de/dns-query <br> https://esel.stusta.mhn.de/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |
 |stvsk.ml|https://dns.stvsk.ml/dns-query|:heavy_check_mark:|Adblocking
+|sungai.stream|https://doh.sungai.stream/dns-query|:heavy_check_mark:|
 |[SunTrack](https://sntrk.ru/)|https://guard.sntrk.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Surfshark](https://surfshark.com) | https://dns.surfshark.com/dns-query | :heavy_check_mark: |
 |surt|https://surt.ml/dns-query|:heavy_check_mark:|Adblocking
@@ -359,6 +362,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [VinnyP](https://dns.vinnyp.xyz/privacy) | https://dns.vinnyp.xyz/dns-query | :heavy_check_mark: | No logging, self recursive resolved, block ads, malware & porn.
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 | [vMath](https://www.vmath.my.id/) | https://dns.vmath.my.id/dns-query | :heavy_check_mark: | Adblocking
+|[vond.net](https://vond.net/) | https://doh.rdns.vond.net/dns-query | :heavy_check_mark: | Adblocking
 | **W**
 |[wakgood](https://wakgood.net/)|https://dns.wakgood.net/dns-query|:heavy_check_mark:|Adblocking
 |wantaquddin|https://wantaquddin.com/dns-query|:heavy_check_mark:|Ad & porn blocking
