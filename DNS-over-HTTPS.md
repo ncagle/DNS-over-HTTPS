@@ -38,7 +38,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
 | **B**
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query <br> Tokyo:<br> https://jp-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
-|bcandrade|https://bcandrade.ml/dns-query|:heavy_check_mark:|Adblocking
 | [BebasDNS](https://github.com/bebasid/bebasdns) | Singapore:<br> https://dns.bebasid.com/dns-query | :heavy_check_mark: | DNS-based ad-blocking service
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
 |[benpro](https://benpro.fr/)|https://dns.benpro.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
