@@ -372,7 +372,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **0-9**
 |[0ms.run](https://0ms.run/) | https://0ms.run/dns-query | :heavy_check_mark:| Can also forward to other DoH servers
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Adblocking
-|240130034.xyz|https://t2c.240130034.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[280blocker](https://280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 | [5ososea](https://www.5ososea.com/) | Adblocking: https://dns.5ososea.com/dns-query <br> Ad & porn blocking: https://family.5ososea.com/dns-query <br> Ad & porn blocking with safe search: https://kids.5ososea.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Hosted in Germany, query logged for 24 hours.
