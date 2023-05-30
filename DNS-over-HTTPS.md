@@ -141,7 +141,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |edison42.dev|https://dns.edison42.dev/dns-query|:heavy_check_mark:|Adblocking
 |ef67daisuki.club|https://adguard.ef67daisuki.club/dns-query|:heavy_check_mark:|Adblocking
 |elbschloss.xyz|https://hole.elbschloss.xyz/dns-query|:heavy_check_mark:|Adblocking
-|[Element](https://unerror.network/)|https://dns.unerror.network/dns-query|:heavy_check_mark:|Adblocking
 | [Elemental Software](https://elemental.software/) | https://dns.elemental.software/dns-query | :heavy_check_mark: |
 |[Elli](https://ellichua.com/)|https://dns.ellichua.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
@@ -168,7 +167,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **G**
 |[Galuh Multidata Solution](https://gms.net.id/)|https://dns2.gms.net.id/dns-query|:heavy_check_mark:|
 |gbrossi.com.br|https://adguard.gbrossi.com.br/dns-query|:heavy_check_mark:|Adblocking
-|gclouddns|https://gclouddns.com/dns-query|:heavy_check_mark:|Adblocking
 |giize.com|https://bvo.giize.com/dns-query|:heavy_check_mark:|
 |[GloryDNS](https://dns.glorydns.com/)|https://dns.glorydns.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Gnb09](https://www.gnb09.id/) | https://dns.gnb09.id/dns-query | :heavy_check_mark: | Ad & porn blocking
@@ -219,7 +217,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jamesxue.xyz|https://tj.jamesxue.xyz/dns-query|:heavy_check_mark:|
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
 |[Jinwoo](https://jinwoo.dev/)|https://dns.jinwoo.dev/dns-query|:heavy_check_mark:|Adblocking
-|jnorton.us|https://adg.jnorton.us/dns-query|:heavy_check_mark:|Adblocking
 |joaofidelix.com.br|https://dns.joaofidelix.com.br/dns-query|:heavy_check_mark:|Adblocking
 |jogjacloud|https://vpn.jogjacloud.com/dns-query|:heavy_check_mark:|
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
@@ -312,7 +309,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PanSzelescik](https://panszelescik.pl/)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Adblocking
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
-|piekacz.pl|https://adguard.piekacz.pl/dns-query|:heavy_check_mark:|
 |pleumkungz.com|https://thanos.pleumkungz.com/dns-query|:heavy_check_mark:|Adblocking
 |[PlumeDNS](https://plumedns.com/)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|
 |privado.ovh|https://dns.privado.ovh/dns-query|:heavy_check_mark:|Adblocking
@@ -354,7 +350,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |shalenkov|https://shalenkov.dev/dns-query|:heavy_check_mark:|Adblocking
 | [Shecan](https://shecan.ir/) | https://free.shecan.ir/dns-query <br> https://dns.shecan.ir/dns-query <br> https://pro.shecan.ir/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Iran, proxies sanctioned websites
 | [Shimul D](https://shimul.me) | https://do.shimul.me/dns-query | :heavy_check_mark: | Adblocking
-|[Shimul D](https://shimul.me/)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Adblocking
 | [Shunhang](https://www.shimmerl.top/archives/dnsqx-ls-20-12-21) | https://dns.lsho.top:444/dns-query | :heavy_check_mark: | Adblocking
 | Shuting | https://adguard.shuting.idv.tw/dns-query | :heavy_check_mark: | Adblocking
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
@@ -432,7 +427,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ychen|https://ychen.ga/dns-query|:heavy_check_mark:|Adblocking
 |[YekongTAT](https://moeyk.com/)|https://doh.moeyk.com/dns-query|:heavy_check_mark:|
 |yingroad.top|https://ora.yingroad.top/dns-query|:heavy_check_mark:|Adblocking
-|[Yoann Chappaz](https://yoannchappaz.best/)|https://appart.yoannchappaz.best/dns-query|:heavy_check_mark:|Adblocking
 | Youni | https://dns.youni.win/dns-query | :heavy_check_mark: | Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 |yunmoc.top|https://dns.yunmoc.top/dns-query|:heavy_check_mark:|Adblocking
@@ -443,7 +437,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |zxi7.cn|https://dns.zxi7.cn/dns-query|:heavy_check_mark:|
 | **0-9**
 |[0ms.run](https://0ms.run/) | https://0ms.run/dns-query | :heavy_check_mark:| Can also forward to other DoH servers
-|0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Adblocking
 |1.bsh4.com|https://dns.1.bsh4.com/dns-query|:heavy_check_mark:|Adblocking
 |140.238.202.136.sslip.io|https://140.238.202.136.sslip.io/dns-query|:heavy_check_mark:|Ad & porn blocking
 |209.wf|https://dns.209.wf/dns-query|:heavy_check_mark:|Adblocking
