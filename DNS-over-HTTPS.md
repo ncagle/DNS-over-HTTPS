@@ -112,7 +112,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | dns.linkr.ninja | https://dns.linkr.ninja/dns-query | :heavy_check_mark: | Adblocking
 |dns.nomu.pw|https://ttag.dns.nomu.pw/dns-query|:heavy_check_mark:|Adblocking
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query <br> https://doh.sb/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DNSSEC & QNAME minimization enabled, no logging |
-|dns.terumi.club|https://apne1.dns.terumi.club/dns-query|:heavy_check_mark:|Adblocking
 |[DNS4all](https://dns4all.eu/)|https://doh.dns4all.eu/dns-query|:heavy_check_mark:| Non-logging
 | [dns4me](https://dns4me.net/) | https://nz01.dns4me.net <br> https://au01.dns4me.net <br> https://au02.dns4me.net <br> https://sg01.dns4me.net <br> https://uk01.dns4me.net <br> https://us01.dns4me.net <br> https://us02.dns4me.net <br> https://sa01.dns4me.net <br> https://ca01.dns4me.net <br> https://ca02.dns4me.net | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: |
 |dnsadguard.co.uk|https://www.dnsadguard.co.uk/dns-query|:heavy_check_mark:|Adblocking
@@ -193,7 +192,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
 | [Institute of Operating Systems and Computer Networks](https://wiki.ibr.cs.tu-bs.de/en/services) | https://doh.ibr.cs.tu-bs.de/dns-query | :heavy_check_mark: |
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2024 
-| [Invisv](https://invisv.com/articles/dns.html) | https://dns.invisv.com/dns-query | :heavy_check_mark: | Implements Oblivious DNS
 | [IPv6DNS](https://www.ipv6dns.com/index) | https://dns.ipv6dns.com/dns-query | :heavy_check_mark: |
 | Irre.li | https://irre.li/dns-query | :heavy_check_mark: | Adblocking
 |[IT Нинзя](https://iamninja.ru/)|https://dns.iamninja.ru/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -217,7 +215,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |keithchung|https://keithchung.hopto.org/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
-| [kilabit.info](https://kilabit.info/) | https://kilabit.info/dns-query | :heavy_check_mark: |
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 |[KinergeticA](https://kinergetica.com/)|https://storydoh.kinergetica.com/dns-query|:heavy_check_mark:|
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
@@ -345,7 +342,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
-|[spaceindex.net](https://spaceindex.net/)|https://adguard.spaceindex.net/dns-query|:heavy_check_mark:|
 | [SPIL](https://www.spil.co.id/) | https://dns.spil.co.id/dns-query | :heavy_check_mark: | Adblocking
 |[SpyRisk](https://spyrisk.fr/)|https://adguard.spyrisk.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
@@ -379,7 +375,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Tyler G. Wahl](https://tylerwahl.com/)|https://dns-east.tylerwahl.com/dns-query|:heavy_check_mark:|Adblocking
 |typaza|https://typaza.com/dns-query|:heavy_check_mark:|Adblocking
 | **U**
-| Ueni.dyndns.org | https://ueni.dyndns.org/dns-query | :heavy_check_mark: | Adblocking
 |[Universitas Negeri Manado](https://unima.ac.id/)|https://open-resolver1.unima.ac.id/dns-query|:heavy_check_mark:|Adblocking
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |[Uplenk](https://uplenk.com/)|https://dns.uplenk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -414,13 +409,10 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 |yunmoc.top|https://dns.yunmoc.top/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
-|zhhz.cc|https://dns140.zhhz.cc/dns-query|:heavy_check_mark:|Adblocking
-|zhhz.cc|https://dns168.zhhz.cc/dns-query|:heavy_check_mark:|Adblocking
 |zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 |zxi7.cn|https://dns.zxi7.cn/dns-query|:heavy_check_mark:|
 | **0-9**
 |[0ms.run](https://0ms.run/) | https://0ms.run/dns-query | :heavy_check_mark:| Can also forward to other DoH servers
-|1.bsh4.com|https://dns.1.bsh4.com/dns-query|:heavy_check_mark:|Adblocking
 |140.238.202.136.sslip.io|https://140.238.202.136.sslip.io/dns-query|:heavy_check_mark:|Ad & porn blocking
 |209.wf|https://dns.209.wf/dns-query|:heavy_check_mark:|Adblocking
 |23-4.cn|https://dns.23-4.cn/dns-query|:heavy_check_mark:|Adblocking
