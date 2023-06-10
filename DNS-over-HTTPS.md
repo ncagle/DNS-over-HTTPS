@@ -77,7 +77,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 |cloudnx.cloud|https://dns-secondary.cloudnx.cloud/dns-query|:heavy_check_mark:|
 | Comcast | https://doh.xfinity.com/dns-query | :heavy_check_mark:| DNSSEC Validation, [DNS Privacy Policy](https://www.xfinity.com/privacy/policy/dns) |
-|[comeonjames.club](https://comeonjames.club/)|https://dns.comeonjames.club/dns-query|:heavy_check_mark:|Adblocking
 | [Computer Incident Response Center Luxembourg](https://circl.lu/) | https://dns.circl.lu/dns-query | :heavy_check_mark:| 
 | [Comss](https://www.comss.ru/page.php?id=7315) | https://dns.comss.one/dns-query | :heavy_check_mark: | Block ads, tracker, phishing and malware
 | [ControlD](https://controld.com/free-dns) | Unfiltered: <br>https://freedns.controld.com/p0 <br> Block Malware: <br>https://freedns.controld.com/p1 <br> Block Malware + Ads: <br>https://freedns.controld.com/p2 <br> Block Malware + Ads + Social: <br>https://freedns.controld.com/p3 <br> Block Malware, Ads, Adult content: <br>https://freedns.controld.com/family <br> OISD - Full: <br>https://freedns.controld.com/x-oisd <br> OISD - Basic: <br>https://freedns.controld.com/x-oisd-basic <br> StevenBlack Unified: <br>https://freedns.controld.com/x-stevenblack <br> Dev Dan's Hosts: <br>https://freedns.controld.com/x-devdan <br> Notracking Hosts: <br>https://freedns.controld.com/x-notracking <br> 1Hosts - Mini: <br>https://freedns.controld.com/x-1hosts-mini <br> 1Hosts - Lite: <br>https://freedns.controld.com/x-1hosts-lite <br> 1Hosts - Pro: <br>https://freedns.controld.com/x-1hosts-pro <br> Hagezi's DNS - Normal: <br>https://freedns.controld.com/x-hagezi-normal <br> Hagezi's DNS - Pro: <br>https://freedns.controld.com/x-hagezi-pro <br> Hagezi's DNS - Pro Plus: <br>https://freedns.controld.com/x-hagezi-proplus <br> Hagezi's DNS - Ultimate: <br>https://freedns.controld.com/x-hagezi-ultimate <br> GoodbyeAds: <br>https://freedns.controld.com/x-goodbyeads <br> AdGuard Filter: <br>https://freedns.controld.com/x-adguard <br> | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more but also unblock over 180 services through a network of proxies in over 100 cities.
@@ -158,7 +157,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 | [FutaDNS](https://site.futa.gg/) | https://doh.futa.gg/dns-query | :heavy_check_mark: | Based in Taiwan, query logged for 24 hours, adblocking.
 | **G**
-|[Galuh Multidata Solution](https://gms.net.id/)|https://dns2.gms.net.id/dns-query|:heavy_check_mark:|
 |[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking
 |giize.com|https://bvo.giize.com/dns-query|:heavy_check_mark:|
 |[GloryDNS](https://dns.glorydns.com/)|https://dns.glorydns.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -176,15 +174,12 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |haoxuan.xyz|https://dns.haoxuan.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [HeliumCloud](https://servers.opennic.org/edit.php?srv=ns2.nj.us.dns.opennic.glue) | https://us-ny-alula.heliumcloud.cc/dns-query | :heavy_check_mark: | OpenNIC
 | [Hinet](https://hinet.net/) | https://dns.hinet.net/dns-query | :heavy_check_mark: | Run by Taiwanese ISP
-|[hinytz](https://hinytz.com/)|https://dns.hinytz.com/dns-query|:heavy_check_mark:|Adblocking
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
 | [Hoerli.NET](https://hoerli.net/hoerlis-pi-holes-fuers-internet/) | Falkenstein <br> https://pihole1.hoerli.net/dns-query <br> Frankfurt <br> https://pihole2.hoerli.net/dns-query <br> Baden-Baden <br> https://pihole4.hoerli.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, no logging
 |home27|https://home27.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
-|[Hoofoo](https://hoofoo.icu/)|https://hoofoo.icu/dns-query|:heavy_check_mark:|
 |[hostingim](https://hostingim.net/)|https://dns.hostingim.com/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: <br> https://dns.hostux.net/dns-query <br> Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
-| [Hurricane Electric (he.net)](https://he.net)  | https://ordns.he.net/dns-query | :heavy_check_mark:| Also supports DoT and TLS 1.3, Does NOT support DNSSEC. Anycast servers. |
 | **I**
 |[iBakerServer](https://ibakerserver.pt/)|https://dns-public.ibakerserver.pt/dns-query|:heavy_check_mark:|Adblocking
 |[ihatemy.live](https://ihatemy.live/)|https://adguard.ihatemy.live/dns-query|:heavy_check_mark:|Adblocking
