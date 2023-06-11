@@ -19,7 +19,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[AdFilter](https://adfilter.net/)|Adelaide: https://adl.adfilter.net/dns-query<br>Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
 |[Adrian Lam](https://adrianlam.com/)|https://dns.adrianlam.com/dns-query|:heavy_check_mark:|Adblocking
-|[Agadez.net – Speed Thrills](https://agadez.net/)|https://adguard.agadez.net/dns-query|:heavy_check_mark:|
 |[Aganin](https://aganin.org/)|https://dns.aganin.org/dns-query|:heavy_check_mark:|Adblocking
 |agh-dns.net|https://ams.nl.agh-dns.net/dns-query|:heavy_check_mark:|Adblocking
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 <br> OISD & Energized Porn filter : https://blitz.ahadns.com/1:1.12 | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
@@ -203,7 +202,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jamesxue.xyz|https://tj.jamesxue.xyz/dns-query|:heavy_check_mark:|
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
 |[Jinwoo](https://jinwoo.dev/)|https://dns.jinwoo.dev/dns-query|:heavy_check_mark:|Adblocking
-|joaofidelix.com.br|https://dns.joaofidelix.com.br/dns-query|:heavy_check_mark:|Adblocking
 |[Joey](https://joey01245.nl/)|https://dns.joey01245.nl/dns-query|:heavy_check_mark:|
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
@@ -236,7 +234,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[loNET](https://dns.lonet.org/) | https://doh.dns1.lonet.org/dns-query | :heavy_check_mark:|Adblocking
 |lz0724.com|https://orau.lz0724.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **M**
-|[maolaohei.xyz](https://maolaohei.xyz)|https://dns.maolaohei.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 | Meeo.win | https://dns.meeo.win/dns-query | :heavy_check_mark: | Adblocking
@@ -257,7 +254,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |muxinghe.cn|https://dns.muxinghe.cn/dns-query|:heavy_check_mark:|Adblocking
 |muxyuji.ru|https://www.muxyuji.ru/dns-query|:heavy_check_mark:|Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
-|mywire.org|https://area51.mywire.org/dns-query|:heavy_check_mark:|Adblocking
 |mzrme.cn|https://dns.mzrme.cn/dns-query|:heavy_check_mark:|
 | **N**
 |nas-server.ru|https://dns.nas-server.ru/dns-query|:heavy_check_mark:|Adblocking
@@ -347,7 +343,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
 | [SPIL](https://www.spil.co.id/) | https://dns.spil.co.id/dns-query | :heavy_check_mark: | Adblocking
-|[SpyRisk](https://spyrisk.fr/)|https://adguard.spyrisk.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
 | [Studentenstadt Freimann](https://www.stusta.de/en/) | https://muli.stusta.mhn.de/dns-query <br> https://esel.stusta.mhn.de/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |
 |stvsk.ml|https://dns.stvsk.ml/dns-query|:heavy_check_mark:|Adblocking
