@@ -291,6 +291,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
 |pleumkungz.com|https://thanos.pleumkungz.com/dns-query|:heavy_check_mark:|Adblocking
 |[PlumeDNS](https://plumedns.com/)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|
+|printk.info|https://agh.printk.info/dns-query|:heavy_check_mark:|
 |privado.ovh|https://dns.privado.ovh/dns-query|:heavy_check_mark:|Adblocking
 |[Pumpkin VR](https://pumpkinvrar.com/)|https://dns.pumpkinvrar.com/dns-query|:heavy_check_mark:|Adblocking
 |[Purbalingga](https://purbalinggakab.go.id/)|https://dns.purbalinggakab.go.id/dns-query|:heavy_check_mark:|Ad & porn blocking
