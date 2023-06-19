@@ -6,14 +6,14 @@
 files. If this prefix is used to a command line option, it means that the
 value allows for variable expansion.
 
-When expanding variables, the syntax to expand them is with "{{name}}" that
+When expanding variables, the syntax to expand them is with `{{name}}` that
 then inserts the contents of the specific variable instead. The expansion can
-also insert an environment variable using the extended syntax "{{env:name}}".
+also insert an environment variable using the extended syntax `{{env:name}}`.
 
 If no expansion is performed for a `--expand-` option, a warning will be
 displayed.
 
-Example, expanding the curl variable "foo" and the environment variable "USER":
+Example, expanding the curl variable foo and the environment variable USER:
 
     --expand-url "https://example.org/{{foo}}/{{env:USER}}"
 
