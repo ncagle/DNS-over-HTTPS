@@ -79,14 +79,14 @@ Example: an environment variable that is trimmed and percent-encoded:
 Get the contents from the file "$HOME/.file" and use it as a directory name when requesting a URL, add the user name as a file name.
 
     curl \
-    --expand-variable foo=@{{env:HOME}}/.file \
+    --expand-variable foo@{{env:HOME}}/.file \
     --expand-url "https://example.org/{{foo:%}}/{{env:USER:%}}"
 
 Pass a secret key to curl via a pipe.
 
     printf %s "$secret" |
     curl -g \
-    --variable secret=@- \
+    --variable secret@- \
     --expand-url 'https:/example.org/{{secret:%}}/method'
 
 Make JSON request using the content of a shell variable in the payload.
