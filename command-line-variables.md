@@ -52,21 +52,23 @@ The data will be read from stdin.
 
 ## Variable functions
 
-To help creating better command lines, there are "functions" that can be applied to the contents when a variable is assigned.
+To help creating better command lines, there are "functions" that can be applied to the contents when a variable is expanded.
 
-The functions are specified after the variable name, separated by a colon (`:`) before the assign. Like:
-
-    --variable foo:trim=@-
+The functions are specified after the variable name, separated by a colon (`:`). There can be one or more functions applied to a variable.
 
 ### trim
 
 Removes leading and trailing whitespaces and newlines from the contents.
 
+    {{foo:trim}}
+
 ### percent (alias "%")
 
 Percent-encodes the entire contents.
 
-    --variable foo:trim:percent=@-
+Example: an environment variable that is trimmed and percent-encoded:
+
+    {{env:HOME:trim:percent}}
 
 ## Complete examples
 
