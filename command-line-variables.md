@@ -19,7 +19,7 @@ Example, expanding the curl variable foo and the environment variable USER:
 
 ## --variable
 
-The command line option `--variable [name=data]` sets internal curl variables
+The command line option `--variable [name=data/@file]` sets internal curl variables
 to have names with contents. This option can be used on the command line and
 in config files of course, any number of times.
 
@@ -36,11 +36,9 @@ A variable name consists only of the characters "a-zA-Z0-9_", and may not be lon
 
 The `data` for a variable can be provided different ways:
 
-### `"contents"`
+### `=contents`
 
-Specifies that exact data in a string. The double quotes around the data may
-be omitted, but that might make the data risk getting treated as something
-else.
+Specifies that exact data in a string.
 
 ### `@filename`
 
