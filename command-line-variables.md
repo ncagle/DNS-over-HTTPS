@@ -30,8 +30,9 @@ the following options.
 
 The variable option itself can be expanded if used with a `--expand-` prefix.
 
-(TBD: should it be possible to set the same variable name in two different
-places on the command line or should we dicourage that?)
+Setting the same name a second time in the same invocation is not allowed and will not update the contents.
+
+A variable name consists only of the characters "a-zA-Z0-9_", and may not be longer than 128 bytes.
 
 The `data` for a variable can be porovide different ways:
 
