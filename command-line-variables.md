@@ -60,7 +60,7 @@ Removes leading and trailing whitespaces and newlines from the contents.
 
     {{foo:trim}}
 
-### JSON
+### json
 
 Expands the string with JSON escape sequences
 
