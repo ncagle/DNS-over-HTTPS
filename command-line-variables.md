@@ -53,6 +53,13 @@ The data will be read from stdin.
 
 Get the contents from the file "$HOME/.file" and use it as a directory name when requesting a URL, add the user name as a file name.
 
-    curl
-    --expand-variable foo=@{{env:HOME}}/.file
+    curl \
+    --expand-variable foo=@{{env:HOME}}/.file \
     --expand-url "https://example.org/{{foo}}/{{env:USER}}"
+
+Pass a secret key to curl via a pipe:
+
+    printf %s "$secret" |
+    curl -g \
+    --variable secret=@- \
+    --expand-url 'https:/example.org/{{secret}}/method'
