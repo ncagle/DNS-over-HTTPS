@@ -92,11 +92,6 @@ Pass a secret key to curl via a pipe.
 Make JSON request using the content of a shell variable in the payload.
 
     curl \
-    --variable "query=\"$query\"" \
+    --variable "query=$query" \
     --expand-json '{ "query": "{{query:json}}", "searchType": "all" }' \
-    https://example.org/api/search
-
-    # or
-    query=$query curl \
-    --expand-json '{ "query": "{{ENV:query:json}}", "searchType": "all" }' \
     https://example.org/api/search
