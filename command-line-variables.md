@@ -34,7 +34,7 @@ Setting the same name a second time in the same invocation is not allowed and wi
 
 A variable name consists only of the characters "a-zA-Z0-9_", and may not be longer than 128 bytes.
 
-The `data` for a variable can be porovide different ways:
+The `data` for a variable can be provided different ways:
 
 ### `"contents"`
 
@@ -49,6 +49,24 @@ The data will be read from the given file name.
 ### `@-`
 
 The data will be read from stdin.
+
+## Variable functions
+
+To help creating better command lines, there are "functions" that can be applied to the contents when a variable is assigned.
+
+The functions are specified after the variable name, separated by a colon (`:`) before the assign. Like:
+
+    --variable foo:trim=@-
+
+### trim
+
+Removes leading and trailing whitespaces and newlines from the contents.
+
+### percent (alias "%")
+
+Percent-encodes the entire contents.
+
+    --variable foo:trim:percent=@-
 
 ## Complete examples
 
