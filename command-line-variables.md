@@ -52,7 +52,7 @@ The data will be read from stdin.
 
 To help creating better command lines, there are "functions" that can be applied to the contents when a variable is expanded.
 
-The functions are specified after the variable name, separated by a colon (`:`). There can be one or more functions applied to a variable.
+The functions are specified after the variable name, separated by a colon (`:`). There can be one or more functions applied to a variable. The functions are applied in a left-to-right order.
 
 ### trim
 
