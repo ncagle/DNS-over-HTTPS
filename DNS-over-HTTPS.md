@@ -74,6 +74,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Computer Incident Response Center Luxembourg](https://circl.lu/) | https://dns.circl.lu/dns-query | :heavy_check_mark:| 
 | [Comss](https://www.comss.ru/page.php?id=7315) | https://dns.comss.one/dns-query | :heavy_check_mark: | Block ads, tracker, phishing and malware
 | [ControlD](https://controld.com/free-dns) | Unfiltered: <br>https://freedns.controld.com/p0 <br> Block Malware: <br>https://freedns.controld.com/p1 <br> Block Malware + Ads: <br>https://freedns.controld.com/p2 <br> Block Malware + Ads + Social: <br>https://freedns.controld.com/p3 <br> Block Malware, Ads, Adult content: <br>https://freedns.controld.com/family <br> OISD - Full: <br>https://freedns.controld.com/x-oisd <br> OISD - Basic: <br>https://freedns.controld.com/x-oisd-basic <br> StevenBlack Unified: <br>https://freedns.controld.com/x-stevenblack <br> Dev Dan's Hosts: <br>https://freedns.controld.com/x-devdan <br> Notracking Hosts: <br>https://freedns.controld.com/x-notracking <br> 1Hosts - Mini: <br>https://freedns.controld.com/x-1hosts-mini <br> 1Hosts - Lite: <br>https://freedns.controld.com/x-1hosts-lite <br> 1Hosts - Pro: <br>https://freedns.controld.com/x-1hosts-pro <br> Hagezi's DNS - Normal: <br>https://freedns.controld.com/x-hagezi-normal <br> Hagezi's DNS - Pro: <br>https://freedns.controld.com/x-hagezi-pro <br> Hagezi's DNS - Pro Plus: <br>https://freedns.controld.com/x-hagezi-proplus <br> Hagezi's DNS - Ultimate: <br>https://freedns.controld.com/x-hagezi-ultimate <br> GoodbyeAds: <br>https://freedns.controld.com/x-goodbyeads <br> AdGuard Filter: <br>https://freedns.controld.com/x-adguard <br> | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more but also unblock over 180 services through a network of proxies in over 100 cities.
+|cornes.me|https://doh.cornes.me/dns-query|:heavy_check_mark:|Adblocking
 |cretu.xyz|https://dns.cretu.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[CryptoMize](https://cryptomize.com/)|https://dns.cryptomize.com/dns-query|:heavy_check_mark:|
 |cwlys.com|https://dns.cwlys.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -233,6 +234,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Meshkov.info | https://testaghome.meshkov.info/dns-query | :heavy_check_mark: | Adblocking
 |mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Adblocking
 | [Minh Truong](https://truong.fi/) | https://dns.truong.fi/dns-query | :heavy_check_mark: | Adblocking
+| mmmalia | https://doh.mmmalia.com/dns-query | :heavy_check_mark: | Ad & porn blocking
 | [Mobik](https://www.mobik.com/) | https://dnstls.mobik.com/dns-query | :heavy_check_mark: |
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
@@ -350,6 +352,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 | [TeraDNS](https://teradns.org/dns-over-https/) | Germany : https://de.teradns.org/dns-query | :heavy_check_mark:| Adblocking, query logged for 24 hours to detect amplification attack.
 | [TÉZOÏ](https://www.tezoi.com/) | https://cloud.tezoi.com/dns-query | :heavy_check_mark: | Adblocking
+|[Theodore Von Karman Wohnheim](https://www.tvk.rwth-aachen.de/) | https://doh.tvk.rwth-aachen.de/dns-query | :heavy_check_mark: | Adblocking
 | therifleman.name | https://dns.therifleman.name/dns-query | :heavy_check_mark: | Based in Mumbai, IP not logged, query logged for 24 hours, adblocking
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
