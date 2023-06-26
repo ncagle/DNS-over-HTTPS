@@ -71,7 +71,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 | Comcast | https://doh.xfinity.com/dns-query | :heavy_check_mark:| DNSSEC Validation, [DNS Privacy Policy](https://www.xfinity.com/privacy/policy/dns) |
-| [Computer Incident Response Center Luxembourg](https://circl.lu/) | https://dns.circl.lu/dns-query | :heavy_check_mark:| 
 | [Comss](https://www.comss.ru/page.php?id=7315) | https://dns.comss.one/dns-query | :heavy_check_mark: | Block ads, tracker, phishing and malware
 | [ControlD](https://controld.com/free-dns) | Unfiltered: <br>https://freedns.controld.com/p0 <br> Block Malware: <br>https://freedns.controld.com/p1 <br> Block Malware + Ads: <br>https://freedns.controld.com/p2 <br> Block Malware + Ads + Social: <br>https://freedns.controld.com/p3 <br> Block Malware, Ads, Adult content: <br>https://freedns.controld.com/family <br> OISD - Full: <br>https://freedns.controld.com/x-oisd <br> OISD - Basic: <br>https://freedns.controld.com/x-oisd-basic <br> StevenBlack Unified: <br>https://freedns.controld.com/x-stevenblack <br> Dev Dan's Hosts: <br>https://freedns.controld.com/x-devdan <br> Notracking Hosts: <br>https://freedns.controld.com/x-notracking <br> 1Hosts - Mini: <br>https://freedns.controld.com/x-1hosts-mini <br> 1Hosts - Lite: <br>https://freedns.controld.com/x-1hosts-lite <br> 1Hosts - Pro: <br>https://freedns.controld.com/x-1hosts-pro <br> Hagezi's DNS - Normal: <br>https://freedns.controld.com/x-hagezi-normal <br> Hagezi's DNS - Pro: <br>https://freedns.controld.com/x-hagezi-pro <br> Hagezi's DNS - Pro Plus: <br>https://freedns.controld.com/x-hagezi-proplus <br> Hagezi's DNS - Ultimate: <br>https://freedns.controld.com/x-hagezi-ultimate <br> GoodbyeAds: <br>https://freedns.controld.com/x-goodbyeads <br> AdGuard Filter: <br>https://freedns.controld.com/x-adguard <br> | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more but also unblock over 180 services through a network of proxies in over 100 cities.
 |cornes.me|https://doh.cornes.me/dns-query|:heavy_check_mark:|Adblocking
@@ -108,7 +107,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query <br> https://doh.sb/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DNSSEC & QNAME minimization enabled, no logging |
 |[DNS4all](https://dns4all.eu/)|https://doh.dns4all.eu/dns-query|:heavy_check_mark:| Non-logging
 | [dns4me](https://dns4me.net/) | https://nz01.dns4me.net <br> https://au01.dns4me.net <br> https://au02.dns4me.net <br> https://sg01.dns4me.net <br> https://uk01.dns4me.net <br> https://sa01.dns4me.net <br> https://ca01.dns4me.net <br> https://ca02.dns4me.net | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:|
-|dnsadguard.co.uk|https://www.dnsadguard.co.uk/dns-query|:heavy_check_mark:|Adblocking
 | [dnscrypt.ca](https://dnscrypt.ca/) | https://dns1.dnscrypt.ca:453/dns-query | :heavy_check_mark:| Canadian, uncensored, no-logs, encrypted, and DNSSEC
 | dnsenc.com | https://dnsenc.com/dns-query | :heavy_check_mark:| Adblocking
 | [dnsforge.de](https://dnsforge.de/) | https://dnsforge.de/dns-query |:heavy_check_mark:|  No logging. Support DNSSEC. Hosted in Germany|
@@ -389,7 +387,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [xcom.pro](https://doh.xcom.pro/) | https://doh.xcom.pro/dns-query | :heavy_check_mark: | Adblocking
 |xenergy.cc|https://xenergy.cc/dns-query|:heavy_check_mark:|Adblocking
 |xinfeng16m.top|https://agh.xinfeng16m.top/dns-query|:heavy_check_mark:|
-|xm706v.com|https://v2.xm706v.com/dns-query|:heavy_check_mark:|
 | **Y**
 |yameenassotally.com|https://dns.yameenassotally.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
@@ -402,7 +399,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yunmoc.top|https://dns.yunmoc.top/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
 |zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
-|zxi7.cn|https://dns.zxi7.cn/dns-query|:heavy_check_mark:|
 | **0-9**
 |[0ms.run](https://0ms.run/) | https://0ms.run/dns-query | :heavy_check_mark:| Can also forward to other DoH servers
 |140.238.202.136.sslip.io|https://140.238.202.136.sslip.io/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -415,7 +411,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 | [5ososea](https://www.5ososea.com/) | Ad & porn blocking: https://family.5ososea.com/dns-query <br> Ad & porn blocking with safe search: https://kids.5ososea.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in Germany, query logged for 24 hours.
 |68360612.xyz|https://jp.68360612.xyz/dns-query|:heavy_check_mark:|
-| [7sec](https://7sec.com.br/dns/) | https://dns.7sec.com.br/dns-query/ | :heavy_check_mark: | Adblocking
 | **Others**
 | @jedisct1  | https://doh.crypto.sx/dns-query | :heavy_check_mark: |a server which runs another project called [doh-proxy](https://github.com/jedisct1/rust-doh), written in Rust.
 | [@null31](https://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | :heavy_check_mark: | Based in Brazil / doh-server (nginx - unbound) / dot-server (unbound) / DNSSEC / QNAME minimization / Uncensored / no logging, no ECS, hosted on Oracle Cloud VPS by [null31](https://gitlab.com/null31/DoT-DoH-public-config). |
