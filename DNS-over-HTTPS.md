@@ -128,7 +128,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ <br> Adblocking: https://pdns.faelix.net/ | :heavy_check_mark: <br> :heavy_check_mark: | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
 |[Familia](https://familiamv.ml/)|https://dnsvps.familiamv.ml/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
-|faze.dev|https://dns.faze.dev/dns-query|:heavy_check_mark:|Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
 |[ff0x](https://ff0x.ca/)|https://ag.ff0x.ca/dns-query|:heavy_check_mark:|Adblocking
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
@@ -373,7 +372,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **X**
 |xaoimoon.fr|https://adb-home.xaoimoon.fr/dns-query|:heavy_check_mark:|Adblocking
 | [xcom.pro](https://doh.xcom.pro/) | https://doh.xcom.pro/dns-query | :heavy_check_mark: | Adblocking
-|xenergy.cc|https://xenergy.cc/dns-query|:heavy_check_mark:|Adblocking
 |xinfeng16m.top|https://agh.xinfeng16m.top/dns-query|:heavy_check_mark:|
 | **Y**
 |yameenassotally.com|https://dns.yameenassotally.com/dns-query|:heavy_check_mark:|Ad & porn blocking
