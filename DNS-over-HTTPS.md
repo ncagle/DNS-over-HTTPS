@@ -244,7 +244,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |nas-server.ru|https://dns.nas-server.ru/dns-query|:heavy_check_mark:|Adblocking
 | Nexific.it | https://doh.luigi.nexific.it/dns-query | :heavy_check_mark:|
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
-|ngc7331.top|https://dns.ngc7331.top/dns-query|:heavy_check_mark:|
 |nguyendn.com|https://dns.nguyendn.com/dns-query|:heavy_check_mark:|Adblocking
 | Nhtsky | https://dns.nhtsky.com/dns-query | :heavy_check_mark: | Adblocking
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
@@ -301,7 +300,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ronc.ru](https://ronc.ru/)|https://dns.ronc.ru/dns-query|:heavy_check_mark:|Adblocking
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 |[RougaCh](https://rouga.ch/)|https://adguard-dns.rouga.ch/dns-query|:heavy_check_mark:|Adblocking
-|[Rowdy en Geesje](https://rowdyengeesje.nl/)|https://adguard.rowdyengeesje.nl/dns-query|:heavy_check_mark:|
 | **S**
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
