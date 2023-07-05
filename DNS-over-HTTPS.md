@@ -314,6 +314,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Shuting | https://adguard.shuting.idv.tw/dns-query | :heavy_check_mark: | Adblocking
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
+|[SIPS](https://sips.my.id/)|https://dns.sips.my.id/dns-query|:heavy_check_mark: |
 |siry.de|https://dns.siry.de/dns-query|:heavy_check_mark:|Adblocking
 |sitdns|https://sitdns.com/dns-query|:heavy_check_mark:|Adblocking
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
