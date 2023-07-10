@@ -56,6 +56,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bw.i81.ru|https://dns.bw.i81.ru/dns-query|:heavy_check_mark:|Adblocking
 | **C**
 | C-dns | https://www.c-dns.com/dns-query | :heavy_check_mark: | 
+|[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 <br> Google upstream: https://asia-east2-pfrmxgnk.cloudfunctions.net/my-dns-overhttps/8.8.8.8 | :heavy_check_mark: <br> :heavy_check_mark: | 
 |[carson-family.com](https://carson-family.com/)|https://dns.carson-family.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
 | Charter | California: <br>https://doh-01.spectrum.com/dns-query <br> Texas: <br>https://doh-02.spectrum.com/dns-query |:heavy_check_mark:<br>:heavy_check_mark:| Trial - Testing multiple platforms
@@ -128,6 +129,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Familia](https://familiamv.ml/)|https://dnsvps.familiamv.ml/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
+|[feldy.my.id](https://feldy.my.id/) | https://dns.feldy.my.id/dns-query | :heavy_check_mark:|Adblocking
 |[ff0x](https://ff0x.ca/)|https://ag.ff0x.ca/dns-query|:heavy_check_mark:|Adblocking
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
 |[FilipCCz.eu](https://filipccz.eu/)|https://dns.filipccz.eu/dns-query|:heavy_check_mark:|Adblocking
@@ -227,6 +229,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | mmmalia | https://doh.mmmalia.com/dns-query | :heavy_check_mark: | Ad & porn blocking
 | [Mobik](https://www.mobik.com/) | https://dnstls.mobik.com/dns-query | :heavy_check_mark: |
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
+|[moeDNS](https://blog.kimiblock.top/2023/02/05/MoeDNS-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%8A%A0%E5%AF%86%E7%9A%84%E5%AE%89%E5%85%A8-DNS/) | https://blog.kimiblock.top/redirect/resolve | :heavy_check_mark:|
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 |moonssif.com|https://dns.moonssif.com/dns-query|:heavy_check_mark:|Adblocking
 | [Morbitzer](https://morbitzer.de/) | https://www.morbitzer.de/dns-query | :heavy_check_mark: | 
@@ -253,11 +256,13 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 |[nolo.ltd](https://nolo.ltd/)|https://sink.nolo.ltd/dns-query|:heavy_check_mark:|Adblocking
+|[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query <br> https://2.dns.noridev.moe/dns-query |:heavy_check_mark:<br>:heavy_check_mark:|Adblocking
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
 |NS3|https://dns8.org/dns-query<br>https://n0.eu/dns-query<br>https://ns3.com/dns-query<br>https://ns3.cx/dns-query<br>https://ns3.link/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|
 | Nullgate.net | https://dns.nullgate.net/dns-query | :heavy_check_mark: | Adblocking
 | **O**
 |o1lt|https://o1.lt/dns-query|:heavy_check_mark:|Adblocking
+|[OCC DNS](https://occ.top/occ-dns/) | https://dot.occ.top/dns-query | :heavy_check_mark:|Adblocking
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
 |[ohai.ca](https://ohai.ca/)|https://hermes.ohai.ca/dns-query|:heavy_check_mark:|
 |[OneDNS.cc](https://onedns.cc/)|https://secure.onedns.cc/dns-query|:heavy_check_mark:|Adblocking
