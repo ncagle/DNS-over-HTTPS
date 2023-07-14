@@ -59,6 +59,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 <br> Google upstream: https://asia-east2-pfrmxgnk.cloudfunctions.net/my-dns-overhttps/8.8.8.8 | :heavy_check_mark: <br> :heavy_check_mark: | 
 |[carson-family.com](https://carson-family.com/)|https://dns.carson-family.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
+|[Chandra Nanda](https://chandr1000.net/) | https://chandr1000.net/resolver | :heavy_check_mark: |
 | Charter | California: <br>https://doh-01.spectrum.com/dns-query <br> Texas: <br>https://doh-02.spectrum.com/dns-query |:heavy_check_mark:<br>:heavy_check_mark:| Trial - Testing multiple platforms
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
 | Chromeina | https://dns.chromeina.top/dns-query | :heavy_check_mark: | Adblocking 
@@ -123,6 +124,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Elemental Software](https://elemental.software/) | https://dns.elemental.software/dns-query | :heavy_check_mark: |
 |[Elli](https://ellichua.com/)|https://dns.ellichua.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
+|[EthDNS](https://eth.link/)|https://eth.link/dns-query|:heavy_check_mark:|Also resolve ENS domains.
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
 | [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ <br> Adblocking: https://pdns.faelix.net/ | :heavy_check_mark: <br> :heavy_check_mark: | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
@@ -192,6 +194,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 |jsanagustin.net|https://adguard1.jsanagustin.net/dns-query|:heavy_check_mark:|Adblocking
 |[Jucker Software Engineering](https://jucker.engineering/)|https://dns.jucker.engineering/dns-query|:heavy_check_mark:|Adblocking
+|[Jupitr DNS](https://jupitrdns.net/)|https://dns.jupitrdns.net/dns-query|:heavy_check_mark:|Adblocking
 |jurre-home|https://jurre-home.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | **K**
 | [Kamil Szczepański](https://kamilszczepanski.com/) | https://dns.kamilszczepanski.com/dns-query | :heavy_check_mark: | Adblocking
