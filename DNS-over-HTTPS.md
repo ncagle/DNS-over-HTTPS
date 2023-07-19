@@ -123,6 +123,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Edgy DNS](https://edgy.network/dns) | https://edgy-dns.com/dns-query | :heavy_check_mark: | Adblocking
 |edison42.dev|https://dns.edison42.dev/dns-query|:heavy_check_mark:|Adblocking
 |ef67daisuki.club|https://adguard.ef67daisuki.club/dns-query|:heavy_check_mark:|Adblocking
+| [Electro](https://electrotm.org/) | https://dns.electrotm.org/dns-query |:heavy_check_mark:|
 | [Elemental Software](https://elemental.software/) | https://dns.elemental.software/dns-query | :heavy_check_mark: |
 |[Elli](https://ellichua.com/)|https://dns.ellichua.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
