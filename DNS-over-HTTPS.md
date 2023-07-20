@@ -69,7 +69,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 | Comcast | https://doh.xfinity.com/dns-query | :heavy_check_mark:| DNSSEC Validation, [DNS Privacy Policy](https://www.xfinity.com/privacy/policy/dns) |
-| [Comss](https://www.comss.ru/page.php?id=7315) | https://dns.comss.one/dns-query | :heavy_check_mark: | Block ads, tracker, phishing and malware
 | [ControlD](https://controld.com/free-dns) | Unfiltered: <br>https://freedns.controld.com/p0 <br> Block Malware: <br>https://freedns.controld.com/p1 <br> Block Malware + Ads: <br>https://freedns.controld.com/p2 <br> Block Malware + Ads + Social: <br>https://freedns.controld.com/p3 <br> Block Malware, Ads, Adult content: <br>https://freedns.controld.com/family <br> OISD - Full: <br>https://freedns.controld.com/x-oisd <br> OISD - Basic: <br>https://freedns.controld.com/x-oisd-basic <br> StevenBlack Unified: <br>https://freedns.controld.com/x-stevenblack <br> Dev Dan's Hosts: <br>https://freedns.controld.com/x-devdan <br> Notracking Hosts: <br>https://freedns.controld.com/x-notracking <br> 1Hosts - Mini: <br>https://freedns.controld.com/x-1hosts-mini <br> 1Hosts - Lite: <br>https://freedns.controld.com/x-1hosts-lite <br> 1Hosts - Pro: <br>https://freedns.controld.com/x-1hosts-pro <br> Hagezi's DNS - Normal: <br>https://freedns.controld.com/x-hagezi-normal <br> Hagezi's DNS - Pro: <br>https://freedns.controld.com/x-hagezi-pro <br> Hagezi's DNS - Pro Plus: <br>https://freedns.controld.com/x-hagezi-proplus <br> Hagezi's DNS - Ultimate: <br>https://freedns.controld.com/x-hagezi-ultimate <br> GoodbyeAds: <br>https://freedns.controld.com/x-goodbyeads <br> AdGuard Filter: <br>https://freedns.controld.com/x-adguard <br> | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more but also unblock over 180 services through a network of proxies in over 100 cities.
 |cretu.xyz|https://dns.cretu.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[CryptoMize](https://cryptomize.com/)|https://dns.cryptomize.com/dns-query|:heavy_check_mark:|
@@ -90,7 +89,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Dekonix.ru | https://adguard.dekonix.ru/dns-query | :heavy_check_mark: | Adblocking
 |dessoi.cloud|https://adguard.dessoi.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [Detoxify Porn Blocker](https://detoxifypornblocker.com/) | https://doh-primary-pool.detoxifypornblocker.com/dns-query | :heavy_check_mark: | Block ads and porn
-|dewed.de|https://mainframe.dewed.de/dns-query|:heavy_check_mark:|Adblocking
 |dgca.myds.me|https://dgca.myds.me/dns-query|:heavy_check_mark:|Adblocking
 |dgea.fr|https://dns.dgea.fr/dns-query|:heavy_check_mark:|Adblocking
 | [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) |  https://dns.digitale-gesellschaft.ch/dns-query | :heavy_check_mark: | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
@@ -129,7 +127,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
 | [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ <br> Adblocking: https://pdns.faelix.net/ | :heavy_check_mark: <br> :heavy_check_mark: | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
-|[Familia](https://familiamv.ml/)|https://dnsvps.familiamv.ml/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
 |[feldy.my.id](https://feldy.my.id/) | https://dns.feldy.my.id/dns-query | :heavy_check_mark:|Adblocking
@@ -137,7 +134,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
 |[FilipCCz.eu](https://filipccz.eu/)|https://dns.filipccz.eu/dns-query|:heavy_check_mark:|Adblocking
 | Flm9.net | https://dns01.flm9.net/dns-query |  :heavy_check_mark: |
-| [floDNS](https://www.flodns.com/get-started/) | https://ns1.flodns.net/dns-query <br> https://ns2.flodns.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | All queries are logged for statistical analysis by [TalkDNS](https://www.talkdns.com/)
+| [floDNS](https://www.flodns.com/get-started/) | https://ns2.flodns.net/dns-query | :heavy_check_mark: | All queries are logged for statistical analysis by [TalkDNS](https://www.talkdns.com/)
 |flwagners.com|https://dns.flwagners.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |fomichev.cloud|https://gateway.fomichev.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
@@ -193,7 +190,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Joey](https://joey01245.nl/)|https://dns.joey01245.nl/dns-query|:heavy_check_mark:|
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
-|[Jupitr DNS](https://jupitrdns.net/)|https://dns.jupitrdns.net/dns-query|:heavy_check_mark:|Adblocking
 |jurre-home|https://jurre-home.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | **K**
 | [Kamil Szczepański](https://kamilszczepanski.com/) | https://dns.kamilszczepanski.com/dns-query | :heavy_check_mark: | Adblocking
