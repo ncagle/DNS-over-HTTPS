@@ -326,7 +326,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |sungai.stream|https://doh.sungai.stream/dns-query|:heavy_check_mark:|
 |[SunTrack](https://sntrk.ru/)|https://guard.sntrk.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Surfshark](https://surfshark.com) | https://dns.surfshark.com/dns-query | :heavy_check_mark: |
-|surt|https://surt.ml/dns-query|:heavy_check_mark:|Adblocking
 | [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | :heavy_check_mark: | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
 | [Syaifullah](https://blog.syaifullah.com/public-dns-services/) | https://dns.syaifullah.com/dns-query | :heavy_check_mark: | Adblocking
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
@@ -347,7 +346,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[TPM](https://apigw.online/)|https://dns.apigw.online/dns-query|:heavy_check_mark:|Adblocking
 |tracker.ink|https://dns.tracker.ink/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
-|[Tyler G. Wahl](https://tylerwahl.com/)|https://dns-east.tylerwahl.com/dns-query|:heavy_check_mark:|Adblocking
 |typaza|https://typaza.com/dns-query|:heavy_check_mark:|Adblocking
 | **U**
 |[Universitas Negeri Manado](https://unima.ac.id/)|https://open-resolver1.unima.ac.id/dns-query|:heavy_check_mark:|Adblocking
