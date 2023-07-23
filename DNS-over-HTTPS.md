@@ -29,6 +29,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
 | Apem Legit | https://d.apemlegit.my.id/dns-query | :heavy_check_mark: | Adblocking
 |[ArashiDNS](https://arashi.eu.org/)|https://arashi.eu.org/dns-query|:heavy_check_mark:|
+|[Ar Roudloh](https://www.arroudlohgpg.site/) | https://dns.arroudlohgpg.site/dns-query| :heavy_check_mark: | Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
