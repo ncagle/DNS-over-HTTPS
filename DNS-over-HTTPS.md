@@ -85,7 +85,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [DataCore](https://datacore.ch/website/page/frontpage) | https://doh.datacore.ch/dns-query | :heavy_check_mark: | Adblocking
 | [Datahata.by](https://doh.datahata.by/) | https://doh.datahata.by/dns-query | :heavy_check_mark: |
 |datamatter.co.za|https://pihole.datamatter.co.za/dns-query|:heavy_check_mark:|Adblocking
-|[Decisive DevOps](https://decisivedevops.com/)|https://dns.decisivedevops.com/dns-query|:heavy_check_mark:|Adblocking
 | [Decloudus](https://decloudus.com/) |  https://dns.decloudus.com/dns-query | :heavy_check_mark: | Based in Germany. Adblocking
 | Dekonix.ru | https://adguard.dekonix.ru/dns-query | :heavy_check_mark: | Adblocking
 |dessoi.cloud|https://adguard.dessoi.cloud/dns-query|:heavy_check_mark:|Adblocking
@@ -135,7 +134,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
 |[FilipCCz.eu](https://filipccz.eu/)|https://dns.filipccz.eu/dns-query|:heavy_check_mark:|Adblocking
 | Flm9.net | https://dns01.flm9.net/dns-query |  :heavy_check_mark: |
-| [floDNS](https://www.flodns.com/get-started/) | https://ns2.flodns.net/dns-query | :heavy_check_mark: | All queries are logged for statistical analysis by [TalkDNS](https://www.talkdns.com/)
 |flwagners.com|https://dns.flwagners.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |fomichev.cloud|https://gateway.fomichev.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
@@ -245,7 +243,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |nas-server.ru|https://dns.nas-server.ru/dns-query|:heavy_check_mark:|Adblocking
 | Nexific.it | https://doh.luigi.nexific.it/dns-query | :heavy_check_mark:|
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
-|nguyendn.com|https://dns.nguyendn.com/dns-query|:heavy_check_mark:|Adblocking
 | Nhtsky | https://dns.nhtsky.com/dns-query | :heavy_check_mark: | Adblocking
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
 |nielsdb.be|https://dns1.nielsdb.be/dns-query|:heavy_check_mark:|Adblocking
@@ -349,7 +346,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 |typaza|https://typaza.com/dns-query|:heavy_check_mark:|Adblocking
 | **U**
-|[Universitas Negeri Manado](https://unima.ac.id/)|https://open-resolver1.unima.ac.id/dns-query|:heavy_check_mark:|Adblocking
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |[Uplenk](https://uplenk.com/)|https://dns.uplenk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **V**
@@ -372,7 +368,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |yazilimatolye.com|https://lion.yazilimatolye.com/dns-query|:heavy_check_mark:|Adblocking
 |ychen.cf|https://ychen.cf/dns-query|:heavy_check_mark:|Adblocking
-|yingroad.top|https://ora.yingroad.top/dns-query|:heavy_check_mark:|Adblocking
 | Youni | https://dns.youni.win/dns-query | :heavy_check_mark: | Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
