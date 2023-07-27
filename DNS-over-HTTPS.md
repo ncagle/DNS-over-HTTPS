@@ -29,7 +29,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
 | Apem Legit | https://d.apemlegit.my.id/dns-query | :heavy_check_mark: | Adblocking
 |[ArashiDNS](https://arashi.eu.org/)|https://arashi.eu.org/dns-query|:heavy_check_mark:|
-|[Ar Roudloh](https://www.arroudlohgpg.site/) | https://dns.arroudlohgpg.site/dns-query| :heavy_check_mark: | Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
@@ -229,7 +228,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[moeDNS](https://blog.kimiblock.top/2023/02/05/MoeDNS-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%8A%A0%E5%AF%86%E7%9A%84%E5%AE%89%E5%85%A8-DNS/) | https://blog.kimiblock.top/redirect/resolve | :heavy_check_mark:|
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 |moonssif.com|https://dns.moonssif.com/dns-query|:heavy_check_mark:|Adblocking
-| [Morbitzer](https://morbitzer.de/) | https://www.morbitzer.de/dns-query | :heavy_check_mark: | 
 |msr177|https://msr177.com/dns-query|:heavy_check_mark:|Adblocking
 |[msxnet.ru](https://msxnet.ru/)|https://dns.msxnet.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
@@ -260,7 +258,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |o1lt|https://o1.lt/dns-query|:heavy_check_mark:|Adblocking
 |[OCC DNS](https://occ.top/occ-dns/) | https://dot.occ.top/dns-query | :heavy_check_mark:|Adblocking
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
-|[ohai.ca](https://ohai.ca/)|https://hermes.ohai.ca/dns-query|:heavy_check_mark:|
 |[OneDNS.cc](https://onedns.cc/)|https://secure.onedns.cc/dns-query|:heavy_check_mark:|Adblocking
 |[OneDNS.net](https://onedns.net/)|https://doh.onedns.net/dns-query|:heavy_check_mark:|
 |[opnsource.com.au](https://opnsource.com.au/)|https://dns.opnsource.com.au/dns-query|:heavy_check_mark:|Adblocking
@@ -313,7 +310,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 |siry.de|https://dns.siry.de/dns-query|:heavy_check_mark:|Adblocking
-|sitdns|https://sitdns.com/dns-query|:heavy_check_mark:|Adblocking
+|sitdns|https://dns.sitdns.com/dns-query|:heavy_check_mark:|Adblocking
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
