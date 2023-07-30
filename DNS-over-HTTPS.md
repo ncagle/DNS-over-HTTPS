@@ -351,6 +351,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |vpms.xyz|https://killads.vpms.xyz/dns-query|:heavy_check_mark:|Adblocking
 |vpnglobal.my.id|https://doh.vpnglobal.my.id/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **W**
+|[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |wantaquddin|https://wantaquddin.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **X**
 |xaoimoon.fr|https://adb-home.xaoimoon.fr/dns-query|:heavy_check_mark:|Adblocking
