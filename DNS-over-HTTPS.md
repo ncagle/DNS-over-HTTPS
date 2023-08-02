@@ -202,6 +202,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kss.ovh|https://adguard.kss.ovh/dns-query|:heavy_check_mark:|
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
+|[Laison.ltd](https://www.laison.ltd/post/5.html)|https://www.laison.ltd/post/3.html|:heavy_check_mark:|Adblocking, hosted in Shanghai
 | [Lastentarvike](https://lastentarvike.fi) | https://lastentarvike.fi/dns-query | :heavy_check_mark: |
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. No logging, no filtering, no ECS, DNSSEC support. |
 |lege.despagne.net|https://adguard.lege.despagne.net/dns-query|:heavy_check_mark:|Adblocking
