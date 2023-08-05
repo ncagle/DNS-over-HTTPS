@@ -58,7 +58,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bw.i81.ru|https://dns.bw.i81.ru/dns-query|:heavy_check_mark:|Adblocking
 | **C**
 | C-dns | https://www.c-dns.com/dns-query | :heavy_check_mark: | 
-|[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 <br> Google upstream: https://asia-east2-pfrmxgnk.cloudfunctions.net/my-dns-overhttps/8.8.8.8 | :heavy_check_mark: <br> :heavy_check_mark: | 
+|[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | 
 |[carson-family.com](https://carson-family.com/)|https://dns.carson-family.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
 |[Chandra Nanda](https://chandr1000.net/) | https://chandr1000.net/resolver | :heavy_check_mark: |
@@ -121,7 +121,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Electro](https://electrotm.org/) | https://dns.electrotm.org/dns-query |:heavy_check_mark:|
 |[Elli](https://ellichua.com/)|https://dns.ellichua.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
-|[EthDNS](https://eth.link/)|https://eth.link/dns-query|:heavy_check_mark:|Also resolve ENS domains.
 |everovpn.co|https://everovpn.co/dns-query|:heavy_check_mark:|Adblocking
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
@@ -260,7 +259,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
 |[OneDNS.cc](https://onedns.cc/)|https://secure.onedns.cc/dns-query|:heavy_check_mark:|Adblocking
 |[OneDNS.net](https://onedns.net/)|https://doh.onedns.net/dns-query|:heavy_check_mark:|
-|[opnsource.com.au](https://opnsource.com.au/)|https://dns.opnsource.com.au/dns-query|:heavy_check_mark:|Adblocking
 |osefcorp|https://osefcorp.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [Ozérim](https://ozer.im/) | https://1a.ns.ozer.im/dns-query | :heavy_check_mark: | Adblocking
 | **P**
@@ -305,7 +303,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |shalenkov|https://shalenkov.dev/dns-query|:heavy_check_mark:|Adblocking
 | [Shecan](https://shecan.ir/) | https://free.shecan.ir/dns-query <br> https://dns.shecan.ir/dns-query <br> https://pro.shecan.ir/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Iran, proxies sanctioned websites
 | [Shimul D](https://shimul.me) | https://do.shimul.me/dns-query | :heavy_check_mark: | Adblocking
-| [Shunhang](https://www.shimmerl.top/archives/dnsqx-ls-20-12-21) | https://dns.lsho.top:444/dns-query | :heavy_check_mark: | Adblocking
 | Shuting | https://adguard.shuting.idv.tw/dns-query | :heavy_check_mark: | Adblocking
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
