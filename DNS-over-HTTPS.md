@@ -327,7 +327,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Techno Chat](https://technochat.in/)|https://doh.technochat.in/dns-query|:heavy_check_mark:|Adblocking
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 | [TeraDNS](https://teradns.org/dns-over-https/) | Germany : https://de.teradns.org/dns-query | :heavy_check_mark:| Adblocking, query logged for 24 hours to detect amplification attack.
-|[Theodore Von Karman Wohnheim](https://www.tvk.rwth-aachen.de/) | https://doh.tvk.rwth-aachen.de/dns-query | :heavy_check_mark: | Adblocking
 | therifleman.name | https://dns.therifleman.name/dns-query | :heavy_check_mark: | Based in Mumbai, IP not logged, query logged for 24 hours, adblocking
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
@@ -363,7 +362,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yameenassotally.com|https://dns.yameenassotally.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |yazilimatolye.com|https://lion.yazilimatolye.com/dns-query|:heavy_check_mark:|Adblocking
-|ychen.cf|https://ychen.cf/dns-query|:heavy_check_mark:|Adblocking
 | Youni | https://dns.youni.win/dns-query | :heavy_check_mark: | Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 |yybyy.wiki| https://adg.yybyy.wiki/dns-query|:heavy_check_mark:|
