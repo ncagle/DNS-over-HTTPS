@@ -158,7 +158,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
 | [Hoerli.NET](https://hoerli.net/hoerlis-pi-holes-fuers-internet/) | Falkenstein <br> https://pihole1.hoerli.net/dns-query | :heavy_check_mark:| Adblocking, no logging
 |home27|https://home27.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
-|[hostingim](https://hostingim.net/)|https://dns.hostingim.com/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: <br> https://dns.hostux.net/dns-query <br> Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 | **I**
@@ -337,7 +336,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[TPM](https://apigw.online/)|https://dns.apigw.online/dns-query|:heavy_check_mark:|Adblocking
 |tracker.ink|https://dns.tracker.ink/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
-|typaza|https://typaza.com/dns-query|:heavy_check_mark:|Adblocking
 | **U**
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |[Uplenk](https://uplenk.com/)|https://dns.uplenk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
