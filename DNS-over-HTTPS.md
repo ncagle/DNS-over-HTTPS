@@ -386,7 +386,9 @@ Download a recent snapshot of the above list as JSON from [here](https://github.
 |curl| 7.62.0 | See [DOH-implementation](DOH-implementation) |
 |[OkHttp](https://github.com/square/okhttp/tree/master/okhttp-dnsoverhttps)| 3.11 | See [Providers](https://github.com/square/okhttp/blob/master/okhttp-dnsoverhttps/src/test/java/okhttp3/dnsoverhttps/DohProviders.java) |
 | [curl-doh](https://github.com/curl/doh) | n/a | basic stand-alone DoH client that uses curl |
-| Chrome | 66 | https://bugs.chromium.org/p/chromium/issues/detail?id=799753 |
+| Chrome | 66 | https://support.google.com/chrome/answer/10468685 |
+| Windows | 11 | https://learn.microsoft.com/en-us/windows-server/networking/dns/doh-client-support |
+| iOS & macOS | iOS 14 & macOS 11 | https://dns.notjakob.com/ | 
 
 # DOH Tools
 
@@ -416,6 +418,7 @@ Download a recent snapshot of the above list as JSON from [here](https://github.
 |[h2odoh](https://github.com/xm74/h2odoh)|Max Kostikov| an implementation with H2O HTTP/2 server using embedded mruby.|
 |[jDnsProxy](https://github.com/moparisthebest/jDnsProxy)|Travis Burtrum| DNS proxy and cache, implementing [DNS-over-TLS](https://tools.ietf.org/html/rfc7858), [DNS-over-HTTPS](https://tools.ietf.org/html/draft-hoffman-dns-over-https), and [Serve-Stale](https://tools.ietf.org/html/draft-ietf-dnsop-serve-stale)|
 |[kdig](https://gitlab.nic.cz/knot/knot-dns)|CZ.NIC|Utility that sends one or more DNS queries to a nameserver. Each query can have individual settings, or it can be specified globally via common settings, which must precede query specification. This utility supports DoH.
+|[Nebulo](https://github.com/Ch4t4r/Nebulo) | [Daniel Wolf](https://github.com/Ch4t4r) | DoH client for Android
 |[nss-tls](https://github.com/dimkr/nss-tls)|Dima Krasner| a daemon that makes gethostbyname(), getaddrinfo(), etc. happen through DoH, without any change to applications, thus transparently migrating all applications that don't use their own resolver (like some browsers) from DNS to DoH.|
 |[quart-doh](https://github.com/treussart/quart-doh)|Matthieu Treussart| HTTP/2 server who serves a DOH proxy written in Python, with [Quart](https://pgjones.gitlab.io/quart/index.html) Python web microframework.|
 |[RouteDNS](https://github.com/folbricht/routedns)|Frank Olbricht| a flexible stub resolver, proxy, and router with support for DoH, DoT, and plain DNS written in Go.|
