@@ -37,7 +37,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
 | **B**
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
-| [BebasDNS](https://github.com/bebasid/bebasdns) | Singapore:<br> https://dns.bebasid.com/dns-query | :heavy_check_mark: | DNS-based ad-blocking service
+| [BebasDNS](https://github.com/bebasid/bebasdns) | Ad & malware blocking: https://dns.bebasid.com/dns-query <br> Malware blocking: https://antivirus.bebasid.com/dns-query <br> Family filter: https://internetsehat.bebasid.com/dns-query  | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | 
 | Bedro.cloud | https://justhost.bedro.cloud/dns-query | :heavy_check_mark: | Adblocking
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
 |[benpro](https://benpro.fr/)|https://dns.benpro.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -52,6 +52,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Bortzmeyer](https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html) | https://doh.bortzmeyer.fr | :heavy_check_mark: | French-based, non-logging. 
 |bosco.ovh|https://cloudns.bosco.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
+|brianlee.fun|https://ag.brianlee.fun/dns-query|:heavy_check_mark:|Adblocking
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
 |bw.i81.ru|https://dns.bw.i81.ru/dns-query|:heavy_check_mark:|Adblocking
@@ -260,7 +261,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |printk.info|https://agh.printk.info/dns-query|:heavy_check_mark:|
 |privado.ovh|https://dns.privado.ovh/dns-query|:heavy_check_mark:|Adblocking
 |[Pumpkin VR](https://pumpkinvrar.com/)|https://dns.pumpkinvrar.com/dns-query|:heavy_check_mark:|Adblocking
-| [PureDNS](https://puredns.org/) | https://puredns.org/dns-query | :heavy_check_mark: | Hosted in Indonesia and Singapore
+| [PureDNS](https://puredns.org/) | Adblocking: https://puredns.org/dns-query <br> Ad & porn blocking: https://family.puredns.org/dns-query| :heavy_check_mark: <br> :heavy_check_mark: | Hosted in Indonesia and Singapore
 | **Q**
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
@@ -268,6 +269,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **R**
 | [R0cket](https://resolver.r0cket.net/) | https://resolver.r0cket.net/dns-query | :heavy_check_mark: | Adblocking, queries are logged and monitored when there's abuse
 |[Rahul](https://ssrahul96.xyz/)|https://ag.ssrahul96.xyz/dns-query|:heavy_check_mark:|Adblocking
+|[Raman Sarda](https://www.ramansarda.com/)|https://dns.ramansarda.com/dns-query|:heavy_check_mark:|Adblocking
 |[Rayanbab](https://rayanbab.com/)|https://dns.rayanbab.com/dns-query|:heavy_check_mark:|Adblocking
 | [Rayneau](https://rayneau.fr/) | https://rayneau.fr/dns-query | :heavy_check_mark: | Block porn and ads
 | reckoningslug | https://dns.reckoningslug.name/dns-query | :heavy_check_mark: |
@@ -286,6 +288,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Saikat](https://rsaikat.com/)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Adblocking
 |[Samutz](https://samutz.com/)|https://cloud.samutz.com/dns-query|:heavy_check_mark:|
 | sarak.as | https://dns.sarak.as/dns-query | :heavy_check_mark:| Ad & porn blocking
+|s3cure.us|https://dns.s3cure.us/dns-query|:heavy_check_mark:|Adblocking
+|secforads3.ch|https://www.secforads3.ch/dns-query|:heavy_check_mark:|
 | [Sellan DNS](https://dns.sellan.fr/) | https://dns.sellan.fr/dns-query | :heavy_check_mark: | Adblocking, no logging
 |[sev.monster](https://sev.monster/)|https://dns.sev.monster/dns-query|:heavy_check_mark:|
 |shalenkov|https://shalenkov.dev/dns-query|:heavy_check_mark:|Adblocking
