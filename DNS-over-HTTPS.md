@@ -136,7 +136,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [FutaDNS](https://site.futa.gg/) | https://doh.futa.gg/dns-query | :heavy_check_mark: | Based in Taiwan, query logged for 24 hours, adblocking.
 | **G**
 |[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking
-|giize.com|https://bvo.giize.com/dns-query|:heavy_check_mark:|
 |[GloryDNS](https://dns.glorydns.com/)|https://dns.glorydns.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Gnb09](https://www.gnb09.id/) | https://dns.gnb09.id/dns-query | :heavy_check_mark: | Ad & porn blocking
 |[Goldplate](https://goldplate.org/)|https://dns.goldplate.org/dns-query|:heavy_check_mark:|Adblocking
