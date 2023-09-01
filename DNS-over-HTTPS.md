@@ -55,7 +55,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |brianlee.fun|https://ag.brianlee.fun/dns-query|:heavy_check_mark:|Adblocking
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
-|bw.i81.ru|https://dns.bw.i81.ru/dns-query|:heavy_check_mark:|Adblocking
 | **C**
 | C-dns | https://www.c-dns.com/dns-query | :heavy_check_mark: | 
 |[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | 
@@ -342,7 +341,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |[Vishal Kumar](https://vishalk.com/)|https://dns.vishalk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [vMath](https://www.vmath.my.id/) | https://dns.vmath.my.id/dns-query | :heavy_check_mark: | Adblocking
-|vpms.xyz|https://killads.vpms.xyz/dns-query|:heavy_check_mark:|Adblocking
 |vpnglobal.my.id|https://doh.vpnglobal.my.id/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **W**
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
@@ -357,7 +355,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |yazilimatolye.com|https://lion.yazilimatolye.com/dns-query|:heavy_check_mark:|Adblocking
 |Yingroad|https://dns.yingroad.top/dns-query|:heavy_check_mark:|Adblocking
-| Youni | https://dns.youni.win/dns-query | :heavy_check_mark: | Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 |yybyy.wiki| https://adg.yybyy.wiki/dns-query|:heavy_check_mark:|
 | **Z**
