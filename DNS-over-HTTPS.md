@@ -144,7 +144,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **H**
 | [HafidzRadhivalDNS](https://server.hafidzradhival.my.id/) | https://dns.hafidzradhival.my.id/dns-query | :heavy_check_mark: |
 | [Hanahira](https://dns.hanahira.dev/) | https://dns.hanahira.dev:4433/dns-query | :heavy_check_mark: | Adblocking
-| [HaNeulo](https://haneulo.com/) | https://adguard.haneulo.com/dns-query | :heavy_check_mark: | Adblocking
 |haoxuan.xyz|https://dns.haoxuan.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[HDNS.io](https://learn.namebase.io/development/resolving-handshake/hdns.io) | https://query.hdns.io/dns-query | :heavy_check_mark: |
 | [HeliumCloud](https://servers.opennic.org/edit.php?srv=ns2.nj.us.dns.opennic.glue) | https://us-ny-alula.heliumcloud.cc/dns-query | :heavy_check_mark: | OpenNIC
@@ -152,7 +151,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
 |home27|https://home27.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: <br> https://dns.hostux.net/dns-query <br> Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
-|[Hubs VN](https://hubservices.vn/) |https://dns.hubservices.vn/dns-query| :heavy_check_mark:| 
 |[Hurrican Electric](https://forums.he.net/index.php?topic=3996.0) | https://ordns.he.net/dns-query| :heavy_check_mark:| 
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 | **I**
@@ -243,7 +241,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 |[nolo.ltd](https://nolo.ltd/)|https://sink.nolo.ltd/dns-query|:heavy_check_mark:|Adblocking
-|[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query <br> https://2.dns.noridev.moe/dns-query |:heavy_check_mark:<br>:heavy_check_mark:|Adblocking
+|[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
 |NS3|https://dns8.org/dns-query<br>https://n0.eu/dns-query<br>https://ns3.com/dns-query<br>https://ns3.cx/dns-query<br>https://ns3.link/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|
 | Nullgate.net | https://dns.nullgate.net/dns-query | :heavy_check_mark: | Adblocking
@@ -273,7 +271,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **R**
 | [R0cket](https://resolver.r0cket.net/) | https://resolver.r0cket.net/dns-query | :heavy_check_mark: | Adblocking, queries are logged and monitored when there's abuse
 |[Rahul](https://ssrahul96.xyz/)|https://ag.ssrahul96.xyz/dns-query|:heavy_check_mark:|Adblocking
-|[Raman Sarda](https://www.ramansarda.com/)|https://dns.ramansarda.com/dns-query|:heavy_check_mark:|Adblocking
 |[Rayanbab](https://rayanbab.com/)|https://dns.rayanbab.com/dns-query|:heavy_check_mark:|Adblocking
 | [Rayneau](https://rayneau.fr/) | https://rayneau.fr/dns-query | :heavy_check_mark: | Block porn and ads
 | reckoningslug | https://dns.reckoningslug.name/dns-query | :heavy_check_mark: |
@@ -293,13 +290,10 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Saikat](https://rsaikat.com/)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Adblocking
 |[Samutz](https://samutz.com/)|https://cloud.samutz.com/dns-query|:heavy_check_mark:|
 | sarak.as | https://dns.sarak.as/dns-query | :heavy_check_mark:| Ad & porn blocking
-|s3cure.us|https://dns.s3cure.us/dns-query|:heavy_check_mark:|Adblocking
-|secforads3.ch|https://www.secforads3.ch/dns-query|:heavy_check_mark:|
 | [Sellan DNS](https://dns.sellan.fr/) | https://dns.sellan.fr/dns-query | :heavy_check_mark: | Adblocking, no logging
 |[sev.monster](https://sev.monster/)|https://dns.sev.monster/dns-query|:heavy_check_mark:|
 |shalenkov|https://shalenkov.dev/dns-query|:heavy_check_mark:|Adblocking
 | [Shecan](https://shecan.ir/) | https://free.shecan.ir/dns-query <br> https://dns.shecan.ir/dns-query <br> https://pro.shecan.ir/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Iran, proxies sanctioned websites
-| [Shimul D](https://shimul.me) | https://do.shimul.me/dns-query | :heavy_check_mark: | Adblocking
 | Shuting | https://adguard.shuting.idv.tw/dns-query | :heavy_check_mark: | Adblocking
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
