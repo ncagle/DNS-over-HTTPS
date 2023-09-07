@@ -37,7 +37,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
 | **B**
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
-| [BebasDNS](https://github.com/bebasid/bebasdns) | Ad & malware blocking: https://dns.bebasid.com/dns-query <br> Malware blocking: https://antivirus.bebasid.com/dns-query <br> Family filter: https://internetsehat.bebasid.com/dns-query  | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | 
+| [BebasDNS](https://github.com/bebasid/bebasdns) | Ad & malware blocking: https://dns.bebasid.com/dns-query <br> Malware blocking: https://antivirus.bebasid.com/dns-query <br> Family filter: https://internetsehat.bebasid.com/dns-query <br> Strict family filter: https://internetsehat.bebasid.com/dns-strict <br> Unfiltered: https://dns.bebasid.com/unfiltered <br> OISD: https://dns.bebasid.com/dns-oisd <br> Hagezi Multi-Normal: https://dns.bebasid.com/dns-hagezi <br> StevenBlack: https://dns.bebasid.com/dns-stevenblack <br> 1Hosts Lite: https://dns.bebasid.com/dns-1hosts <br> AdGuard: https://dns.bebasid.com/dns-adguard <br> Developer's Dan: https://dns.bebasid.com/dns-devdan   | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | 
 | Bedro.cloud | https://justhost.bedro.cloud/dns-query | :heavy_check_mark: | Adblocking
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
 |[benpro](https://benpro.fr/)|https://dns.benpro.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -188,7 +188,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
 |[Kimiblock](https://blog.kimiblock.top/2023/02/05/MoeDNS-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%8A%A0%E5%AF%86%E7%9A%84%E5%AE%89%E5%85%A8-DNS/) | https://blog.kimiblock.top/redirect/resolve | :heavy_check_mark:|
-|[KinergeticA](https://kinergetica.com/)|https://storydoh.kinergetica.com/dns-query|:heavy_check_mark:|
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
 |korzhov|https://korzhov.dev/dns-query|:heavy_check_mark:|Adblocking
