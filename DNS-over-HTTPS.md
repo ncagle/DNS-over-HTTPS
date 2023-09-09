@@ -307,7 +307,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Studentenstadt Freimann](https://www.stusta.de/en/) | https://muli.stusta.mhn.de/dns-query <br> https://esel.stusta.mhn.de/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |
 |stvsk.ml|https://dns.stvsk.ml/dns-query|:heavy_check_mark:|Adblocking
 |sungai.stream|https://doh.sungai.stream/dns-query|:heavy_check_mark:|
-|[SunTrack](https://sntrk.ru/)|https://guard.sntrk.ru/dns-query|:heavy_check_mark:|Adblocking
 | [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | :heavy_check_mark: | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
 | [Syaifullah](https://blog.syaifullah.com/public-dns-services/) | https://dns.syaifullah.com/dns-query | :heavy_check_mark: | Adblocking
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
@@ -334,7 +333,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |[Vishal Kumar](https://vishalk.com/)|https://dns.vishalk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [vMath](https://www.vmath.my.id/) | https://dns.vmath.my.id/dns-query | :heavy_check_mark: | Adblocking
-|vpnglobal.my.id|https://doh.vpnglobal.my.id/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **W**
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |wantaquddin|https://wantaquddin.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -347,7 +345,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yameenassotally.com|https://dns.yameenassotally.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |yazilimatolye.com|https://lion.yazilimatolye.com/dns-query|:heavy_check_mark:|Adblocking
-|Yingroad|https://dns.yingroad.top/dns-query|:heavy_check_mark:|Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 |yybyy.wiki| https://adg.yybyy.wiki/dns-query|:heavy_check_mark:|
 | **Z**
