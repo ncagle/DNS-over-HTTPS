@@ -14,7 +14,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |aattwwss|https://aattwwss.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | abel.waringer-atg.de | https://abel.waringer-atg.de/dns-query | :heavy_check_mark:| 
 | [Absolight](https://www.absolight.fr/) | https://res-acst3.absolight.net/dns-query <br> https://resolver3.absolight.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | 
-|abstergo.it|https://block.abstergo.it/dns-query|:heavy_check_mark:|Adblocking
 |[AdFilter](https://adfilter.net/)|Adelaide: https://adl.adfilter.net/dns-query<br>Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
 |[Adrian Lam](https://adrianlam.com/)|https://dns.adrianlam.com/dns-query|:heavy_check_mark:|Adblocking
@@ -86,7 +85,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Datahata.by](https://doh.datahata.by/) | https://doh.datahata.by/dns-query | :heavy_check_mark: |
 |datamatter.co.za|https://pihole.datamatter.co.za/dns-query|:heavy_check_mark:|Adblocking
 | [Decloudus](https://decloudus.com/) |  https://dns.decloudus.com/dns-query | :heavy_check_mark: | Based in Germany. Adblocking
-|dessoi.cloud|https://adguard.dessoi.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [Detoxify Porn Blocker](https://detoxifypornblocker.com/) | https://doh-primary-pool.detoxifypornblocker.com/dns-query | :heavy_check_mark: | Block ads and porn
 | [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) |  https://dns.digitale-gesellschaft.ch/dns-query | :heavy_check_mark: | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
 | Disconnect.app | https://doh.disconnect.app/dns-query | :heavy_check_mark: | 
@@ -142,7 +140,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query <br> https://cluster-1.gac.edu/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| 
 |gztech|https://gztech.me/dns-query|:heavy_check_mark:|Adblocking
 | **H**
-| [HafidzRadhivalDNS](https://server.hafidzradhival.my.id/) | https://dns.hafidzradhival.my.id/dns-query | :heavy_check_mark: |
 | [Hanahira](https://dns.hanahira.dev/) | https://dns.hanahira.dev:4433/dns-query | :heavy_check_mark: | Adblocking
 |haoxuan.xyz|https://dns.haoxuan.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[HDNS.io](https://learn.namebase.io/development/resolving-handshake/hdns.io) | https://query.hdns.io/dns-query | :heavy_check_mark: |
@@ -217,7 +214,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Mobik](https://www.mobik.com/) | https://dnstls.mobik.com/dns-query | :heavy_check_mark: |
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
-|moonssif.com|https://dns.moonssif.com/dns-query|:heavy_check_mark:|Adblocking
 |[Morizt Id](http://morizt.id/)| https://doh.morizt.id/dns-query | :heavy_check_mark:|Ad & porn blocking
 |msr177|https://msr177.com/dns-query|:heavy_check_mark:|Adblocking
 |[msxnet.ru](https://msxnet.ru/)|https://dns.msxnet.ru/dns-query|:heavy_check_mark:|Adblocking
@@ -261,7 +257,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |printk.info|https://agh.printk.info/dns-query|:heavy_check_mark:|
 |privado.ovh|https://dns.privado.ovh/dns-query|:heavy_check_mark:|Adblocking
 |[Pumpkin VR](https://pumpkinvrar.com/)|https://dns.pumpkinvrar.com/dns-query|:heavy_check_mark:|Adblocking
-| [PureDNS](https://puredns.org/) | Adblocking: https://puredns.org/dns-query <br> Ad & porn blocking: https://family.puredns.org/dns-query| :heavy_check_mark: <br> :heavy_check_mark: | Hosted in Indonesia and Singapore
+| [PureDNS](https://puredns.org/) | Adblocking: https://puredns.org/dns-query <br> Ad & porn blocking: https://family.puredns.org/dns-query| :heavy_multiplication_x:  <br> :heavy_check_mark: | Hosted in Indonesia and Singapore
 | **Q**
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
