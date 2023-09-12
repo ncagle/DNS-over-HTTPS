@@ -179,6 +179,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jurre-home|https://jurre-home.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | **K**
 | [Kamil Szczepański](https://kamilszczepanski.com/) | https://dns.kamilszczepanski.com/dns-query | :heavy_check_mark: | Adblocking
+| [Kantin Yoyok](http://kantinyoyok.xyz/)|https://adguard.kantinyoyok.xyz/dns-query| :heavy_check_mark: | Adblocking
 |[Karl.ONE](https://karl.one/)|https://dns.karl.one/dns-query|:heavy_check_mark:|Adblocking
 |keithchung|https://keithchung.hopto.org/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
@@ -215,6 +216,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 |[Morizt Id](http://morizt.id/)| https://doh.morizt.id/dns-query | :heavy_check_mark:|Ad & porn blocking
+|mrmartian.co|https://adguard.mrmartian.co/dns-query|:heavy_check_mark:|Adblocking
 |msr177|https://msr177.com/dns-query|:heavy_check_mark:|Adblocking
 |[msxnet.ru](https://msxnet.ru/)|https://dns.msxnet.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
