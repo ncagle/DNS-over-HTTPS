@@ -344,6 +344,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Z**
 |zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
+|[0ms.dev](https://0ms.dev/)|https://cdn.0ms.dev/dns-query|:heavy_check_mark:|Adblocking
 |23-4.cn|https://dns.23-4.cn/dns-query|:heavy_check_mark:|Adblocking
 |240527.xyz|https://dns.240527.xyz|:heavy_check_mark:|Adblocking
 |[280blocker](https://280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
