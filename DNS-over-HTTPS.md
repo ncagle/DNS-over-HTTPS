@@ -175,7 +175,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Joey](https://joey01245.nl/)|https://dns.joey01245.nl/dns-query|:heavy_check_mark:|
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
-|jurre-home|https://jurre-home.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | **K**
 | [Kamil Szczepański](https://kamilszczepanski.com/) | https://dns.kamilszczepanski.com/dns-query | :heavy_check_mark: | Adblocking
 | [Kantin Yoyok](http://kantinyoyok.xyz/)|https://adguard.kantinyoyok.xyz/dns-query| :heavy_check_mark: | Adblocking
@@ -207,7 +206,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 | Meeo.win | https://dns.meeo.win/dns-query | :heavy_check_mark: | Adblocking
-| [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://chewbacca.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
+| [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 | Meshkov.info | https://testaghome.meshkov.info/dns-query | :heavy_check_mark: | Adblocking
 |mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Adblocking
 | mmmalia | https://doh.mmmalia.com/dns-query | :heavy_check_mark: | Ad & porn blocking
@@ -216,11 +215,9 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 |[Morizt Id](http://morizt.id/)| https://doh.morizt.id/dns-query | :heavy_check_mark:|Ad & porn blocking
 |mrmartian.co|https://adguard.mrmartian.co/dns-query|:heavy_check_mark:|Adblocking
-|msr177|https://msr177.com/dns-query|:heavy_check_mark:|Adblocking
 |[msxnet.ru](https://msxnet.ru/)|https://dns.msxnet.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://doh.mullvad.net/dns-query <br> Adblocking https://adblock.doh.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in AU, US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
 | [murgi.de](https://www.murgi.de/) | https://dns.murgi.de/dns-query | :heavy_check_mark: | Adblocking
-|muxinghe.cn|https://dns.muxinghe.cn/dns-query|:heavy_check_mark:|Adblocking
 |muxyuji.ru|https://www.muxyuji.ru/dns-query|:heavy_check_mark:|Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
 | **N**
