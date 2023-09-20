@@ -19,7 +19,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Adrian Lam](https://adrianlam.com/)|https://dns.adrianlam.com/dns-query|:heavy_check_mark:|Adblocking
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
-|aidentec.top|https://adtec.aidentec.top/dns-query|:heavy_check_mark:|
 | [alekberg](https://alekberg.net) | Amsterdam Non-filtering: https://dnsnl.alekberg.net/dns-query <br> Sweden Non-filtering: https://dnsse.alekberg.net/dns-query <br> Amsterdam Adblocking: https://dnsnl-noads.alekberg.net/dns-query <br> Sweden Non-filtering: https://dnsse-noads.alekberg.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| DoH Servers in Spain, Holland and Sweden. No logging, DNSSEC support.|
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query| :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/knowledge?type=SETTING_DOCS), Best DoH/DoT server in China |
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Adblocking
@@ -321,7 +320,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |[Uplenk](https://uplenk.com/)|https://dns.uplenk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **V**
-|[vendor vista](https://vendorvista.xyz/)|https://securedns.vendorvista.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [VinnyP](https://dns.vinnyp.xyz/privacy) | https://dns.vinnyp.xyz/dns-query | :heavy_check_mark: | No logging, self recursive resolved, block ads, malware & porn.
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |[Vishal Kumar](https://vishalk.com/)|https://dns.vishalk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
