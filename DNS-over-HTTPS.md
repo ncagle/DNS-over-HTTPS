@@ -141,7 +141,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Hanahira](https://dns.hanahira.dev/) | https://dns.hanahira.dev:4433/dns-query | :heavy_check_mark: | Adblocking
 |haoxuan.xyz|https://dns.haoxuan.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[HDNS.io](https://learn.namebase.io/development/resolving-handshake/hdns.io) | https://query.hdns.io/dns-query | :heavy_check_mark: |
-| [HeliumCloud](https://servers.opennic.org/edit.php?srv=ns2.nj.us.dns.opennic.glue) | https://us-ny-alula.heliumcloud.cc/dns-query | :heavy_check_mark: | OpenNIC
 | [Hinet](https://hinet.net/) | https://dns.hinet.net/dns-query | :heavy_check_mark: | Run by Taiwanese ISP
 | [hitian.me](https://hitian.me/) | https://hitian.me/dns-query | :heavy_check_mark: | Hosted in Singapore
 |home27|https://home27.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
@@ -178,7 +177,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Kamil Szczepański](https://kamilszczepanski.com/) | https://dns.kamilszczepanski.com/dns-query | :heavy_check_mark: | Adblocking
 | [Kantin Yoyok](http://kantinyoyok.xyz/)|https://adguard.kantinyoyok.xyz/dns-query| :heavy_check_mark: | Adblocking
 |[Karl.ONE](https://karl.one/)|https://dns.karl.one/dns-query|:heavy_check_mark:|Adblocking
-|keithchung|https://keithchung.hopto.org/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
 | Killtw.im | https://doh.killtw.im/dns-query | :heavy_check_mark: | Adblocking
@@ -250,8 +248,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PanSzelescik](https://panszelescik.pl/)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Adblocking
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
-|[PlumeDNS](https://plumedns.com/)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|
-|printk.info|https://agh.printk.info/dns-query|:heavy_check_mark:|
 |privado.ovh|https://dns.privado.ovh/dns-query|:heavy_check_mark:|Adblocking
 |[Pumpkin VR](https://pumpkinvrar.com/)|https://dns.pumpkinvrar.com/dns-query|:heavy_check_mark:|Adblocking
 | [PureDNS](https://puredns.org/) | Adblocking: https://puredns.org/dns-query <br> Ad & porn blocking: https://family.puredns.org/dns-query| :heavy_check_mark:  <br> :heavy_check_mark: | Hosted in Indonesia and Singapore
@@ -346,7 +342,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |23-4.cn|https://dns.23-4.cn/dns-query|:heavy_check_mark:|Adblocking
 |240527.xyz|https://dns.240527.xyz|:heavy_check_mark:|Adblocking
 |[280blocker](https://280blocker.net/)|https://doh003.280blocker.net/dns-query|:heavy_check_mark:|Ad & porn blocking
-|30x.me|https://doh.30x.me/dns-query|:heavy_check_mark:|Adblocking
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 | [5ososea](https://www.5ososea.com/) | Ad & porn blocking: https://family.5ososea.com/dns-query <br> Ad & porn blocking with safe search: https://kids.5ososea.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in Germany, query logged for 24 hours.
