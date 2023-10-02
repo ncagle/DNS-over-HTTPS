@@ -34,7 +34,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **B**
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
 | [BebasDNS](https://github.com/bebasid/bebasdns) | Ad & malware blocking: https://dns.bebasid.com/dns-query <br> Malware blocking: https://antivirus.bebasid.com/dns-query <br> Family filter: https://internetsehat.bebasid.com/dns-query <br> Strict family filter: https://internetsehat.bebasid.com/dns-strict <br> Unfiltered: https://dns.bebasid.com/unfiltered <br> OISD: https://dns.bebasid.com/dns-oisd <br> Hagezi Multi-Normal: https://dns.bebasid.com/dns-hagezi <br> StevenBlack: https://dns.bebasid.com/dns-stevenblack <br> 1Hosts Lite: https://dns.bebasid.com/dns-1hosts <br> AdGuard: https://dns.bebasid.com/dns-adguard <br> Developer's Dan: https://dns.bebasid.com/dns-devdan   | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | 
-| Bedro.cloud | https://justhost.bedro.cloud/dns-query | :heavy_check_mark: | Adblocking
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
 |[benpro](https://benpro.fr/)|https://dns.benpro.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 |bit-trail.nl|https://ns3.bit-trail.nl/dns-query|:heavy_check_mark:|Adblocking
@@ -221,7 +220,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
 |NS3|https://dns8.org/dns-query<br>https://n0.eu/dns-query<br>https://ns3.com/dns-query<br>https://ns3.cx/dns-query<br>https://ns3.link/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|
-| Nullgate.net | https://dns.nullgate.net/dns-query | :heavy_check_mark: | Adblocking
 | **O**
 |[OCC DNS](https://occ.top/occ-dns/) | https://dot.occ.top/dns-query | :heavy_check_mark:|Adblocking
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
@@ -293,7 +291,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tk31z|https://tk31z.com/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |[TPM](https://apigw.online/)|https://dns.apigw.online/dns-query|:heavy_check_mark:|Adblocking
-|tracker.ink|https://dns.tracker.ink/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | **U**
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
