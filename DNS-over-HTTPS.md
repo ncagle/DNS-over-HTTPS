@@ -35,7 +35,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
 | [BebasDNS](https://github.com/bebasid/bebasdns) | Ad & malware blocking: https://dns.bebasid.com/dns-query <br> Malware blocking: https://antivirus.bebasid.com/dns-query <br> Family filter: https://internetsehat.bebasid.com/dns-query <br> Strict family filter: https://internetsehat.bebasid.com/dns-strict <br> Unfiltered: https://dns.bebasid.com/unfiltered <br> OISD: https://dns.bebasid.com/dns-oisd <br> Hagezi Multi-Normal: https://dns.bebasid.com/dns-hagezi <br> StevenBlack: https://dns.bebasid.com/dns-stevenblack <br> 1Hosts Lite: https://dns.bebasid.com/dns-1hosts <br> AdGuard: https://dns.bebasid.com/dns-adguard <br> Developer's Dan: https://dns.bebasid.com/dns-devdan   | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | 
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
-|[benpro](https://benpro.fr/)|https://dns.benpro.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 |bit-trail.nl|https://ns3.bit-trail.nl/dns-query|:heavy_check_mark:|Adblocking
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 | [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Finland: <br>https://doh-fi.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
@@ -47,7 +46,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Bortzmeyer](https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html) | https://doh.bortzmeyer.fr | :heavy_check_mark: | French-based, non-logging. 
 |bosco.ovh|https://cloudns.bosco.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
-|brianlee.fun|https://ag.brianlee.fun/dns-query|:heavy_check_mark:|Adblocking
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
 | **C**
