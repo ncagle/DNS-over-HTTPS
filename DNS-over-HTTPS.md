@@ -24,7 +24,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
-| Apem Legit | https://d.apemlegit.my.id/dns-query | :heavy_check_mark: | Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
@@ -185,7 +184,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 | Meeo.win | https://dns.meeo.win/dns-query | :heavy_check_mark: | Adblocking
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
-| Meshkov.info | https://testaghome.meshkov.info/dns-query | :heavy_check_mark: | Adblocking
 | mmmalia | https://doh.mmmalia.com/dns-query | :heavy_check_mark: | Ad & porn blocking
 | [Mobik](https://www.mobik.com/) | https://dnstls.mobik.com/dns-query | :heavy_check_mark: |
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
