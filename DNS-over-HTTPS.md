@@ -217,7 +217,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
-| [PureDNS](https://puredns.org/) | Adblocking: https://puredns.org/dns-query <br> Ad & porn blocking: https://family.puredns.org/dns-query| :heavy_check_mark:  <br> :heavy_check_mark: | Hosted in Indonesia and Singapore
+| [PureDNS](https://puredns.org/) | Adblocking: https://puredns.org/dns-query <br> Ad & porn blocking: https://family.puredns.org/dns-query| :x:  <br> :heavy_check_mark: | Hosted in Indonesia and Singapore
 | **Q**
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
