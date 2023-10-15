@@ -232,7 +232,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Rezhajul](https://doh.rezhajul.io/) | https://doh.rezhajul.io/dns-query | :heavy_check_mark: | No Logging, DNSSEC enabled, 1.7M+ hosts filtered (ads, tracker, malware, spam, coinminer and phising).
 | [rferee.dev](https://rferee.dev/setup/dns/) | https://resolver.rferee.dev/dns-query/ |:heavy_check_mark:|Adblocking
 | Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
-|[ROKH](https://rokh.biz/)|https://adg.rokh.biz/dns-query|:heavy_check_mark:|
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 |[RougaCh](https://rouga.ch/)|https://adguard-dns.rouga.ch/dns-query|:heavy_check_mark:|Adblocking
 | **S**
