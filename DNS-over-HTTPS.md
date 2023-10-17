@@ -147,7 +147,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jack Stockley](https://jstockley.com/)|https://dns.jstockley.com/dns-query|:heavy_check_mark:|Adblocking
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
-|[Joey](https://joey01245.nl/)|https://dns.joey01245.nl/dns-query|:heavy_check_mark:|
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 | **K**
@@ -250,7 +249,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 | [SPIL](https://www.spil.co.id/) | https://dns.spil.co.id/dns-query | :heavy_check_mark: | Adblocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
-| [Studentenstadt Freimann](https://www.stusta.de/en/) | https://muli.stusta.mhn.de/dns-query <br> https://esel.stusta.mhn.de/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |
 |stvsk.ml|https://dns.stvsk.ml/dns-query|:heavy_check_mark:|Adblocking
 | [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | :heavy_check_mark: | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
 | [Syaifullah](https://blog.syaifullah.com/public-dns-services/) | https://dns.syaifullah.com/dns-query | :heavy_check_mark: | Adblocking
@@ -285,7 +283,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Y**
 |yameenassotally.com|https://dns.yameenassotally.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
-|yazilimatolye.com|https://lion.yazilimatolye.com/dns-query|:heavy_check_mark:|Adblocking
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
 |yybyy.wiki| https://adg.yybyy.wiki/dns-query|:heavy_check_mark:|
 | **Z**
