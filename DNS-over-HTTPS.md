@@ -161,7 +161,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |korzhov|https://korzhov.dev/dns-query|:heavy_check_mark:|Adblocking
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Adblocking
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
-|krtekvpn|https://krtekvpn.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 |kss.ovh|https://adguard.kss.ovh/dns-query|:heavy_check_mark:|
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
