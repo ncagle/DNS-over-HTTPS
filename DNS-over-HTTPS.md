@@ -36,7 +36,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
 |bit-trail.nl|https://ns3.bit-trail.nl/dns-query|:heavy_check_mark:|Adblocking
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
-| [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Finland: <br>https://doh-fi.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
+| [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Japan: <br>https://doh-jp.blahdns.com/dns-query <br> [Germany: <br>https://doh-de.blahdns.com/dns-query](https://doh-sg.blahdns.com/dns-query) <br> Singapore: https://doh-sg.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:  <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
 | [BlissDNS](https://github.com/BlissDNS) | https://us1.blissdns.net/dns-query | :heavy_check_mark: | Adblocking, queries logged for 24 hours
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |bluemood|https://bluemood.me/dns-query|:heavy_check_mark:|Adblocking
@@ -137,7 +137,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
 | [Institute of Operating Systems and Computer Networks](https://wiki.ibr.cs.tu-bs.de/en/services) | https://doh.ibr.cs.tu-bs.de/dns-query | :heavy_check_mark: |
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2024 
-| Irre.li | https://irre.li/dns-query | :heavy_check_mark: | Adblocking
 |itdept.pro|https://dns.itdept.pro/dns-query|:heavy_check_mark:|Adblocking
 |[ITXE](https://x.gy/article/moedns) | https://pdns.itxe.net/dns-query|:heavy_check_mark:|Adblocking
 |[ivnkn](https://ivnkn.xyz/)|https://ivnkn.xyz/dns-query|:heavy_check_mark:|
@@ -257,7 +256,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | therifleman.name | https://dns.therifleman.name/dns-query | :heavy_check_mark: | Based in Mumbai, IP not logged, query logged for 24 hours, adblocking
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
-|tk31z|https://tk31z.com/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | **U**
@@ -280,8 +278,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yameenassotally.com|https://dns.yameenassotally.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
-| **Z**
-|zxcvb.pp.ua|https://zxcvb.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
 |[0ms.dev](https://0ms.dev/)|https://cdn.0ms.dev/dns-query|:heavy_check_mark:|Adblocking
 |23-4.cn|https://dns.23-4.cn/dns-query|:heavy_check_mark:|Adblocking
