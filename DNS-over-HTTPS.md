@@ -207,6 +207,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Q**
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
+| [Quad9](https://quad9.net) | https://dns.quad9.net/dns-query | ✔️ | Blocks malware
 |[Quadrant](https://quadrantsec.com/blog/quadrants-public-dns-resolver-tls-https-support)| https://doh.qis.io/dns-query |:heavy_check_mark: | No logging or filtering
 |[QWER DNS](https://dns.qwer.pw/)|https://ant.dns.qwer.pw/dns-query<br>https://dog.dns.qwer.pw/dns-query<br>https://lion.dns.qwer.pw/dns-query<br>https://tiger.dns.qwer.pw/dns-query<br>https://frog.dns.qwer.pw/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking
 | **R**
