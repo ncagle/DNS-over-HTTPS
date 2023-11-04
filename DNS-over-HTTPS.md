@@ -35,7 +35,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Belnet](https://dns.belnet.be/) | https://dns.belnet.be/dns-query | :heavy_check_mark: | IP, response code, protocol, and response time are logged for performance & statistic purposes. Hosted in Belgium by the Belgian National Research and Education Network.
 |bit-trail.nl|https://ns3.bit-trail.nl/dns-query|:heavy_check_mark:|Adblocking
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
-| [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Japan: <br>https://doh-jp.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query <br> Singapore: https://doh-sg.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br>  ❌ <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
+| [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Japan: <br>https://doh-jp.blahdns.com/dns-query <br> Singapore: https://doh-sg.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
 | [BlissDNS](https://github.com/BlissDNS) | https://us1.blissdns.net/dns-query | :heavy_check_mark: | Adblocking, queries logged for 24 hours
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |bluemood|https://bluemood.me/dns-query|:heavy_check_mark:|Adblocking
@@ -120,7 +120,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **H**
 | [Hanahira](https://dns.hanahira.dev/) | https://dns.hanahira.dev:4433/dns-query | :heavy_check_mark: | Adblocking
 |haoxuan.xyz|https://dns.haoxuan.xyz/dns-query|:heavy_check_mark:|Adblocking
-|home27|https://home27.duckdns.org/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: <br> https://dns.hostux.net/dns-query <br> Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |[Hurrican Electric](https://forums.he.net/index.php?topic=3996.0) | https://ordns.he.net/dns-query| :heavy_check_mark:| 
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
@@ -171,7 +170,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://dns.mullvad.net/dns-query <br> Adblocking https://adblock.dns.mullvad.net/dns-query <br> Ad & malware blocking https://base.dns.mullvad.net/dns-query <br> Ad, malware, social media blocking https://extended.dns.mullvad.net/dns-query <br> Ad, malware, social media, adult content and gamble blocking https://all.dns.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
-|muxyuji.ru|https://www.muxyuji.ru/dns-query|:heavy_check_mark:|Adblocking
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
 | **N**
 |nas-server.ru|https://dns.nas-server.ru/dns-query|:heavy_check_mark:|Adblocking
