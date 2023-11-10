@@ -121,7 +121,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Hurrican Electric](https://forums.he.net/index.php?topic=3996.0) | https://ordns.he.net/dns-query| :heavy_check_mark:| 
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 | **I**
-|[iBakerServer](https://ibakerserver.pt/)|https://dns-public.ibakerserver.pt/dns-query|:heavy_check_mark:|Adblocking
 | ihctw | https://ihctw.synology.me/dns-query | :heavy_check_mark: | Adblocking
 | [In-Berlin](https://www.in-berlin.de/) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
@@ -229,7 +228,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 | [SPIL](https://www.spil.co.id/) | https://dns.spil.co.id/dns-query | :heavy_check_mark: | Adblocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
-|stvsk.ml|https://dns.stvsk.ml/dns-query|:heavy_check_mark:|Adblocking
 | [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | :heavy_check_mark: | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
 | [Syaifullah](https://blog.syaifullah.com/public-dns-services/) | https://dns.syaifullah.com/dns-query | :heavy_check_mark: | Adblocking
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
