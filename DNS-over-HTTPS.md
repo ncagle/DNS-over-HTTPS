@@ -79,7 +79,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [DNS For Family](https://dnsforfamily.com/#DNS_Servers_DNS_Over_HTTPS) | https://dns-doh.dnsforfamily.com/dns-query | :heavy_check_mark: | Filter websites for family use, and enforces safe search in Google, YouTube, Bing, DuckDuckGo and Yandex. DNSSEC-ready, non-logging
 | [dns.digitalsize.net](https://dns.digitalsize.net/) | https://dns.digitalsize.net/dns-query | :heavy_check_mark: | A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany |
 |dns.expert|https://dns.expert/dns-query| :heavy_check_mark: |
-| dns.linkr.ninja | https://dns.linkr.ninja/dns-query | :heavy_check_mark: | Adblocking
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query <br> https://doh.sb/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DNSSEC & QNAME minimization enabled, no logging |
 |[DNS4all](https://dns4all.eu/)|https://doh.dns4all.eu/dns-query|:heavy_check_mark:| Non-logging
 | [dns4me](https://dns4me.net/) | https://nz01.dns4me.net <br> https://au01.dns4me.net <br> https://au02.dns4me.net <br> https://uk01.dns4me.net <br> https://sa01.dns4me.net <br> https://ca01.dns4me.net <br> https://ca02.dns4me.net | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:|
@@ -242,7 +241,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Uplenk](https://uplenk.com/)|https://dns.uplenk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **V**
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
-|[Vishal Kumar](https://vishalk.com/)|https://dns.vishalk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **W**
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
