@@ -222,7 +222,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
-| [SPIL](https://www.spil.co.id/) | https://dns.spil.co.id/dns-query | :heavy_check_mark: | Adblocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
 | [SWITCH](https://www.switch.ch/security/info/public-dns/) | https://dns.switch.ch/dns-query | :heavy_check_mark: | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
 | [Syaifullah](https://blog.syaifullah.com/public-dns-services/) | https://dns.syaifullah.com/dns-query | :heavy_check_mark: | Adblocking
