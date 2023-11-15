@@ -113,7 +113,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 | [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query <br> https://cluster-1.gac.edu/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| 
 | **H**
-|haoxuan.xyz|https://dns.haoxuan.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Uncensored DNS: <br> https://dns.hostux.net/dns-query <br> Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: <br> :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |[Hurrican Electric](https://forums.he.net/index.php?topic=3996.0) | https://ordns.he.net/dns-query| :heavy_check_mark:| 
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
