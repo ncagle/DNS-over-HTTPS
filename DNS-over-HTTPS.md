@@ -237,8 +237,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |yovbak|https://yovbak.com/dns-query|:heavy_check_mark:|Adblocking
-| **Z**
-| [zln.wtf](https://zln.wtf/) | https://doh.zln.wtf/dns-query | :heavy_check_mark: |
 | **0-9**
 |[0ms.dev](https://0ms.dev/)|https://cdn.0ms.dev/dns-query|:heavy_check_mark:|Adblocking
 |240527.xyz|https://dns.240527.xyz|:heavy_check_mark:|Adblocking
