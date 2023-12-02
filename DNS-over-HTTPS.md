@@ -12,6 +12,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |-------------|----------|---------|---------|
 | **A**
 | abel.waringer-atg.de | https://abel.waringer-atg.de/dns-query | :heavy_check_mark:| 
+| [ABPVN](https://abpvn.com/)|https://vn.dns.abpvn.com/dns-query| :heavy_check_mark:| Adblocking
 | [Absolight](https://www.absolight.fr/) | https://res-acst3.absolight.net/dns-query <br> https://resolver3.absolight.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | 
 |[AdFilter](https://adfilter.net/)|Adelaide: https://adl.adfilter.net/dns-query<br>Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
@@ -231,6 +232,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |xaoimoon.fr|https://adb-home.xaoimoon.fr/dns-query|:heavy_check_mark:|Adblocking
 | [xcom.pro](https://doh.xcom.pro/) | https://doh.xcom.pro/dns-query | :heavy_check_mark: | Adblocking
 | **Y**
+| [Yandex DNS](https://dns.yandex.com/) | Basic: https://common.dot.dns.yandex.net/dns-query <br> Safe: https://safe.dot.dns.yandex.net/dns-query <br> Family: https://family.dot.dns.yandex.net/dns-query <br>|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 | **0-9**
 |[0ms.dev](https://0ms.dev/)|https://cdn.0ms.dev/dns-query|:heavy_check_mark:|Adblocking
