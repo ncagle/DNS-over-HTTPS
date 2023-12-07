@@ -39,7 +39,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |boje8.me|https://doh.boje8.me/dns-query|:heavy_check_mark:|Adblocking
 | [Bortzmeyer](https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html) | https://doh.bortzmeyer.fr | :heavy_check_mark: | French-based, non-logging. 
-|bosco.ovh|https://cloudns.bosco.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
