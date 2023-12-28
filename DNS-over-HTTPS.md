@@ -207,7 +207,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
-| therifleman.name | https://dns.therifleman.name/dns-query | :heavy_check_mark: | Based in Mumbai, IP not logged, query logged for 24 hours, adblocking
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
@@ -221,7 +220,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
 | workfordemo.co.in | https://agh.workfordemo.co.in/dns-query |:heavy_check_mark:|Adblocking
 | **X**
-|xaoimoon.fr|https://adb-home.xaoimoon.fr/dns-query|:heavy_check_mark:|Adblocking
 | [xcom.pro](https://doh.xcom.pro/) | https://doh.xcom.pro/dns-query | :heavy_check_mark: | Adblocking
 | **Y**
 | [Yandex DNS](https://dns.yandex.com/) | Basic: https://common.dot.dns.yandex.net/dns-query <br> Safe: https://safe.dot.dns.yandex.net/dns-query <br> Family: https://family.dot.dns.yandex.net/dns-query <br>|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|
