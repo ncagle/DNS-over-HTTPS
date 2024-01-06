@@ -138,7 +138,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |enjoymylife.net|https://home.enjoymylife.net/dns-query|:heavy_check_mark:|Adblocking
 |eoghan-net.com|https://adguard.eoghan-net.com/dns-query|:heavy_check_mark:|Adblocking
 |eranext.net|https://shield1.eranext.net/dns-query|:heavy_check_mark:|Ad & porn blocking
-|eu.org|https://adguard-dns.eu.org/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
 |f7b6h9.tk|https://jp1.f7b6h9.tk/dns-query|:heavy_check_mark:|Adblocking
