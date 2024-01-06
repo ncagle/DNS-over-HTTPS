@@ -292,7 +292,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
 | **N**
 |narl.app|https://dns.narl.app/dns-query|:heavy_check_mark:|Adblocking
-|nas-server.ru|https://dns.nas-server.ru/dns-query|:heavy_check_mark:|Adblocking
 |[ndom91](https://ndo.dev/posts/doh)|https://dns.ndo.dev/dns-query|:heavy_check_mark:|Adblocking, non-logging, self recursive resolve, no ECS, QNAME minimization, DNSSEC, hosted in Frankfurt
 |[Net Raptor](https://netraptor.com.au/)|https://dns.netraptor.com.au/dns-query|:heavy_check_mark:|Adblocking
 |netcat|https://netcat.one/dns-query|:heavy_check_mark:|Adblocking
