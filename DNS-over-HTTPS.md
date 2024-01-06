@@ -386,7 +386,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 |simplylinux.ch|https://dns.simplylinux.ch/dns-query|:heavy_check_mark:|
 |siudzinski.net|https://adg.siudzinski.net/dns-query|:heavy_check_mark:|
-|siudzinski.net|https://moto.adg.siudzinski.net/dns-query|:heavy_check_mark:|
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
 |[skrep](https://skrep.in/)|https://dns.skrep.in/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
