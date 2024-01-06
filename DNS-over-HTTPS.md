@@ -65,7 +65,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | 
 |[carson-family.com](https://carson-family.com/)|https://dns.carson-family.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking
-|casa|https://sriedmueadguard.casa/dns-query|:heavy_check_mark:|
+|sriedmueadguard.casa|https://sriedmueadguard.casa/dns-query|:heavy_check_mark:|
 |catdns.org|https://catdns.org/dns-query|:heavy_check_mark:|
 | Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
 |chadeyron.fr|https://dns.chadeyron.fr/dns-query|:heavy_check_mark:|Adblocking
