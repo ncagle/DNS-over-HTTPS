@@ -38,7 +38,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
-|ayasesasyuki.shop|https://ayasesayuki.shop/dns-query|:heavy_check_mark:|Adblocking
 |azoris.ovh|https://doh.azoris.ovh/dns-query|:heavy_check_mark:|Adblocking
 | **B**
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
@@ -154,7 +153,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[fltn](https://fltn.us/)|https://agh.fltn.us/dns-query|:heavy_check_mark:|
 |flylcc.cc|https://dash.flylcc.cc/dns-query|:heavy_check_mark:|
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
-|freddys.my.id|https://dns.freddys.my.id/dns-query|:heavy_check_mark:|Adblocking
 |freecdn.one|https://hkname.freecdn.one/dns-query|:heavy_check_mark:|
 |frguthrie.app|https://dns.frguthrie.app/dns-query|:heavy_check_mark:|Adblocking
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
@@ -307,7 +305,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
-|[nolo.ltd](https://nolo.ltd/)|https://sink.nolo.ltd/dns-query|:heavy_check_mark:|Adblocking
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
 |nullapp.xyz|https://irgrdns.nullapp.xyz/dns-query|:heavy_check_mark:|Adblocking
@@ -415,7 +412,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 |[Tienda CHICAGO](https://chicagocomputers.com.ar/)|https://pwjbrhie.chicagocomputers.com.ar/dns-query|:heavy_check_mark:|
 |tienpham.id.vn|https://tienpham.id.vn/dns-query|:heavy_check_mark:|Adblocking
-|[timboeh.me](https://timboeh.me/)|https://dns.timboeh.me/dns-query|:heavy_check_mark:|Adblocking
 |timedns.org|https://timedns.org/dns-query|:heavy_check_mark:|Adblocking
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
 |timvo.net|https://dns.timvo.net/dns-query|:heavy_check_mark:|Adblocking
