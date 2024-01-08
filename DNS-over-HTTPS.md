@@ -42,7 +42,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **B**
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
 |bartoszturek.online|https://dns2.bartoszturek.online/dns-query|:heavy_check_mark:|Adblocking
-| Be2aja.my.id | https://be2aja.my.id/dns-query | :heavy_check_mark: | Ad & porn blocking
 |bir.ru|https://dns.bir.ru/dns-query|:heavy_check_mark:|Adblocking
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 | [Blahdns](https://blahdns.com/) | Switzerland: <br>https://doh-ch.blahdns.com/dns-query <br> Germany: <br>https://doh-de.blahdns.com/dns-query <br> Finland: <br>https://doh-fi.blahdns.com/dns-query <br> Singapore: https://doh-sg.blahdns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:  <br> :heavy_check_mark:  | Based on [Go implementation](https://github.com/m13253/dns-over-https), HAProxy + Dnsdist + Knot-resolver with DNSSEC, No ECS, No logs, Adblock
@@ -140,7 +139,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[f97.xyz](https://f97.xyz/)|https://dns.f97.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ <br> Adblocking: https://pdns.faelix.net/ | :heavy_check_mark: <br> :heavy_check_mark: | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
-|faradns.net|https://faradns.net/dns-query|:heavy_check_mark:|Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
 |fezgate.ovh|https://fezgate.ovh/dns-query|:heavy_check_mark:|
 |[ff0x](https://ff0x.ca/)|https://ag.ff0x.ca/dns-query|:heavy_check_mark:|Adblocking
@@ -292,7 +290,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |nhgnet.de|https://dns2.nhgnet.de/dns-query|:heavy_check_mark:|Ad & porn blocking
 | Nhtsky | https://dns.nhtsky.com/dns-query | :heavy_check_mark: | Adblocking
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
-|nickcan.xyz|https://nickcan.xyz/dns-query|:heavy_check_mark:|
 |nielsdb.be|https://dns1.nielsdb.be/dns-query|:heavy_check_mark:|Adblocking
 |nilanjan.me|https://nilanjan.me/dns-query|:heavy_check_mark:|Adblocking
 |niyaru.online|https://doh.niyaru.online/dns-query|:heavy_check_mark:|Adblocking
@@ -356,7 +353,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Saikat](https://rsaikat.com/)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Adblocking
 | sarak.as | https://dns.sarak.as/dns-query | :heavy_check_mark:| Ad & porn blocking
 |sblnetwork.co.id|https://ns.sblnetwork.co.id/dns-query|:heavy_check_mark:|Ad & porn blocking
-|sbstructure.ir|https://dns.sbstructure.ir/dns-query|:heavy_check_mark:|Adblocking
 |[Scarx](https://scarx.net/)|https://dns.scarx.net/dns-query|:heavy_check_mark:|
 |schlagheck.berlin|https://dns.schlagheck.berlin/dns-query|:heavy_check_mark:|Adblocking
 |[Scuola.org](https://scuola.org/)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Adblocking
@@ -436,7 +432,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Adblocking
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
 |woodbridge.club|https://clearweb.woodbridge.club/dns-query|:heavy_check_mark:|Adblocking
-|wryhf.net|https://dns.wryhf.net/dns-query|:heavy_check_mark:|
 | **X**
 | [xcom.pro](https://doh.xcom.pro/) | https://doh.xcom.pro/dns-query | :heavy_check_mark: | Adblocking
 |xx3210766.live|https://v2.xx3210766.live/dns-query|:heavy_check_mark:|
