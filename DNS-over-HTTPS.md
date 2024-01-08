@@ -205,7 +205,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jan Hodouš](https://rhscz.eu/)|https://dns.rhscz.eu/dns-query|:heavy_check_mark:|Adblocking
 |jcdn.site|https://dns.jcdn.site/dns-query|:heavy_check_mark:|Adblocking
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
-|jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Adblocking
 |jimtay.uk|https://adguardo.jimtay.uk/dns-query|:heavy_check_mark:|
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
