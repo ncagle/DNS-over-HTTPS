@@ -143,7 +143,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |fezgate.ovh|https://fezgate.ovh/dns-query|:heavy_check_mark:|
 |[ff0x](https://ff0x.ca/)|https://ag.ff0x.ca/dns-query|:heavy_check_mark:|Adblocking
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
-|[Fija](https://fija-web.net/)|https://adguard.fija-web.net/dns-query|:heavy_check_mark:|Adblocking
 | Flm9.net | https://dns01.flm9.net/dns-query |  :heavy_check_mark: |
 |[fltn](https://fltn.us/)|https://agh.fltn.us/dns-query|:heavy_check_mark:|
 |flylcc.cc|https://dash.flylcc.cc/dns-query|:heavy_check_mark:|
@@ -159,7 +158,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |gewete.cloud|https://adguard.gewete.cloud/dns-query|:heavy_check_mark:|
 |gkonuralp.com|https://sdns22.gkonuralp.com/dns-query|:heavy_check_mark:|Adblocking
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
-|gotdns.ch|https://blitzd.gotdns.ch/dns-query<br>https://raffoz-pve.gotdns.ch/dns-query|:heavy_check_mark:|Adblocking
 | [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query <br> https://cluster-1.gac.edu/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| 
 | **H**
 |haboy.top|https://dns.haboy.top/dns-query|:heavy_check_mark:|
@@ -177,7 +175,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |huseynov.work|https://dns.huseynov.work/dns-query|:heavy_check_mark:|
 |[Huy Hoàng](https://huyhoangit.net/)|https://dns.huyhoangit.net/dns-query|:heavy_check_mark:|Adblocking
 |[HuyCT.Net](https://huyct.net/)|https://ad.huyct.net/dns-query|:heavy_check_mark:|
-|hva.li|https://dns.hva.li/dns-query|:heavy_check_mark:|Adblocking
 | **I**
 |i81.ru|https://vd.i81.ru/dns-query|:heavy_check_mark:|Adblocking
 |[iddqd.uk](https://iddqd.uk/)|https://portal.iddqd.uk/dns-query|:heavy_check_mark:|Adblocking
@@ -394,7 +391,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
 |[Tahfizh Daarus Sunnah](https://das.sch.id/)|https://filter.das.sch.id/dns-query|:heavy_check_mark:|Ad & porn blocking
-|tb4.me|https://dns.tb4.me/dns-query|:heavy_check_mark:|
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|
 |thethorsens.org|https://blocker.thethorsens.org/dns-query|:heavy_check_mark:|Adblocking
@@ -426,7 +422,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |wargan.io|https://dns.wargan.io/dns-query|:heavy_check_mark:|
-|web-rated.ie|https://web-rated.ie/dns-query|:heavy_check_mark:|Ad & porn blocking
 |webteufel.net|https://zuhause.webteufel.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Adblocking
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
