@@ -287,7 +287,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Nhtsky | https://dns.nhtsky.com/dns-query | :heavy_check_mark: | Adblocking
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
 |nielsdb.be|https://dns1.nielsdb.be/dns-query|:heavy_check_mark:|Adblocking
-|nilanjan.me|https://nilanjan.me/dns-query|:heavy_check_mark:|Adblocking
 |niyaru.online|https://doh.niyaru.online/dns-query|:heavy_check_mark:|Adblocking
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
@@ -373,7 +372,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
 |[SoloNodes](https://solonodes.net/)|https://dns.solonodes.net/dns-query|:heavy_check_mark:|Adblocking
 |songnguyen.name.vn|https://tokyodns.songnguyen.name.vn/dns-query|:heavy_check_mark:|Adblocking
-|[Sootoon](https://sootoon.xyz/)|https://free.sootoon.xyz/dns-query|:heavy_check_mark:|
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Sparsh Bajaj](https://sparshbajaj.me/)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
@@ -437,7 +435,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Z**
 |[ZijjiSpeed](https://zijji.com/)|https://res.zijji.com/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
-|[0ms.dev](https://0ms.dev/)|https://cdn.0ms.dev/dns-query|:heavy_check_mark:|Adblocking
 |257053.xyz|https://ad.257053.xyz/dns-query|:heavy_check_mark:|Adblocking
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
