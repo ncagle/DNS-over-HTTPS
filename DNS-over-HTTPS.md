@@ -129,7 +129,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
 |eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
-|enginyring.com|https://dns01.enginyring.com/dns-query|:heavy_check_mark:|
 |enjoymylife.net|https://home.enjoymylife.net/dns-query|:heavy_check_mark:|Adblocking
 |eranext.net|https://shield1.eranext.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
@@ -181,7 +180,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://www.in-berlin.de/) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
-|influa-dev.fr|https://dns.influa-dev.fr/dns-query|:heavy_check_mark:|
 |[Infracell Nusatama](https://infracell.net/)|https://doh.infracell.net/dns-query|:heavy_check_mark:|Adblocking
 |inpssh.online|https://www.inpssh.online/dns-query|:heavy_check_mark:|Adblocking
 |inpssh|https://inpssh.online/dns-query|:heavy_check_mark:|Adblocking
@@ -286,14 +284,12 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Nhtsky | https://dns.nhtsky.com/dns-query | :heavy_check_mark: | Adblocking
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
 |nielsdb.be|https://dns1.nielsdb.be/dns-query|:heavy_check_mark:|Adblocking
-|niyaru.online|https://doh.niyaru.online/dns-query|:heavy_check_mark:|Adblocking
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
-|nullapp.xyz|https://irgrdns.nullapp.xyz/dns-query|:heavy_check_mark:|Adblocking
 | **O**
 |odvpn.ru|https://agh.odvpn.ru/dns-query|:heavy_check_mark:|Adblocking
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
@@ -329,7 +325,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Rasp TV](https://rasp.tv/)|https://emby.rasp.tv/dns-query|:heavy_check_mark:|Adblocking
 |ray0512.win|https://jp.ray0512.win/dns-query<br>https://la.ray0512.win/dns-query|:heavy_check_mark:|
 | reckoningslug | https://dns.reckoningslug.name/dns-query | :heavy_check_mark: |
-|rennes.despagne.net|https://adguard.rennes.despagne.net/dns-query|:heavy_check_mark:|
 | [Restena](https://www.restena.lu/en/service/public-dns-resolver) | https://kaitain.restena.lu/dns-query | :heavy_check_mark: | Based in Luxembourg, DNSSEC, minimal logging for technical functions
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure)
@@ -369,7 +364,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[skrep](https://skrep.in/)|https://dns.skrep.in/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 | [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
-|[SoloNodes](https://solonodes.net/)|https://dns.solonodes.net/dns-query|:heavy_check_mark:|Adblocking
 |songnguyen.name.vn|https://tokyodns.songnguyen.name.vn/dns-query|:heavy_check_mark:|Adblocking
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Sparsh Bajaj](https://sparshbajaj.me/)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|
