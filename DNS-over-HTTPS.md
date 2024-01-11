@@ -165,7 +165,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |hujiayucc.cn|https://dns.hujiayucc.cn/dns-query|:heavy_check_mark:|Adblocking
 |hunga1k47.com|https://ads.hunga1k47.com/dns-query|:heavy_check_mark:|
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
-|[Hurrican Electric](https://forums.he.net/index.php?topic=3996.0) | https://ordns.he.net/dns-query| :heavy_check_mark:| 
+|[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0) | https://ordns.he.net/dns-query| :heavy_check_mark:| 
 |huseynov.work|https://dns.huseynov.work/dns-query|:heavy_check_mark:|
 |[Huy Hoàng](https://huyhoangit.net/)|https://dns.huyhoangit.net/dns-query|:heavy_check_mark:|Adblocking
 |[HuyCT.Net](https://huyct.net/)|https://ad.huyct.net/dns-query|:heavy_check_mark:|
