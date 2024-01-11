@@ -212,7 +212,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kimiblock](https://blog.kimiblock.top/2023/02/05/MoeDNS-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%8A%A0%E5%AF%86%E7%9A%84%E5%AE%89%E5%85%A8-DNS/) | https://blog.kimiblock.top/redirect/resolve | :heavy_check_mark:|
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |klcd.eu|https://dns1.klcd.eu/dns-query<br>https://dns2.klcd.eu/dns-query|:heavy_check_mark:|Adblocking
-|knightlsy.asia|https://dns.knightlsy.asia/dns-query|:heavy_check_mark:|Adblocking
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
 |[korzhyk.pp.ua](https://korzhyk.pp.ua/)|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
