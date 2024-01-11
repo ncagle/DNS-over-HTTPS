@@ -383,7 +383,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 |[Tienda CHICAGO](https://chicagocomputers.com.ar/)|https://pwjbrhie.chicagocomputers.com.ar/dns-query|:heavy_check_mark:|
 |tienpham.id.vn|https://tienpham.id.vn/dns-query|:heavy_check_mark:|Adblocking
-|timedns.org|https://timedns.org/dns-query|:heavy_check_mark:|Adblocking
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
 |timvo.net|https://dns.timvo.net/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
