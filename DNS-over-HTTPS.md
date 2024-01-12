@@ -92,7 +92,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |darrenhizon.com|https://adguard.darrenhizon.com/dns-query|:heavy_check_mark:|Adblocking
 | [data.haus](https://data.haus/) | https://mail.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | [Datahata.by](https://doh.datahata.by/) | https://doh.datahata.by/dns-query | :heavy_check_mark: |
-|[Deghy](https://deghy.ir/)|https://de.deghy.ir/dns-query|:heavy_check_mark:|Adblocking
 | [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) |  https://dns.digitale-gesellschaft.ch/dns-query | :heavy_check_mark: | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
 | Disconnect.app | https://doh.disconnect.app/dns-query | :heavy_check_mark: | 
 | [DNS For Family](https://dnsforfamily.com/#DNS_Servers_DNS_Over_HTTPS) | https://dns-doh.dnsforfamily.com/dns-query | :heavy_check_mark: | Filter websites for family use, and enforces safe search in Google, YouTube, Bing, DuckDuckGo and Yandex. DNSSEC-ready, non-logging
@@ -204,7 +203,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
 |[Kiboko](https://kiboko.it/)|https://adguard.kiboko.it/dns-query|:heavy_check_mark:|
-|[Kimiblock](https://blog.kimiblock.top/2023/02/05/MoeDNS-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%8A%A0%E5%AF%86%E7%9A%84%E5%AE%89%E5%85%A8-DNS/) | https://blog.kimiblock.top/redirect/resolve | :heavy_check_mark:|
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |klcd.eu|https://dns1.klcd.eu/dns-query<br>https://dns2.klcd.eu/dns-query|:heavy_check_mark:|Adblocking
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
