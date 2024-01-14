@@ -29,7 +29,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[API](https://api.org.pl/)|https://noads.api.org.pl/dns-query|:heavy_check_mark:|Adblocking
 | [Aquilenet](https://www.aquilenet.fr/)|https://dns.aquilenet.fr/dns-query| :heavy_check_mark:| info https://dns.aquilenet.fr
 |ares-taiwan.com|https://dns.ares-taiwan.com/dns-query|:heavy_check_mark:|Adblocking
-|aridia.ru|https://www.aridia.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
 |atsilva.link|https://dns.atsilva.link/dns-query|:heavy_check_mark:|Adblocking
@@ -188,13 +187,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
 |jambi.undo.it|https://jambi.undo.it/dns-query|:heavy_check_mark:|
 |[Jan Hodouš](https://rhscz.eu/)|https://dns.rhscz.eu/dns-query|:heavy_check_mark:|Adblocking
-|jcdn.site|https://dns.jcdn.site/dns-query|:heavy_check_mark:|Adblocking
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
 |jimtay.uk|https://adguardo.jimtay.uk/dns-query|:heavy_check_mark:|
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 |jundev.org|https://dns.jundev.org/dns-query|:heavy_check_mark:|Adblocking
-|just-hosting.net|https://dns.just-hosting.net/dns-query|:heavy_check_mark:|Adblocking
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|
 | **K**
 | [Kamil Szczepański](https://kamilszczepanski.com/) | https://dns.kamilszczepanski.com/dns-query | :heavy_check_mark: | Adblocking
