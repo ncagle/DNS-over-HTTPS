@@ -59,7 +59,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking
 |sriedmueadguard.casa|https://sriedmueadguard.casa/dns-query|:heavy_check_mark:|
 |catdns.org|https://catdns.org/dns-query|:heavy_check_mark:|
-| Ccb-net | https://doh.ccb-net.it | :heavy_check_mark: | Adblocking 
 |chadeyron.fr|https://dns.chadeyron.fr/dns-query|:heavy_check_mark:|Adblocking
 |charraud.eu|https://dns.charraud.eu/dns-query|:heavy_check_mark:|
 | Charter | California: <br>https://doh-01.spectrum.com/dns-query <br> Texas: <br>https://doh-02.spectrum.com/dns-query |:heavy_check_mark:<br>:heavy_check_mark:| Trial - Testing multiple platforms
@@ -334,7 +333,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |schlagheck.berlin|https://dns.schlagheck.berlin/dns-query|:heavy_check_mark:|Adblocking
 |[Scuola.org](https://scuola.org/)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Adblocking
 |servebeer.com|https://privatnas.servebeer.com/dns-query|:heavy_check_mark:|
-|server-on.net|https://adguard-home.server-on.net/dns-query|:heavy_check_mark:|Adblocking
 |[sev.monster](https://sev.monster/)|https://dns.sev.monster/dns-query|:heavy_check_mark:|
 |shabi.icu|https://d2.shabi.icu/dns-query|:heavy_check_mark:|Adblocking
 | [Shecan](https://shecan.ir/) | https://free.shecan.ir/dns-query <br> https://dns.shecan.ir/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Based in Iran, proxies sanctioned websites
