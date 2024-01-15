@@ -136,7 +136,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |flylcc.cc|https://dash.flylcc.cc/dns-query|:heavy_check_mark:|
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
 |freecdn.one|https://hkname.freecdn.one/dns-query|:heavy_check_mark:|
-|frguthrie.app|https://dns.frguthrie.app/dns-query|:heavy_check_mark:|Adblocking
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 |fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:|
 |[FurryDNS](https://furrydns.de/)|https://dns.furrydns.de/dns-query|:heavy_check_mark:|
@@ -151,7 +150,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |haboy.top|https://dns.haboy.top/dns-query|:heavy_check_mark:|
 |[Haringstad](https://haringstad.com/)|https://resolver-eu.haringstad.com/dns-query|:heavy_check_mark:|Adblocking
 |helpdesk38.ru|https://adguard.helpdesk38.ru/dns-query|:heavy_check_mark:|
-|homedns.uk|https://admin.homedns.uk/dns-query|:heavy_check_mark:|Adblocking
 |hostme.co.il|https://ag.hostme.co.il/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |hugo0.moe|https://dns.hugo0.moe/dns-query|:heavy_check_mark:|Adblocking
