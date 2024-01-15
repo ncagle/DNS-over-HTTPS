@@ -87,7 +87,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Daniel Woffinden](https://daw.dev/) | https://dns.daw.dev/dns-query | :heavy_check_mark: | Adblocking
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |darkness.is.my.waifu|https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
-|darrenhizon.com|https://adguard.darrenhizon.com/dns-query|:heavy_check_mark:|Adblocking
 | [data.haus](https://data.haus/) | https://mail.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | [Datahata.by](https://doh.datahata.by/) | https://doh.datahata.by/dns-query | :heavy_check_mark: |
 | [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/) |  https://dns.digitale-gesellschaft.ch/dns-query | :heavy_check_mark: | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
@@ -245,8 +244,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|
 |[mIT](https://m-it.ro/)|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Adblocking
 |[MJJ](https://o0o.re/)|https://5g.o0o.re/dns-query|:heavy_check_mark:|
-| mmmalia | https://doh.mmmalia.com/dns-query | :heavy_check_mark: | Ad & porn blocking
-|mn-bonn.de|https://doh.mn-bonn.de/dns-query|:heavy_check_mark:|
 |mo0on15.com|https://dns.mo0on15.com/dns-query|:heavy_check_mark:|Adblocking
 |mobyds.com|https://query.mobyds.com/dns-query|:heavy_check_mark:|
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Adblocking
@@ -262,7 +259,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |netcat|https://netcat.one/dns-query|:heavy_check_mark:|Adblocking
 | Nexific.it | https://doh.luigi.nexific.it/dns-query | :heavy_check_mark:|
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
-|nhgnet.de|https://dns2.nhgnet.de/dns-query|:heavy_check_mark:|Ad & porn blocking
 | Nhtsky | https://dns.nhtsky.com/dns-query | :heavy_check_mark: | Adblocking
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
 |nielsdb.be|https://dns1.nielsdb.be/dns-query|:heavy_check_mark:|Adblocking
@@ -373,7 +369,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |timvo.net|https://dns.timvo.net/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |tooli.ca|https://dot.tooli.ca/dns-query|:heavy_check_mark:|Adblocking
-|trifanov-online.ru|https://dns.trifanov-online.ru/dns-query|:heavy_check_mark:|
 |trust404.win|https://dns.trust404.win/dns-query|:heavy_check_mark:|Adblocking
 |tryk.app|https://dns.tryk.app/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
