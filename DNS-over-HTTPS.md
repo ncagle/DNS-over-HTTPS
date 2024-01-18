@@ -384,7 +384,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Yandex DNS](https://dns.yandex.com/) | Basic: https://common.dot.dns.yandex.net/dns-query <br> Safe: https://safe.dot.dns.yandex.net/dns-query <br> Family: https://family.dot.dns.yandex.net/dns-query <br>|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |ychen.gq|https://ychen.gq/dns-query|:heavy_check_mark:|Adblocking
-|[yyaan](https://yyaan.com/)|https://dns.yyaan.com/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
 |[ZijjiSpeed](https://zijji.com/)|https://res.zijji.com/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
