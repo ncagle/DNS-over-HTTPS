@@ -129,7 +129,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
 | Flm9.net | https://dns01.flm9.net/dns-query |  :heavy_check_mark: |
 |[fltn](https://fltn.us/)|https://agh.fltn.us/dns-query|:heavy_check_mark:|
-|flylcc.cc|https://dash.flylcc.cc/dns-query|:heavy_check_mark:|
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
 |freecdn.one|https://hkname.freecdn.one/dns-query|:heavy_check_mark:|
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
@@ -216,7 +215,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lvolland.fr|https://dns.lvolland.fr/dns-query|:heavy_check_mark:|Adblocking
 | **M**
 |maige.fun|https://adhome.maige.fun/dns-query|:heavy_check_mark:|Ad & porn blocking
-|[Marcos Oleniuk](https://moleniuk.com/)|https://locaweb.moleniuk.com/dns-query|:heavy_check_mark:|Adblocking
 |marto.si|https://adguard.marto.si/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |mathewakhil.online|https://dns.mathewakhil.online/dns-query|:heavy_check_mark:|
@@ -261,7 +259,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
 | **O**
-|odvpn.ru|https://agh.odvpn.ru/dns-query|:heavy_check_mark:|Adblocking
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
 |oms-ctr.ru|https://adguard.oms-ctr.ru/dns-query|:heavy_check_mark:|Adblocking
 |[OneDNS.cc](https://onedns.cc/)|https://secure.onedns.cc/dns-query|:heavy_check_mark:|Adblocking
