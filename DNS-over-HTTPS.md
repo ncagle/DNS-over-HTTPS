@@ -142,7 +142,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **H**
 |haboy.top|https://dns.haboy.top/dns-query|:heavy_check_mark:|
 |[Haringstad](https://haringstad.com/)|https://resolver-eu.haringstad.com/dns-query|:heavy_check_mark:|Adblocking
-|helpdesk38.ru|https://adguard.helpdesk38.ru/dns-query|:heavy_check_mark:|
 |hostme.co.il|https://ag.hostme.co.il/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |hugo0.moe|https://dns.hugo0.moe/dns-query|:heavy_check_mark:|Adblocking
@@ -171,7 +170,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[iStoreOS](https://354688.xyz/)|https://dns.354688.xyz/dns-query|:heavy_check_mark:|
 |[ITXE](https://x.gy/article/moedns) | https://pdns.itxe.net/dns-query|:heavy_check_mark:|Adblocking
-|[ivnkn](https://ivnkn.xyz/)|https://ivnkn.xyz/dns-query|:heavy_check_mark:|
 | **J**
 |[Jack Stockley](https://jstockley.com/)|https://dns.jstockley.com/dns-query|:heavy_check_mark:|Adblocking
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
