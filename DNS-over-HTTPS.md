@@ -348,7 +348,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Tienda CHICAGO](https://chicagocomputers.com.ar/)|https://pwjbrhie.chicagocomputers.com.ar/dns-query|:heavy_check_mark:|
 |tienpham.id.vn|https://tienpham.id.vn/dns-query|:heavy_check_mark:|Adblocking
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
-|timvo.net|https://dns.timvo.net/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |tooli.ca|https://dot.tooli.ca/dns-query|:heavy_check_mark:|Adblocking
 |trust404.win|https://dns.trust404.win/dns-query|:heavy_check_mark:|Adblocking
