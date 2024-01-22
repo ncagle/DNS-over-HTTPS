@@ -11,7 +11,7 @@ The event is open and free.
 ## Plans to join
 
 - people packaging curl for Debian
-- people packaging curl for Redhat/Fedora
+- people packaging curl for RHEL/Fedora
 - Daniel, lead developer of curl
 
 (we don't need to list everybody, just show that we have some of the right people coming)
