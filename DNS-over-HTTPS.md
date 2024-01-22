@@ -236,7 +236,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Adblocking
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 | [Molinero](https://molinero.dev/) | https://dns.molinero.dev/dns-query | :heavy_check_mark: | Adblocking
-|momokko.moe|https://naganohara-yoimiya.momokko.moe/dns-query|:heavy_check_mark:|Adblocking
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://dns.mullvad.net/dns-query <br> Adblocking https://adblock.dns.mullvad.net/dns-query <br> Ad & malware blocking https://base.dns.mullvad.net/dns-query <br> Ad, malware, social media blocking https://extended.dns.mullvad.net/dns-query <br> Ad, malware, social media, adult content and gamble blocking https://all.dns.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server in US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
 | [mydns.network](https://mydns.network) | Uncensored: https://freedom.mydns.network/dns-query <br> Paranoia (no Google/Cloudflare): https://paranoia.mydns.network/dns-query <br> Adblocking: https://adblock.mydns.network/dns-query <br> Family: https://family.mydns.network/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server powered by Cloudflare Workers. Uniquely disguises your queries by relaying queries your behalf to upstream DoH servers with no IP address information. [Open source](https://github.com/matthewgall/doh-proxy), deploy your own instance at any time!
 | Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
@@ -309,7 +308,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |servebeer.com|https://privatnas.servebeer.com/dns-query|:heavy_check_mark:|
 |[sev.monster](https://sev.monster/)|https://dns.sev.monster/dns-query|:heavy_check_mark:|
 |shabi.icu|https://d2.shabi.icu/dns-query|:heavy_check_mark:|Adblocking
-| [Shecan](https://shecan.ir/) | https://free.shecan.ir/dns-query <br> https://dns.shecan.ir/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Based in Iran, proxies sanctioned websites
 |shimmerl.top|https://ymjx.shimmerl.top/dns-query|:heavy_check_mark:|Adblocking
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Shrirang Kahale](https://albony.xyz/)|https://dns.albony.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -384,7 +382,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |257053.xyz|https://ad.257053.xyz/dns-query|:heavy_check_mark:|Adblocking
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
-|[58jdl](https://58jdl.com/)|https://dns.58jdl.com/dns-query|:heavy_check_mark:|
 | [5ososea](https://www.5ososea.com/) | Ad & porn blocking: https://family.5ososea.com/dns-query <br> Ad & porn blocking with safe search: https://kids.5ososea.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in Germany, query logged for 24 hours.
 |888654.xyz|https://dns.888654.xyz/dns-query|:heavy_check_mark:|Adblocking
 | **Others**
