@@ -173,9 +173,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jack Stockley](https://jstockley.com/)|https://dns.jstockley.com/dns-query|:heavy_check_mark:|Adblocking
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
 |jambi.undo.it|https://jambi.undo.it/dns-query|:heavy_check_mark:|
-|[Jan Hodouš](https://rhscz.eu/)|https://dns.rhscz.eu/dns-query|:heavy_check_mark:|Adblocking
 | Jfchenier.ca | https://adguard.jfchenier.ca/dns-query | :heavy_check_mark: | Adblocking
-|jimtay.uk|https://adguardo.jimtay.uk/dns-query|:heavy_check_mark:|
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 |jundev.org|https://dns.jundev.org/dns-query|:heavy_check_mark:|Adblocking
@@ -379,7 +377,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Z**
 |[ZijjiSpeed](https://zijji.com/)|https://res.zijji.com/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
-|257053.xyz|https://ad.257053.xyz/dns-query|:heavy_check_mark:|Adblocking
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 | [5ososea](https://www.5ososea.com/) | Ad & porn blocking: https://family.5ososea.com/dns-query <br> Ad & porn blocking with safe search: https://kids.5ososea.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in Germany, query logged for 24 hours.
