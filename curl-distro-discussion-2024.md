@@ -1,6 +1,11 @@
-This is a proposed video meeting in the spring of 2024.
+## Event
 
-**Exact date is not yet set**. I'm thinking two hours a weekday, late afternoon European time to cater decently for North Americans as well as Europeans. Will
+A video conference.
+
+    Date: Thursday March 22, 2024
+    Time: 16:00 UTC
+    Duration: two hours
+    Link: (will be added here close to the event)
 
 ## Invited
 
