@@ -19,7 +19,9 @@ The event is open and free.
 - people packaging curl for RHEL/Fedora
 - Daniel, lead developer of curl
 
-(we don't need to list everybody, just show that we have some of the right people coming)
+If you *do* plan on joining and work on/with a distro, feel free to add yourself to the list or email me (Daniel) to let me know. It might ease the planning and make for a better discussion of we have a decent idea of the attendance.
+
+We don't need to list everybody of course. It is entirely voluntary.
 
 ## Objective
 
