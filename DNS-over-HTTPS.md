@@ -69,7 +69,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |clanto.cloud|https://dns.clanto.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 |cloud.198.games|https://cloud.198.games/dns-query|:heavy_check_mark:| Adblocking
-|cloud.ionutl.ro|https://dns.cloud.ionutl.ro/dns-query|:heavy_check_mark:|Adblocking
 |[Cloud88](https://cloud88.com.au/)|https://dns.cloud88.com.au/dns-query|:heavy_check_mark:|Adblocking
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 |cloudseriousshit.com|https://dns.cloudseriousshit.com/dns-query|:heavy_check_mark:|Adblocking
