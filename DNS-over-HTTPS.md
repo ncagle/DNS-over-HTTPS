@@ -209,7 +209,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lov.host|https://ns.lov.host/dns-query|:heavy_check_mark:|
 |lvolland.fr|https://dns.lvolland.fr/dns-query|:heavy_check_mark:|Adblocking
 | **M**
-|maige.fun|https://adhome.maige.fun/dns-query|:heavy_check_mark:|Ad & porn blocking
 |marto.si|https://adguard.marto.si/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |mathewakhil.online|https://dns.mathewakhil.online/dns-query|:heavy_check_mark:|
@@ -223,7 +222,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |mestdag.fr|https://dns.mestdag.fr/dns-query|:heavy_check_mark:|Adblocking
 |mikrotikrumahan.my.id|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Adblocking
-|milangeorge.com|https://dns.milangeorge.com/dns-query|:heavy_check_mark:|Adblocking
 |milkpie.one|https://dns.milkpie.one/dns-query|:heavy_check_mark:|
 |minilla.store|https://minilla.store/dns-query|:heavy_check_mark:|Ad & porn blocking
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|
@@ -364,7 +362,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |wargan.io|https://dns.wargan.io/dns-query|:heavy_check_mark:|
-|wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Adblocking
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
 |woodbridge.club|https://clearweb.woodbridge.club/dns-query|:heavy_check_mark:|Adblocking
 | **X**
