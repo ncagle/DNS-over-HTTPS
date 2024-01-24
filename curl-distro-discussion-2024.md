@@ -17,6 +17,7 @@ The event is open and free.
 
 - people packaging curl for Debian
 - people packaging curl for RHEL/Fedora
+- people packaging curl for Windows 10/11
 - Daniel, lead developer of curl
 
 If you *do* plan on joining and work on/with a distro, feel free to add yourself to the list or email me (Daniel) to let me know. It might ease the planning and make for a better discussion of we have a decent idea of the attendance.
