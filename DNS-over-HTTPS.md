@@ -269,7 +269,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |privado.ovh|https://orpi.privado.ovh/dns-query|:heavy_check_mark:|Adblocking
 |pukanuragan.ru|https://www.pukanuragan.ru/dns-query|:heavy_check_mark:|Adblocking
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
-|pyio.top|https://ad.pyio.top/dns-query|:heavy_check_mark:|
 | **Q**
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
