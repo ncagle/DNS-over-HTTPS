@@ -38,3 +38,5 @@ Find out where individuals in the curl project can help improve curl in distribu
 - Can we help each other better with bug reports/issues?
 - After PSL - what else have been missing in distros? Or perhaps: what features do distros actively disable and why?
 - HTTP/3 - updates on status and discussions on how to (possibly) enable this in curl for distros going forward
+
+What else?
