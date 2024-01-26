@@ -40,5 +40,6 @@ Find out where individuals in the curl project can help improve curl in distribu
 - HTTP/3 - updates on status and discussions on how to (possibly) enable this in curl for distros going forward
 - Long term support
 - What do the distros want in the curl roadmap?
+- Post Quantum curl and how to use it
 
 What else?
