@@ -111,7 +111,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[EasyMosdns](https://doh.apad.pro/)|https://doh.apad.pro/dns-query|:heavy_check_mark:|
 | [Edgy DNS](https://edgy.network/dns) | https://edgy-dns.com/dns-query | :heavy_check_mark: | Adblocking
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
-|eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |enjoymylife.net|https://home.enjoymylife.net/dns-query|:heavy_check_mark:|Adblocking
 |eranext.net|https://shield1.eranext.net/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -200,7 +199,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |linzefeng.top|https://dns2.linzefeng.top/dns-query|:heavy_check_mark:|Adblocking
-| [Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/) | Indonesia: https://id-dns.lista.my.id/dns-query <br> Singapore: https://sg-dns.lista.my.id/dns-query <br> Adblocking + Malware : <br> https://dns.lista.my.id/dns-query <br> https://adguard.lista.my.id/dns-query | :heavy_check_mark: <br>:heavy_check_mark: <br><br>:heavy_check_mark: <br>:heavy_check_mark: | DNSSEC, ECS, No Logging
+| [Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/) | Adblocking + Malware : <br> https://dns.lista.my.id/dns-query <br> https://adguard.lista.my.id/dns-query | :heavy_check_mark: <br>:heavy_check_mark: | DNSSEC, ECS, No Logging
 |londonwebnerd.cloud|https://adguard.londonwebnerd.cloud/dns-query|:heavy_check_mark:|
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query <br>United States: https://doh.phdns3.lonet.org/dns-query <br>Spain: https://doh.phdns4.lonet.org/dns-query <br>United Kingdom: https://doh.phdns5.lonet.org/dns-query <br>  | :heavy_check_mark:|Adblocking
 |lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|
@@ -308,7 +307,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 |simplylinux.ch|https://dns.simplylinux.ch/dns-query|:heavy_check_mark:|
-|siudzinski.net|https://adg.siudzinski.net/dns-query|:heavy_check_mark:|
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
 |[skrep](https://skrep.in/)|https://dns.skrep.in/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
