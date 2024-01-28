@@ -30,7 +30,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ares-taiwan.com|https://dns.ares-taiwan.com/dns-query|:heavy_check_mark:|Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
-|atsilva.link|https://dns.atsilva.link/dns-query|:heavy_check_mark:|Adblocking
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
@@ -284,7 +283,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 |[russel053](https://russel053.com/)|https://agh-yz.russel053.com/dns-query|:heavy_check_mark:|Adblocking
 | **S**
-|sac.rebl.eu.org|https://dns.sac.rebl.eu.org/dns-query|:heavy_check_mark:|Adblocking
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |saferbfc.org|https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
