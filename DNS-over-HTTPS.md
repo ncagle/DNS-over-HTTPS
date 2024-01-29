@@ -26,7 +26,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
-| [Aquilenet](https://www.aquilenet.fr/)|https://dns.aquilenet.fr/dns-query| :heavy_check_mark:| info https://dns.aquilenet.fr
+| [Aquilenet](https://www.aquilenet.fr/services/dns/)|https://dns.aquilenet.fr/dns-query| :heavy_check_mark:| info https://dns.aquilenet.fr
 |ares-taiwan.com|https://dns.ares-taiwan.com/dns-query|:heavy_check_mark:|Adblocking
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Asteroid B612](https://b612.me/) | https://dns.b612.me/dns-query | :heavy_check_mark: |
