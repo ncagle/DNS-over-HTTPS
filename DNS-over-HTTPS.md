@@ -74,7 +74,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |cuprum.ru|https://qual.cuprum.ru/dns-query|:heavy_check_mark:|
 |cybergroove.net|https://nanopi.cybergroove.net/dns-query|:heavy_check_mark:|Adblocking
 |cynntex.fun|https://cynntex.fun/dns-query|:heavy_check_mark:|Adblocking
-|[CynthiaLabs](https://cynthialabs.net/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
+|[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
 | **D**
 | [Daniel Woffinden](https://daw.dev/) | https://dns.daw.dev/dns-query | :heavy_check_mark: | Adblocking
