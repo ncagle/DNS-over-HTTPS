@@ -86,7 +86,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Disconnect.app | https://doh.disconnect.app/dns-query | :heavy_check_mark: | 
 | [DNS For Family](https://dnsforfamily.com/#DNS_Servers_DNS_Over_HTTPS) | https://dns-doh.dnsforfamily.com/dns-query | :heavy_check_mark: | Filter websites for family use, and enforces safe search in Google, YouTube, Bing, DuckDuckGo and Yandex. DNSSEC-ready, non-logging
 | [DNS Free](https://dns-free.link/) | Adblocking: https://dns-free.link/dns-query <br> Ad & porn blocking: https://dns-free.link/family | :heavy_check_mark: <br> :heavy_check_mark: |
-|[dns-ga.de](https://dns-ga.de/)|https://dot.dns-ga.de/dns-query|:heavy_check_mark:|
+|[dns-ga.de](https://dns-ga.de/server-info.html)|https://doh.dns-ga.de/dns-query|:heavy_check_mark:|
 | [dns.digitalsize.net](https://dns.digitalsize.net/) | https://dns.digitalsize.net/dns-query | :heavy_check_mark: | A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany |
 |dns.expert|https://dns.expert/dns-query| :heavy_check_mark: |
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query <br> https://doh.sb/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DNSSEC & QNAME minimization enabled, no logging |
