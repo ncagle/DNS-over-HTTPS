@@ -134,7 +134,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |hostme.co.il|https://ag.hostme.co.il/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |hugo0.moe|https://dns.hugo0.moe/dns-query|:heavy_check_mark:|Adblocking
-|huizegunsing.nl|https://dns.huizegunsing.nl|:heavy_check_mark:|Adblocking
 |hujiayucc.cn|https://dns.hujiayucc.cn/dns-query|:heavy_check_mark:|Adblocking
 |hunga1k47.com|https://ads.hunga1k47.com/dns-query|:heavy_check_mark:|
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
