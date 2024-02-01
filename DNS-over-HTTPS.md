@@ -146,7 +146,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **I**
 |i81.ru|https://vd.i81.ru/dns-query|:heavy_check_mark:|Adblocking
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
-| [In-Berlin](https://www.in-berlin.de/) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
+| [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Infracell Nusatama](https://infracell.net/)|https://doh.infracell.net/dns-query|:heavy_check_mark:|Adblocking
 |inpssh.online|https://www.inpssh.online/dns-query|:heavy_check_mark:|Adblocking
