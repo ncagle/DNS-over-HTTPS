@@ -158,7 +158,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027 
 |is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[iStoreOS](https://354688.xyz/)|https://dns.354688.xyz/dns-query|:heavy_check_mark:|
-|[ITXE](https://x.gy/article/moedns) | https://pdns.itxe.net/dns-query|:heavy_check_mark:|Adblocking
 | **J**
 |[Jack Stockley](https://jstockley.com/)|https://dns.jstockley.com/dns-query|:heavy_check_mark:|Adblocking
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
