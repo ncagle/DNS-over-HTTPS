@@ -145,7 +145,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[HuyCT.Net](https://huyct.net/)|https://ad.huyct.net/dns-query|:heavy_check_mark:|
 | **I**
 |i81.ru|https://vd.i81.ru/dns-query|:heavy_check_mark:|Adblocking
-|[iddqd.uk](https://iddqd.uk/)|https://portal.iddqd.uk/dns-query|:heavy_check_mark:|Adblocking
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://www.in-berlin.de/) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -288,7 +287,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |servebeer.com|https://privatnas.servebeer.com/dns-query|:heavy_check_mark:|
 |[sev.monster](https://sev.monster/)|https://dns.sev.monster/dns-query|:heavy_check_mark:|
 |shabi.icu|https://d2.shabi.icu/dns-query|:heavy_check_mark:|Adblocking
-|shimmerl.top|https://ymjx.shimmerl.top/dns-query|:heavy_check_mark:|Adblocking
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Shrirang Kahale](https://albony.xyz/)|https://dns.albony.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
