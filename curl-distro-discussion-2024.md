@@ -16,6 +16,7 @@ The event is open and free.
 ## Plans to join
 
 - people packaging curl for Debian
+- people packaging curl for Mageia
 - people packaging curl for RHEL/Fedora
 - people packaging curl for Windows 10/11
 - people packaging curl for MacPorts
