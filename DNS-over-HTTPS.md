@@ -144,7 +144,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
-|[Infracell Nusatama](https://infracell.net/)|https://doh.infracell.net/dns-query|:heavy_check_mark:|Adblocking
 |inpssh.online|https://www.inpssh.online/dns-query|:heavy_check_mark:|Adblocking
 |inpssh|https://inpssh.online/dns-query|:heavy_check_mark:|Adblocking
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
@@ -186,7 +185,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |linzefeng.top|https://dns2.linzefeng.top/dns-query|:heavy_check_mark:|Adblocking
-| [Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/) | Unsecure unfiltered: <br> https://uf-dns.lista.my.id/dns-query <br> Unsecure + AdBlocking: <br> https://ad-dns.lista.my.id/dns-query <br> Adblocking + Malware : <br> https://dns.lista.my.id/dns-query <br> https://adguard.lista.my.id/dns-query | <br> :heavy_check_mark: <br><br> :heavy_check_mark: <br><br> :heavy_check_mark: <br> :heavy_check_mark: | Unsecure: <br> - No DNSSEC, No ECS, No Logging <br><br> Secured: <br> - DNSSEC, No ECS, No Logging
+| [Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/) | Unsecure unfiltered: <br> https://uf-dns.lista.my.id/dns-query <br> Adblocking + Malware : <br> https://dns.lista.my.id/dns-query <br> https://adguard.lista.my.id/dns-query | <br> :heavy_check_mark: <br><br> :heavy_check_mark: <br> :heavy_check_mark: | Unsecure: <br> - No DNSSEC, No ECS, No Logging <br><br> Secured: <br> - DNSSEC, No ECS, No Logging
 |londonwebnerd.cloud|https://adguard.londonwebnerd.cloud/dns-query|:heavy_check_mark:|
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query <br>United States: https://doh.phdns3.lonet.org/dns-query <br>Spain: https://doh.phdns4.lonet.org/dns-query <br>United Kingdom: https://doh.phdns5.lonet.org/dns-query <br>  | :heavy_check_mark:|Adblocking
 |lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|
