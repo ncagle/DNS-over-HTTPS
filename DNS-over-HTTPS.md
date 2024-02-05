@@ -312,7 +312,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|
-|thethorsens.org|https://blocker.thethorsens.org/dns-query|:heavy_check_mark:|Adblocking
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 |tienpham.id.vn|https://tienpham.id.vn/dns-query|:heavy_check_mark:|Adblocking
 | Timmes.nl | https://timmes.nl/dns-query | :heavy_check_mark: | Adblocking
@@ -326,7 +325,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **U**
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
-|uradoori.org|https://uradoori.org/dns-query|:heavy_check_mark:|
 |[Urology](https://urology.wiki/)|https://urology.wiki/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **V**
 |[VIA](https://viatech.com.tw/en/)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Adblocking
