@@ -38,5 +38,6 @@ Find out where individuals in the curl project can help improve curl in distribu
 - Long term support
 - What do the distros want in the curl roadmap?
 - Post Quantum curl and how to use it
+- the TLS situation
 
 What else?
