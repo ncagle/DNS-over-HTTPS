@@ -181,7 +181,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Lashes&brow](https://lashes-brow.ru/)|https://dns.lashes-brow.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Lastentarvike](https://lastentarvike.fi) | https://lastentarvike.fi/dns-query | :heavy_check_mark: |
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. No logging, no filtering, no ECS, DNSSEC support. |
-|[leenit.kr](https://leenit.kr/)|https://adblock.leenit.kr/dns-query|:heavy_check_mark:|
 |lege.despagne.net|https://adguard.lege.despagne.net/dns-query|:heavy_check_mark:|Adblocking
 |lgprk.com|https://dns.lgprk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
