@@ -57,7 +57,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |charraud.eu|https://dns.charraud.eu/dns-query|:heavy_check_mark:|
 | Charter | California: <br>https://doh-01.spectrum.com/dns-query <br> Texas: <br>https://doh-02.spectrum.com/dns-query |:heavy_check_mark:<br>:heavy_check_mark:| Trial - Testing multiple platforms
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
-|chocolatezz.xyz|https://dns.chocolatezz.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |chungocoai.name.vn|https://www.chungocoai.name.vn/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: <br>https://private.canadianshield.cira.ca/dns-query <br> Protected: <br>https://protected.canadianshield.cira.ca/dns-query <br> Family: <br>https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
 | [CIRCL](https://www.circl.lu/) | https://dns.circl.lu/dns-query  | :heavy_check_mark:| Adblocking
@@ -281,7 +280,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |schlagheck.berlin|https://dns.schlagheck.berlin/dns-query|:heavy_check_mark:|Adblocking
 |[Scuola.org](https://scuola.org/)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Adblocking
 |servebeer.com|https://privatnas.servebeer.com/dns-query|:heavy_check_mark:|
-|[sev.monster](https://sev.monster/)|https://dns.sev.monster/dns-query|:heavy_check_mark:|
 |shabi.icu|https://d2.shabi.icu/dns-query|:heavy_check_mark:|Adblocking
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Shrirang Kahale](https://albony.xyz/)|https://dns.albony.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
