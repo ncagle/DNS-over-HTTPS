@@ -109,7 +109,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |eranext.net|https://shield1.eranext.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
-|f7b6h9.tk|https://jp1.f7b6h9.tk/dns-query|:heavy_check_mark:|Adblocking
 |[f97.xyz](https://f97.xyz/)|https://dns.f97.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ <br> Adblocking: https://pdns.faelix.net/ | :heavy_check_mark: <br> :heavy_check_mark: | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
@@ -139,7 +138,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0) | https://ordns.he.net/dns-query| :heavy_check_mark:| 
 |huseynov.work|https://dns.huseynov.work/dns-query|:heavy_check_mark:|
 |[Huy Hoàng](https://huyhoangit.net/)|https://dns.huyhoangit.net/dns-query|:heavy_check_mark:|Adblocking
-|[HuyCT.Net](https://huyct.net/)|https://ad.huyct.net/dns-query|:heavy_check_mark:|
 | **I**
 |i81.ru|https://vd.i81.ru/dns-query|:heavy_check_mark:|Adblocking
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
@@ -340,7 +338,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Y**
 | [Yandex DNS](https://dns.yandex.com/) | Basic: https://common.dot.dns.yandex.net/dns-query <br> Safe: https://safe.dot.dns.yandex.net/dns-query <br> Family: https://family.dot.dns.yandex.net/dns-query <br>|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
-|ychen.gq|https://ychen.gq/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
