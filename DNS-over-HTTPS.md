@@ -302,7 +302,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Syaifullah](https://blog.syaifullah.com/public-dns-services/) | https://dns.syaifullah.com/dns-query | :heavy_check_mark: | Adblocking
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
 |sytes.net|https://vanced.sytes.net/dns-query|:heavy_check_mark:|Adblocking
-|[systemfall.ru|https://ad.systemfall.ru/dns-query|:heavy_check_mark:|Adblocking
+|systemfall.ru|https://ad.systemfall.ru/dns-query|:heavy_check_mark:|Adblocking
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
