@@ -187,7 +187,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/) | Unsecure unfiltered: <br> https://uf-dns.lista.my.id/dns-query <br> Adblocking + Malware : <br> https://dns.lista.my.id/dns-query | <br> :heavy_check_mark: <br><br> :heavy_check_mark: | 
 |londonwebnerd.cloud|https://adguard.londonwebnerd.cloud/dns-query|:heavy_check_mark:|
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query <br>United States: https://doh.phdns3.lonet.org/dns-query <br>Spain: https://doh.phdns4.lonet.org/dns-query <br>United Kingdom: https://doh.phdns5.lonet.org/dns-query <br>  | :heavy_check_mark:|Adblocking
-|lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|
 |lov.host|https://ns.lov.host/dns-query|:heavy_check_mark:|
 |lvolland.fr|https://dns.lvolland.fr/dns-query|:heavy_check_mark:|Adblocking
 | **M**
@@ -257,7 +256,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ragnvindr.org|https://inde.ragnvindr.org/dns-query|:heavy_check_mark:|Adblocking
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking
 |[Rasp TV](https://rasp.tv/)|https://emby.rasp.tv/dns-query|:heavy_check_mark:|Adblocking
-|ray0512.win|https://jp.ray0512.win/dns-query<br>https://la.ray0512.win/dns-query|:heavy_check_mark:|
 | [Restena](https://www.restena.lu/en/service/public-dns-resolver) | https://kaitain.restena.lu/dns-query | :heavy_check_mark: | Based in Luxembourg, DNSSEC, minimal logging for technical functions
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure)
