@@ -43,6 +43,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bonsirven.eu|https://adguard.bonsirven.eu/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Bortzmeyer](https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html) | https://doh.bortzmeyer.fr | :heavy_check_mark: | French-based, non-logging. 
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
+|[Bravoc.one](https://bravoc.one/) | https://dns.bravoc.one/dns-query  | :heavy_check_mark: | Adblocking
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
 | **C**
