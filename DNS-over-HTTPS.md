@@ -274,7 +274,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |schlagheck.berlin|https://dns.schlagheck.berlin/dns-query|:heavy_check_mark:|Adblocking
 |[Scuola.org](https://scuola.org/)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Adblocking
 |servebeer.com|https://privatnas.servebeer.com/dns-query|:heavy_check_mark:|
-|shabi.icu|https://d2.shabi.icu/dns-query|:heavy_check_mark:|Adblocking
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Shrirang Kahale](https://albony.xyz/)|https://dns.albony.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
