@@ -55,7 +55,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |sriedmueadguard.casa|https://sriedmueadguard.casa/dns-query|:heavy_check_mark:|
 |catdns.org|https://catdns.org/dns-query|:heavy_check_mark:|
 |chadeyron.fr|https://dns.chadeyron.fr/dns-query|:heavy_check_mark:|Adblocking
-|charraud.eu|https://dns.charraud.eu/dns-query|:heavy_check_mark:|
 | Charter | California: <br>https://doh-01.spectrum.com/dns-query <br> Texas: <br>https://doh-02.spectrum.com/dns-query |:heavy_check_mark:<br>:heavy_check_mark:| Trial - Testing multiple platforms
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
 |chungocoai.name.vn|https://www.chungocoai.name.vn/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -202,7 +201,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[mid ping](https://midping.ir/) | https://dns.midping.ir/dns-query |:heavy_check_mark:|Porn blocking
 |mikrotikrumahan.my.id|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Adblocking
 |milkpie.one|https://dns.milkpie.one/dns-query|:heavy_check_mark:|
-|minilla.store|https://minilla.store/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[mIT](https://m-it.ro/)|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Adblocking
 |[MJJ](https://o0o.re/)|https://5g.o0o.re/dns-query|:heavy_check_mark:|
 |mo0on15.com|https://dns.mo0on15.com/dns-query|:heavy_check_mark:|Adblocking
@@ -301,6 +299,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |systemfall.ru|https://ad.systemfall.ru/dns-query|:heavy_check_mark:|Adblocking
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
+|[Tekno Holistik](https://www.teknoholistik.com/) | https://family.dns.teknoholistik.com/dns-query |:heavy_check_mark:|Ad & porn blocking
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
