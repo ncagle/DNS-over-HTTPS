@@ -286,7 +286,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Sparsh Bajaj](https://sparshbajaj.me/)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
-|sstomp.nl|https://dns.sstomp.nl/dns-query|:heavy_check_mark:|Adblocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
 |sufly.top|https://local.sufly.top/dns-query|:heavy_check_mark:|Adblocking
 | [Sundalandia](https://sundalandia.pp.ua) | Adblock https://sundalandia.pp.ua/dns-query <br> Family filter https://sundalandia.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
