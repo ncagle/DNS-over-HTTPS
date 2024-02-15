@@ -137,7 +137,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |huseynov.work|https://dns.huseynov.work/dns-query|:heavy_check_mark:|
 |[Huy Hoàng](https://huyhoangit.net/)|https://dns.huyhoangit.net/dns-query|:heavy_check_mark:|Adblocking
 | **I**
-|i81.ru|https://vd.i81.ru/dns-query|:heavy_check_mark:|Adblocking
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -319,7 +318,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |wargan.io|https://dns.wargan.io/dns-query|:heavy_check_mark:|
-|[WellWells](https://wellstsai.com/)|https://dns.wellstsai.com/dns-query|:heavy_check_mark:|Adblocking
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
 |woodbridge.club|https://clearweb.woodbridge.club/dns-query|:heavy_check_mark:|Adblocking
 | **X**
