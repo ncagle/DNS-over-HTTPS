@@ -13,7 +13,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **A**
 |[ABD](https://abd.ong/)|https://adguard.abd.ong/dns-query|:heavy_check_mark:|Adblocking
 |abdullahabas.de|https://dns.abdullahabas.de/dns-query|:heavy_check_mark:|Adblocking
-| abel.waringer-atg.de | https://abel.waringer-atg.de/dns-query | :heavy_check_mark:| 
 |[ABp-Project](https://abppro.ru/)|https://dns.abppro.ru/dns-query|:heavy_check_mark:|
 |[AdFilter](https://adfilter.net/)|Adelaide: https://adl.adfilter.net/dns-query<br>Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
@@ -186,7 +185,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |marto.si|https://adguard.marto.si/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |mattiafenzi.uk|https://adguard.mattiafenzi.uk/dns-query|:heavy_check_mark:|
-|[Max Philipp Wriedt](https://wriedts.de/)|https://home.wriedts.de/dns-query|:heavy_check_mark:|Adblocking
 |maxfong.cc|https://www.maxfong.cc/dns-query|:heavy_check_mark:|Adblocking
 | [Maxindo Mitra Solusi](https://www.maxindo.net.id/) | https://doh.max.net.id/dns-query | :heavy_check_mark: | 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
@@ -195,10 +193,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mestdag.fr|https://dns.mestdag.fr/dns-query|:heavy_check_mark:|Adblocking
 |[mid ping](https://midping.ir/) | https://dns.midping.ir/dns-query |:heavy_check_mark:|Porn blocking
 |mikrotikrumahan.my.id|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Adblocking
-|milkpie.one|https://dns.milkpie.one/dns-query|:heavy_check_mark:|
 |[mIT](https://m-it.ro/)|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Adblocking
 |[MJJ](https://o0o.re/)|https://5g.o0o.re/dns-query|:heavy_check_mark:|
-|mo0on15.com|https://dns.mo0on15.com/dns-query|:heavy_check_mark:|Adblocking
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Adblocking
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://dns.mullvad.net/dns-query <br> Adblocking https://adblock.dns.mullvad.net/dns-query <br> Ad & malware blocking https://base.dns.mullvad.net/dns-query <br> Ad, malware, social media blocking https://extended.dns.mullvad.net/dns-query <br> Ad, malware, social media, adult content and gamble blocking https://all.dns.mullvad.net/dns-query <br> Ad, malware, adult content and gamble blocking https://family.dns.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Public DoH server in US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
