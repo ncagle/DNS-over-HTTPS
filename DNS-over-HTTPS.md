@@ -195,7 +195,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[korzhyk.pp.ua](https://korzhyk.pp.ua/)|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 |[Kris Werry](https://kriswerry.nl/)|https://dns.kriswerry.nl/dns-query|:heavy_check_mark:|Adblocking
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
-|kstdownload.com|https://kstdownload.com/dns-query|:heavy_check_mark:|Adblocking
 |[KvQ](https://imkvq.com/)|https://dns4.imkvq.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **L**
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Adblocking
