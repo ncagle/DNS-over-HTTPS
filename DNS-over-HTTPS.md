@@ -138,7 +138,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[FurryDNS](https://furrydns.de/)|https://dns.furrydns.de/dns-query|:heavy_check_mark:|
 | **G**
 |[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking
-|ghost.pm|https://eu.ghost.pm/dns-query|:heavy_check_mark:|
 |gmserv.cc|https://dns.gmserv.cc/dns-query|:heavy_check_mark:|Adblocking
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
@@ -229,7 +228,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |mestdag.fr|https://dns.mestdag.fr/dns-query|:heavy_check_mark:|Adblocking
 |[mid ping](https://midping.ir/) | https://dns.midping.ir/dns-query |:heavy_check_mark:|Porn blocking
-|mii-xms.com|https://dns-frankfurt.mii-xms.com/dns-query<br>https://dns-singapore.mii-xms.com/dns-query|:heavy_check_mark:|
 |mikrotikrumahan.my.id|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Adblocking
 |minetown.eu.org|https://adguard.minetown.eu.org/dns-query|:heavy_check_mark:|Adblocking
 |[mIT](https://m-it.ro/)|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Adblocking
@@ -270,7 +268,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pacificmonster.com|https://dns.pacificmonster.com/dns-query|:heavy_check_mark:|Adblocking
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging
 |[PanSzelescik](https://panszelescik.pl/)|https://dns-ovh.panszelescik.pl/dns-query|:heavy_check_mark:|Adblocking
-|passby.eu.org|https://v3.passby.eu.org/dns-query|:heavy_check_mark:|Adblocking
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |paxavemedia.com|https://dns.paxavemedia.com/dns-query|:heavy_check_mark:|Adblocking
 |pernika.net|https://dns.pernika.net/dns-query|:heavy_check_mark:|
