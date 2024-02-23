@@ -170,7 +170,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jack Stockley](https://jstockley.com/)|https://dns.jstockley.com/dns-query|:heavy_check_mark:|Adblocking
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
 |jambi.undo.it|https://jambi.undo.it/dns-query|:heavy_check_mark:|
-|jaye.sh|https://adguard.jaye.sh/dns-query|:heavy_check_mark:|Adblocking
 |jmarkin.ru|https://vps.jmarkin.ru/dns-query|:heavy_check_mark:|Adblocking
 |jnraptor.net|https://green2.jnraptor.net/dns-query|:heavy_check_mark:|Adblocking
 |[John Dave Balingit](https://johndave.me/)|https://adguard.johndave.me/dns-query|:heavy_check_mark:|Adblocking
