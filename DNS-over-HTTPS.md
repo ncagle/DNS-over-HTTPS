@@ -116,7 +116,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |enjoymylife.net|https://home.enjoymylife.net/dns-query|:heavy_check_mark:|Adblocking
-|eranext.net|https://shield1.eranext.net/dns-query|:heavy_check_mark:|Ad & porn blocking
 |eumera.de|https://dns.eumera.de/dns-query|:heavy_check_mark:|
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
@@ -144,7 +143,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query <br> https://cluster-1.gac.edu/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| 
 | **H**
 |[Haringstad](https://haringstad.com/)|https://resolver-eu.haringstad.com/dns-query|:heavy_check_mark:|Adblocking
-|hempfoundation.net|https://dns.hempfoundation.net/dns-query|:heavy_check_mark:|
 |hostme.co.il|https://ag.hostme.co.il/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |hugo0.moe|https://dns.hugo0.moe/dns-query|:heavy_check_mark:|Adblocking
@@ -194,7 +192,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
 |[KvQ](https://imkvq.com/)|https://dns4.imkvq.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **L**
-|l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Adblocking
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
 | [Lastentarvike](https://lastentarvike.fi) | https://lastentarvike.fi/dns-query | :heavy_check_mark: |
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. No logging, no filtering, no ECS, DNSSEC support. |
@@ -236,7 +233,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[moesite.top](https://moesite.top/)|https://dns.moesite.top/dns-query|:heavy_check_mark:|Adblocking
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://dns.mullvad.net/dns-query <br> Adblocking https://adblock.dns.mullvad.net/dns-query <br> Ad & malware blocking https://base.dns.mullvad.net/dns-query <br> Ad, malware, social media blocking https://extended.dns.mullvad.net/dns-query <br> Ad, malware, social media, adult content and gamble blocking https://all.dns.mullvad.net/dns-query <br> Ad, malware, adult content and gamble blocking https://family.dns.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Public DoH server in US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
 | [mydns.network](https://mydns.network) | Uncensored: https://freedom.mydns.network/dns-query <br> Paranoia (no Google/Cloudflare): https://paranoia.mydns.network/dns-query <br> Adblocking: https://adblock.mydns.network/dns-query <br> Family: https://family.mydns.network/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server powered by Cloudflare Workers. Uniquely disguises your queries by relaying queries your behalf to upstream DoH servers with no IP address information. [Open source](https://github.com/matthewgall/doh-proxy), deploy your own instance at any time!
-| Myon | https://blackhole.myon.lu/dns-query | :heavy_check_mark: | Adblocking
 | **N**
 |narl.app|https://dns.narl.app/dns-query|:heavy_check_mark:|Adblocking
 |[ndom91](https://ndo.dev/posts/doh)|https://dns.ndo.dev/dns-query|:heavy_check_mark:|Adblocking, non-logging, self recursive resolve, no ECS, QNAME minimization, DNSSEC, hosted in Frankfurt
