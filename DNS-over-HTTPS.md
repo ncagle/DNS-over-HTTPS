@@ -167,7 +167,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jambi.undo.it|https://jambi.undo.it/dns-query|:heavy_check_mark:|
 |jmarkin.ru|https://vps.jmarkin.ru/dns-query|:heavy_check_mark:|Adblocking
 |jnraptor.net|https://green2.jnraptor.net/dns-query|:heavy_check_mark:|Adblocking
-|[John Dave Balingit](https://johndave.me/)|https://adguard.johndave.me/dns-query|:heavy_check_mark:|Adblocking
 |johnwick.me|https://ad.johnwick.me/dns-query|:heavy_check_mark:|Adblocking
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 |[Joseph Yap](https://josephyap.me/)|https://agh.josephyap.me/dns-query|:heavy_check_mark:|Adblocking
