@@ -45,7 +45,3 @@ Can master be made to stop when the shell that launched it exits?
 How does a client discover that there's a master present to be used? The presence of a named pipe? And environment variable? An explicit command line option?
 
 curlrc can be used to transparently cause the master to be used.
-
-## Prerequisites
-
-This feature will be better if the master process can handle [parallel transfers](curl-tool-parallel-transfers) so that there can be more than one client process simultaneously using a single master process.
