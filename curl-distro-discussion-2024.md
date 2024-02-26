@@ -15,7 +15,7 @@ The event is open and free.
 
 ## Plans to join
 
-- people packaging curl for Debian, Mageia, RHEL/Fedora, Windows 10/11, MacPorts, Homebrew, Yocto Project
+- people packaging curl for Debian, Mageia, RHEL/Fedora, Windows 10/11, MacPorts, Homebrew, Yocto Project, AlmaLinux
 - Daniel, lead developer of curl (presumably also a few other curl devs)
 
 If you *do* plan on joining and work on/with a distro, feel free to add yourself to the list or email me (Daniel) to let me know. It might ease the planning and make for a better discussion of we have a decent idea of the attendance.
