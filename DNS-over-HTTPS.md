@@ -112,7 +112,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |enjoymylife.net|https://home.enjoymylife.net/dns-query|:heavy_check_mark:|Adblocking
-|eumera.de|https://dns.eumera.de/dns-query|:heavy_check_mark:|
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
 |[f97.xyz](https://f97.xyz/)|https://dns.f97.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -176,7 +175,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
 |keskinnetwork.com|https://dns.keskinnetwork.com/dns-query|:heavy_check_mark:|Adblocking
 |[K. Likhachev](https://k-likhachev.ru/)|https://adguard.k-likhachev.ru/dns-query|:heavy_check_mark:|Adblocking
-|[Kiboko](https://kiboko.it/)|https://adguard.kiboko.it/dns-query|:heavy_check_mark:|
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |kloiber.co.at|https://dns.kloiber.co.at/dns-query|:heavy_check_mark:|Adblocking
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
