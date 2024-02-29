@@ -25,7 +25,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query| :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/knowledge?type=SETTING_DOCS), Best DoH/DoT server in China |
 |allaincom.br|https://allain.com.br/dns-query|:heavy_check_mark:|Adblocking
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Adblocking
-|[Anders Farms](https://andersfarms.ltd/)|https://dns.andersfarms.ltd/dns-query|:heavy_check_mark:|Adblocking
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
@@ -115,7 +114,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
 |[f97.xyz](https://f97.xyz/)|https://dns.f97.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
-| [FAELIX](https://faelix.net/) | https://rdns.faelix.net/ <br> Adblocking: https://pdns.faelix.net/ | :heavy_check_mark: <br> :heavy_check_mark: | No logging, based on dnsdist-doh RC querying our powerdns-recursor resolvers, multiple nodes in UK and CH, [more info](https://faelix.net/ref/dns/#resolving-nameservers) |
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
@@ -172,7 +170,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **K**
 |[Karl.ONE](https://karl.one/)|https://dns.karl.one/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
-| [kescherDNS](https://dns.kescher.at/) | https://dns.kescher.at/dns-query | :heavy_check_mark: | Non-logging, hosted in Vienna and Düsseldorf
 |keskinnetwork.com|https://dns.keskinnetwork.com/dns-query|:heavy_check_mark:|Adblocking
 |[K. Likhachev](https://k-likhachev.ru/)|https://adguard.k-likhachev.ru/dns-query|:heavy_check_mark:|Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
