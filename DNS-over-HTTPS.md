@@ -173,7 +173,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |keskinnetwork.com|https://dns.keskinnetwork.com/dns-query|:heavy_check_mark:|Adblocking
 |[K. Likhachev](https://k-likhachev.ru/)|https://adguard.k-likhachev.ru/dns-query|:heavy_check_mark:|Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
-|kloiber.co.at|https://dns.kloiber.co.at/dns-query|:heavy_check_mark:|Adblocking
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
 |[korzhyk.pp.ua](https://korzhyk.pp.ua/)|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 |[Kris Werry](https://kriswerry.nl/)|https://dns.kriswerry.nl/dns-query|:heavy_check_mark:|Adblocking
