@@ -110,7 +110,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Edgy DNS](https://edgy.network/dns) | https://edgy-dns.com/dns-query | :heavy_check_mark: | Adblocking
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
-|enjoymylife.net|https://home.enjoymylife.net/dns-query|:heavy_check_mark:|Adblocking
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
 | **F**
 |[f97.xyz](https://f97.xyz/)|https://dns.f97.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -355,7 +354,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yumenashyi.com|https://dns.yumenashyi.com/dns-query|:heavy_check_mark:|
 | **Z**
 zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
-|zeinima.com|https://dns.zeinima.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **0-9**
 |111311.xyz|https://dns.111311.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[2kil](https://2kil.com/)|https://doh.2kil.com/dns-query|:heavy_check_mark:|Adblocking
