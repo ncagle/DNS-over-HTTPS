@@ -205,7 +205,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Maxindo Mitra Solusi](https://www.maxindo.net.id/) | https://doh.max.net.id/dns-query | :heavy_check_mark: | 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
-|mega-marimo.net|https://dns.mega-marimo.net/dns-query|:heavy_check_mark:|
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |mestdag.fr|https://dns.mestdag.fr/dns-query|:heavy_check_mark:|Adblocking
@@ -300,7 +299,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
-|simplylinux.ch|https://dns.simplylinux.ch/dns-query|:heavy_check_mark:|
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
 |[skrep](https://skrep.in/)|https://dns.skrep.in/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
@@ -347,7 +345,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |wargan.io|https://dns.wargan.io/dns-query|:heavy_check_mark:|
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
-|woodbridge.club|https://clearweb.woodbridge.club/dns-query|:heavy_check_mark:|Adblocking
 | **Y**
 | [Yandex DNS](https://dns.yandex.com/) | Basic: https://common.dot.dns.yandex.net/dns-query <br> Safe: https://safe.dot.dns.yandex.net/dns-query <br> Family: https://family.dot.dns.yandex.net/dns-query <br>|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
