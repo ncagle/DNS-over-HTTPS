@@ -5,7 +5,8 @@ A video conference.
     Date: Thursday March 21, 2024
     Time: 16:00 UTC
     Duration: two hours
-    Link: (will be added here close to the event)
+
+[google meet](https://meet.google.com/hgn-fmpp-bjj)
 
 ## Invited
 
