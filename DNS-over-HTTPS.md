@@ -23,7 +23,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |albertocognetti.com|https://albertocognetti.com/dns-query|:heavy_check_mark:|
 | alekberg | Amsterdam Non-filtering: https://dnsnl.alekberg.net/dns-query <br> Sweden Non-filtering: https://dnsse.alekberg.net/dns-query <br> Amsterdam Adblocking: https://dnsnl-noads.alekberg.net/dns-query <br> Sweden Non-filtering: https://dnsse-noads.alekberg.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| DoH Servers in Holland and Sweden. No logging, DNSSEC support.|
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query| :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/knowledge?type=SETTING_DOCS), Best DoH/DoT server in China |
-|allaincom.br|https://allain.com.br/dns-query|:heavy_check_mark:|Adblocking
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Adblocking
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
@@ -58,7 +57,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |chadeyron.fr|https://dns.chadeyron.fr/dns-query|:heavy_check_mark:|Adblocking
 | Charter | California: <br>https://doh-01.spectrum.com/dns-query <br> Texas: <br>https://doh-02.spectrum.com/dns-query |:heavy_check_mark:<br>:heavy_check_mark:| Trial - Testing multiple platforms
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
-|[Chillstice](https://chillstice.com/)|https://dns.chillstice.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Chris Dooks](https://dooks.uk/)|https://dns.dooks.uk/dns-query|:heavy_check_mark:|Adblocking
 |chungocoai.name.vn|https://www.chungocoai.name.vn/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: <br>https://private.canadianshield.cira.ca/dns-query <br> Protected: <br>https://protected.canadianshield.cira.ca/dns-query <br> Family: <br>https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
@@ -132,7 +130,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **H**
 |hostme.co.il|https://ag.hostme.co.il/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
-|hugo0.moe|https://dns.hugo0.moe/dns-query|:heavy_check_mark:|Adblocking
 |hujiayucc.cn|https://dns.hujiayucc.cn/dns-query|:heavy_check_mark:|Adblocking
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 |[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0) | https://ordns.he.net/dns-query| :heavy_check_mark:| 
@@ -148,7 +145,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Institute of Operating Systems and Computer Networks](https://wiki.ibr.cs.tu-bs.de/en/services) | https://doh.ibr.cs.tu-bs.de/dns-query | :heavy_check_mark: |
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027 
 |is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
-|[iStoreOS](https://354688.xyz/)|https://dns.354688.xyz/dns-query|:heavy_check_mark:|
 |[itya.xyz](https://itya.xyz/)|https://dns.itya.xyz/dns-query|:heavy_check_mark:|
 | **J**
 |[Jack Stockley](https://jstockley.com/)|https://dns.jstockley.com/dns-query|:heavy_check_mark:|Adblocking
@@ -203,7 +199,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |mestdag.fr|https://dns.mestdag.fr/dns-query|:heavy_check_mark:|Adblocking
 |[mid ping](https://midping.ir/) | https://dns.midping.ir/dns-query |:heavy_check_mark:|Porn blocking
-|mikrotikrumahan.my.id|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Adblocking
 |[mIT](https://m-it.ro/)|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Adblocking
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Adblocking
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
