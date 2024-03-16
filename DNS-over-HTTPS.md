@@ -161,7 +161,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Karl.ONE](https://karl.one/)|https://dns.karl.one/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 |keskinnetwork.com|https://dns.keskinnetwork.com/dns-query|:heavy_check_mark:|Adblocking
-|[K. Likhachev](https://k-likhachev.ru/)|https://adguard.k-likhachev.ru/dns-query|:heavy_check_mark:|Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
 |[korzhyk.pp.ua](https://korzhyk.pp.ua/)|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Adblocking
