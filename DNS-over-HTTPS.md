@@ -182,7 +182,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |londonwebnerd.cloud|https://adguard.londonwebnerd.cloud/dns-query|:heavy_check_mark:|
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query <br>Spain: https://doh.phdns4.lonet.org/dns-query <br>United Kingdom: https://doh.phdns5.lonet.org/dns-query <br>  | :heavy_check_mark:|Adblocking
 |[LOONY-TECH](https://loony-tech.de/)|https://dns.loony-tech.de/dns-query|:heavy_check_mark:|Ad & porn blocking
-|ltse.cloud|https://dns.ltse.cloud/dns-query|:heavy_check_mark:|Adblocking
 |[Lupine Solutions](https://lupine.solutions/)|https://dns.lupine.solutions/dns-query|:heavy_check_mark:|
 | **M**
 |mandre.dev|https://dns.mandre.dev/dns-query|:heavy_check_mark:|Adblocking
