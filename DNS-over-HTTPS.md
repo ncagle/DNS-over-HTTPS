@@ -269,7 +269,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |saferbfc.org|https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
 |[Saikat](https://rsaikat.com/)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Adblocking
-|sainte-foie.com|https://dns.sainte-foie.com/dns-query|:heavy_check_mark:|Adblocking
 | sarak.as | https://dns.sarak.as/dns-query | :heavy_check_mark:| Ad & porn blocking
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
 |[Scarx](https://scarx.net/)|https://dns.scarx.net/dns-query|:heavy_check_mark:|
