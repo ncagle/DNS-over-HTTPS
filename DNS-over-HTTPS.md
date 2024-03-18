@@ -190,7 +190,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
-|mestdag.fr|https://dns.mestdag.fr/dns-query|:heavy_check_mark:|Adblocking
 |[mid ping](https://midping.ir/) | https://dns.midping.ir/dns-query |:heavy_check_mark:|Porn blocking
 |[mIT](https://m-it.ro/)|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Adblocking
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Adblocking
@@ -236,7 +235,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Pointless.chat](https://pointless.chat/)|https://dns.pointless.chat/dns-query|:heavy_check_mark:|Adblocking
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
-|privado.ovh|https://orpi.privado.ovh/dns-query|:heavy_check_mark:|Adblocking
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
 | **Q**
 | [Qihoo 360](https://360.cn) | https://doh.360.cn/dns-query | :heavy_check_mark: | Based in China
@@ -325,7 +323,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Z**
 zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 | **0-9**
-|[2kil](https://2kil.com/)|https://doh.2kil.com/dns-query|:heavy_check_mark:|Adblocking
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 |546413.xyz|https://adguard2.546413.xyz/dns-query|:heavy_check_mark:|
