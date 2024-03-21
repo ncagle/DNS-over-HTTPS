@@ -1,2 +1,3 @@
 - MSYS2: https://github.com/msys2/MINGW-packages/tree/master/mingw-w64-curl
 - Muldersoft (Windows): https://sourceforge.net/projects/muldersoft/files/cURL/ (inside the binary downloads)
+- vcpkg: https://github.com/Microsoft/vcpkg/tree/master/ports/curl
