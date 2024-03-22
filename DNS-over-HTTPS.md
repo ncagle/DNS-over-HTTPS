@@ -43,7 +43,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |borisov.page|https://borisov.page/dns-query|:heavy_check_mark:|Adblocking
 | [Bortzmeyer](https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html) | https://doh.bortzmeyer.fr | :heavy_check_mark: | French-based, non-logging. 
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
-|[Bravoc.one](https://bravoc.one/) | https://dns.bravoc.one/dns-query  | :heavy_check_mark: | Adblocking
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Bunny](https://bunny.net/) | https://doh1.b-cdn.net/dns-query | :heavy_check_mark: | Adblocking
 | **C**
@@ -232,7 +231,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
 |[PleumKungZ](https://pleumkungz.com/)|https://secure-dns.pleumkungz.com/dns-query|:heavy_check_mark:|Adblocking
-|[Pointless.chat](https://pointless.chat/)|https://dns.pointless.chat/dns-query|:heavy_check_mark:|Adblocking
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
