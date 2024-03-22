@@ -14,6 +14,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ABD](https://abd.ong/)|https://adguard.abd.ong/dns-query|:heavy_check_mark:|Adblocking
 |abdullahabas.de|https://dns.abdullahabas.de/dns-query|:heavy_check_mark:|Adblocking
 |[ABp-Project](https://abppro.ru/)|https://dns.abppro.ru/dns-query|:heavy_check_mark:|
+|Abraservice.xyz](https://abraservice.xyz/)|https://doh.abraservice.xyz/dns-query|:heavy_check_mark:|
 |adbl-tslagter.nl|https://adbl-tslagter.nl/dns-query|:heavy_check_mark:|Adblocking
 |[AdFilter](https://adfilter.net/)|Adelaide: https://adl.adfilter.net/dns-query<br>Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
@@ -114,6 +115,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Flm9.net | https://dns01.flm9.net/dns-query |  :heavy_check_mark: |
 |flylcc.cc|https://life.flylcc.cc/dns-query|:heavy_check_mark:|
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
+|frankutils.xyz|https://agent.frankutils.xyz/dns-query|:heavy_check_mark:|
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 |fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:|
 |[FurryDNS](https://furrydns.de/)|https://dns.furrydns.de/dns-query|:heavy_check_mark:|
@@ -144,6 +146,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[itya.xyz](https://itya.xyz/)|https://dns.itya.xyz/dns-query|:heavy_check_mark:|
 | **J**
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
+|jakinet.id|https://adguard.jakinet.id/dns-query|:heavy_check_mark:|Ad & porn blocking
 |jambi.undo.it|https://jambi.undo.it/dns-query|:heavy_check_mark:|
 |jmarkin.ru|https://vps.jmarkin.ru/dns-query|:heavy_check_mark:|Adblocking
 |jnraptor.net|https://green2.jnraptor.net/dns-query|:heavy_check_mark:|Adblocking
@@ -250,6 +253,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 |[russel053](https://russel053.com/)|https://agh-yz.russel053.com/dns-query|:heavy_check_mark:|Adblocking
+|r9x.cc|https://dns.r9x.cc/dns-query|:heavy_check_mark:|Adblocking
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |saferbfc.org|https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
