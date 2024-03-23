@@ -132,7 +132,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[f97.xyz](https://f97.xyz/)|https://dns.f97.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
-|[fanscloud](https://fanscloud.net/)|https://fanscloud.net/dns-query|:heavy_check_mark:|
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
 |felipefalcao.ninja|https://felipefalcao.ninja/dns-query|:heavy_check_mark:|
 |fffl.xyz|https://fffly.xyz/dns-query|:heavy_check_mark:|
