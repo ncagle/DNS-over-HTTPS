@@ -12,6 +12,6 @@
 
 ## vcpkg
 
-- curl: https://github.com/Microsoft/vcpkg/tree/master/ports/curl
+- curl: https://github.com/microsoft/vcpkg/tree/master/ports/curl
 - curl issues: https://github.com/microsoft/vcpkg/issues
-- curl patches: https://github.com/Microsoft/vcpkg/tree/master/ports/curl (`*.patch`)
+- curl patches: https://github.com/microsoft/vcpkg/tree/master/ports/curl (`*.patch`)
