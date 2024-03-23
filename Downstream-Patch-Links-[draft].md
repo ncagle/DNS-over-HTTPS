@@ -7,8 +7,8 @@
 # Muldersoft
 
 - curl: https://sourceforge.net/projects/muldersoft/files/cURL/
-- curl issues: 
-- curl patches: (inside the binary downloads)
+- curl issues: https://github.com/lordmulder/cURL-build-win32/issues
+- curl patches: https://github.com/lordmulder/cURL-build-win32/tree/master/patch
 
 ## vcpkg
 
