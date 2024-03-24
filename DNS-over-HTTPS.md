@@ -313,8 +313,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **S**
 |sadraidc.com|https://pns2.sadraidc.com/dns-query|:heavy_check_mark:|
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
-|saferbfc.org|https://dns1.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
-|saferbfc.org|https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
+|saferbfc.org|https://dns1.saferbfc.org/dns-query<br>https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
 | sarak.as | https://dns.sarak.as/dns-query | :heavy_check_mark:| Ad & porn blocking
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
@@ -345,12 +344,9 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |strassmair.org|https://dns.strassmair.org/dns-query|:heavy_check_mark:|
 |[StreamVine](https://streamvine.app/)|https://dns.streamvine.app/dns-query|:heavy_check_mark:|
 |sufly.top|https://local.sufly.top/dns-query|:heavy_check_mark:|Adblocking
-|sufly.top|https://remote.sufly.top/dns-query|:heavy_check_mark:|
 |sukidayo.eu.org|https://sukidayo.eu.org/dns-query|:heavy_check_mark:|
-|sukidayo.eu.org|https://www.sukidayo.eu.org/dns-query|:heavy_check_mark:|
 | [Sundalandia](https://sundalandia.pp.ua) | Adblock https://sundalandia.pp.ua/dns-query <br> Family filter https://sundalandia.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking
-|superstefan.win|https://adguard.superstefan.win/dns-query|:heavy_check_mark:|Adblocking
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking
 |swin.pro|https://dns.swin.pro/dns-query|:heavy_check_mark:|
 | [SWITCH](https://www.switch.ch/en/switch-public-dns) | https://dns.switch.ch/dns-query | :heavy_check_mark: | DNSSEC validation protects from forged or manipulated DNS data from upstream servers, DNS Query Name Minimisation to improve privacy, [SWITCH DNS Firewall](https://www.switch.ch/dns-firewall/) blocks access to infected or malicious websites and redirects users to a landing page |
