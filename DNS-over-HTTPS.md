@@ -282,7 +282,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |r01.fr|https://home.r01.fr/dns-query|:heavy_check_mark:|Adblocking
 |r9x.cc|https://dns.r9x.cc/dns-query|:heavy_check_mark:|Adblocking
 |rabot.fi|https://ns.rabot.fi/dns-query|:heavy_check_mark:|Adblocking
-|ragnvindr.org|https://inde.ragnvindr.org/dns-query|:heavy_check_mark:|Adblocking
 |ragnvindr.org|https://int.ragnvindr.org/dns-query|:heavy_check_mark:|Adblocking
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking
 |[Renardyre](https://renardyre.com/)|https://dns.renardyre.com/dns-query|:heavy_check_mark:|
