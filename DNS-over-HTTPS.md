@@ -214,7 +214,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Marschi](https://marschi.de/)|https://ag.marschi.de/dns-query|:heavy_check_mark:|Adblocking
 |marto.si|https://adguard.marto.si/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
-|mattiafenzi.uk|https://adguard.mattiafenzi.uk/dns-query|:heavy_check_mark:|
 |maxfong.cc|https://www.maxfong.cc/dns-query|:heavy_check_mark:|Adblocking 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
