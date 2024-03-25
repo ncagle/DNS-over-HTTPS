@@ -354,7 +354,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |trovs.ru|https://trovs.ru/dns-query|:heavy_check_mark:|Adblocking
 |tryk.app|https://dns.tryk.app/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
-|twopudding.icu|https://dns.twopudding.icu/dns-query|:heavy_check_mark:|Adblocking
 |[TXQ](https://txq.life/)|https://dns.txq.life/dns-query|:heavy_check_mark:|Adblocking
 |tzockt.beer|https://ad.tzockt.beer/dns-query|:heavy_check_mark:|
 | **U**
