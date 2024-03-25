@@ -84,7 +84,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **D**
 |daemon.za.net|https://dns.daemon.za.net/dns-query|:heavy_check_mark:|
 |danayasastore.my.id|https://dns.danayasastore.my.id/dns-query|:heavy_check_mark:|Adblocking
-| [Daniel Woffinden](https://daw.dev/) | https://dns.daw.dev/dns-query | :heavy_check_mark: | Adblocking
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |[Daniyar Yeralin](https://yeralin.net/)|https://yeralin.net/dns-query|:heavy_check_mark:|
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging
