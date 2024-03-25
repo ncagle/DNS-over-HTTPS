@@ -189,7 +189,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
 |[korzhyk.pp.ua](https://korzhyk.pp.ua/)|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Adblocking
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
-|ksedns.ru|https://ksedns.ru/dns-query|:heavy_check_mark:|
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
 | [Lastentarvike](https://lastentarvike.fi) | https://lastentarvike.fi/dns-query | :heavy_check_mark: |
@@ -256,7 +255,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ortudns.com|https://ortudns.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[OSZX DNS](https://dns.oszx.co/)|https://dns.oszx.co/dns-query|:heavy_check_mark:|Adblocking
 |ours.luxe|https://dns.ours.luxe/dns-query|:heavy_check_mark:|Ad & porn blocking
-|outdoorchair.us|https://outdoorchair.us/dns-query|:heavy_check_mark:|Adblocking
 |ovpn.bond|https://dns.ovpn.bond/dns-query|:heavy_check_mark:|Adblocking
 | **P**
 |pacificmonster.com|https://dns.pacificmonster.com/dns-query|:heavy_check_mark:|Adblocking
@@ -353,7 +351,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 |tigrons.ru|https://tigrons.ru/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
-|tooli.ca|https://dot.tooli.ca/dns-query|:heavy_check_mark:|Adblocking
 |trovs.ru|https://trovs.ru/dns-query|:heavy_check_mark:|Adblocking
 |tryk.app|https://dns.tryk.app/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
