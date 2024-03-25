@@ -163,8 +163,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
-|inpssh.online|https://www.inpssh.online/dns-query|:heavy_check_mark:|Adblocking
-|inpssh|https://inpssh.online/dns-query|:heavy_check_mark:|Adblocking
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
 | [Institute of Operating Systems and Computer Networks](https://wiki.ibr.cs.tu-bs.de/en/services) | https://doh.ibr.cs.tu-bs.de/dns-query | :heavy_check_mark: |
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027 
@@ -336,7 +334,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
 | [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
 |stealbit.com|https://adguard.stealbit.com/dns-query|:heavy_check_mark:|Adblocking
-|stevenfamy.me|https://adguard.stevenfamy.me/dns-query|:heavy_check_mark:|Ad & porn blocking
 |strassmair.org|https://dns.strassmair.org/dns-query|:heavy_check_mark:|
 |[StreamVine](https://streamvine.app/)|https://dns.streamvine.app/dns-query|:heavy_check_mark:|
 |sukidayo.eu.org|https://sukidayo.eu.org/dns-query|:heavy_check_mark:|
