@@ -244,7 +244,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |nielsdb.be|https://dns1.nielsdb.be/dns-query|:heavy_check_mark:|Adblocking
 |ninhs.org|https://dns.ninhs.org/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
-|nj0.de|https://dns.nj0.de/dns-query|:heavy_check_mark:|Adblocking
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
