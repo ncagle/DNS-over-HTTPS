@@ -241,7 +241,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
 |[NP Solution](https://npsolution.it/)|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Ad & porn blocking
 |ns1net.com|https://x.ns1net.com/dns-query|:heavy_check_mark:|
-|[NZXTi5](https://nzxti5.co.uk/)|https://dns.nzxti5.co.uk/dns-query|:heavy_check_mark:|
 | **O**
 |oasg.xyz|https://dns.oasg.xyz/dns-query|:heavy_check_mark:|
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
