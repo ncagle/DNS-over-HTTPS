@@ -191,7 +191,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LeadSeason.eu](https://leadseason.eu/)|https://adguard.leadseason.eu/dns-query|:heavy_check_mark:|
 |lege.despagne.net|https://adguard.lege.despagne.net/dns-query|:heavy_check_mark:|Adblocking
 |lezainski.com|https://dns2.lezainski.com/dns-query|:heavy_check_mark:|Ad & porn blocking
-|lgprk.com|https://dns.lgprk.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |linzefeng.top|https://dns2.linzefeng.top/dns-query|:heavy_check_mark:|Adblocking
