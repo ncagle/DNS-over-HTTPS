@@ -254,7 +254,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
 |[Plaawan.uk](https://plaawan.uk/)|https://doh.plaawan.uk/dns-query|:heavy_check_mark:|
-|ple91.uk|https://dns.ple91.uk/dns-query|:heavy_check_mark:|Adblocking
 |[PleumKungZ](https://pleumkungz.com/)|https://secure-dns.pleumkungz.com/dns-query|:heavy_check_mark:|Adblocking
 |pmoebi.xyz|https://adguard.pmoebi.xyz/dns-query|:heavy_check_mark:|Adblocking
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
@@ -358,7 +357,7 @@ zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 | **0-9**
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
-|546413.xyz|https://adguard2.546413.xyz/dns-query|:heavy_check_mark:|
+
 |888654.xyz|https://dns.888654.xyz/dns-query|:heavy_check_mark:|Adblocking
 | **Others**
 | [@null31](https://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | :heavy_check_mark: | Based in Brazil / doh-server (nginx - unbound) / dot-server (unbound) / DNSSEC / QNAME minimization / Uncensored / no logging, no ECS, hosted on Oracle Cloud VPS by [null31](https://gitlab.com/null31/DoT-DoH-public-config). |
