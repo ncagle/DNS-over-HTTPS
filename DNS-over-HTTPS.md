@@ -159,7 +159,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |iranet.cam|https://doh.iranet.cam/dns-query|:heavy_check_mark:|
 |is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |isakula.space|https://isakula.space/dns-query|:heavy_check_mark:|Adblocking
-|[itya.xyz](https://itya.xyz/)|https://dns.itya.xyz/dns-query|:heavy_check_mark:|
 | **J**
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
 |jakinet.id|https://adguard.jakinet.id/dns-query|:heavy_check_mark:|Ad & porn blocking
