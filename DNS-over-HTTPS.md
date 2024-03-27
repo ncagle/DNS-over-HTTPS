@@ -261,7 +261,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Quad9](https://quad9.net) | https://dns.quad9.net/dns-query | ✔️ | Blocks malware
 |[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
 | **R**
-|r9x.cc|https://dns.r9x.cc/dns-query|:heavy_check_mark:|Adblocking
 |rabot.fi|https://ns.rabot.fi/dns-query|:heavy_check_mark:|Adblocking
 |ragnvindr.org|https://int.ragnvindr.org/dns-query|:heavy_check_mark:|Adblocking
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking
