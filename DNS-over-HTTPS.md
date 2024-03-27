@@ -159,7 +159,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
 |jakinet.id|https://adguard.jakinet.id/dns-query|:heavy_check_mark:|Ad & porn blocking
 |jambi.undo.it|https://jambi.undo.it/dns-query|:heavy_check_mark:|
-|jmarkin.ru|https://vps.jmarkin.ru/dns-query|:heavy_check_mark:|Adblocking
 |jnraptor.net|https://green2.jnraptor.net/dns-query|:heavy_check_mark:|Adblocking
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 |[Joseph Yap](https://josephyap.me/)|https://agh.josephyap.me/dns-query|:heavy_check_mark:|Adblocking
@@ -198,7 +197,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
-|mesterdodh.cloud|https://dns.mesterdodh.cloud/dns-query|:heavy_check_mark:|
 |milangas2.top|https://ukns.milangas2.top/dns-query|:heavy_check_mark:|
 |[mIT](https://m-it.ro/)|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Adblocking
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Adblocking
@@ -324,7 +322,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tryk.app|https://dns.tryk.app/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 |[TXQ](https://txq.life/)|https://dns.txq.life/dns-query|:heavy_check_mark:|Adblocking
-|tzockt.beer|https://ad.tzockt.beer/dns-query|:heavy_check_mark:|
 | **U**
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
