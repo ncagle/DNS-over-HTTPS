@@ -29,7 +29,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
-| [Aquilenet](https://www.aquilenet.fr/services/dns/)|https://dns.aquilenet.fr/dns-query| :heavy_check_mark:| info https://dns.aquilenet.fr
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 |artsvr.my.id|https://doh.artsvr.my.id/dns-query|:heavy_check_mark:|Adblocking
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
@@ -64,7 +63,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [CIRCL](https://www.circl.lu/) | https://dns.circl.lu/dns-query  | :heavy_check_mark:| Adblocking
 |circumitor.de|https://circumitor.de/dns-query|:heavy_check_mark:|Adblocking
 | [Cisco Umbrella (OpenDNS)](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query <br> Umbrella: https://doh.umbrella.com/dns-query | :heavy_check_mark: <br>:heavy_check_mark:<br> :heavy_check_mark:| DNSSEC, Anycast
-|clanto.cloud|https://dns.clanto.cloud/dns-query|:heavy_check_mark:|Adblocking
 | [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 |[Cloud88](https://cloud88.com.au/)|https://dns.cloud88.com.au/dns-query|:heavy_check_mark:|Adblocking
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
@@ -218,7 +216,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
-|[novali.date](https://novali.date/)|https://dns.novali.date/dns-query|:heavy_check_mark:|Adblocking
 |[NP Solution](https://npsolution.it/)|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Ad & porn blocking
 |ns1net.com|https://x.ns1net.com/dns-query|:heavy_check_mark:|
 | **O**
@@ -265,7 +262,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 |rootlab.top|https://dns.rootlab.top/dns-query|:heavy_check_mark:|Adblocking
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
-|[russel053](https://russel053.com/)|https://agh-yz.russel053.com/dns-query|:heavy_check_mark:|Adblocking
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |saferbfc.org|https://dns1.saferbfc.org/dns-query<br>https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
