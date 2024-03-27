@@ -182,7 +182,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Lastentarvike](https://lastentarvike.fi) | https://lastentarvike.fi/dns-query | :heavy_check_mark: |
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. No logging, no filtering, no ECS, DNSSEC support. |
 |[LeadSeason.eu](https://leadseason.eu/)|https://adguard.leadseason.eu/dns-query|:heavy_check_mark:|
-|lege.despagne.net|https://adguard.lege.despagne.net/dns-query|:heavy_check_mark:|Adblocking
 |lezainski.com|https://dns2.lezainski.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
@@ -198,7 +197,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Marschi](https://marschi.de/)|https://ag.marschi.de/dns-query|:heavy_check_mark:|Adblocking
 |marto.si|https://adguard.marto.si/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
-|maxfong.cc|https://www.maxfong.cc/dns-query|:heavy_check_mark:|Adblocking 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
