@@ -142,7 +142,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |hostme.co.il|https://ag.hostme.co.il/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Adblocking
-|hujiayucc.cn|https://dns.hujiayucc.cn/dns-query|:heavy_check_mark:|Adblocking
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 |huseynov.work|https://dns.huseynov.work/dns-query|:heavy_check_mark:|
 |[Huy Hoàng](https://huyhoangit.net/)|https://dns.huyhoangit.net/dns-query|:heavy_check_mark:|Adblocking
@@ -262,7 +261,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Quad9](https://quad9.net) | https://dns.quad9.net/dns-query | ✔️ | Blocks malware
 |[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
 | **R**
-|r01.fr|https://home.r01.fr/dns-query|:heavy_check_mark:|Adblocking
 |r9x.cc|https://dns.r9x.cc/dns-query|:heavy_check_mark:|Adblocking
 |rabot.fi|https://ns.rabot.fi/dns-query|:heavy_check_mark:|Adblocking
 |ragnvindr.org|https://int.ragnvindr.org/dns-query|:heavy_check_mark:|Adblocking
