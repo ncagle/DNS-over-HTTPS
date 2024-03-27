@@ -302,7 +302,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Sparsh Bajaj](https://sparshbajaj.me/)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
-| [Startup Stack](https://startupstack.tech/) | https://dns.startupstack.tech/dns-query | :heavy_check_mark: |
 |stealbit.com|https://adguard.stealbit.com/dns-query|:heavy_check_mark:|Adblocking
 |strassmair.org|https://dns.strassmair.org/dns-query|:heavy_check_mark:|
 |[StreamVine](https://streamvine.app/)|https://dns.streamvine.app/dns-query|:heavy_check_mark:|
