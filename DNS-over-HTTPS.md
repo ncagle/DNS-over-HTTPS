@@ -80,7 +80,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
 | **D**
 |daemon.za.net|https://dns.daemon.za.net/dns-query|:heavy_check_mark:|
-|danayasastore.my.id|https://dns.danayasastore.my.id/dns-query|:heavy_check_mark:|Adblocking
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | [Datahata.by](https://doh.datahata.by/) | https://doh.datahata.by/dns-query | :heavy_check_mark: |
