@@ -122,7 +122,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
 |felipefalcao.ninja|https://felipefalcao.ninja/dns-query|:heavy_check_mark:|
-|fffl.xyz|https://fffly.xyz/dns-query|:heavy_check_mark:|
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
 | Flm9.net | https://dns01.flm9.net/dns-query |  :heavy_check_mark: |
 |flylcc.cc|https://life.flylcc.cc/dns-query|:heavy_check_mark:|
@@ -146,7 +145,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |huseynov.work|https://dns.huseynov.work/dns-query|:heavy_check_mark:|
 |[Huy Hoàng](https://huyhoangit.net/)|https://dns.huyhoangit.net/dns-query|:heavy_check_mark:|Adblocking
 | **I**
-|i-puppy.ru|https://i-puppy.ru/dns-query|:heavy_check_mark:|Adblocking
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -285,7 +283,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Scuola.org](https://scuola.org/)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Adblocking
 |secure-4ud.de|https://secure-4ud.de/dns-query|:heavy_check_mark:|Adblocking
 |serdcebolit.ru|https://dns.serdcebolit.ru/dns-query|:heavy_check_mark:|
-|servebeer.com|https://privatnas.servebeer.com/dns-query|:heavy_check_mark:|
 |server.my.id|https://agh2.server.my.id/dns-query|:heavy_check_mark:|Adblocking
 |shabi.icu|https://d3.shabi.icu/dns-query|:heavy_check_mark:|Adblocking
 |shalenkov.cc|https://shalenkov.cc/dns-query|:heavy_check_mark:|Adblocking
