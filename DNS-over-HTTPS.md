@@ -256,7 +256,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
 | **Q**
-|[QDev](https://qdev.cc/)|https://v.qdev.cc/dns-query|:heavy_check_mark:|Adblocking
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | [Quad9](https://quad9.net) | https://dns.quad9.net/dns-query | ✔️ | Blocks malware
 |[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
