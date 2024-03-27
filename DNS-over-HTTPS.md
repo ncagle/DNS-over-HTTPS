@@ -300,7 +300,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:|
 |sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking
-|swin.pro|https://dns.swin.pro/dns-query|:heavy_check_mark:|
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
 |systemfall.ru|https://ad.systemfall.ru/dns-query|:heavy_check_mark:|Adblocking
 |szyrzyk.pl|https://szyrzyk.pl/dns-query|:heavy_check_mark:|Adblocking
