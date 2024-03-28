@@ -255,6 +255,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 |rootlab.top|https://dns.rootlab.top/dns-query|:heavy_check_mark:|Adblocking
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
+|[rslvr.eu](https://rslvr.eu/) |US: https://us.rslvr.eu/dns-query <br>The Netherlands: https://nl.rslvr.eu/dns-query<br>Bulgaria: https://bg.rslvr.eu/dns-query <br>Japan: https://jp.rslvr.eu/dns-query<br>Hong Kong: https://hk.rslvr.eu/dns-query<br>Singapore: https://sg.rslvr.eu/dns-query<br>Australia: https://au.rslvr.eu/dns-query|:heavy_check_mark:|Adblocking
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |saferbfc.org|https://dns1.saferbfc.org/dns-query<br>https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
