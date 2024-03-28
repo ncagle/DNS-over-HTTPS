@@ -98,7 +98,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Domyah](https://domyah.net/)|https://takhtakh.domyah.net/dns-query|:heavy_check_mark:|
 |dotnet.win|https://dns.dotnet.win/dns-query|:heavy_check_mark:|Ad & porn blocking
 |dscloud.me|https://doh.dscloud.me/dns-query|:heavy_check_mark:|Adblocking
-|dsh.lol|https://ad.dsh.lol/dns-query|:heavy_check_mark:|Adblocking
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
 | **E**
 |[EasyMosdns](https://doh.apad.pro/)|https://doh.apad.pro/dns-query|:heavy_check_mark:|
@@ -206,7 +205,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[NP Solution](https://npsolution.it/)|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Ad & porn blocking
 |ns1net.com|https://x.ns1net.com/dns-query|:heavy_check_mark:|
 | **O**
-|oasg.xyz|https://dns.oasg.xyz/dns-query|:heavy_check_mark:|
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
 |[Omada](https://omada.cafe/)|https://nydns.omada.cafe/dns-query|:heavy_check_mark:|Adblocking
 |[OpenBLD.net](https://openbld.net/) | Adapted: https://ada.openbld.net/dns-query <br> Strict: https://ric.openbld.net/dns-query |:heavy_check_mark: <br> :heavy_check_mark:|Adblocking
@@ -268,7 +266,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
-| [Softcom](https://www.softcom.net/) | https://clientdns3.softcom.net/dns-query | :heavy_check_mark: |
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Sparsh Bajaj](https://sparshbajaj.me/)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
