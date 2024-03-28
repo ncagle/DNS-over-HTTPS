@@ -225,7 +225,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PanSzelescik](https://panszelescik.pl/)|https://dns-ovh.panszelescik.pl/dns-query|:heavy_check_mark:|Adblocking
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking
-|[Pavol Decky](https://decky.eu/)|https://dns.decky.eu/dns-query|:heavy_check_mark:|
 |paxavemedia.com|https://dns.paxavemedia.com/dns-query|:heavy_check_mark:|Adblocking
 |pbs.gentility.org|https://dns.pbs.gentility.org/dns-query|:heavy_check_mark:|
 |[PC Coach](https://pccoach.nl/)|https://dns.pccoach.nl/dns-query|:heavy_check_mark:|Adblocking
@@ -298,7 +297,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Tekno Holistik](https://www.teknoholistik.com/) | https://family.dns.teknoholistik.com/dns-query |:heavy_check_mark:|Ad & porn blocking
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|
-|thefather.cloud|https://guard.thefather.cloud/dns-query|:heavy_check_mark:|Adblocking
 |thetcs.eu.org|https://cdn.thetcs.eu.org/dns-query|:heavy_check_mark:|Adblocking
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 |tigrons.ru|https://tigrons.ru/dns-query|:heavy_check_mark:|Adblocking
