@@ -12,7 +12,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |-------------|----------|---------|---------|
 | **A**
 |[ABD](https://abd.ong/)|https://adguard.abd.ong/dns-query|:heavy_check_mark:|Adblocking
-|abdullahabas.de|https://dns.abdullahabas.de/dns-query|:heavy_check_mark:|Adblocking
 |[Abraservice.xyz](https://abraservice.xyz/)|https://doh.abraservice.xyz/dns-query|:heavy_check_mark:|
 |adblocker.eu.org|https://pi.adblocker.eu.org/dns-query|:heavy_check_mark:|Adblocking
 |[AdFilter](https://adfilter.net/)|Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
@@ -33,7 +32,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
-|azoris.ovh|https://doh.azoris.ovh/dns-query|:heavy_check_mark:|Adblocking
 | **B**
 |baishiyuan.cn|https://dns.baishiyuan.cn/dns-query|:heavy_check_mark:|Adblocking
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
@@ -174,7 +172,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/) | https://dns.lista.my.id/dns-query | :heavy_check_mark: | ECS + Adblocking + EXT OpenNIC
 |londonwebnerd.cloud|https://adguard.londonwebnerd.cloud/dns-query|:heavy_check_mark:|
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query <br>Spain: https://doh.phdns4.lonet.org/dns-query <br>United Kingdom: https://doh.phdns5.lonet.org/dns-query <br>  | :heavy_check_mark:|Adblocking
-|[LOONY-TECH](https://loony-tech.de/)|https://dns.loony-tech.de/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Lupine Solutions](https://lupine.solutions/)|https://dns.lupine.solutions/dns-query|:heavy_check_mark:|
 | **M**
 |mandre.dev|https://dns.mandre.dev/dns-query|:heavy_check_mark:|Adblocking
@@ -201,7 +198,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
 |nielsdb.be|https://dns1.nielsdb.be/dns-query|:heavy_check_mark:|Adblocking
-|ninhs.org|https://dns.ninhs.org/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
@@ -217,7 +213,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |orangepipc|https://fwgw.orangepipc.mywire.org/dns-query|:heavy_check_mark:|Adblocking
 |[OSZX DNS](https://dns.oszx.co/)|https://dns.oszx.co/dns-query|:heavy_check_mark:|Adblocking
 |ours.luxe|https://dns.ours.luxe/dns-query|:heavy_check_mark:|Ad & porn blocking
-|ovpn.bond|https://dns.ovpn.bond/dns-query|:heavy_check_mark:|Adblocking
 | **P**
 |pacificmonster.com|https://dns.pacificmonster.com/dns-query|:heavy_check_mark:|Adblocking
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging
@@ -230,7 +225,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
 |[Plaawan.uk](https://plaawan.uk/)|https://doh.plaawan.uk/dns-query|:heavy_check_mark:|
-|[PleumKungZ](https://pleumkungz.com/)|https://secure-dns.pleumkungz.com/dns-query|:heavy_check_mark:|Adblocking
 |pmoebi.xyz|https://adguard.pmoebi.xyz/dns-query|:heavy_check_mark:|Adblocking
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
@@ -240,7 +234,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Quad9](https://quad9.net) | https://dns.quad9.net/dns-query | ✔️ | Blocks malware
 |[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
 | **R**
-|rabot.fi|https://ns.rabot.fi/dns-query|:heavy_check_mark:|Adblocking
 |ragnvindr.org|https://int.ragnvindr.org/dns-query|:heavy_check_mark:|Adblocking
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking
 |[Renardyre](https://renardyre.com/)|https://dns.renardyre.com/dns-query|:heavy_check_mark:|
@@ -293,7 +286,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
 |technicule.info|https://vpn.technicule.info/dns-query|:heavy_check_mark:|
-|[Tekno Holistik](https://www.teknoholistik.com/) | https://family.dns.teknoholistik.com/dns-query |:heavy_check_mark:|Ad & porn blocking
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|
 |thetcs.eu.org|https://cdn.thetcs.eu.org/dns-query|:heavy_check_mark:|Adblocking
