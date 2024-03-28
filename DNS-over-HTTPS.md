@@ -255,7 +255,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Scarx](https://scarx.net/)|https://dns.scarx.net/dns-query|:heavy_check_mark:|
 |schlagheck.berlin|https://dns.schlagheck.berlin/dns-query|:heavy_check_mark:|Adblocking
 |[Scuola.org](https://scuola.org/)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Adblocking
-|secure-4ud.de|https://secure-4ud.de/dns-query|:heavy_check_mark:|Adblocking
 |serdcebolit.ru|https://dns.serdcebolit.ru/dns-query|:heavy_check_mark:|
 |server.my.id|https://agh2.server.my.id/dns-query|:heavy_check_mark:|Adblocking
 |shabi.icu|https://d3.shabi.icu/dns-query|:heavy_check_mark:|Adblocking
