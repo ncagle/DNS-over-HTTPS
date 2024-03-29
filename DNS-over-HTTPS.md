@@ -151,7 +151,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 |[Joseph Yap](https://josephyap.me/)|https://agh.josephyap.me/dns-query|:heavy_check_mark:|Adblocking
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
-|jundev.org|https://dns.jundev.org/dns-query|:heavy_check_mark:|Adblocking
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|
 | **K**
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
