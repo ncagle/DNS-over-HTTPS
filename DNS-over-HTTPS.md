@@ -21,7 +21,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
 |[AhmGam](https://ahmgam.com/)|https://dns.ahmgam.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |ahua.ltd|https://hk.ahua.ltd/dns-query|:heavy_check_mark:|Adblocking
-|albertocognetti.com|https://albertocognetti.com/dns-query|:heavy_check_mark:|
 |[Alibaba Public DNS](https://www.alidns.com/)| https://dns.alidns.com/dns-query| :heavy_check_mark:| [DoH/DoT/DNS Json API](https://www.alidns.com/knowledge?type=SETTING_DOCS), Best DoH/DoT server in China |
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Adblocking
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
