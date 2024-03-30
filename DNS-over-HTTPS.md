@@ -201,7 +201,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[OSZX DNS](https://dns.oszx.co/)|https://dns.oszx.co/dns-query|:heavy_check_mark:|Adblocking
 |ours.luxe|https://dns.ours.luxe/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **P**
-|pacificmonster.com|https://dns.pacificmonster.com/dns-query|:heavy_check_mark:|Adblocking
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging
 |[PanSzelescik](https://panszelescik.pl/)|https://dns-ovh.panszelescik.pl/dns-query|:heavy_check_mark:|Adblocking
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
