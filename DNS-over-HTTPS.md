@@ -256,6 +256,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Sparsh Bajaj](https://sparshbajaj.me/)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|
+|[Spirio.fr](https://spirio.fr/dns/)|https://dns.spirio.fr/dns-query|:heavy_check_mark:|Adblocking
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
 |stealbit.com|https://adguard.stealbit.com/dns-query|:heavy_check_mark:|Adblocking
 |strassmair.org|https://dns.strassmair.org/dns-query|:heavy_check_mark:|
@@ -278,6 +279,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tigrons.ru|https://tigrons.ru/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |trovs.ru|https://trovs.ru/dns-query|:heavy_check_mark:|Adblocking
+|[truta](https://helio.loureiro.eng.br/index.php/todas-categorias/70-networking/19-apache/463-criando-um-servico-de-relay-de-dns-over-https)|https://truta.org/dns-query|:heavy_check_mark:|
 |tryk.app|https://dns.tryk.app/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 |[TXQ](https://txq.life/)|https://dns.txq.life/dns-query|:heavy_check_mark:|Adblocking
