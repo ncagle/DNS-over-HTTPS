@@ -116,7 +116,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query <br> https://cluster-1.gac.edu/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| 
 | **H**
 |hanniel.tech|https://hanniel.tech/dns-query|:heavy_check_mark:|Adblocking
-|hker.me|https://jpdns.hker.me/dns-query|:heavy_check_mark:|Adblocking
 |hostme.co.il|https://ag.hostme.co.il/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
@@ -155,7 +154,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/) | https://dns.lista.my.id/dns-query | :heavy_check_mark: | Adblocking
 |londonwebnerd.cloud|https://adguard.londonwebnerd.cloud/dns-query|:heavy_check_mark:|
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query <br>Spain: https://doh.phdns4.lonet.org/dns-query <br>United Kingdom: https://doh.phdns5.lonet.org/dns-query <br>  | :heavy_check_mark:|Adblocking
-|[Lupine Solutions](https://lupine.solutions/)|https://dns.lupine.solutions/dns-query|:heavy_check_mark:|
 | **M**
 |mandre.dev|https://dns.mandre.dev/dns-query|:heavy_check_mark:|Adblocking
 |[Marschi](https://marschi.de/)|https://ag.marschi.de/dns-query|:heavy_check_mark:|Adblocking
