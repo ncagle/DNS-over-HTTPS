@@ -210,7 +210,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Quad9](https://quad9.net) | https://dns.quad9.net/dns-query | ✔️ | Blocks malware
 |[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
 | **R**
-|ragnvindr.org|https://int.ragnvindr.org/dns-query|:heavy_check_mark:|Adblocking
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking
 |[Renardyre](https://renardyre.com/)|https://dns.renardyre.com/dns-query|:heavy_check_mark:|
 |[Repinger](https://dns.repinger.my.id/) | https://dns.repinger.my.id/dns-query|:heavy_check_mark:|Adblocking
@@ -230,7 +229,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | sarak.as | https://dns.sarak.as/dns-query | :heavy_check_mark:| Ad & porn blocking
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
-|[Scarx](https://scarx.net/)|https://dns.scarx.net/dns-query|:heavy_check_mark:|
 |schlagheck.berlin|https://dns.schlagheck.berlin/dns-query|:heavy_check_mark:|Adblocking
 |[Scuola.org](https://scuola.org/)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Adblocking
 |serdcebolit.ru|https://dns.serdcebolit.ru/dns-query|:heavy_check_mark:|
