@@ -193,7 +193,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking
 |paxavemedia.com|https://dns.paxavemedia.com/dns-query|:heavy_check_mark:|Adblocking
-|pbs.gentility.org|https://dns.pbs.gentility.org/dns-query|:heavy_check_mark:|
 |[PC Coach](https://pccoach.nl/)|https://dns.pccoach.nl/dns-query|:heavy_check_mark:|Adblocking
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
