@@ -129,7 +129,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |isakula.space|https://isakula.space/dns-query|:heavy_check_mark:|Adblocking
 | **J**
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
-|jambi.undo.it|https://jambi.undo.it/dns-query|:heavy_check_mark:|
 |jnraptor.net|https://green2.jnraptor.net/dns-query|:heavy_check_mark:|Adblocking
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
