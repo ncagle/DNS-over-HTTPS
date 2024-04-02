@@ -268,7 +268,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[vape](https://vape.ong/)|https://adguard.vape.ong/dns-query|:heavy_check_mark:|Adblocking
 |[VIA](https://viatech.com.tw/en/)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Adblocking
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
-|vpn.geshido.ru|https://geshido.vpn.geshido.ru/dns-query|:heavy_check_mark:|Adblocking
 |vtcuong.site|https://vtcuong.site/dns-query|:heavy_check_mark:|Adblocking
 | **W**
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
