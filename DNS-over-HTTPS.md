@@ -156,7 +156,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
-|milangas2.top|https://ukns.milangas2.top/dns-query|:heavy_check_mark:|
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Adblocking
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 |[moesite.top](https://moesite.top/)|https://dns.moesite.top/dns-query|:heavy_check_mark:|Adblocking
@@ -265,7 +264,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
 | **V**
 |[vape](https://vape.ong/)|https://adguard.vape.ong/dns-query|:heavy_check_mark:|Adblocking
-|[VIA](https://viatech.com.tw/en/)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Adblocking
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |vtcuong.site|https://vtcuong.site/dns-query|:heavy_check_mark:|Adblocking
 | **W**
