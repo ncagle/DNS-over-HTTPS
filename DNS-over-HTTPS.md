@@ -117,7 +117,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 |huseynov.work|https://dns.huseynov.work/dns-query|:heavy_check_mark:|
-|[Huy Hoàng](https://huyhoangit.net/)|https://dns.huyhoangit.net/dns-query|:heavy_check_mark:|Adblocking
 | **I**
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
@@ -231,7 +230,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
-|[Sparsh Bajaj](https://sparshbajaj.me/)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|
 |[Spirio.fr](https://spirio.fr/dns/)|https://dns.spirio.fr/dns-query|:heavy_check_mark:|Adblocking
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
 |stealbit.com|https://adguard.stealbit.com/dns-query|:heavy_check_mark:|Adblocking
