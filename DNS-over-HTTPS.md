@@ -170,7 +170,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |[NP Solution](https://npsolution.it/)|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Ad & porn blocking
-|ns1net.com|https://x.ns1net.com/dns-query|:heavy_check_mark:|
 | **O**
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
 |[Omada](https://omada.cafe/)|https://nydns.omada.cafe/dns-query|:heavy_check_mark:|Adblocking
@@ -213,7 +212,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
 |schlagheck.berlin|https://dns.schlagheck.berlin/dns-query|:heavy_check_mark:|Adblocking
-|[Scuola.org](https://scuola.org/)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Adblocking
 |serdcebolit.ru|https://dns.serdcebolit.ru/dns-query|:heavy_check_mark:|
 |server.my.id|https://agh2.server.my.id/dns-query|:heavy_check_mark:|Adblocking
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -233,7 +231,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
-|szyrzyk.pl|https://szyrzyk.pl/dns-query|:heavy_check_mark:|Adblocking
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
 |technicule.info|https://vpn.technicule.info/dns-query|:heavy_check_mark:|
