@@ -18,7 +18,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Adrian Lam](https://adrianlam.com/)|https://dns.adrianlam.com/dns-query|:heavy_check_mark:|Adblocking
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
-|[AhmGam](https://ahmgam.com/)|https://dns.ahmgam.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
@@ -178,13 +177,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[OpenBLD.net](https://openbld.net/) | Adapted: https://ada.openbld.net/dns-query <br> Strict: https://ric.openbld.net/dns-query |:heavy_check_mark: <br> :heavy_check_mark:|Adblocking
 |orangepipc|https://fwgw.orangepipc.mywire.org/dns-query|:heavy_check_mark:|Adblocking
 |[OSZX DNS](https://dns.oszx.co/)|https://dns.oszx.co/dns-query|:heavy_check_mark:|Adblocking
-|ours.luxe|https://dns.ours.luxe/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging
 |[PanSzelescik](https://panszelescik.pl/)|https://dns-ovh.panszelescik.pl/dns-query|:heavy_check_mark:|Adblocking
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking
-|paxavemedia.com|https://dns.paxavemedia.com/dns-query|:heavy_check_mark:|Adblocking
 |[PC Coach](https://pccoach.nl/)|https://dns.pccoach.nl/dns-query|:heavy_check_mark:|Adblocking
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
@@ -236,7 +233,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
-|systemfall.ru|https://ad.systemfall.ru/dns-query|:heavy_check_mark:|Adblocking
 |szyrzyk.pl|https://szyrzyk.pl/dns-query|:heavy_check_mark:|Adblocking
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
@@ -247,7 +243,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 |tigrons.ru|https://tigrons.ru/dns-query|:heavy_check_mark:|Adblocking
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
-|trovs.ru|https://trovs.ru/dns-query|:heavy_check_mark:|Adblocking
 |[truta](https://helio.loureiro.eng.br/index.php/todas-categorias/70-networking/19-apache/463-criando-um-servico-de-relay-de-dns-over-https)|https://truta.org/dns-query|:heavy_check_mark:|
 |tryk.app|https://dns.tryk.app/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
