@@ -247,7 +247,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
 | **V**
-|[vape](https://vape.ong/)|https://adguard.vape.ong/dns-query|:heavy_check_mark:|Adblocking
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |vtcuong.site|https://vtcuong.site/dns-query|:heavy_check_mark:|Adblocking
 | **W**
