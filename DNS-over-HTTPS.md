@@ -230,7 +230,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Spirio.fr](https://spirio.fr/dns/)|https://dns.spirio.fr/dns-query|:heavy_check_mark:|Adblocking
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
-|stealbit.com|https://adguard.stealbit.com/dns-query|:heavy_check_mark:|Adblocking
 |strassmair.org|https://dns.strassmair.org/dns-query|:heavy_check_mark:|
 |[StreamVine](https://streamvine.app/)|https://dns.streamvine.app/dns-query|:heavy_check_mark:|
 |sukidayo.eu.org|https://sukidayo.eu.org/dns-query|:heavy_check_mark:|
