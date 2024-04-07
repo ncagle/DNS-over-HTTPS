@@ -278,12 +278,12 @@ Download a recent snapshot of the above list as JSON from [here](https://github.
 
 |Name|Version|Comments|
 |----|-------|----|
-|Firefox|62| [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https) |
+|Firefox|62| [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/dns-over-https#w_configure-doh-protection-settings) |
 |[Bromite](https://www.bromite.org/)|67.0.3396.88|[How to enable DoH](https://github.com/bromite/bromite/wiki/Enabling-DNS-over-HTTPS)|
 |curl| 7.62.0 | See [DOH-implementation](DOH-implementation) |
 |[OkHttp](https://github.com/square/okhttp/tree/master/okhttp-dnsoverhttps)| 3.11 | See [Providers](https://github.com/square/okhttp/blob/master/okhttp-dnsoverhttps/src/test/java/okhttp3/dnsoverhttps/DohProviders.java) |
 | [curl-doh](https://github.com/curl/doh) | n/a | basic stand-alone DoH client that uses curl |
-| Chrome | 66 | https://support.google.com/chrome/answer/10468685 |
+| Chrome | 66 | https://support.google.com/chrome/answer/10468685#zippy=%2Cuse-a-secure-connection-to-look-up-sites-ip-addresses |
 | Windows | 11 | https://learn.microsoft.com/en-us/windows-server/networking/dns/doh-client-support |
 | iOS & macOS | iOS 14 & macOS 11 | https://dns.notjakob.com/ | 
 
