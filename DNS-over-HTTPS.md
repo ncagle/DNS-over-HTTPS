@@ -88,7 +88,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|
 |[Extrawdw](https://extrawdw.net/)|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Adblocking
-|ezyss.id|https://dns.ezyss.id/dns-query|:heavy_check_mark:|
+|ezyss.id|https://dns.ezyss.id/dns-query|:heavy_check_mark:|Malware blocking
 | **F**
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
