@@ -35,7 +35,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **C**
-|callies-online|https://callies-online.site/dns-query|:heavy_check_mark:|Adblocking
 |[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | 
 |[Carestyle](https://carestyle.org/)|https://console.carestyle.org/dns-query|:heavy_check_mark:|Adblocking
 |[carson-family.com](https://carson-family.com/)|https://dns.carson-family.com/dns-query|:heavy_check_mark:|Ad & porn blocking
