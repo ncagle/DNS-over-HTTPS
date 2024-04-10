@@ -261,7 +261,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking
-|yumenashyi.com|https://dns.yumenashyi.com/dns-query|:heavy_check_mark:|
 | **Z**
 zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 | **0-9**
