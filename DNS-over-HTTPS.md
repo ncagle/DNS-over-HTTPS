@@ -21,6 +21,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
+|[Apollinaria](https://hypercute.eu/)|https://dns.hypercute.eu/dns-query| :heavy_check_mark: |
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
@@ -29,6 +30,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |baishiyuan.cn|https://dns.baishiyuan.cn/dns-query|:heavy_check_mark:|Adblocking
 | [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
+|[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking
 |[Blaze-sk](https://blaze-sk.ru/)|https://dns.blaze-sk.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |bonis.de|https://adguard.bonis.de/dns-query|:heavy_check_mark:|
@@ -78,6 +80,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dnswebvsn.com|https://dnswebvsn.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |doh.best|https://dns.doh.best/dns-query|:heavy_check_mark:|Adblocking
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|
+|[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
 |domotik.us|https://dnsfilter.domotik.us/dns-query|:heavy_check_mark:|Adblocking
 |[Domyah](https://domyah.net/)|https://takhtakh.domyah.net/dns-query|:heavy_check_mark:|
 |dotnet.win|https://dns.dotnet.win/dns-query|:heavy_check_mark:|Ad & porn blocking
@@ -121,6 +124,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 | **J**
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
+|janl.eu | https://dns.janl.eu/dns-query| :heavy_check_mark: | Adblocking
 |jnraptor.net|https://green2.jnraptor.net/dns-query|:heavy_check_mark:|Adblocking
 | [Jonas Hahnfeld](https://www.hahnjo.de/) | https://dns.hahnjo.de/dns-query | :heavy_check_mark: |
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
@@ -232,6 +236,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:|
 |sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking
+|[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
