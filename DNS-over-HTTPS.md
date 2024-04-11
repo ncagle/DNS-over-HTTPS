@@ -141,7 +141,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lezainski.com|https://dns2.lezainski.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
-| [Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/) | https://dns.lista.my.id/dns-query | :heavy_check_mark: | Adblocking
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
 |londonwebnerd.cloud|https://adguard.londonwebnerd.cloud/dns-query|:heavy_check_mark:|
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query <br>Spain: https://doh.phdns4.lonet.org/dns-query <br>United Kingdom: https://doh.phdns5.lonet.org/dns-query <br>  | :heavy_check_mark:|Adblocking
