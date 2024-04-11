@@ -191,7 +191,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
-|p3k.sk|https://dns.p3k.sk/dns-query|:heavy_check_mark:|Adblocking
 | **Q**
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | [Quad9](https://quad9.net) | https://dns.quad9.net/dns-query | ✔️ | Blocks malware
