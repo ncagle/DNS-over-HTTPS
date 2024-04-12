@@ -18,6 +18,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Adrian Lam](https://adrianlam.com/)|https://dns.adrianlam.com/dns-query|:heavy_check_mark:|Adblocking
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
+|alleesph|https://alleesph.online/dns-query|:heavy_check_mark:|
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
@@ -118,11 +119,14 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **I**
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[Iki](https://iki.my.id)|https://dns.iki.my.id/dns-query|:heavy_check_mark:|Adblocking
+|immanuelschaffer|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
+|[Indianets](https://www.indianets.com/)|https://adblock.indianets.net/dns-query|:heavy_check_mark:|Adblocking
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027 
 |is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
+|itsa|https://diy.itsa.top/dns-query| :heavy_check_mark: | Adblocking
 | **J**
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
 |janl.eu | https://dns.janl.eu/dns-query| :heavy_check_mark: | Adblocking
@@ -182,6 +186,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[NP Solution](https://npsolution.it/)|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **O**
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
+|oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[OpenBLD.net](https://openbld.net/) | Adapted: https://ada.openbld.net/dns-query <br> Strict: https://ric.openbld.net/dns-query |:heavy_check_mark: <br> :heavy_check_mark:|Adblocking
 |orangepipc|https://fwgw.orangepipc.mywire.org/dns-query|:heavy_check_mark:|Adblocking
 |[Oryxlabs](https://oryxlabs.ae/)|https://dns.oryxlabs.com/dns-query|:heavy_check_mark:|
@@ -196,6 +201,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
+|[Prima Integrasi Solusindo](https://www.prima-solusindo.com/)|https://dns2.prima-solusindo.com/dns-query|:heavy_check_mark:|
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
 | **Q**
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
@@ -213,6 +219,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 |[rslvr.eu](https://rslvr.eu/) |US: https://us.rslvr.eu/dns-query <br>The Netherlands: https://nl.rslvr.eu/dns-query<br>Bulgaria: https://bg.rslvr.eu/dns-query <br>Japan: https://jp.rslvr.eu/dns-query<br>Hong Kong: https://hk.rslvr.eu/dns-query<br>Singapore: https://sg.rslvr.eu/dns-query<br>Australia: https://au.rslvr.eu/dns-query|:heavy_check_mark:|Adblocking
 |runsel|https://doh.runsel.id/dns-query|:heavy_check_mark:|Adblocking
+|rustsword|https://drs.rustsword.com/dns-query|:heavy_check_mark:|
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |saferbfc.org|https://dns1.saferbfc.org/dns-query<br>https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
