@@ -201,7 +201,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
 | **R**
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking
-|[Renardyre](https://renardyre.com/)|https://dns.renardyre.com/dns-query|:heavy_check_mark:|
 |[Repinger](https://dns.repinger.my.id/) | https://dns.repinger.my.id/dns-query|:heavy_check_mark:|Adblocking
 | [Restena](https://www.restena.lu/en/service/public-dns-resolver) | https://kaitain.restena.lu/dns-query | :heavy_check_mark: | Based in Luxembourg, DNSSEC, minimal logging for technical functions
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking
