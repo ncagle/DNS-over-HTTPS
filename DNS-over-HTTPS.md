@@ -117,6 +117,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |huseynov.work|https://dns.huseynov.work/dns-query|:heavy_check_mark:|
 | **I**
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
+|[Iki](https://iki.my.id)|https://dns.iki.my.id/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
@@ -131,6 +132,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|
 | **K**
 |keke125|https://dns.keke125.com/dns-query|:heavy_check_mark:|Adblocking
+|Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking
 | [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
@@ -210,6 +212,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |rootlab.top|https://dns.rootlab.top/dns-query|:heavy_check_mark:|Adblocking
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
 |[rslvr.eu](https://rslvr.eu/) |US: https://us.rslvr.eu/dns-query <br>The Netherlands: https://nl.rslvr.eu/dns-query<br>Bulgaria: https://bg.rslvr.eu/dns-query <br>Japan: https://jp.rslvr.eu/dns-query<br>Hong Kong: https://hk.rslvr.eu/dns-query<br>Singapore: https://sg.rslvr.eu/dns-query<br>Australia: https://au.rslvr.eu/dns-query|:heavy_check_mark:|Adblocking
+|runsel|https://doh.runsel.id/dns-query|:heavy_check_mark:|Adblocking
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |saferbfc.org|https://dns1.saferbfc.org/dns-query<br>https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
@@ -260,6 +263,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **W**
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
+|warma|https://dns.warma.me/dns-query|:heavy_check_mark:|Adblocking
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
