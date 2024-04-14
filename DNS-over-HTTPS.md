@@ -30,7 +30,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |aws.ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Adblocking
 | **B**
 |baishiyuan.cn|https://dns.baishiyuan.cn/dns-query|:heavy_check_mark:|Adblocking
-| [Bancuh](https://blog.bancuh.com/adblock-dns/) | Singapore:<br> https://sg-dns1.bancuh.com/dns-query <br> France:<br> https://fr-dns1.bancuh.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Adblocking, porn blocking, log available for originating IP
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 |[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking
 |[Blaze-sk](https://blaze-sk.ru/)|https://dns.blaze-sk.ru/dns-query|:heavy_check_mark:|Adblocking
