@@ -156,6 +156,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Marschi](https://marschi.de/)|https://ag.marschi.de/dns-query|:heavy_check_mark:|Adblocking
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
+|[Matt VerLee](https://doubleangels.com/)|https://family.dns.doubleangels.com/dns-query|:heavy_check_mark:|Block ads
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
 | [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
@@ -196,12 +197,14 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PersianNIT](https://persiannit.net/)|https://darya.persiannit.net/dns-query|:heavy_check_mark:|Adblocking
 |pesaventofilippo|https://dns.pesaventofilippo.com/dns-query|:heavy_check_mark:|Adblocking
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
+|pnh.my.id|https://dns.pnh.my.id/dns-query|:heavy_check_mark:|Block ads
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
 |[Prima Integrasi Solusindo](https://www.prima-solusindo.com/)|https://dns2.prima-solusindo.com/dns-query|:heavy_check_mark:|
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
 | **Q**
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
+|qtxd.net|https://hostdare.qtxd.net/dns-query|:heavy_check_mark:|Block ads
 | [Quad9](https://quad9.net) | https://dns.quad9.net/dns-query | ✔️ | Blocks malware
 |[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
 | **R**
@@ -280,6 +283,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **0-9**
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
+|4ch.my.id|https://polisidns.4ch.my.id/dns-query|:heavy_check_mark:|Block ads
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 | **Others**
 | [@null31](https://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | :heavy_check_mark: | Based in Brazil / doh-server (nginx - unbound) / dot-server (unbound) / DNSSEC / QNAME minimization / Uncensored / no logging, no ECS, hosted on Oracle Cloud VPS by [null31](https://gitlab.com/null31/DoT-DoH-public-config). |
