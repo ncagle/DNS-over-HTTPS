@@ -82,7 +82,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.best|https://dns.doh.best/dns-query|:heavy_check_mark:|Adblocking
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
-|[Domyah](https://domyah.net/)|https://takhtakh.domyah.net/dns-query|:heavy_check_mark:|
 |dotnet.win|https://dns.dotnet.win/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
 | **E**
