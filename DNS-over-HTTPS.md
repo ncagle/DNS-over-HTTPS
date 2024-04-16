@@ -140,6 +140,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
+|kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads
 |Kukal|https://dns.kukal.cz/dns-query| :heavy_check_mark: | Adblocking
 | **L**
 |labnekotest|https://dns.labnekotest.site/dns-query| :heavy_check_mark: | Adblocking
@@ -238,6 +239,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
+|[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Spirio.fr](https://spirio.fr/dns/)|https://dns.spirio.fr/dns-query|:heavy_check_mark:|Adblocking
 |sscw.win|https://adguard.sscw.win/dns-query|:heavy_check_mark:|Adblocking
@@ -266,6 +268,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
 | **V**
+|[Val Cosmos](https://valscosmos.com)|https://doh.valscosmos.com|:heavy_check_mark:|Block ads
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |vtcuong.site|https://vtcuong.site/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **W**
@@ -285,6 +288,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
 |4ch.my.id|https://polisidns.4ch.my.id/dns-query|:heavy_check_mark:|Block ads
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
+|9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
 | **Others**
 | [@null31](https://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | :heavy_check_mark: | Based in Brazil / doh-server (nginx - unbound) / dot-server (unbound) / DNSSEC / QNAME minimization / Uncensored / no logging, no ECS, hosted on Oracle Cloud VPS by [null31](https://gitlab.com/null31/DoT-DoH-public-config). |
 | @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query | :heavy_check_mark: | Australian server that runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), Unbound with DNSSEC, No ECS, and No logs|
