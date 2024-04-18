@@ -138,7 +138,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |Kar Family|https://dns.karfamily.net/dns-query|:heavy_check_mark:|Adblocking
 |keke125|https://dns.keke125.com/dns-query|:heavy_check_mark:|Adblocking
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking
-| [Kernel-error](https://www.kernel-error.de/2022/03/18/bind-9-18-mit-doh-und-dot/) | https://dns.kernel-error.de/dns-query | :heavy_check_mark: |
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
@@ -234,7 +233,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
-|schlagheck.berlin|https://dns.schlagheck.berlin/dns-query|:heavy_check_mark:|Adblocking
 |sealyserver|https://adguard.sealyserver.com/dns-query|:heavy_check_mark:|Adblocking
 |serdcebolit.ru|https://dns.serdcebolit.ru/dns-query|:heavy_check_mark:|
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking
