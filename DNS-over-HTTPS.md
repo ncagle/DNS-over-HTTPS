@@ -229,6 +229,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 |saferbfc.org|https://dns1.saferbfc.org/dns-query<br>https://dns2.saferbfc.org/dns-query|:heavy_check_mark:|Adblocking
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
+|samonte.ovh|https://adguard.samonte.ovh/dns-query|:heavy_check_mark:|Block ads
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
 |sealyserver|https://adguard.sealyserver.com/dns-query|:heavy_check_mark:|Adblocking
@@ -264,6 +265,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[truta](https://helio.loureiro.eng.br/index.php/todas-categorias/70-networking/19-apache/463-criando-um-servico-de-relay-de-dns-over-https)|https://truta.org/dns-query|:heavy_check_mark:|
 |tryk.app|https://dns.tryk.app/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
+|twotigers.xyz|https://adguard.twotigers.xyz/dns-query|:heavy_check_mark:|Block ads
 |[TXQ](https://txq.life/)|https://dns.txq.life/dns-query|:heavy_check_mark:|Adblocking
 | **U**
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
