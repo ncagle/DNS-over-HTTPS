@@ -111,7 +111,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |guidocioni.it|https://dns2.guidocioni.it/dns-query|:heavy_check_mark:|Adblocking
 | [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query <br> https://cluster-1.gac.edu/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| 
 | **H**
-|hanniel.tech|https://hanniel.tech/dns-query|:heavy_check_mark:|Adblocking
 |horcrux.vip|https://dns.horcrux.vip/dns-query|:heavy_check_mark:|Block ads
 |hostme.co.il|https://ag.hostme.co.il/dns-query|:heavy_check_mark:|Adblocking
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
