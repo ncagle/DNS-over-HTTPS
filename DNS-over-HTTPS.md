@@ -200,7 +200,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pnh.my.id|https://dns.pnh.my.id/dns-query|:heavy_check_mark:|Block ads
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
-|[Prima Integrasi Solusindo](https://www.prima-solusindo.com/)|https://dns2.prima-solusindo.com/dns-query|:heavy_check_mark:|
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
 | **Q**
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
