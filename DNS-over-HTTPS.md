@@ -159,7 +159,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Matt VerLee](https://doubleangels.com/)|https://family.dns.doubleangels.com/dns-query|:heavy_check_mark:|Block ads
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
-| [MegaNerd](https://meganerd.nl/encrypted-dns-server) | https://snoke.meganerd.nl/dns-query | :heavy_check_mark: | No logging, no filtering, DNSSEC, based in the Netherlands
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |mihanentalpo|https://dns.mihanentalpo.me|:heavy_check_mark:|
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Adblocking
