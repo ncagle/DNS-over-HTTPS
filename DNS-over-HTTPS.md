@@ -135,6 +135,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|
 | **K**
 |keke125|https://dns.keke125.com/dns-query|:heavy_check_mark:|Adblocking
+|kekew|https://doh.kekew.info/dns-query|:heavy_check_mark:|
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
@@ -143,6 +144,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
 |kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads
 |Kukal|https://dns.kukal.cz/dns-query| :heavy_check_mark: | Adblocking
+|kusoneko|https://dns.kusoneko.moe:9443/dns-query|:heavy_check_mark:|
 | **L**
 |labnekotest|https://dns.labnekotest.site/dns-query| :heavy_check_mark: | Adblocking
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
@@ -171,6 +173,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |narl.app|https://dns.narl.app/dns-query|:heavy_check_mark:|Adblocking
 |[Neil](https://neilzone.co.uk)|https://dns.neilzone.co.uk/dns-query|:heavy_check_mark:|Adblocking
 |nenam.eu|https://nenam.eu/dns-query|:heavy_check_mark:|
+|[Newpangea](https://newpangea.de/service/resolvers/overview/)|https://dns1.us.newpangea.de/dns-query<br>https://dns1.au.newpangea.de/dns-query<br>https://dns1.in.newpangea.de/dns-query<br>https://dns1.sg.newpangea.de/dns-query<br>https://dns1.cl.newpangea.de/dns-query<br>https://dns1.fi.newpangea.de/dns-query|:heavy_check_mark:|
 | Nexific.it | https://doh.luigi.nexific.it/dns-query | :heavy_check_mark:|
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
@@ -200,6 +203,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pnh.my.id|https://dns.pnh.my.id/dns-query|:heavy_check_mark:|Block ads
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
+|[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
 | **Q**
 | [qquackDNS](https://qquack.org/nameserver) | https://ns1.qquack.org/dns-query | :heavy_check_mark: | Adblocking, non-logging
