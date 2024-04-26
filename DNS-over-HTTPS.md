@@ -36,7 +36,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |b-ii|https://b-ii.com/dns-query|:heavy_check_mark:|Block ads
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 |[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking
-|[Blaze-sk](https://blaze-sk.ru/)|https://dns.blaze-sk.ru/dns-query|:heavy_check_mark:|Adblocking
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |bonis.de|https://adguard.bonis.de/dns-query|:heavy_check_mark:|
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
@@ -291,7 +290,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **0-9**
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
-|4ch.my.id|https://polisidns.4ch.my.id/dns-query|:heavy_check_mark:|Block ads
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 |9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
 | **Others**
