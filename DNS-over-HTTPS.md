@@ -186,7 +186,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |nordthreatprotection| Malware blocking: https://dns-malwaresec.nordthreatprotection.com/dns-query <br> Adblocking: https://dns-cybersec.nordthreatprotection.com/dns-query | :heavy_check_mark: |
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |[NP Solution](https://npsolution.it/)|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Ad & porn blocking
-|nullsproxy|https://dns.nullsproxy.com/dns-query|:heavy_check_mark:|
 | **O**
 |[ofdoom.net](https://ofdoom.net/)|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Adblocking
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking
