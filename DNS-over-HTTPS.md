@@ -116,7 +116,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Ian ROCKS](https://blog.ian.rocks)|https://dns.ian.rocks/dns-query|:heavy_check_mark:|Block ads & porn
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[Iki](https://iki.my.id)|https://dns.iki.my.id/dns-query|:heavy_check_mark:|Adblocking
-|immanuelschaffer|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Adblocking
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |[Indianets](https://www.indianets.com/)|https://adblock.indianets.net/dns-query|:heavy_check_mark:|Adblocking
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
