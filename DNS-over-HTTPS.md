@@ -269,7 +269,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking
 | **Z**
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
-|[ZPN.me](https://zpn.me)|https://a.zpn.me/dns-query|:heavy_check_mark:|Adblocking
 | **0-9**
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |4-the.win|https://dns.4-the.win/dns-query|:heavy_check_mark:|
