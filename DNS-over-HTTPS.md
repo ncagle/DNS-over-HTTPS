@@ -213,7 +213,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 |rueiliu|https://adg.rueiliu.space/dns-query|:heavy_check_mark:|Adblocking
 |runsel|https://doh.runsel.id/dns-query|:heavy_check_mark:|Adblocking
-|rustsword|https://drs.rustsword.com/dns-query|:heavy_check_mark:|
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
