@@ -146,7 +146,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
-|londonwebnerd.cloud|https://adguard.londonwebnerd.cloud/dns-query|:heavy_check_mark:|
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query  | :heavy_check_mark:|Adblocking
 | **M**
 |mandre.dev|https://dns.mandre.dev/dns-query|:heavy_check_mark:|Adblocking
