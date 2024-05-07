@@ -149,7 +149,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query  | :heavy_check_mark:|Adblocking
 | **M**
 |mandre.dev|https://dns.mandre.dev/dns-query|:heavy_check_mark:|Adblocking
-|[Marschi](https://marschi.de/)|https://ag.marschi.de/dns-query|:heavy_check_mark:|Adblocking
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |[Matt VerLee](https://doubleangels.com/)|https://family.dns.doubleangels.com/dns-query|:heavy_check_mark:|Block ads
