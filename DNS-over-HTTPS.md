@@ -174,7 +174,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: |
-|nordthreatprotection| Malware blocking: https://dns-malwaresec.nordthreatprotection.com/dns-query <br> Adblocking: https://dns-cybersec.nordthreatprotection.com/dns-query | :heavy_check_mark: |
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |[NP Solution](https://npsolution.it/)|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **O**
