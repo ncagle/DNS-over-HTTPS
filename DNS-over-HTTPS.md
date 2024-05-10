@@ -107,7 +107,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 |guidocioni.it|https://dns2.guidocioni.it/dns-query|:heavy_check_mark:|Adblocking
-| [Gustavus Adolphus College](https://gustavus.edu/) | https://cluster-0.gac.edu/dns-query | :heavy_check_mark: | 
 | **H**
 |horcrux.vip|https://dns.horcrux.vip/dns-query|:heavy_check_mark:|Block ads
 | [Hostux.net](https://dns.hostux.net) |  Adblocking DNS: <br> https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
