@@ -214,6 +214,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
 |seiffert|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads
+|senpai.pp.ua|https://senpai.pp.ua/dns-query|:heavy_check_mark:|Block ads & porn
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
