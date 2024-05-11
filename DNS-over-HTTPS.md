@@ -210,6 +210,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
+|saneaki|https://dns.saneaki.com/dns-query|:heavy_check_mark:|Block ads
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
 |seiffert|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads
