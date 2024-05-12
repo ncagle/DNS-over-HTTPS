@@ -24,6 +24,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
 |[Apollinaria](https://hypercute.eu/)|https://dns.hypercute.eu/dns-query| :heavy_check_mark: |
+|[Aquilenet](https://www.aquilenet.fr/services/dns/)|https://dns.aquilenet.fr/dns-query|:heavy_check_mark:|Block ads
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
