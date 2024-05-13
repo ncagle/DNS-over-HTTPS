@@ -137,6 +137,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |keke125|https://dns.keke125.com/dns-query|:heavy_check_mark:|Adblocking
 |kekew|https://doh.kekew.info/dns-query|:heavy_check_mark:|
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking
+|[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
