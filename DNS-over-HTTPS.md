@@ -162,6 +162,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
+|[MegaNerd.nl](https://www.meganerd.nl/encrypted-dns-server)|https://snoke.meganerd.nl/dns-query|:heavy_check_mark:|
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |mihanentalpo|https://dns.mihanentalpo.me|:heavy_check_mark:|
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:|
@@ -273,6 +274,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Z**
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 | **0-9**
+|[0ms.dev](https://0ms.dev)|https://0ms.dev/dns-query|:heavy_check_mark:|Block ads
 |l6.ee|https://dns.l6.ee/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
