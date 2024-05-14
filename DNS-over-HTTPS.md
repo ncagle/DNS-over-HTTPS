@@ -254,7 +254,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tryk.app|https://dns.tryk.app/dns-query|:heavy_check_mark:|Adblocking
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 |twotigers.xyz|https://adguard.twotigers.xyz/dns-query|:heavy_check_mark:|Block ads
-|[TXQ](https://txq.life/)|https://dns.txq.life/dns-query|:heavy_check_mark:|Adblocking
 | **U**
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
