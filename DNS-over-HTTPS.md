@@ -160,6 +160,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mandre.dev|https://dns.mandre.dev/dns-query|:heavy_check_mark:|Adblocking
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
+|[Maxindo Mitra Solusi](https://max.net.id)|https://doh.max.net.id/dns-query|:heavy_check_mark:|
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
 |[MegaNerd.nl](https://www.meganerd.nl/encrypted-dns-server)|https://snoke.meganerd.nl/dns-query|:heavy_check_mark:|
