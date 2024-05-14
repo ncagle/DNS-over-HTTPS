@@ -260,7 +260,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
 | **V**
 |[Val Cosmos](https://valscosmos.com)|https://doh.valscosmos.com|:heavy_check_mark:|Block ads
-|[VietDNS](https://vietdns.vn/)|Adblocking: https://dns.vietdns.vn<br>Ad & porn blocking: https://kids.vietdns.vn|:heavy_check_mark:|
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |vtcuong.site|https://vtcuong.site/dns-query|:heavy_check_mark:|Ad & porn blocking
 | **W**
