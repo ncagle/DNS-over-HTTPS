@@ -95,6 +95,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Edgy DNS](https://edgy.network/dns) | https://edgy-dns.com/dns-query | :heavy_check_mark: | Adblocking
 |editechstudio|https://dns.editechstudio.com/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
+|[ELIV](https://dns.eliv.co.kr)|https://dns.eliv.co.kr/dns-query|:heavy_check_mark:|Block ads
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
