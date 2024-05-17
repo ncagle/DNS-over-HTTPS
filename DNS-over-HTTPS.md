@@ -207,6 +207,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pesaventofilippo|https://dns.pesaventofilippo.com/dns-query|:heavy_check_mark:|Adblocking
 |phillipjberry.net|https://dns.phillipjberry.net/dns-query|:heavy_check_mark:|Block ads
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
+|[plan9-dns](https://github.com/jlongua/plan9-dns)|New Jersey: https://kronos.plan9-dns.com/dns-query<br>Mexico: https://helios.plan9-dns.com/dns-query<br>Florida: https://pluton.plan9-dns.com/dns-query|:heavy_check_mark:|
 |[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |powerbs.net|https://dns.powerbs.net/dns-query|:heavy_check_mark:|Block ads
@@ -230,6 +231,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 |rueiliu|https://adg.rueiliu.space/dns-query|:heavy_check_mark:|Adblocking
 |runsel|https://doh.runsel.id/dns-query|:heavy_check_mark:|Adblocking
+|ryan palmer|https://dns1.ryan-palmer.com/dns-query|:heavy_check_mark:|
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
