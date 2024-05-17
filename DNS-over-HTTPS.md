@@ -156,6 +156,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. No logging, no filtering, no ECS, DNSSEC support. |
 |[Levonet](https://www.levonet.sk/)|https://dns.levonet.sk/dns-query|:heavy_check_mark:|
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
+|[Limo Telu](https://www.limotelu.org/)|https://sby-doh.limotelu.org/dns-query|:heavy_check_mark:|
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |[Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/)|https://dns.lista.my.id/dns-query|:heavy_check_mark:|Block ads
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
