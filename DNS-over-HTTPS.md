@@ -258,6 +258,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
 |[The Good Source](https://www.thegoodsource.net/)|https://dns.thegoodsource.net/dns-query|:heavy_check_mark:|Block porn and violent extremism
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
+|Tirapan.top|https://tirapan.top/nomen-quaesitum|:heavy_check_mark:|
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:|
