@@ -50,7 +50,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |catdns.org|https://catdns.org/dns-query|:heavy_check_mark:|
 |chadeyron.fr|https://dns.chadeyron.fr/dns-query|:heavy_check_mark:|Adblocking
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
-|cippapp|https://doh.cippapp.com/dns-query|:heavy_check_mark:|Block ads
 | [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: <br>https://private.canadianshield.cira.ca/dns-query <br> Protected: <br>https://protected.canadianshield.cira.ca/dns-query <br> Family: <br>https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
 | [CIRCL](https://www.circl.lu/) | https://dns.circl.lu/dns-query  | :heavy_check_mark:| Adblocking
 | [Cisco Umbrella (OpenDNS)](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query <br> Umbrella: https://doh.umbrella.com/dns-query | :heavy_check_mark: <br>:heavy_check_mark:<br> :heavy_check_mark:| DNSSEC, Anycast
@@ -227,7 +226,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[rslvr.eu](https://rslvr.eu/) |US: https://us.rslvr.eu/dns-query <br>The Netherlands: https://nl.rslvr.eu/dns-query<br>Japan: https://jp.rslvr.eu/dns-query<br>Singapore: https://sg.rslvr.eu/dns-query<br>Australia: https://au.rslvr.eu/dns-query|:heavy_check_mark:|Adblocking
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 |rueiliu|https://adg.rueiliu.space/dns-query|:heavy_check_mark:|Adblocking
-|runsel|https://doh.runsel.id/dns-query|:heavy_check_mark:|Adblocking
 |ryan palmer|https://dns1.ryan-palmer.com/dns-query|:heavy_check_mark:|
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
