@@ -97,7 +97,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
 |eq.md|https://bl.eq.md/dns-query|:heavy_check_mark:|Block ads
 | **F**
-|[Fachrizal Fahmy](https://manish.ltd)|https://doh.manish.ltd/dns-query|:heavy_check_mark:|
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
