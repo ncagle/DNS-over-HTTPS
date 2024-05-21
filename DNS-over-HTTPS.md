@@ -110,6 +110,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking
+|[GloryDNS](https://glorydns.com)|https://dns.glorydns.com/dns-query|:heavy_check_mark:|Block ads
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 | **H**
@@ -136,6 +137,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kekew|https://doh.kekew.info/dns-query|:heavy_check_mark:|
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating
+|kipp.cool|https://noad.kipp.cool/dns-query|:heavy_check_mark:|Block ads
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
@@ -154,6 +156,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
 |[Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/)|https://dns.lista.my.id/dns-query|:heavy_check_mark:|Block ads
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
+|loii.in|https://ca.loii.in/dns-query|:heavy_check_mark:|Block ads
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query  | :heavy_check_mark:|Adblocking
 | **M**
 |mandre.dev|https://dns.mandre.dev/dns-query|:heavy_check_mark:|Adblocking
@@ -234,6 +237,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
+|signsservers.ru|https://signsservers.ru/dns-query|:heavy_check_mark:|Block ads
 | Silen.org | https://dns.silen.org/dns-query | :heavy_check_mark: | Adblocking
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
