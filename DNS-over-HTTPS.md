@@ -78,7 +78,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.best|https://dns.doh.best/dns-query|:heavy_check_mark:|Adblocking
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
-|dotnet.win|https://dns.dotnet.win/dns-query|:heavy_check_mark:|Ad & porn blocking
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
 | **E**
 |[EasyMosdns](https://doh.apad.pro/)|https://doh.apad.pro/dns-query|:heavy_check_mark:|
@@ -122,7 +121,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|
 | **K**
 |keke125|https://dns.keke125.com/dns-query|:heavy_check_mark:|Adblocking
-|kekew|https://doh.kekew.info/dns-query|:heavy_check_mark:|
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating
 |kipp.cool|https://noad.kipp.cool/dns-query|:heavy_check_mark:|Block ads
