@@ -169,6 +169,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
 |nhtsky|https://dns.nhtsky.com/dns-query|:heavy_check_mark:|Block ads
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
+| [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
@@ -298,6 +299,7 @@ Download a recent snapshot of the above list as JSON from [here](https://github.
 | Chrome | 66 | https://support.google.com/chrome/answer/10468685#zippy=%2Cuse-a-secure-connection-to-look-up-sites-ip-addresses |
 | Windows | 11 | https://learn.microsoft.com/en-us/windows-server/networking/dns/doh-client-support |
 | iOS & macOS | iOS 14 & macOS 11 | https://dns.notjakob.com/ | 
+| Android || [Intra](https://github.com/Jigsaw-Code/Intra) & [Nebulo](https://github.com/Ch4t4r/Nebulo)
 
 # DOH Tools
 
