@@ -175,6 +175,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: |
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
+|[NS3](https://ns3.com/web)|https://dns8.org/dns-query<br>https://n0.eu/dns-query<br>https://ns3.com/dns-query<br>https://ns3.cx/dns-query<br>https://ns3.link/dns-query|:heavy_check_mark:|
 |nydau.fr|https://dns.nydau.fr|:heavy_check_mark:|
 | **O**
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking
