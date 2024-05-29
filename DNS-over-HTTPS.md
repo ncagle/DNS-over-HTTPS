@@ -46,6 +46,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |bonis.de|https://adguard.bonis.de/dns-query|:heavy_check_mark:|
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
+|[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query<br>https://doh2.b-cdn.net/dns-query|:heavy_check_mark:|
 |b33.network|https://dns.b33.network/dns-query|:heavy_check_mark:|Block ads
@@ -57,6 +58,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |chadeyron.fr|https://dns.chadeyron.fr/dns-query|:heavy_check_mark:|Adblocking
 |[Charter](https://corporate.charter.com/)|https://doh-01.spectrum.com/dns-query<br>https://doh-02.spectrum.com/dns-query|:heavy_check_mark:|
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
+|chungyu.com|https://oraclejp2.chungyu.com/dns-query|:heavy_check_mark:|Block ads
 |cicitt.ch|https://c.cicitt.ch/dns-query|:heavy_check_mark:|Block ads
 | [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: <br>https://private.canadianshield.cira.ca/dns-query <br> Protected: <br>https://protected.canadianshield.cira.ca/dns-query <br> Family: <br>https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
 | [CIRCL](https://www.circl.lu/) | https://dns.circl.lu/dns-query  | :heavy_check_mark:| Adblocking
@@ -105,7 +107,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
-|esegece.com|Adblocking: https://dns.esegece.com/dns-query<br>Ad & porn blocking: https://dns-family.esegece.com/dns-query|:heavy_check_mark:|
 | **F**
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
