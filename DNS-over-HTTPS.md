@@ -48,6 +48,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query<br>https://doh2.b-cdn.net/dns-query|:heavy_check_mark:|
+|b33.network|https://dns.b33.network/dns-query|:heavy_check_mark:|Block ads
 |b612.me|https://dns.b612.me/dns-query|:heavy_check_mark:|
 | **C**
 |[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | 
@@ -92,6 +93,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
+|dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
 |dyn1.de|https://dns.dyn1.de/dns-query|:heavy_check_mark:|Block ads
 | **E**
@@ -160,6 +162,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads
 |Kukal|https://dns.kukal.cz/dns-query| :heavy_check_mark: | Adblocking
 |kusoneko|https://dns.kusoneko.moe:9443/dns-query|:heavy_check_mark:|
+|kyusang.win|https://agh.kyusang.win/dns-query|:heavy_check_mark:|Block ads
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
 |[Lars Lehmann](https://larsl.net/)|https://dns.lars-lehmann.net/dns-query|:heavy_check_mark:|
