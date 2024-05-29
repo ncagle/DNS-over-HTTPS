@@ -12,17 +12,21 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |-------------|----------|---------|---------|
 | **A**
 |[ABD](https://abd.ong/)|https://adguard.abd.ong/dns-query|:heavy_check_mark:|Adblocking
+|abgnetwork.es|https://vps.abgnetwork.es/dns-query|:heavy_check_mark:|Block ads & porn
 |[Abraservice.xyz](https://abraservice.xyz/)|https://doh.abraservice.xyz/dns-query|:heavy_check_mark:|
 |[Absolight](https://www.absolight.fr/)|https://resolver2.absolight.net/dns-query<br>https://resolver3.absolight.net/dns-query|:heavy_check_mark:|
 |[AdFilter](https://adfilter.net/)|Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query<br>Adelaide: https://adl.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
+|adtidy.net|https://testadguardhome.adtidy.net/dns-query|:heavy_check_mark:|Block ads
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
 |alleesph|https://alleesph.online/dns-query|:heavy_check_mark:|
+|amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Block ads
 |[Andrew](https://andrewnw.xyz/)|https://dns.andrewnw.xyz/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking
+|apemlegit.my.id|https://d.apemlegit.my.id/dns-query|:heavy_check_mark:|Block ads
 |[Apollinaria](https://hypercute.eu/)|https://dns.hypercute.eu/dns-query| :heavy_check_mark: |
 |[Aquilenet](https://www.aquilenet.fr/services/dns/)|https://dns.aquilenet.fr/dns-query|:heavy_check_mark:|Block ads
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
@@ -97,6 +101,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
+|esegece.com|Adblocking: https://dns.esegece.com/dns-query<br>Ad & porn blocking: https://dns-family.esegece.com/dns-query|:heavy_check_mark:|
 | **F**
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
@@ -204,6 +209,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[OpenBLD.net](https://openbld.net/) | Adapted: https://ada.openbld.net/dns-query <br> Strict: https://ric.openbld.net/dns-query |:heavy_check_mark: <br> :heavy_check_mark:|Adblocking
 |[OSZX DNS](https://dns.oszx.co/)|https://dns.oszx.co/dns-query|:heavy_check_mark:|Adblocking
+|[Ozérim](https://ozer.im)|https://1a.ns.ozer.im/dns-query|:heavy_check_mark:|Block ads
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
@@ -306,6 +312,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[0ms.dev](https://0ms.dev)|https://0ms.dev/dns-query|:heavy_check_mark:|Block ads
 |l6.ee|https://dns.l6.ee/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
+|[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 |9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
 | **Others**
