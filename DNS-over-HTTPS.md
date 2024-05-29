@@ -142,6 +142,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
+|[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
 |[KRC Technologies](https://krctechnologies.net)|https://pdns.krctechnologies.net/dns-query|:heavy_check_mark:|Block ads
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
 |kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads
@@ -191,6 +192,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: |
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
+|[np-edv](https://np-edv.at/)|https://dns.npe.bz/dns-query|:heavy_check_mark:|Block ads
 |[NS3](https://ns3.com/web)|https://dns8.org/dns-query<br>https://n0.eu/dns-query<br>https://ns3.com/dns-query<br>https://ns3.cx/dns-query<br>https://ns3.link/dns-query|:heavy_check_mark:|
 |nydau.fr|https://dns.nydau.fr|:heavy_check_mark:|
 | **O**
