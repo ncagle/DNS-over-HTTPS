@@ -207,6 +207,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads
 |mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads
+|mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:|
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 |modsh.top|https://dot.modsh.top/dns-query|:heavy_check_mark:|Block ads
