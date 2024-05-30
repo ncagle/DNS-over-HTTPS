@@ -130,6 +130,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |futa.gg|https://doh.futa.gg/dns-query|:heavy_check_mark:|Block ads
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
+|gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
 |[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
