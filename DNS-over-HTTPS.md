@@ -359,6 +359,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking
+|yingroad.top|https://dns.yingroad.top/dns-query|:heavy_check_mark:|Block ads
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads
 |yovbak.com|https://yovbak.com/dns-query|:heavy_check_mark:|Block ads
 | **Z**
