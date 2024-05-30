@@ -108,10 +108,14 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |edison42.dev|https://dns.edison42.dev/dns-query|:heavy_check_mark:|Block ads
 |editechstudio|https://dns.editechstudio.com/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
+|elbschloss.xyz|https://hole.elbschloss.xyz/dns-query|:heavy_check_mark:|
+|[Electron Decomposer](https://jpr.space)|https://addns.jpr.space/dns-query|:heavy_check_mark:|Block ads
+|[Element](https://unerror.network)|https://dns.unerror.network/dns-query|:heavy_check_mark:|Block ads
 |[ELIV](https://dns.eliv.co.kr)|https://dns.eliv.co.kr/dns-query|:heavy_check_mark:|Block ads
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
+|extrawdw.net|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Block ads
 | **F**
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
@@ -127,6 +131,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
+|[GugaInfo](https://gugainfo.com.br)|https://blackhole.gugainfo.com.br/dns-query|:heavy_check_mark:|Block ads
 | **H**
 |[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
 |hitian.me|https://hitian.me/dns-query|:heavy_check_mark:|
@@ -147,6 +152,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[i2pd.xyz](https://opennic.i2pd.xyz)|https://opennic.i2pd.xyz/dns-query|:heavy_check_mark:|Also resolves OpenNIC domains
 | **J**
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
+|jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|
 | **K**
@@ -162,7 +168,9 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
+|korzhov.dev|https://korzhov.dev/dns-query|:heavy_check_mark:|Block ads
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
+|kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads
 |[KRC Technologies](https://krctechnologies.net)|https://pdns.krctechnologies.net/dns-query|:heavy_check_mark:|Block ads
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
 |kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads
@@ -186,11 +194,13 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn
 |[Maxindo Mitra Solusi](https://max.net.id)|https://doh.max.net.id/dns-query|:heavy_check_mark:|
+|mcasviper.de|https://doh.mcasviper.de/dns-query|:heavy_check_mark:|Block ads
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
 |[MegaNerd.nl](https://www.meganerd.nl/encrypted-dns-server)|https://snoke.meganerd.nl/dns-query|:heavy_check_mark:|
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads
+|mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:|
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
 |modsh.top|https://dot.modsh.top/dns-query|:heavy_check_mark:|Block ads
