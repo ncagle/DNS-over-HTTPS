@@ -284,6 +284,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
 |[Saikat Roy](https://rsaikat.com)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Block ads
 |saneaki|https://dns.saneaki.com/dns-query|:heavy_check_mark:|Block ads
+|sarak.as|https://dns.sarak.as/dns-query|:heavy_check_mark:|Block ads & porn
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC
