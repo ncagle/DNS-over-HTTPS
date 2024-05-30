@@ -119,6 +119,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Electro](https://electrotm.org)|https://dns.electrotm.org/dns-query|:heavy_check_mark:|
 |[Electron Decomposer](https://jpr.space)|https://addns.jpr.space/dns-query|:heavy_check_mark:|Block ads
 |[Element](https://unerror.network)|https://dns.unerror.network/dns-query|:heavy_check_mark:|Block ads
+|eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Block ads
 |[ELIV](https://dns.eliv.co.kr)|https://dns.eliv.co.kr/dns-query|:heavy_check_mark:|Block ads
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
