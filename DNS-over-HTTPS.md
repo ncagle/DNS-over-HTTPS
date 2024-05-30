@@ -118,6 +118,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
+|[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|
 |extrawdw.net|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Block ads
 | **F**
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
