@@ -270,6 +270,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |rkjha.com.np|https://dns.rkjha.com.np/dns-query|:heavy_check_mark:|Block ads
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking
+|[Rowdy en Geesje](https://rowdyengeesje.nl/)|https://adguard.rowdyengeesje.nl/dns-query|:heavy_check_mark:|Block ads
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 |rueiliu|https://adg.rueiliu.space/dns-query|:heavy_check_mark:|Adblocking
 |ryan palmer|https://dns1.ryan-palmer.com/dns-query|:heavy_check_mark:|
