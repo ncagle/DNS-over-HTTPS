@@ -298,6 +298,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Block ads
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
+|sitdns.com|https://dns.sitdns.com/dns-query|:heavy_check_mark:|Block ads
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 |[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
