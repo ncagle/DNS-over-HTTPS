@@ -307,6 +307,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking
 |[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
+|socolov.home.ro|https://socolov.home.ro/dns-query|:heavy_check_mark:|Block ads & porn
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:|
 |stevenz.net|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads
