@@ -99,6 +99,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
 |dyn1.de|https://dns.dyn1.de/dns-query|:heavy_check_mark:|Block ads
+|d96.info|https://dns.d96.info/dns-query|:heavy_check_mark:|Block ads
 | **E**
 |[EasyMosdns](https://doh.apad.pro/)|https://doh.apad.pro/dns-query|:heavy_check_mark:|
 | [Edgy DNS](https://edgy.network/dns) | https://edgy-dns.com/dns-query | :heavy_check_mark: | Adblocking
