@@ -337,6 +337,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads
 |[Vinny Perella](https://vinnyp.xyz)|https://dns.vinnyp.xyz/dns-query|:heavy_check_mark:|
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
+|vpms.xyz|https://killads.vpms.xyz/dns-query|:heavy_check_mark:|Block ads
 | **W**
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
