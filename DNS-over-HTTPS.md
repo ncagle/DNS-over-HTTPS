@@ -166,6 +166,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[i2pd.xyz](https://opennic.i2pd.xyz)|https://opennic.i2pd.xyz/dns-query|:heavy_check_mark:|Also resolves OpenNIC domains
 | **J**
 | Jackyes.ovh | https://jackyes.ovh/dns-query | :heavy_check_mark: | Adblocking
+|jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling
 |jinwoo.dev|https://dns.jinwoo.dev/dns-query|:heavy_check_mark:|Block ads
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 | [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
