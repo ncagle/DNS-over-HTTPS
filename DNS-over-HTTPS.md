@@ -206,6 +206,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
 |loii.in|https://ca.loii.in/dns-query|:heavy_check_mark:|Block ads
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query<br>United States: https://doh.phdns3.lonet.org/dns-query<br>Spain: https://doh.phdns4.lonet.org/dns-query<br>United Kingdom: https://doh.phdns5.lonet.org/dns-query| :heavy_check_mark:|Adblocking
+|lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|Block ads
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads
 | **M**
 |mailkyb.co|https://mailkyb.co/dns-query|:heavy_check_mark:|Block ads
