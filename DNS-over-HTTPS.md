@@ -205,7 +205,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[loNET](https://dns.lonet.org/) | Germany 1: https://doh.phdns1.lonet.org/dns-query <br>Germany 2: https://doh.phdns2.lonet.org/dns-query<br>United States: https://doh.phdns3.lonet.org/dns-query<br>Spain: https://doh.phdns4.lonet.org/dns-query<br>United Kingdom: https://doh.phdns5.lonet.org/dns-query| :heavy_check_mark:|Adblocking
 | **M**
 |mailkyb.co|https://mailkyb.co/dns-query|:heavy_check_mark:|Block ads
-|mandre.dev|https://dns.mandre.dev/dns-query|:heavy_check_mark:|Adblocking
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn
