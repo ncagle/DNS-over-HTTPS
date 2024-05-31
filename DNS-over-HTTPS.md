@@ -214,6 +214,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | 
 |mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn
 |[Maxindo Mitra Solusi](https://max.net.id)|https://doh.max.net.id/dns-query|:heavy_check_mark:|
+|[Max Philipp Wriedt](https://wriedts.de)|https://home.wriedts.de/dns-query|:heavy_check_mark:|Block ads & gambling
 |mcasviper.de|https://doh.mcasviper.de/dns-query|:heavy_check_mark:|Block ads
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
