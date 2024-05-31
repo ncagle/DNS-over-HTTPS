@@ -190,6 +190,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads
 |[KRC Technologies](https://krctechnologies.net)|https://pdns.krctechnologies.net/dns-query|:heavy_check_mark:|Block ads
 | Krnl.eu | https://xray.krnl.eu/dns-query | :heavy_check_mark: | Adblocking
+|[Krzysztof Skrzypiec](https://skrzypiec.pl)|https://dns.skrzypiec.pl/dns-query|:heavy_check_mark:|Block ads
 |kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads
 |Kukal|https://dns.kukal.cz/dns-query| :heavy_check_mark: | Adblocking
 |kusoneko|https://dns.kusoneko.moe:9443/dns-query|:heavy_check_mark:|
