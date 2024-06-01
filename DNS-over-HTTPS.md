@@ -237,7 +237,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |narl.app|https://dns.narl.app/dns-query|:heavy_check_mark:|Adblocking
 |[Neil](https://neilzone.co.uk)|https://dns.neilzone.co.uk/dns-query|:heavy_check_mark:|Adblocking
 |nenam.eu|https://nenam.eu/dns-query|:heavy_check_mark:|
-|[Net \| Raptor](https://netraptor.com.au)|https://dns.netraptor.com.au/dns-query|:heavy_check_mark:|Block ads
 |[Newpangea](https://newpangea.de/service/resolvers/overview/)|https://dns1.us.newpangea.de/dns-query<br>https://dns1.in.newpangea.de/dns-query<br>https://dns1.pl.newpangea.de/dns-query|:heavy_check_mark:|
 | Nexific.it | https://doh.luigi.nexific.it/dns-query | :heavy_check_mark:|
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
@@ -282,7 +281,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |psociety.de|https://dns.psociety.de/dns-query|:heavy_check_mark:|Block ads
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
-|pzhg.me|https://vpsus3.pzhg.me/dns-query<br>https://at.pzhg.me/dns-query|:heavy_check_mark:|Block ads
 | **Q**
 |[Quadrant](https://quadrantsec.com/blog/quadrants-public-dns-resolver-tls-https-support)|https://doh.qis.io/dns-query|:heavy_check_mark:|
 | [Quad9](https://quad9.net) | 9.9.9.9 (Secure): A threat-blocking, privacy-first recursive DNS service. <br> https://dns.quad9.net/dns-query <br><br> 9.9.9.10 (No Threat Blocking): For users who want to take advantage of privacy-first recursive DNS service, but do not want threat blocking. <br> https://dns10.quad9.net/dns-query <br><br> 9.9.9.11 (Secure + ECS): For users who do not route to the closest-possible Quad9 location, use 9.9.9.11 for better CDN performance. <br> https://dns11.quad9.net/dns-query <br><br> 9.9.9.12 (No Threat Blocking + ECS): For users who do not route to the closest-possible Quad9 location, and also do not want threat blocking, use 9.9.9.12 for better CDN performance. <br> https://dns12.quad9.net/dns-query | ✔️ <br> ✔️ <br> ✔️ <br> ✔️ | 9.9.9.9 - Malware blocking, DNSSEC validation <br> 9.9.9.10 - No malware blocking, no DNSSEC validation <br> 9.9.9.11 - Malware blocking, DNSSEC validation, ECS enabled <br> 9.9.9.12 - No malware blocking, no DNSSEC validation, ECS enabled
