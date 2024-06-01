@@ -286,6 +286,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
 | **R**
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking
+|ray0512.win|https://la.ray0512.win/dns-query|:heavy_check_mark:|
 |reckoningslug.name|https://dns.reckoningslug.name/dns-query|:heavy_check_mark:|
 |[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking
