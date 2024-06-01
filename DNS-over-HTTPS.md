@@ -384,7 +384,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Z**
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 | **0-9**
-|[0ms.dev](https://0ms.dev)|https://0ms.dev/dns-query|:heavy_check_mark:|Block ads
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads
 |0rz.space|https://1.0rz.space/dns-query<br>https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
 |l6.ee|https://dns.l6.ee/dns-query|:heavy_check_mark:|Block ads
