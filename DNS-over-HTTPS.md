@@ -103,7 +103,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
-|[DoTLS](https://dotls.org/)|https://ns1.dotls.org/dns-query|:heavy_check_mark:|Block ads
+|[DoTLS](https://dotls.org/)|https://ns1.dotls.org|:heavy_check_mark:|Block ads
 |dr-adguard.de|https://server01.dr-adguard.de/dns-query|:heavy_check_mark:|Block ads & porn
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
