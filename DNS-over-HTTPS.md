@@ -146,7 +146,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[GugaInfo](https://gugainfo.com.br)|https://blackhole.gugainfo.com.br/dns-query|:heavy_check_mark:|Block ads
 | **H**
 |[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
-|hitian.me|https://hitian.me/dns-query|:heavy_check_mark:|
 |horus-team|https://horus-team.com/dns-query|:heavy_check_mark:|Block ads
 | [Hostux.net](https://dns.hostux.net) |  Nonblocking: https://dns.hostux.net/dns-query <br> Adblocking: https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
@@ -313,7 +312,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Shimul](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
-|shuting.idv.tw|https://adguard.shuting.idv.tw/dns-query|:heavy_check_mark:|Block ads
 |signsservers.ru|https://signsservers.ru/dns-query|:heavy_check_mark:|Block ads
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Block ads
