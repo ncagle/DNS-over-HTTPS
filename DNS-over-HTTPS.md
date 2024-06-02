@@ -14,7 +14,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ABD](https://abd.ong/)|https://adguard.abd.ong/dns-query|:heavy_check_mark:|Adblocking
 |abgnetwork.es|https://vps.abgnetwork.es/dns-query|:heavy_check_mark:|Block ads & porn
 |[Abraservice.xyz](https://abraservice.xyz/)|https://doh.abraservice.xyz/dns-query|:heavy_check_mark:|
-|[ABPVN](https://abpvn.com)|https://vn.dns.abpvn.com/dns-query|:heavy_check_mark:|Block ads
 |[Absolight](https://www.absolight.fr/)|https://resolver2.absolight.net/dns-query<br>https://resolver3.absolight.net/dns-query|:heavy_check_mark:|
 |[AdFilter](https://adfilter.net/)|Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query<br>Adelaide: https://adl.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
 |adfiltro.fun|https://adfiltro.fun/dns-query|:heavy_check_mark:|Block ads
