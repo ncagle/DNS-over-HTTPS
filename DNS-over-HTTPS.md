@@ -270,6 +270,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Ozérim](https://ozer.im)|https://1a.ns.ozer.im/dns-query|:heavy_check_mark:|Block ads
 |o0o.re|https://5g.o0o.re/dns-query|:heavy_check_mark:|
 | **P**
+|pacificmonster.com|https://dns.pacificmonster.com/dns-query|:heavy_check_mark:|Block ads
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging
 |[PanSzelescik](https://panszelescik.pl)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Block ads
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking
