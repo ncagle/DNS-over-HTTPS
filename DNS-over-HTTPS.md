@@ -316,6 +316,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
 |signsservers.ru|https://signsservers.ru/dns-query|:heavy_check_mark:|Block ads
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
+|siudzinski.net|https://adg.siudzinski.net/dns-query|:heavy_check_mark:|Block ads
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|Block ads
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 |sitdns.com|https://dns.sitdns.com/dns-query|:heavy_check_mark:|Block ads
