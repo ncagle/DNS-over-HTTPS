@@ -182,7 +182,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kernel Error](https://kernel-error.de)|https://dns.kernel-error.de/dns-query|:heavy_check_mark:| 
 |[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating
 |ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Block ads
-|kipp.cool|https://noad.kipp.cool/dns-query|:heavy_check_mark:|Block ads
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
