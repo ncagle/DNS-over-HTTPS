@@ -306,6 +306,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |saneaki|https://dns.saneaki.com/dns-query|:heavy_check_mark:|Block ads
 |sarak.as|https://dns.sarak.as/dns-query|:heavy_check_mark:|Block ads & porn
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
+|scarx.net|https://dns.scarx.net/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking
