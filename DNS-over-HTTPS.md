@@ -248,6 +248,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
+|nj0.de|https://dns.nj0.de/dns-query|:heavy_check_mark:|
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: |
