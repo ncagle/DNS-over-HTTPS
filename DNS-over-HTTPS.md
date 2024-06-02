@@ -398,6 +398,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yingroad.top|https://dns.yingroad.top/dns-query|:heavy_check_mark:|Block ads
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads
 |yovbak.com|https://yovbak.com/dns-query|:heavy_check_mark:|Block ads
+|yumenashyi.com|https://dns.yumenashyi.com/dns-query|:heavy_check_mark:|Block ads
 | **Z**
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 | **0-9**
