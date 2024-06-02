@@ -260,6 +260,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |nydau.fr|https://dns.nydau.fr|:heavy_check_mark:|
 |n23.io|https://dns.n23.io/dns-query|:heavy_check_mark:|Block ads
 | **O**
+|oasg.xyz|https://dns.oasg.xyz/dns-query|:heavy_check_mark:|
 |ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking
 |[OpenBLD.net](https://openbld.net/) | Adapted: https://ada.openbld.net/dns-query <br> Strict: https://ric.openbld.net/dns-query |:heavy_check_mark: <br> :heavy_check_mark:|Adblocking
