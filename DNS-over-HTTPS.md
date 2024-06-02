@@ -49,6 +49,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
 |bonis.de|https://adguard.bonis.de/dns-query|:heavy_check_mark:|
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
+|[Bravoc.one](https://bravoc.one/en/)|https://dns.bravoc.one/dns-query|:heavy_check_mark:|Block ads
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query<br>https://doh2.b-cdn.net/dns-query|:heavy_check_mark:|
