@@ -348,6 +348,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tesem.dog|https://dns.tesem.dog/dns-query|:heavy_check_mark:|Block ads
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads
 |[The Good Source](https://www.thegoodsource.net/)|https://dns.thegoodsource.net/dns-query|:heavy_check_mark:|Block porn and violent extremism
+|thethorsens.org|https://blocker.thethorsens.org/dns-query|:heavy_check_mark:|Block ads
 | [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling
 |Tirapan.top|https://tirapan.top/nomen-quaesitum|:heavy_check_mark:|
