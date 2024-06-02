@@ -17,6 +17,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ABPVN](https://abpvn.com)|https://vn.dns.abpvn.com/dns-query|:heavy_check_mark:|Block ads
 |[Absolight](https://www.absolight.fr/)|https://resolver2.absolight.net/dns-query<br>https://resolver3.absolight.net/dns-query|:heavy_check_mark:|
 |[AdFilter](https://adfilter.net/)|Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query<br>Adelaide: https://adl.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
+|adfiltro.fun|https://adfiltro.fun/dns-query|:heavy_check_mark:|Block ads
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3 | 
 |adtidy.net|https://testadguardhome.adtidy.net/dns-query|:heavy_check_mark:|Block ads
