@@ -375,6 +375,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |wantaquddin.com|https://wantaquddin.com/dns-query|:heavy_check_mark:|Block ads & porn
+|wargan.io|https://dns.wargan.io/dns-query|:heavy_check_mark:|Block ads
 |waringer-atg.de|https://abel.waringer-atg.de/dns-query|:heavy_check_mark:|
 |warpnine.de|https://dns.warpnine.de/dns-query|:heavy_check_mark:|Block ads
 |[Wheezy Notes](https://wheezy.naftalie.net/)|https://doh-ca.naftalie.net/dns-query|:heavy_check_mark:|
