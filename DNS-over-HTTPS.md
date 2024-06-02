@@ -303,7 +303,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
-|[Saikat Roy](https://rsaikat.com)|https://o.rsaikat.com/dns-query|:heavy_check_mark:|Block ads
 |saneaki|https://dns.saneaki.com/dns-query|:heavy_check_mark:|Block ads
 |sarak.as|https://dns.sarak.as/dns-query|:heavy_check_mark:|Block ads & porn
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|
