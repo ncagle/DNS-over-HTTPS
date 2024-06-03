@@ -259,6 +259,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |[np-edv](https://np-edv.at/)|https://dns.npe.bz/dns-query|:heavy_check_mark:|Block ads
+|npsolution.it|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Block porn
 |[NS3](https://ns3.com/web)|https://dns8.org/dns-query<br>https://n0.eu/dns-query<br>https://ns3.com/dns-query<br>https://ns3.cx/dns-query<br>https://ns3.link/dns-query|:heavy_check_mark:|
 |nydau.fr|https://dns.nydau.fr|:heavy_check_mark:|
 |n23.io|https://dns.n23.io/dns-query|:heavy_check_mark:|Block ads
