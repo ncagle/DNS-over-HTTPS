@@ -129,7 +129,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
-|eranext.net|https://shield1.eranext.net/dns-query|:heavy_check_mark:|Block ads & porn
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|
 |[EverDNS](https://everdns.tech)|https://dns.everdns.tech/dns-query|:heavy_check_mark:|
@@ -392,7 +391,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Block ads
 |[Wheezy Notes](https://wheezy.naftalie.net/)|https://doh-ca.naftalie.net/dns-query|:heavy_check_mark:|
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
-|wixxm.asia|https://dns.wixxm.asia/dns-query|:heavy_check_mark:|Block ads
 |workfordemo.co.in|https://agh.workfordemo.co.in/dns-query|:heavy_check_mark:|Block ads
 | **X**
 |xx3210766.live|https://v2.xx3210766.live/dns-query|:heavy_check_mark:|Block ads
