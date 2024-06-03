@@ -227,6 +227,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MegaNerd.nl](https://www.meganerd.nl/encrypted-dns-server)|https://snoke.meganerd.nl/dns-query|:heavy_check_mark:|
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads
+|mikatos.de|https://mikatos.de/dns-query|:heavy_check_mark:|Block ads
 |mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads
 |[mikrotikrumahan](https://mikrotikrumahan.my.id/)|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Block ads
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads
