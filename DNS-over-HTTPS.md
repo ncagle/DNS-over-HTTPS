@@ -12,7 +12,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |-------------|----------|---------|---------|
 | **A**
 |[ABD](https://abd.ong/)|https://adguard.abd.ong/dns-query|:heavy_check_mark:|Adblocking
-|abgnetwork.es|https://vps.abgnetwork.es/dns-query|:heavy_check_mark:|Block ads & porn
 |[Abraservice.xyz](https://abraservice.xyz/)|https://doh.abraservice.xyz/dns-query|:heavy_check_mark:|
 |[Absolight](https://www.absolight.fr/)|https://resolver2.absolight.net/dns-query<br>https://resolver3.absolight.net/dns-query|:heavy_check_mark:|
 |[AdFilter](https://adfilter.net/)|Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query<br>Adelaide: https://adl.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days
@@ -42,7 +41,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |a47.me|https://dns.a47.me/dns-query|:heavy_check_mark:|
 | **B**
 |baishiyuan.cn|https://dns.baishiyuan.cn/dns-query|:heavy_check_mark:|Adblocking
-|bedro.cloud|https://justhost.bedro.cloud/dns-query|:heavy_check_mark:|Block ads
 |[Belnet](https://dns.belnet.be)|https://dns.belnet.be/dns-query|:heavy_check_mark:|
 |b-ii|https://b-ii.com/dns-query|:heavy_check_mark:|Block ads
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
