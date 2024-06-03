@@ -130,6 +130,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
 |eranext.net|https://shield1.eranext.net/dns-query|:heavy_check_mark:|Block ads & porn
+|esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|
 |[EverDNS](https://everdns.tech)|https://dns.everdns.tech/dns-query|:heavy_check_mark:|
 |extrawdw.net|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Block ads
