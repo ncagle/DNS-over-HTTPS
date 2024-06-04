@@ -161,6 +161,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ihctw.synology.me|https://ihctw.synology.me/dns-query|:heavy_check_mark:|Block ads
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[Iki](https://iki.my.id)|https://dns.iki.my.id/dns-query|:heavy_check_mark:|Block ads
+|immanuelschaffer.de|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Block ads
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |[Indust](https://indust.me)|https://dns.indust.me/dns-query|:heavy_check_mark:|
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
