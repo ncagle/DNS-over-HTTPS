@@ -135,6 +135,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[EverDNS](https://everdns.tech)|https://dns.everdns.tech/dns-query|:heavy_check_mark:|
 |extrawdw.net|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Block ads
 | **F**
+|[Fachrizal Fahmy](https://doh.manish.ltd)|https://doh.manish.ltd/dns-query|:heavy_check_mark:|
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
