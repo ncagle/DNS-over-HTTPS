@@ -336,7 +336,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[scuola.org](https://scuola.org)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Block ads
 |sealyserver.com|https://adguard.sealyserver.com/dns-query|:heavy_check_mark:|Block ads
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads
-|senpai.pp.ua|https://senpai.pp.ua/dns-query|:heavy_check_mark:|Block ads
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking
 |[Shimul](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling
@@ -399,7 +398,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads
 |[Vinny Perella](https://vinnyp.xyz)|https://dns.vinnyp.xyz/dns-query|:heavy_check_mark:|
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
-|vpms.xyz|https://killads.vpms.xyz/dns-query|:heavy_check_mark:|Block ads
 | **W**
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
