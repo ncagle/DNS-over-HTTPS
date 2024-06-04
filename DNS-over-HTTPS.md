@@ -319,6 +319,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Rowdy en Geesje](https://rowdyengeesje.nl/)|https://adguard.rowdyengeesje.nl/dns-query|:heavy_check_mark:|Block ads
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 |rueiliu|https://adg.rueiliu.space/dns-query|:heavy_check_mark:|Adblocking
+|runsel.id|https://doh.runsel.id/dns-query|:heavy_check_mark:|Block ads
 |ryan palmer|https://dns1.ryan-palmer.com/dns-query|:heavy_check_mark:|
 | **S**
 | [Safe Surfer](https://safesurfer.io/) | https://doh.safesurfer.io/dns-query | :heavy_check_mark: | Filter porn sites, enforce safe search
