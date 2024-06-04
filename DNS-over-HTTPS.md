@@ -333,6 +333,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
 |[scuola.org](https://scuola.org)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Block ads
 |sealyserver.com|https://adguard.sealyserver.com/dns-query|:heavy_check_mark:|Block ads
+|seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking
 |[Shimul](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling
