@@ -22,7 +22,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
 |ahua.ltd|https://hk.ahua.ltd/dns-query|:heavy_check_mark:|Block ads
-|albertocognetti.com|https://albertocognetti.com/dns-query|:heavy_check_mark:|Block ads
 |alleesph|https://alleesph.online/dns-query|:heavy_check_mark:|
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Block ads
 |amonsul.net|https://doh.amonsul.net/dns-query|:heavy_check_mark:|Block ads
@@ -380,7 +379,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling
 |Tirapan.top|https://tirapan.top/nomen-quaesitum|:heavy_check_mark:|
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
-|toairs.com|https://d.toairs.com/dns-query|:heavy_check_mark:|Block ads
 |[TPM Network](https://apigw.online)|https://dns.apigw.online/dns-query|:heavy_check_mark:|Block ads
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:|
