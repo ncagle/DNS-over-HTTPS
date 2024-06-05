@@ -393,7 +393,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Val Cosmos](https://valscosmos.com)|https://doh.valscosmos.com|:heavy_check_mark:|Block ads
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads
-|[Vinny Perella](https://vinnyp.xyz)|https://dns.vinnyp.xyz/dns-query|:heavy_check_mark:|
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 | **W**
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
