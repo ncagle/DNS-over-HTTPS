@@ -363,7 +363,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking
 |[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
 |[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling
-|[Syaifullah](https://syaifullah.com)|https://dns.syaifullah.com/dns-query|:heavy_check_mark:|Block ads & gambling
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
