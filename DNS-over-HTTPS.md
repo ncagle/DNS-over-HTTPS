@@ -108,6 +108,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dnswebvsn.com|https://dnswebvsn.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |doh.best|https://dns.doh.best/dns-query|:heavy_check_mark:|Adblocking
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
+|[doh.li](https://doh.li)|https://doh.li/dns-query|:heavy_check_mark:|
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
 |[DoTLS](https://dotls.org/)|https://ns1.dotls.org|:heavy_check_mark:|Block ads
