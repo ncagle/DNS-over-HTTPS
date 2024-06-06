@@ -144,7 +144,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 |fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:|
-|futa.gg|https://doh.futa.gg/dns-query|:heavy_check_mark:|Block ads
+|[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query<br>https://doh.futa.app/dns-query|:heavy_check_mark:|Block ads
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
