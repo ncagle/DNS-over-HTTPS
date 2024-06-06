@@ -405,6 +405,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |warpnine.de|https://dns.warpnine.de/dns-query|:heavy_check_mark:|Block ads
 |webteufel.net|https://zuhause.webteufel.net/dns-query|:heavy_check_mark:|Block ads & porn
 |wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Block ads
+|[Whalebone](https://whalebone.io)|https://doh-rs.whalebone.io/dns-query|:heavy_check_mark:|
 |[Wheezy Notes](https://wheezy.naftalie.net/)|https://doh-ca.naftalie.net/dns-query|:heavy_check_mark:|
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
 |workfordemo.co.in|https://agh.workfordemo.co.in/dns-query|:heavy_check_mark:|Block ads
