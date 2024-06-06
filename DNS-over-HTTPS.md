@@ -85,7 +85,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
 | **D**
-|daemon.za.net|https://dns.daemon.za.net/dns-query|:heavy_check_mark:|
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |das.sch.id|https://filter.das.sch.id/dns-query|:heavy_check_mark:|Block ads, gambling & porn
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging
