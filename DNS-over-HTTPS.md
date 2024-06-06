@@ -424,6 +424,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0rz.space|https://1.0rz.space/dns-query<br>https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
 |l6.ee|https://dns.l6.ee/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
+|[56k DNS](https://dns.56k.uy)|https://dns.56k.uy/dns-query|:heavy_check_mark:|Block ads, based in Uruguay
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 |9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
