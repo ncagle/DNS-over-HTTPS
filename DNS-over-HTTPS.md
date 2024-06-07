@@ -65,6 +65,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
 |[chrisdooks](https://dooks.uk)|https://dns.dooks.uk/dns-query|:heavy_check_mark:|Block ads
 |chungyu.com|https://oraclejp2.chungyu.com/dns-query|:heavy_check_mark:|Block ads
+|ch6se.com|https://dns.ch6se.com/dns-query|:heavy_check_mark:|
 |cicitt.ch|https://c.cicitt.ch/dns-query|:heavy_check_mark:|Block ads
 |cippapp.com|https://doh.cippapp.com/dns-query|:heavy_check_mark:|Block ads
 | [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: <br>https://private.canadianshield.cira.ca/dns-query <br> Protected: <br>https://protected.canadianshield.cira.ca/dns-query <br> Family: <br>https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
@@ -397,6 +398,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
+|v6.army|https://outdoor.v6.army/dns-query|:heavy_check_mark:|Block ads
 | **W**
 |[Wael](https://www.wael.name/dns/)|https://dns.wael.name:4433/dns-query|:heavy_check_mark:|Block ads & gambling
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
