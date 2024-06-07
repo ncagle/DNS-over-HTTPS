@@ -22,6 +22,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
 |ahua.ltd|https://hk.ahua.ltd/dns-query|:heavy_check_mark:|Block ads
+|[Airwaynet.cz](https://airwaynet.cz)|https://doh.airwaynet.cz/dns-query|:heavy_check_mark:|
 |alleesph|https://alleesph.online/dns-query|:heavy_check_mark:|
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Block ads
 |amonsul.net|https://doh.amonsul.net/dns-query|:heavy_check_mark:|Block ads
