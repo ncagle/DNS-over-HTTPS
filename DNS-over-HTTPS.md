@@ -142,6 +142,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |[Enzonix](https://enzonix.com)|https://dns.enzonix.com/dns-query|:heavy_check_mark:|Block ads
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads
+|ero-sayhi.com|https://agh.ero-sayhi.com/dns-query|:heavy_check_mark:|Block ads
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|
 |[EverDNS](https://everdns.tech)|https://dns.everdns.tech/dns-query|:heavy_check_mark:|
