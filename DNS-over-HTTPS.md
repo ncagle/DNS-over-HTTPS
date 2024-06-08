@@ -243,7 +243,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mcasviper.de|https://doh.mcasviper.de/dns-query|:heavy_check_mark:|Block ads
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
-|[MegaNerd.nl](https://www.meganerd.nl/encrypted-dns-server)|https://snoke.meganerd.nl/dns-query|:heavy_check_mark:|
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads
 |mikatos.de|https://mikatos.de/dns-query|:heavy_check_mark:|Block ads
