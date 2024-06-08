@@ -249,7 +249,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads
 |[mikrotikrumahan](https://mikrotikrumahan.my.id/)|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Block ads
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads
-|m-it.ro|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Block ads
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:|
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|
