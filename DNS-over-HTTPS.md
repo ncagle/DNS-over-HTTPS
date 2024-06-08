@@ -168,7 +168,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
 |horus-team|https://horus-team.com/dns-query|:heavy_check_mark:|Block ads
 | [Hostux.net](https://dns.hostux.net) |  Nonblocking: https://dns.hostux.net/dns-query <br> Adblocking: https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
-|huanmengmeta.art|https://huanmengmeta.art/dns-query|:heavy_check_mark:|Block ads
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 |[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0)|https://ordns.he.net|:heavy_check_mark:|
@@ -283,7 +282,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |[np-edv](https://np-edv.at/)|https://dns.npe.bz/dns-query|:heavy_check_mark:|Block ads
 |npsolution.it|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Block porn
-|[NS3](https://ns3.com/web)|https://dns8.org/dns-query<br>https://n0.eu/dns-query<br>https://ns3.com/dns-query<br>https://ns3.cx/dns-query<br>https://ns3.link/dns-query|:heavy_check_mark:|
 |nydau.fr|https://dns.nydau.fr|:heavy_check_mark:|
 |n23.io|https://dns.n23.io/dns-query|:heavy_check_mark:|Block ads
 | **O**
