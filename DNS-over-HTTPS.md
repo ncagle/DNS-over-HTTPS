@@ -379,6 +379,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: | 
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
+|tcpu.io|https://adguard.tcpu.io/dns-query|:heavy_check_mark:|Block ads
 |technicule.info|https://vpn.technicule.info/dns-query|:heavy_check_mark:|
 |technostriker|https://dns.technostriker.com/dns-query|:heavy_check_mark:|Block ads & porn
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
