@@ -60,7 +60,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |b33.network|https://dns.b33.network/dns-query|:heavy_check_mark:|Block ads
 |b612.me|https://dns.b612.me/dns-query|:heavy_check_mark:|
 | **C**
-|[CactiChameleon9](https://doserver.top)|https://dns.doserver.top/dns-query|:heavy_check_mark:|
 |[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | 
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking
 |catdns.org|https://catdns.org/dns-query|:heavy_check_mark:|
