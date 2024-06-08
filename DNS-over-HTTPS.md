@@ -406,6 +406,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **V**
 |[Val Cosmos](https://valscosmos.com)|https://doh.valscosmos.com|:heavy_check_mark:|Block ads
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
+|[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 |v6.army|https://outdoor.v6.army/dns-query|:heavy_check_mark:|Block ads
