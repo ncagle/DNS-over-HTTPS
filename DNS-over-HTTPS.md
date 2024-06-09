@@ -406,7 +406,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
 |[Usable Privacy](https://docs.usableprivacy.com/dns)|https://adfree.usableprivacy.net/dns-query|:heavy_check_mark:|Block ads
 | **V**
-|[Val Cosmos](https://valscosmos.com)|https://doh.valscosmos.com|:heavy_check_mark:|Block ads
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
 |[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads
