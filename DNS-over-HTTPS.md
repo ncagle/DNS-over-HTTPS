@@ -113,6 +113,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dnssilo.top|https://dnssilo.top/dns-query|:heavy_check_mark:|
 | [dnswarden](https://dnswarden.com)| Adblock - <br> https://dns.dnswarden.com/adblock <br><br> Uncensored -<br> https://dns.dnswarden.com/uncensored <br><br> AdultFilter - <br>  https://dns.dnswarden.com/adultfilter | <br>:heavy_check_mark:<br><br><br> :heavy_check_mark:<br><br><br>:heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT) & Dnscrypt. Supports DNSSEC, TLS 1.3, QNAME minimization and does own Recursion. EDNS Client Subnet is disabled.<br> Provides 4 different types of filtering options.<br> Adblock - Blocks ads, trackers, viruses, and telemetry.<br> Adultfilter - Blocks adult content, enforces safe search, and includes all the features from adblock. <br> Uncensored - Unrestricted access/no filtering.<br>[Custom Filter](https://dnswarden.com/customfilter.html) where you can choose your own filter lists! <br>For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). |
 |dnswebvsn.com|https://dnswebvsn.com/dns-query|:heavy_check_mark:|Ad & porn blocking
+|doh.beauty|https://doh.beauty|:heavy_check_mark:|
 |doh.best|https://dns.doh.best/dns-query|:heavy_check_mark:|Adblocking
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
 |[doh.li](https://doh.li)|https://doh.li/dns-query|:heavy_check_mark:|
