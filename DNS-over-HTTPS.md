@@ -22,7 +22,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
 |[Airwaynet.cz](https://airwaynet.cz)|https://doh.airwaynet.cz/dns-query|:heavy_check_mark:|
-|alleesph|https://alleesph.online/dns-query|:heavy_check_mark:|
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Block ads
 |amonsul.net|https://doh.amonsul.net/dns-query|:heavy_check_mark:|Block ads
 |[André Kelpe](https://kel.pe)|https://doh.kel.pe|:heavy_check_mark:|Block ads
@@ -76,7 +75,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Cisco Umbrella (OpenDNS)](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query <br> Umbrella: https://doh.umbrella.com/dns-query | :heavy_check_mark: <br>:heavy_check_mark:<br> :heavy_check_mark:| DNSSEC, Anycast
 |clanto.cloud|https://dns.clanto.cloud/dns-query|:heavy_check_mark:|Block ads
 | [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
-|[Cloud88](https://cloud88.com.au/)|https://dns.cloud88.com.au/dns-query|:heavy_check_mark:|Adblocking
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 |cloudku.technology|https://voyage-s01.cloudku.technology/dns-query<br>https://voyage-s02.cloudku.technology/dns-query|:heavy_check_mark:|Block ads & porn
 |[Cloudmini.net](https://cloudmini.net)|https://adguard.cloudmini.net/dns-query|:heavy_check_mark:|Block ads
