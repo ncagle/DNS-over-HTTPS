@@ -435,6 +435,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yovbak.com|https://yovbak.com/dns-query|:heavy_check_mark:|Block ads
 |yumenashyi.com|https://dns.yumenashyi.com/dns-query|:heavy_check_mark:|Block ads
 | **Z**
+|[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads
 | **0-9**
