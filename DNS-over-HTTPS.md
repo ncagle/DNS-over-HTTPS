@@ -293,7 +293,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads
 |[OSZX DNS](https://dns.oszx.co/)|https://dns.oszx.co/dns-query|:heavy_check_mark:|Adblocking
 |ours.luxe|https://dns.ours.luxe/dns-query|:heavy_check_mark:|Block ads & porn
-|[Ozérim](https://ozer.im)|https://1a.ns.ozer.im/dns-query|:heavy_check_mark:|Block ads
 |o0o.re|https://5g.o0o.re/dns-query|:heavy_check_mark:|
 | **P**
 |pacificmonster.com|https://dns.pacificmonster.com/dns-query|:heavy_check_mark:|Block ads
