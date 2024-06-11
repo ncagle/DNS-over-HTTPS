@@ -233,6 +233,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
 |[LiCoHo](https://licoho.de)|https://ns-doh.licoho.de/dns-query|:heavy_check_mark:|
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |
+|[Liquid Intelligent Technologies](https://liquid.tech/)|https://africadns1.liquidtelecom.net/dns-query<br>https://africadns2.liquidtelecom.net/dns-query|:heavy_check_mark:|
 |[Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/)|https://dns.lista.my.id/dns-query|:heavy_check_mark:|Block ads
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
 |loii.in|https://ca.loii.in/dns-query|:heavy_check_mark:|Block ads
