@@ -309,6 +309,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
 |powerbs.net|https://dns.powerbs.net/dns-query|:heavy_check_mark:|Block ads
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
+|[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Germany: https://de.dns.privex.io<br>Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |psociety.de|https://dns.psociety.de/dns-query|:heavy_check_mark:|Block ads
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking
