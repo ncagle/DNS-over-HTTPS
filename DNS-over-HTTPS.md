@@ -134,7 +134,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |elbschloss.xyz|https://hole.elbschloss.xyz/dns-query|:heavy_check_mark:|
 |[Electro](https://electrotm.org)|https://dns.electrotm.org/dns-query|:heavy_check_mark:|
 |[Electron Decomposer](https://jpr.space)|https://addns.jpr.space/dns-query|:heavy_check_mark:|Block ads
-|[Element](https://unerror.network)|https://dns.unerror.network/dns-query|:heavy_check_mark:|Block ads
 |eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Block ads
 |[ELIV](https://dns.eliv.co.kr)|https://dns.eliv.co.kr/dns-query|:heavy_check_mark:|Block ads
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
@@ -182,14 +181,13 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |immanuelschaffer.de|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Block ads
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |[Indianets](https://indianets.net)|https://adblock.indianets.net/dns-query|:heavy_check_mark:|Block ads
-|[Indust](https://indust.me)|https://dns.indust.me/dns-query|:heavy_check_mark:|
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Inforlogia](https://inforlogia.com)|https://dns.inforlogia.com/dns-query|:heavy_check_mark:|Block ads
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027 
 |[Inter-University Computation Center](https://iucc.ac.il/en/)|https://doh.iucc.ac.il/dns-query|:heavy_check_mark:|
 |ionutl.ro|https://dns.cloud.ionutl.ro/dns-query|:heavy_check_mark:|Block ads
-|is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query|:heavy_check_mark:|
+|is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[i2pd.xyz](https://opennic.i2pd.xyz)|https://opennic.i2pd.xyz/dns-query|:heavy_check_mark:|Also resolves OpenNIC domains
 | **J**
 |janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads 
