@@ -37,6 +37,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |att.net|https://dohtrial.att.net|:heavy_check_mark:|
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan
+|axto.me|https://dns.axto.me/dns-query|:heavy_check_mark:|Block ads
 |ayasesayuki.shop|https://ayasesayuki.shop/dns-query|:heavy_check_mark:|Block ads & gambling
 |a47.me|https://dns.a47.me/dns-query|:heavy_check_mark:|
 | **B**
