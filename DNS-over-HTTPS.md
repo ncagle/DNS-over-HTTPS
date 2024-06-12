@@ -94,6 +94,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **D**
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |[Daniyar Yeralin](https://yeralin.net)|https://yeralin.net/dns-query|:heavy_check_mark:|Block ads
+|dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads
 |das.sch.id|https://filter.das.sch.id/dns-query|:heavy_check_mark:|Block ads, gambling & porn
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging
 |[denypradana.com](https://doh.denypradana.com)|https://doh.denypradana.com/dns-query|:heavy_check_mark:|
