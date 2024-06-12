@@ -175,7 +175,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 |[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0)|https://ordns.he.net|:heavy_check_mark:|
-|[HYAS](https://hyas.com)|https://dns.hyas.com|:heavy_check_mark:|
 | **I**
 |[Ian ROCKS](https://blog.ian.rocks)|https://dns.ian.rocks/dns-query|:heavy_check_mark:|Block ads & porn
 |[ibksturm](https://github.com/ibksturm)|https://ibksturm.synology.me/dns-query|:heavy_check_mark:|
@@ -201,7 +200,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jinwoo.dev|https://dns.jinwoo.dev/dns-query|:heavy_check_mark:|Block ads
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 |johnwick.me|https://ad.johnwick.me/dns-query|:heavy_check_mark:|Block ads & gambling
-| [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query <br> https://jp.tiarap.org/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
+| [jp.tiar.app](https://jp.tiar.app/) | https://jp.tiar.app/dns-query | :heavy_check_mark: | No Censorship, No Logging, No ECS, support DNSSEC in Japan |
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|
 | **K**
@@ -421,7 +420,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
-|v6.army|https://outdoor.v6.army/dns-query|:heavy_check_mark:|Block ads
 | **W**
 |[Wael](https://www.wael.name/dns/)|https://dns.wael.name:4433/dns-query|:heavy_check_mark:|Block ads & gambling
 |wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
