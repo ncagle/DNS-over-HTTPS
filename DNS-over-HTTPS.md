@@ -338,6 +338,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure)
 |[Rezha Julio](https://rezhajul.io/)|https://doh.rezhajul.io/dns-query|:heavy_check_mark:|Block ads & gambling
+|richoux.me|https://dns.richoux.me/dns-query|:heavy_check_mark:|Block ads
 | Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 |rjls.me|https://dns.rjls.me/dns-query|:heavy_check_mark:|Block ads & porn
 |rkjha.com.np|https://dns.rkjha.com.np/dns-query|:heavy_check_mark:|Block ads
