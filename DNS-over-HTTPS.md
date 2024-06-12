@@ -64,7 +64,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Canarypwn](https://aaaab3n.moe/networks) | Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | 
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking
 |catdns.org|https://catdns.org/dns-query|:heavy_check_mark:|
-|[cctld.kg](https://dns.cctld.kg)|https://dns.cctld.kg/dns-query|:heavy_check_mark:|
 |[CERT Estonia](https://www.ria.ee/en/news/application-developed-cert-ee-protects-against-phishing-and-malware)|https://dns.cert.ee/dns-query|:heavy_check_mark:|Block phishing, malware, porn & gambling
 |chadeyron.fr|https://dns.chadeyron.fr/dns-query|:heavy_check_mark:|Adblocking
 |[Charter](https://corporate.charter.com/)|https://doh-01.spectrum.com/dns-query<br>https://doh-02.spectrum.com/dns-query|:heavy_check_mark:|
@@ -145,7 +144,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ero-sayhi.com|https://agh.ero-sayhi.com/dns-query|:heavy_check_mark:|Block ads
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|
-|[EverDNS](https://everdns.tech)|https://dns.everdns.tech/dns-query|:heavy_check_mark:|
 |extrawdw.net|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Block ads
 | **F**
 |[Fachrizal Fahmy](https://doh.manish.ltd)|https://doh.manish.ltd/dns-query|:heavy_check_mark:|
@@ -383,7 +381,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Sparsh Bajaj](https://sparshbajaj.me)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|Block ads & gambling
-|srito.com.br|https://adguard.srito.com.br/dns-query|:heavy_check_mark:|Block ads & porn
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:|
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads
 |streamlas.fr|https://adguard.streamlas.fr/dns-query|:heavy_check_mark:|Block ads
