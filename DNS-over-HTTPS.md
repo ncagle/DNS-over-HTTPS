@@ -282,7 +282,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |nj0.de|https://dns.nj0.de/dns-query|:heavy_check_mark:|
 | [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn
-|[nonexiste.net](https://nonexiste.net|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
+|[nonexiste.net](https://nonexiste.net)|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: |
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query<br>https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads
