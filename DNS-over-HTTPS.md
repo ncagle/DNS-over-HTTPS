@@ -76,7 +76,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: <br>https://private.canadianshield.cira.ca/dns-query <br> Protected: <br>https://protected.canadianshield.cira.ca/dns-query <br> Family: <br>https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
 | [CIRCL](https://www.circl.lu/) | https://dns.circl.lu/dns-query  | :heavy_check_mark:| Adblocking
 | [Cisco Umbrella (OpenDNS)](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query <br> Umbrella: https://doh.umbrella.com/dns-query | :heavy_check_mark: <br>:heavy_check_mark:<br> :heavy_check_mark:| DNSSEC, Anycast
-|clanto.cloud|https://dns.clanto.cloud/dns-query|:heavy_check_mark:|Block ads
 | [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 |cloudku.technology|https://voyage-s01.cloudku.technology/dns-query<br>https://voyage-s02.cloudku.technology/dns-query|:heavy_check_mark:|Block ads & porn
@@ -357,7 +356,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |sec511.com|https://dns.sec511.com/dns-query|:heavy_check_mark:|
 |scarx.net|https://dns.scarx.net/dns-query|:heavy_check_mark:|
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking
-|[scuola.org](https://scuola.org)|https://dns.scuola.org/dns-query|:heavy_check_mark:|Block ads
 |sealyserver.com|https://adguard.sealyserver.com/dns-query|:heavy_check_mark:|Block ads
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC
@@ -399,7 +397,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |thefather.cloud|https://guard.thefather.cloud/dns-query|:heavy_check_mark:|Block ads & gambling
 |[The Good Source](https://www.thegoodsource.net/)|https://dns.thegoodsource.net/dns-query|:heavy_check_mark:|Block porn and violent extremism
 |thethorsens.org|https://blocker.thethorsens.org/dns-query|:heavy_check_mark:|Block ads
-| [Tiarap](https://doh.tiar.app) | https://doh.tiar.app/dns-query <br> https://doh.tiarap.org/dns-query | :heavy_check_mark: <br> :heavy_check_mark: |Based in Singapore, No logging, block Ad/Ad-tracking/Malware, No ECS, DNSSEC |
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling
 |Tirapan.top|https://tirapan.top/nomen-quaesitum|:heavy_check_mark:|
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
