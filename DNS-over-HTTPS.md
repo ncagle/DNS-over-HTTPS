@@ -187,6 +187,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[i2pd.xyz](https://opennic.i2pd.xyz)|https://opennic.i2pd.xyz/dns-query|:heavy_check_mark:|Also resolves OpenNIC domains
 | **J**
+|[Jakinet](https://jakinet.id)|https://adguard.jakinet.id/dns-query|:heavy_check_mark:|Block ads & porn
 |janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads 
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling
 |jinwoo.dev|https://dns.jinwoo.dev/dns-query|:heavy_check_mark:|Block ads
