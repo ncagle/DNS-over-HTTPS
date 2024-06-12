@@ -327,6 +327,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ray0512.win|https://la.ray0512.win/dns-query|:heavy_check_mark:|
 |renardyre.com|https://dns.renardyre.com/dns-query|:heavy_check_mark:|Block ads
 |reckoningslug.name|https://dns.reckoningslug.name/dns-query|:heavy_check_mark:|
+|relskor.com|https://adguard.relskor.com/dns-query|:heavy_check_mark:|Block ads
 |[repinger](https://dns.repinger.my.id)|https://dns.repinger.my.id/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking
