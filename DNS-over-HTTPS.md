@@ -280,7 +280,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
 |[Nico Franke](https://zernico.de)|https://adguard-kartoffel.zernico.de/dns-query|:heavy_check_mark:|
 | [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |
-|[Ningkelle.id](https://ningkelle.id/tools/dns/)|Adblocking https://dns.ningkelle.id/dns-query<br>Ad & porn blocking https://family.dns.ningkelle.id/dns-query|:heavy_check_mark:|
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 |nj0.de|https://dns.nj0.de/dns-query|:heavy_check_mark:|
