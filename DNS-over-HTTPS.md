@@ -249,6 +249,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads
+|[Meta Dallin](https://dallinbryce.com)|https://dns.dallinbryce.com/dns-query|:heavy_check_mark:|
 |mikatos.de|https://mikatos.de/dns-query|:heavy_check_mark:|Block ads
 |mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads
 |[mikrotikrumahan](https://mikrotikrumahan.my.id/)|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Block ads
