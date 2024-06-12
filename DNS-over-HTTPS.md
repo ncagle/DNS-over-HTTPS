@@ -368,6 +368,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland
 |[Sparsh Bajaj](https://sparshbajaj.me)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|Block ads & gambling
+|srito.com.br|https://adguard.srito.com.br/dns-query|:heavy_check_mark:|Block ads & porn
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:|
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads
 |streamlas.fr|https://adguard.streamlas.fr/dns-query|:heavy_check_mark:|Block ads
