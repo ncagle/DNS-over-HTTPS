@@ -179,6 +179,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[HYAS](https://hyas.com)|https://dns.hyas.com|:heavy_check_mark:|
 | **I**
 |[Ian ROCKS](https://blog.ian.rocks)|https://dns.ian.rocks/dns-query|:heavy_check_mark:|Block ads & porn
+|[ibksturm](https://github.com/ibksturm)|https://ibksturm.synology.me/dns-query|:heavy_check_mark:|
 |ihctw.synology.me|https://ihctw.synology.me/dns-query|:heavy_check_mark:|Block ads
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking
 |[Iki](https://iki.my.id)|https://dns.iki.my.id/dns-query|:heavy_check_mark:|Block ads
