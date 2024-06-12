@@ -223,6 +223,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads
 |Kukal|https://dns.kukal.cz/dns-query| :heavy_check_mark: | Adblocking
 |kusoneko|https://dns.kusoneko.moe:9443/dns-query|:heavy_check_mark:|
+|kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:|
 |kyusang.win|https://agh.kyusang.win/dns-query|:heavy_check_mark:|Block ads
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
