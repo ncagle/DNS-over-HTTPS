@@ -416,7 +416,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan
 | **W**
 |[Wael](https://www.wael.name/dns/)|https://dns.wael.name:4433/dns-query|:heavy_check_mark:|Block ads & gambling
-|wahr.top|https://dns.wahr.top/dns-query|:heavy_check_mark:|
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |wantaquddin.com|https://wantaquddin.com/dns-query|:heavy_check_mark:|Block ads & porn
 |wargan.io|https://dns.wargan.io/dns-query|:heavy_check_mark:|Block ads
