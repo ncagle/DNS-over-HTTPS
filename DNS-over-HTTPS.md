@@ -425,7 +425,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wantaquddin.com|https://wantaquddin.com/dns-query|:heavy_check_mark:|Block ads & porn
 |wargan.io|https://dns.wargan.io/dns-query|:heavy_check_mark:|Block ads
 |waringer-atg.de|https://abel.waringer-atg.de/dns-query|:heavy_check_mark:|
-|warpnine.de|https://dns.warpnine.de/dns-query|:heavy_check_mark:|Block ads
 |webnmail.de|https://doh.webnmail.de/dns-query|:heavy_check_mark:|
 |webteufel.net|https://zuhause.webteufel.net/dns-query|:heavy_check_mark:|Block ads & porn
 |wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Block ads
