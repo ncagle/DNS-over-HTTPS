@@ -149,7 +149,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
 |[Feroz](https://padlock.argh.in/2019/07/11/dns-over-https.html)|https://doh.li/dns-query|:heavy_check_mark:|
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
-| Flm9.net | https://dns01.flm9.net/dns-query |  :heavy_check_mark: |
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
 |foxcross.de|https://adguard.foxcross.de/dns-query|:heavy_check_mark:|Block ads
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
@@ -338,7 +337,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure)
 |[Rezha Julio](https://rezhajul.io/)|https://doh.rezhajul.io/dns-query|:heavy_check_mark:|Block ads & gambling
 |richoux.me|https://dns.richoux.me/dns-query|:heavy_check_mark:|Block ads
-| Rin.sh | https://dns.rin.sh/dns-query | :heavy_check_mark: |
 |rjls.me|https://dns.rjls.me/dns-query|:heavy_check_mark:|Block ads & porn
 |rkjha.com.np|https://dns.rkjha.com.np/dns-query|:heavy_check_mark:|Block ads
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation
