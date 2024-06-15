@@ -317,7 +317,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Q**
 |[Quadrant](https://quadrantsec.com/blog/quadrants-public-dns-resolver-tls-https-support)|https://doh.qis.io/dns-query|:heavy_check_mark:|
 | [Quad9](https://quad9.net) | 9.9.9.9 (Secure): A threat-blocking, privacy-first recursive DNS service. <br> https://dns.quad9.net/dns-query <br><br> 9.9.9.10 (No Threat Blocking): For users who want to take advantage of privacy-first recursive DNS service, but do not want threat blocking. <br> https://dns10.quad9.net/dns-query <br><br> 9.9.9.11 (Secure + ECS): For users who do not route to the closest-possible Quad9 location, use 9.9.9.11 for better CDN performance. <br> https://dns11.quad9.net/dns-query <br><br> 9.9.9.12 (No Threat Blocking + ECS): For users who do not route to the closest-possible Quad9 location, and also do not want threat blocking, use 9.9.9.12 for better CDN performance. <br> https://dns12.quad9.net/dns-query | ✔️ <br> ✔️ <br> ✔️ <br> ✔️ | 9.9.9.9 - Malware blocking, DNSSEC validation <br> 9.9.9.10 - No malware blocking, no DNSSEC validation <br> 9.9.9.11 - Malware blocking, DNSSEC validation, ECS enabled <br> 9.9.9.12 - No malware blocking, no DNSSEC validation, ECS enabled
-|[quydang.name.vn](https://quydang.name.vn/)|https://adguard.quydang.name.vn/dns-query|:heavy_check_mark:|
 | **R**
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking
 |ray0512.win|https://la.ray0512.win/dns-query|:heavy_check_mark:|
