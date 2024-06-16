@@ -20,7 +20,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |adtidy.net|https://testadguardhome.adtidy.net/dns-query|:heavy_check_mark:|Block ads
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
-|[Airwaynet.cz](https://airwaynet.cz)|https://doh.airwaynet.cz/dns-query|:heavy_check_mark:|
 |[AliDNS](https://alidns.com)|https://dns.alidns.com/dns-query|:heavy_check_mark:|
 |amlegion.org|https://mailer.amlegion.org/dns-query|:heavy_check_mark:|Block ads
 |[André Kelpe](https://kel.pe)|https://doh.kel.pe|:heavy_check_mark:|Block ads
@@ -411,7 +410,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |webnmail.de|https://doh.webnmail.de/dns-query|:heavy_check_mark:|
 |webteufel.net|https://zuhause.webteufel.net/dns-query|:heavy_check_mark:|Block ads & porn
 |wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Block ads
-|[Whalebone](https://whalebone.io)|https://doh-rs.whalebone.io/dns-query|:heavy_check_mark:|
 |[Wheezy Notes](https://wheezy.naftalie.net/)|https://doh-ca.naftalie.net/dns-query|:heavy_check_mark:|
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
 |wil.cloud|https://dns-1.wil.cloud/dns-query<br>https://dns-2.wil.cloud/dns-query|:heavy_check_mark:|
