@@ -79,7 +79,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |cornes.me|https://doh.cornes.me/dns-query|:heavy_check_mark:|Block ads
 |[Corpame](https://corpa.me)|https://resolve.corpa.me/dns-query|:heavy_check_mark:|Block ads
 |[Cooluc's DNS](https://dns.cooluc.com)|Non-filtering: https://dns.cooluc.com/dns-query<br>Adblocking: https://dns.cooluc.com/dns-query-ad|:heavy_check_mark:|
-|cretu.xyz|https://dns.cretu.xyz/dns-query|:heavy_check_mark:|Block ads
 |csa-rz.de|https://dns.csa-rz.de/dns-query|:heavy_check_mark:|
 |[CubeDNS](https://cubedns.com/)|https://cubedns.com/dns-query|:heavy_check_mark:|
 |[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
@@ -395,7 +394,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)|https://anycast.uncensoreddns.org/dns-query|:heavy_check_mark:|
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
-|[Usable Privacy](https://docs.usableprivacy.com/dns)|https://adfree.usableprivacy.net/dns-query|:heavy_check_mark:|Block ads
 |utangard.net|https://dns.utangard.net/dns-query|:heavy_check_mark:|Block ads & gambling
 | **V**
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
