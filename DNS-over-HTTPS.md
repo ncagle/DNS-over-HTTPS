@@ -140,7 +140,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Feroz](https://padlock.argh.in/2019/07/11/dns-over-https.html)|https://doh.li/dns-query|:heavy_check_mark:|
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
-|foxcross.de|https://adguard.foxcross.de/dns-query|:heavy_check_mark:|Block ads
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 |fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:|
 |funil.de|https://doh.funil.de/dns-query|:heavy_check_mark:|
@@ -255,7 +254,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Neowutran](https://neowutran.ovh)|https://dns.neowutran.ovh|:heavy_check_mark:|
 |[Newpangea](https://newpangea.de/service/resolvers/overview/)|https://dns1.us.newpangea.de/dns-query<br>https://dns1.au.newpangea.de/dns-query|:heavy_check_mark:|
 |[netkolik.org](https://netkolik.org)|https://adguard.netkolik.org/dns-query|:heavy_check_mark:|Block ads
-| Nexific.it | https://doh.luigi.nexific.it/dns-query | :heavy_check_mark:|
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
 |nhtsky|https://dns.nhtsky.com/dns-query|:heavy_check_mark:|Block ads
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
@@ -290,7 +288,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking
 |[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads
 |[PC Coach](https://pccoach.nl)|https://dns.pccoach.nl/dns-query|:heavy_check_mark:|Block ads
-|pesaventofilippo|https://dns.pesaventofilippo.com/dns-query|:heavy_check_mark:|Adblocking
 |phillipjberry.net|https://dns.phillipjberry.net/dns-query|:heavy_check_mark:|Block ads
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking
 |plaawan.uk|https://doh.plaawan.uk/dns-query|:heavy_check_mark:|Block ads
@@ -316,7 +313,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure)
-|[Rezha Julio](https://rezhajul.io/)|https://doh.rezhajul.io/dns-query|:heavy_check_mark:|Block ads & gambling
 |richoux.me|https://dns.richoux.me/dns-query|:heavy_check_mark:|Block ads
 |rjls.me|https://dns.rjls.me/dns-query|:heavy_check_mark:|Block ads & porn
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation
@@ -386,7 +382,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)|https://anycast.uncensoreddns.org/dns-query|:heavy_check_mark:|
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
-|utangard.net|https://dns.utangard.net/dns-query|:heavy_check_mark:|Block ads & gambling
 | **V**
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
 |[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads
