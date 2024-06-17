@@ -303,7 +303,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ple91.uk|https://dns.ple91.uk/dns-query|:heavy_check_mark:|Block ads
 |[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking
-|powerbs.net|https://dns.powerbs.net/dns-query|:heavy_check_mark:|Block ads
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Germany: https://de.dns.privex.io<br>Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |psociety.de|https://dns.psociety.de/dns-query|:heavy_check_mark:|Block ads
@@ -426,7 +425,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads
 |0rz.space|https://1.0rz.space/dns-query<br>https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
-|l6.ee|https://dns.l6.ee/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |[56k DNS](https://dns.56k.uy)|https://dns.56k.uy/dns-query|:heavy_check_mark:|Block ads, based in Uruguay
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn
