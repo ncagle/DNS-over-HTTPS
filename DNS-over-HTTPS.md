@@ -170,7 +170,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Iki](https://iki.my.id)|https://dns.iki.my.id/dns-query|:heavy_check_mark:|Block ads
 |immanuelschaffer.de|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Block ads
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
-|[Indianets](https://indianets.net)|https://adblock.indianets.net/dns-query|:heavy_check_mark:|Block ads
 |indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking
 |[Inforlogia](https://inforlogia.com)|https://dns.inforlogia.com/dns-query|:heavy_check_mark:|Block ads
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
@@ -189,7 +188,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|
 | **K**
 |[Kamil Szczepański](https://kamilszczepanski.com/)|https://dns.kamilszczepanski.com/dns-query|:heavy_check_mark:|Block ads
-|[Kar Family](https://karfamily.net)|https://dns.karfamily.net/dns-query|:heavy_check_mark:|Block ads
 |kawa.tf|https://dns.kawa.tf/dns-query|:heavy_check_mark:|Block ads
 |keke125|https://dns.keke125.com/dns-query|:heavy_check_mark:|Adblocking
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking
