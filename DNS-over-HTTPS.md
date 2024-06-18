@@ -224,7 +224,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
 |loii.in|https://ca.loii.in/dns-query|:heavy_check_mark:|Block ads
 |lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|Block ads
-|l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads
 | **M**
 |mailkyb.co|https://mailkyb.co/dns-query|:heavy_check_mark:|Block ads
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
