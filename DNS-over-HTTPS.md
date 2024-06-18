@@ -58,7 +58,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking
 |catdns.org|https://catdns.org/dns-query|:heavy_check_mark:|
 |[CERT Estonia](https://www.ria.ee/en/news/application-developed-cert-ee-protects-against-phishing-and-malware)|https://dns.cert.ee/dns-query|:heavy_check_mark:|Block phishing, malware, porn & gambling
-|chadeyron.fr|https://dns.chadeyron.fr/dns-query|:heavy_check_mark:|Adblocking
 |[Charter](https://corporate.charter.com/)|https://doh-01.spectrum.com/dns-query<br>https://doh-02.spectrum.com/dns-query|:heavy_check_mark:|
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
 |[chrisdooks](https://dooks.uk)|https://dns.dooks.uk/dns-query|:heavy_check_mark:|Block ads
