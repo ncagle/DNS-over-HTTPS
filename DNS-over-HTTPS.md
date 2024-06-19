@@ -176,7 +176,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 | **J**
 |[jabber-germany.de](https://www.jabber-germany.de)|https://www.jabber-germany.de/dns-query|:heavy_check_mark:|OpenNIC
-|[Jakinet](https://jakinet.id)|https://adguard.jakinet.id/dns-query|:heavy_check_mark:|Block ads & porn
 |janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads 
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
@@ -375,7 +374,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **U**
 |[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)|https://anycast.uncensoreddns.org/dns-query|:heavy_check_mark:|
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains.
-|unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|
 | **V**
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
 |[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads
