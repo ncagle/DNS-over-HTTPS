@@ -36,6 +36,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |a47.me|https://dns.a47.me/dns-query|:heavy_check_mark:|
 | **B**
 |baishiyuan.cn|https://dns.baishiyuan.cn/dns-query|:heavy_check_mark:|Adblocking
+|[BebasDNS](https://github.com/bebasid/bebasdns/blob/main/README.en.md)|https://dns.bebasid.com/dns-query|:heavy_check_mark:|Block ads
 |[Belnet](https://dns.belnet.be)|https://dns.belnet.be/dns-query|:heavy_check_mark:|
 |b-ii|https://b-ii.com/dns-query|:heavy_check_mark:|Block ads
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
