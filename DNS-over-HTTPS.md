@@ -149,7 +149,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
 |gifino.fr|https://adguard.maison.gifino.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service
 |[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-| [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, no filtering.
+| [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering.
 |[Gorgeous](https://so-gorgeo.us.kg/)|https://nana-is.so-gorgeo.us.kg/dns-query<br>https://tetty-is.so-gorgeo.us.kg/dns-query<br>https://luna-is.so-gorgeo.us.kg/dns-query|:heavy_check_mark:| Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |gridlax.com|https://secure-dns.gridlax.com/dns-query|:heavy_check_mark:|
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
@@ -262,7 +262,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Node15](https://node15.com/) | https://pi1.node15.com/dns-query | :heavy_check_mark: | Block ads and porn, use Cloudflare upstream
 |[nonexiste.net](https://nonexiste.net)|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: |
-|[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query<br>https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking, use Cloudflare upstream
+|[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query<br>Cloudflare upstream with DNSSEC: https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |[np-edv](https://np-edv.at/)|https://dns.npe.bz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
@@ -275,7 +275,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[OpenBLD.net](https://openbld.net/) | Adapted: https://ada.openbld.net/dns-query <br> Strict: https://ric.openbld.net/dns-query |:heavy_check_mark: <br> :heavy_check_mark:|Adblocking
 |[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Berlin, Germany: https://ns3.opennameserver.org/dns-query<br>Sandefjord, Norway: https://ns4.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
-|o0o.re|https://5g.o0o.re/dns-query|:heavy_check_mark:|Use Cloudflare upstream
+|o0o.re|https://5g.o0o.re/dns-query|:heavy_check_mark:|Use Cloudflare upstream with DNSSEC
 | **P**
 |pacificmonster.com|https://dns.pacificmonster.com/dns-query|:heavy_check_mark:|Block ads
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
@@ -407,7 +407,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|0rz.space|https://1.0rz.space/dns-query<br>https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|0rz.space|Cloudflare upstream with DNSSEC: https://1.0rz.space/dns-query<br>No DNSSEC: https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |[56k DNS](https://dns.56k.uy)|https://dns.56k.uy/dns-query|:heavy_check_mark:|Block ads, support OpenNIC, based in Uruguay
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
