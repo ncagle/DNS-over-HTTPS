@@ -283,7 +283,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|[PC Coach](https://pccoach.nl)|https://dns.pccoach.nl/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |phillipjberry.net|https://dns.phillipjberry.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security and parental controlr web service
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
 |plaawan.uk|https://doh.plaawan.uk/dns-query|:heavy_check_mark:|Block ads
