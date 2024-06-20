@@ -336,7 +336,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |siudzinski.net|https://adg.siudzinski.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|OpenNIC, block ads
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
-|sitdns.com|https://dns.sitdns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream
 |[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
