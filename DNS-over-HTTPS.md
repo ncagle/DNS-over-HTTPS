@@ -362,7 +362,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |thefather.cloud|https://guard.thefather.cloud/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering
 |[The Good Source](https://www.thegoodsource.net/)|https://dns.thegoodsource.net/dns-query|:heavy_check_mark:|Block porn and violent extremism
-|thethorsens.org|https://blocker.thethorsens.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling
 |Tirapan.top|https://tirapan.top/nomen-quaesitum|:heavy_check_mark:|
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
