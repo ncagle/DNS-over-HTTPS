@@ -248,7 +248,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |narl.app|https://dns.narl.app/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
 |[Neowutran](https://neowutran.ovh)|https://dns.neowutran.ovh|:heavy_check_mark:|
 |[Newpangea](https://newpangea.de/service/resolvers/overview/)|https://dns1.us.newpangea.de/dns-query<br>https://dns1.au.newpangea.de/dns-query|:heavy_check_mark:|OpenNIC
-|[netkolik.org](https://netkolik.org)|https://adguard.netkolik.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
 |nhtsky|https://dns.nhtsky.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
