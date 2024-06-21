@@ -107,6 +107,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.beauty|https://doh.beauty|:heavy_check_mark:|
 |doh.best|https://dns.doh.best/dns-query|:heavy_check_mark:|Adblocking
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
+|doh.pink|https://doh.pink/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
 |[DoTLS](https://dotls.org/)|https://ns1.dotls.org|:heavy_check_mark:|Block ads
