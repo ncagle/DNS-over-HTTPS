@@ -266,7 +266,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |npsolution.it|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Block porn, use AdGuard parental control web service
 |n23.io|https://dns.n23.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **O**
-|oasg.xyz|https://dns.oasg.xyz/dns-query|:heavy_check_mark:|
 |ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
 |[OpenBLD.net](https://openbld.net/) | Adapted: https://ada.openbld.net/dns-query <br> Strict: https://ric.openbld.net/dns-query |:heavy_check_mark: <br> :heavy_check_mark:|Adblocking
