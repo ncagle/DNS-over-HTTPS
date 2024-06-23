@@ -175,7 +175,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027 
 |[Inter-University Computation Center](https://iucc.ac.il/en/)|https://doh.iucc.ac.il/dns-query|:heavy_check_mark:|
 |ionutl.ro|https://dns.cloud.ionutl.ro/dns-query|:heavy_check_mark:|Block ads
-|is.my.waifu.cz|https://aqua.is.my.waifu.cz/dns-query<br>https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
+|is.my.waifu.cz|https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[Ivankin](https://ivnkn.xyz)|https://ivnkn.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **J**
 |[jabber-germany.de](https://www.jabber-germany.de)|https://www.jabber-germany.de/dns-query|:heavy_check_mark:|OpenNIC
@@ -204,7 +204,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[KRC Technologies](https://krctechnologies.net)|https://pdns.krctechnologies.net/dns-query|:heavy_check_mark:|Block ads
 |kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |Kukal|https://dns.kukal.cz/dns-query| :heavy_check_mark: | Adblocking
-|kusoneko|https://dns.kusoneko.moe:9443/dns-query|:heavy_check_mark:| OpenNIC
 |kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC
 |kyusang.win|https://agh.kyusang.win/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service
 | **L**
