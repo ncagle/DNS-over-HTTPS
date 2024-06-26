@@ -310,7 +310,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
-|runsel.id|https://doh.runsel.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **S**
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
 |saneaki|https://dns.saneaki.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
