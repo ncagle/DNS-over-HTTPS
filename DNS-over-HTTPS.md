@@ -305,7 +305,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |rjls.me|https://dns.rjls.me/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering
-|[Rowdy en Geesje](https://rowdyengeesje.nl/)|https://adguard.rowdyengeesje.nl/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 |runsel.id|https://doh.runsel.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **S**
