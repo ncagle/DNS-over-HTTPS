@@ -351,6 +351,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads
 |streamlas.fr|https://adguard.streamlas.fr/dns-query|:heavy_check_mark:|Block ads
 |[StuSta](https://www.stusta.de/en/)|https://muli.stusta.mhn.de/dns-query|:heavy_check_mark:|
+|suhaila.dev|https://dns.suhaila.dev/dns-query|:heavy_check_mark:|Block ads
 |sukidayo.eu.org|https://sukidayo.eu.org/dns-query|:heavy_check_mark:|
 | [Sundalandia](https://sundalandia.pp.ua) | Adblock https://sundalandia.pp.ua/dns-query <br> Family filter https://sundalandia.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:|
