@@ -409,6 +409,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
+|zebrzydowa110.eu|https://blocker.zebrzydowa110.eu/dns-query|:heavy_check_mark:|Block ads
 |zettawize.xyz|https://dns1.zettawize.xyz/dns-query|:heavy_check_mark:|Block ads
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
