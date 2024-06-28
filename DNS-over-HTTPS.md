@@ -45,6 +45,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |b-ii|https://b-ii.com/dns-query|:heavy_check_mark:|Block ads
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 |[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
+|biying.flymlc.com|https://biying.flymlc.com/dns-query|:heavy_check_mark:|Block ads
 |[Blahdns](https://blahdns.com)|Finland: https://doh-fi.blahdns.com/dns-query<br>Germany: https://doh-de.blahdns.com/dns-query<br>Singapore: https://doh-sg.blahdns.com/dns-query<br>Japan: https://doh-jp.blahdns.com/dns-query<br>Switzerland: https://doh-ch.blahdns.com/dns-query|:heavy_check_mark:|Block ads, non-logging, no ECS, DNSSEC ready, support OpenNIC & ENS
 |[BlissDNS](https://blissdns.net)|https://us1.blissdns.net/dns-query|:heavy_check_mark:|Block ads
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
