@@ -49,6 +49,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Blahdns](https://blahdns.com)|Finland: https://doh-fi.blahdns.com/dns-query<br>Germany: https://doh-de.blahdns.com/dns-query<br>Singapore: https://doh-sg.blahdns.com/dns-query<br>Japan: https://doh-jp.blahdns.com/dns-query<br>Switzerland: https://doh-ch.blahdns.com/dns-query|:heavy_check_mark:|Block ads, non-logging, no ECS, DNSSEC ready, support OpenNIC & ENS
 |[BlissDNS](https://blissdns.net)|https://us1.blissdns.net/dns-query|:heavy_check_mark:|Block ads
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
+|[Blue Mountain](https://linngde.com)|https://doh.linngde.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |[Blue Shield Umbrella](https://blue-shield.at)|https://rfree1.blue-shield.at/dns-query<br>https://rfree2.blue-shield.at/dns-query|:heavy_check_mark:|
 |bonis.de|https://adguard.bonis.de/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
@@ -113,7 +114,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud
 | [dnswarden](https://dnswarden.com)| Adblock - <br> https://dns.dnswarden.com/adblock <br><br> Uncensored -<br> https://dns.dnswarden.com/uncensored <br><br> AdultFilter - <br>  https://dns.dnswarden.com/adultfilter | <br>:heavy_check_mark:<br><br><br> :heavy_check_mark:<br><br><br>:heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT) & Dnscrypt. Supports DNSSEC, TLS 1.3, QNAME minimization, OpenNIC and does own Recursion. EDNS Client Subnet is disabled.<br> Provides 4 different types of filtering options.<br> Adblock - Blocks ads, trackers, viruses, and telemetry.<br> Adultfilter - Blocks adult content, enforces safe search, and includes all the features from adblock. <br> Uncensored - Unrestricted access/no filtering.<br>[Custom Filter](https://dnswarden.com/customfilter.html) where you can choose your own filter lists! <br>For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). |
 |doh.beauty|https://doh.beauty|:heavy_check_mark:|
-|doh.best|https://dns.doh.best/dns-query|:heavy_check_mark:|Adblocking
+|doh.best|https://doh.best/dns-query|:heavy_check_mark:|Adblocking
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
 |doh.pink|https://doh.pink/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
@@ -194,7 +195,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 |johnwick.me|https://ad.johnwick.me/dns-query|:heavy_check_mark:|Block ads & gambling
-|jtcargokebumen.com|https://doh.jtcargokebumen.com/dns-query|:heavy_check_mark:|Block ads
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service
 | **K**
@@ -390,6 +390,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
+|[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
+|volatile.ovh|https://dns.volatile.ovh/dns-query|:heavy_check_mark:|Block ads
 |vuhai.de|https://bigora2.vuhai.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **W**
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
