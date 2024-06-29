@@ -145,11 +145,13 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |extrawdw.net|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 | **F**
+|faked.org|https://dns.faked.org/dns-query|:heavy_check_mark:|Block ads
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
 |[Feroz](https://padlock.argh.in/2019/07/11/dns-over-https.html)|https://doh.li/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, OpenNIC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
+|[Fizz Studio](https://fizz.studio)|https://dns.fizz.studio/dns-query|:heavy_check_mark:|
 | [Foundation for Applied Privacy](https://applied-privacy.net) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198; https://applied-privacy.net/services/dns/ |
 | [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
 |fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:|
@@ -237,6 +239,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |loii.in|https://ca.loii.in/dns-query|:heavy_check_mark:|Block ads
 |lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **M**
+|maherhost.uk|https://maherhost.uk/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | OpenNIC 
 |mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security web service
@@ -255,6 +258,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:|
+|mnrv.trade|https://mnrv.trade/dns-query|:heavy_check_mark:|
 |[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Block ads
 |modsh.top|https://dot.modsh.top/dns-query|:heavy_check_mark:|Block ads
@@ -269,6 +273,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Newpangea](https://newpangea.de/service/resolvers/overview/)|https://dns1.us.newpangea.de/dns-query<br>https://dns1.au.newpangea.de/dns-query|:heavy_check_mark:|OpenNIC
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
 |nhtsky|https://dns.nhtsky.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|[Nick Slowinski](https://nick-slowinski.de)|https://dns.nick-slowinski.de/dns-query|:heavy_check_mark:|Block ads
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
 |[Nico Franke](https://zernico.de)|https://adguard-kartoffel.zernico.de/dns-query|:heavy_check_mark:|
 | [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
