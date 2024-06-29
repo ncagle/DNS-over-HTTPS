@@ -321,6 +321,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **R**
 |[Rabbit DNS](https://rabbitdns.org/install)|Non filtering: https://dns.rabbitdns.org/dns-query<br>Malware filtering: https://security.rabbitdns.org/dns-query<br>Malware and adult filtering: https://family.rabbitdns.org/dns-query|:heavy_check_mark:|Use Cloudflare upstream with malware and family filtering
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
+|randomizer.space|https://doh.randomizer.space/dns-query|:heavy_check_mark:|Block ads
 |ray0512.win|https://la.ray0512.win/dns-query|:heavy_check_mark:|
 |redvau.lt|https://dns.redvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |renardyre.com|https://dns.renardyre.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
