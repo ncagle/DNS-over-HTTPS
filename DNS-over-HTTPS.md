@@ -179,7 +179,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ibksturm](https://github.com/ibksturm)|https://ibksturm.synology.me/dns-query|:heavy_check_mark:| OpenNIC
 |ihctw.synology.me|https://ihctw.synology.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking and AdGuard browsing security web service
-|[Iki](https://iki.my.id)|https://dns.iki.my.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |immanuelschaffer.de|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Block ads
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
 |[Inclusio](https://inclusioproject.com)|https://dns.inclusioproject.com/dns-query|:heavy_check_mark:|
