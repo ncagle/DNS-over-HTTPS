@@ -360,7 +360,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:|
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads
 |stirringphoto.com|https://dns.stirringphoto.com/dns-query|:heavy_check_mark:|
-|streamlas.fr|https://adguard.streamlas.fr/dns-query|:heavy_check_mark:|Block ads
 |[StuSta](https://www.stusta.de/en/)|https://muli.stusta.mhn.de/dns-query|:heavy_check_mark:|
 |suhaila.dev|https://dns.suhaila.dev/dns-query|:heavy_check_mark:|Block ads
 |sukidayo.eu.org|https://sukidayo.eu.org/dns-query|:heavy_check_mark:|
