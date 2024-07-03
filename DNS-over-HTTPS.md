@@ -56,7 +56,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
 |[Bravoc.one](https://bravoc.one/en/)|https://dns.bravoc.one/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
-|btb.dog/|https://btb.dog/|:heavy_check_mark:|
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service
 |[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query<br>https://doh2.b-cdn.net/dns-query|:heavy_check_mark:|
 |[busold.ws](https://busold.ws)|https://dns.busold.ws/dns-query|:heavy_check_mark:|Block ads
@@ -166,7 +165,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |gridlax.com|https://secure-dns.gridlax.com/dns-query|:heavy_check_mark:|
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 | **H**
-|[Hanahira](https://dns.hanahira.dev)|https://dns1.hanahira.dev/dns-query|:heavy_check_mark:|Block ads
 |[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
 | [Hostux.net](https://dns.hostux.net) |  Nonblocking: https://dns.hostux.net/dns-query <br> Adblocking: https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads
