@@ -140,6 +140,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ero-sayhi.com|https://agh.ero-sayhi.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|Use Cloudflare upstream
+|[E-Virtus](https://e-virtus.com)|https://ns1.e-virtus.com/dns-query| :heavy_check_mark:|
 |extrawdw.net|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 | **F**
 |faked.org|https://dns.faked.org/dns-query|:heavy_check_mark:|Block ads
