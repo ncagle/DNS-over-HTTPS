@@ -372,7 +372,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: |Use Cloudflare upstream
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
-|tcpu.io|https://adguard.tcpu.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |technicule.info|https://vpn.technicule.info/dns-query|:heavy_check_mark:|
 |technostriker|https://dns.technostriker.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream and AdGuard parental control web service
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
@@ -430,7 +429,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |[3456KR](https://3456.kr)|https://dhlifeus-micro1.dns.3456.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[4NetGuides](https://4netguides.org)|https://ns1.4netguides.org/dns-query<br>https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads
-|5u3.org|https://doh.5u3.org/dns-query|:heavy_check_mark:|Block ads & gambling
 |[56k DNS](https://dns.56k.uy)|https://dns.56k.uy/dns-query|:heavy_check_mark:|Block ads, support OpenNIC, based in Uruguay
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
