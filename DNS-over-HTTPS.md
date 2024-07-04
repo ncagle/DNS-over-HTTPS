@@ -88,6 +88,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |cornes.me|https://doh.cornes.me/dns-query|:heavy_check_mark:|Block ads
 |[Corpame](https://corpa.me)|https://resolve.corpa.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Cooluc's DNS](https://dns.cooluc.com)|Non-filtering: https://dns.cooluc.com/dns-query<br>Adblocking: https://dns.cooluc.com/dns-query-ad|:heavy_check_mark:|
+|criena.net|https://dns.criena.net/dns-query|:heavy_check_mark:|
 |csa-rz.de|https://dns.csa-rz.de/dns-query|:heavy_check_mark:|
 |[CubeDNS](https://cubedns.com/)|https://cubedns.com/dns-query|:heavy_check_mark:|
 |[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
