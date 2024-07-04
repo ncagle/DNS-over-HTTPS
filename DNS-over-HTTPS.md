@@ -347,6 +347,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC
 |[Shaft Inc](https://www.shaftinc.fr/dns-shaftinc.html)|https://dns.shaftinc.fr/|:heavy_check_mark:|
+|shareworx.net|https://dns.shareworx.net/dns-query|:heavy_check_mark:|
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking, use Cloudflare upstream with malware and family filtering
 |[Shimul](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service
