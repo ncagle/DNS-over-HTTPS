@@ -196,6 +196,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[jabber-germany.de](https://www.jabber-germany.de)|https://www.jabber-germany.de/dns-query|:heavy_check_mark:|OpenNIC
 |janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
+|jichi.io|https://dns.jichi.io/dns-query|:heavy_check_mark:|Block ads
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 |johnwick.me|https://ad.johnwick.me/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads
