@@ -57,6 +57,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bonis.de|https://adguard.bonis.de/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet
 |[Bravoc.one](https://bravoc.one/en/)|https://dns.bravoc.one/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service
+|[Brian Wee](https://dns.brian-wee.com) |https://dns.brian-wee.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service
 |[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query<br>https://doh2.b-cdn.net/dns-query|:heavy_check_mark:|
