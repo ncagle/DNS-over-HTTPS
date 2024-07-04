@@ -161,6 +161,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
+|[Gay Analysing](https://gayanalysing.co.uk) |https://dns.gayanalysing.co.uk/dns-query|:heavy_check_mark:|Block ads
 |[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
 |gifino.fr|https://adguard.maison.gifino.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service
 |[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
