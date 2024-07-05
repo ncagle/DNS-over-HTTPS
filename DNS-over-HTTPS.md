@@ -36,6 +36,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking
 |att.net|https://dohtrial.att.net|:heavy_check_mark:|
 |atws2425.xyz|https://atws2425.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
+|[August4u](https://servis4u.top) |https://servis4u.top/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |ayasesayuki.shop|https://ayasesayuki.shop/dns-query|:heavy_check_mark:|Block ads & gambling
