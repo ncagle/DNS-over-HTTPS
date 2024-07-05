@@ -208,6 +208,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service
 | **K**
+|kaiwu.xyz|https://kaiwu.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[Kamil Szczepański](https://kamilszczepanski.com/)|https://dns.kamilszczepanski.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, use AdGuard browsing security web service
 |kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |kawa.tf|https://dns.kawa.tf/dns-query|:heavy_check_mark:|OpenNIC, block ads
