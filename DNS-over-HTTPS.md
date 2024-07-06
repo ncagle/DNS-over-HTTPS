@@ -296,8 +296,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |npsolution.it|https://dns.npsolution.it/dns-query|:heavy_check_mark:|Block porn, use AdGuard parental control web service
-|[numerus](https://numerus.com)|https://dns.numerus.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
-|n23.io|https://dns.n23.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|n23.io|https://dns.n23.io/dns-query|:heavy_check_ use Cloudflare upstream
 | **O**
 |[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads
 |ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads
