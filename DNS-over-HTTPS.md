@@ -151,6 +151,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |[E-Virtus](https://e-virtus.com)|https://ns1.e-virtus.com/dns-query| :heavy_check_mark:|
+|excdn.eu.org|https://doh.excdn.eu.org|:heavy_check_mark:|Use Cloudflare upstream 
 |extrawdw.net|https://dns.extrawdw.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 | **F**
 |faked.org|https://dns.faked.org/dns-query|:heavy_check_mark:|Block ads
