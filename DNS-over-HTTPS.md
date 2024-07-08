@@ -312,7 +312,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pacificmonster.com|https://dns.pacificmonster.com/dns-query|:heavy_check_mark:|Block ads
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
 |[PanSzelescik](https://panszelescik.pl)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-| Path of Grace | https://doh.gcp.pathofgrace.com/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[pggns](https://pggns.de)|https://adguard.pggns.de/dns-query|:heavy_check_mark:|Block ads
@@ -453,7 +452,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |[3456KR](https://3456.kr)|https://dhlifeus-micro1.dns.3456.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[4NetGuides](https://4netguides.org)|https://ns1.4netguides.org/dns-query<br>https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads
-|[56k DNS](https://dns.56k.uy)|https://dns.56k.uy/dns-query|:heavy_check_mark:|Block ads, support OpenNIC, based in Uruguay
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
 |978159.xyz|https://doh.978159.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
