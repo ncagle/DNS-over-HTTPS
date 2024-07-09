@@ -433,6 +433,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **X**
 |[XiuMu](https://xiumu.org/note/dns.shtml)|https://dns.xiumu.org|:heavy_check_mark:|Use Cloudflare upstream with malware filtering
 |xlion.tw|https://dns.xlion.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
+|x2ox.com|https://x2ox.com/dns-query|:heavy_check_mark:|
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
 |[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking
