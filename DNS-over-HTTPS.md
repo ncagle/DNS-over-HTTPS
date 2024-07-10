@@ -272,7 +272,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:|
 |mnrv.trade|https://mnrv.trade/dns-query|:heavy_check_mark:|
-|[modr.club](https://modr.club/)|https://ps1.modr.club/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Block ads
 |modsh.top|https://dot.modsh.top/dns-query|:heavy_check_mark:|Block ads
 |momokko.moe|https://naganohara-yoimiya.momokko.moe/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
