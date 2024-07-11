@@ -445,6 +445,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |zebrzydowa110.eu|https://blocker.zebrzydowa110.eu/dns-query|:heavy_check_mark:|Block ads
 |zemows.industries|https://dns.zemows.industries/dns-query|:heavy_check_mark:|Block ads
 |zettawize.xyz|https://dns1.zettawize.xyz/dns-query|:heavy_check_mark:|Block ads
+|[ZT Browser](https://ztbro.com)|https://doh.ztbro.com/dns-query|:heavy_check_mark:|
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |0rz.space|Cloudflare upstream with DNSSEC: https://1.0rz.space/dns-query<br>No DNSSEC: https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
