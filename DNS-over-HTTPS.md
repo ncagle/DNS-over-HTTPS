@@ -126,6 +126,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.pink|https://doh.pink/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
+|[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling
 |[DoTLS](https://dotls.org/)|https://ns1.dotls.org|:heavy_check_mark:|Block ads
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
