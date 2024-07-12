@@ -258,7 +258,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mcasviper.de|https://doh.mcasviper.de/dns-query|:heavy_check_mark:|Block ads, support OpenNIC
 |[MC Host](https://mchost.no)|https://doh.serverhost.no/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware filtering
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
-|meexx.de|https://testguard.meexx.de/dns-query|:heavy_check_mark:|Adblocking, OpenNIC, use Cloudflare upstream
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[Meta Dallin](https://dallinbryce.com)|https://dns.dallinbryce.com/dns-query|:heavy_check_mark:|
