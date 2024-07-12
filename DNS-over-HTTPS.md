@@ -47,6 +47,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |baishiyuan.cn|https://dns.baishiyuan.cn/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[BebasDNS](https://github.com/bebasid/bebasdns/blob/main/README.en.md)|https://dns.bebasid.com/dns-query|:heavy_check_mark:|Block ads
 |[Belnet](https://dns.belnet.be)|https://dns.belnet.be/dns-query|:heavy_check_mark:|
+|[Ben Hocking](https://bmwhocking.com)|https://dns.bmwhocking.com/dns-query|:heavy_check_mark:|
 |[Benoît](https://benoit.jp.net) |https://dns.benoit.jp.net/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
 |bermeitinger.eu|https://dns.bermeitinger.eu/dns-query|:heavy_check_mark:|Block ads
 |b-ii|https://b-ii.com/dns-query|:heavy_check_mark:|Block ads
