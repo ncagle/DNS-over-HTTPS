@@ -23,6 +23,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Deprecated in favor of AhaDNS Blitz |
 |[Ahoj Mail](https://ahoj.email) |https://ahoj.email/dns-query|:heavy_check_mark:|
+|[Alan Pearce](https://alanpearce.eu)|https://dns.alanpearce.eu/dns-query|:heavy_check_mark:|
 |[AliDNS](https://alidns.com)|https://dns.alidns.com/dns-query|:heavy_check_mark:|
 |[André Kelpe](https://kel.pe)|https://doh.kel.pe|:heavy_check_mark:|Block ads
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/))|
@@ -442,7 +443,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |zebrzydowa110.eu|https://blocker.zebrzydowa110.eu/dns-query|:heavy_check_mark:|Block ads
 |zemows.industries|https://dns.zemows.industries/dns-query|:heavy_check_mark:|Block ads
-|zettawize.xyz|https://dns1.zettawize.xyz/dns-query|:heavy_check_mark:|Block ads
 |[ZT Browser](https://ztbro.com)|https://doh.ztbro.com/dns-query|:heavy_check_mark:|
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
