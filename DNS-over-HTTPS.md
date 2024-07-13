@@ -142,6 +142,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |edison42.dev|https://dns.edison42.dev/dns-query|:heavy_check_mark:|Block ads
 |editechstudio|https://dns.editechstudio.com/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
+|elarvee.xyz|https://elarvee.xyz/dns-query|:heavy_check_mark:|Block ads
 |elbschloss.xyz|https://hole.elbschloss.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Block ads
 |[ELIV DNS](https://dns.eliv.kr)|https://dns.eliv.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, Fast Cloudflare (priority IP) connection
