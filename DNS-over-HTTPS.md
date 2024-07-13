@@ -357,6 +357,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
 |scarx.net|https://dns.scarx.net/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream and AdGuard browsing security web service
+|scott-smith.us|https://dns.scott-smith.us/dns-query|:heavy_check_mark:|
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC
 |[Shaft Inc](https://www.shaftinc.fr/dns-shaftinc.html)|https://dns.shaftinc.fr/|:heavy_check_mark:|
