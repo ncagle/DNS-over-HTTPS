@@ -269,7 +269,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mikatos.de|https://mikatos.de/dns-query|:heavy_check_mark:|Block ads
 |mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[mikrotikrumahan](https://mikrotikrumahan.my.id/)|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Block ads
-|milftech.xyz|https://dns.milftech.xyz/dns-query|:heavy_check_mark:|Block ads
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:|
