@@ -208,6 +208,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ipoac.nl](https://ipoac.nl)|https://dns.ipoac.nl/dns-query|:heavy_check_mark:|
 |is.my.waifu.cz|https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[Ivankin](https://ivnkn.xyz)|https://ivnkn.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|izapi4.fr|https://adguard.izapi4.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **J**
 |[jabber-germany.de](https://www.jabber-germany.de)|https://www.jabber-germany.de/dns-query|:heavy_check_mark:|OpenNIC
 |janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
