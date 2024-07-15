@@ -54,7 +54,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 |[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |biying.flymlc.com|https://biying.flymlc.com/dns-query|:heavy_check_mark:|Block ads
-|[Blahdns](https://blahdns.com)|Finland: https://doh-fi.blahdns.com/dns-query<br>Germany: https://doh-de.blahdns.com/dns-query<br>Singapore: https://doh-sg.blahdns.com/dns-query<br>Japan: https://doh-jp.blahdns.com/dns-query<br>Switzerland: https://doh-ch.blahdns.com/dns-query|:heavy_check_mark:|Block ads, non-logging, no ECS, DNSSEC ready, support OpenNIC & ENS
+|[Blahdns](https://blahdns.com)|Finland: https://doh-fi.blahdns.com/dns-query<br>Germany: https://doh-de.blahdns.com/dns-query<br>Singapore: https://doh-sg.blahdns.com/dns-query<br>Switzerland: https://doh-ch.blahdns.com/dns-query|:heavy_check_mark:|Block ads, non-logging, no ECS, DNSSEC ready, support OpenNIC & ENS
 |[BlissDNS](https://blissdns.net)|https://us1.blissdns.net/dns-query|:heavy_check_mark:|Block ads
 |[Blogs SL](https://blogssl.com) |https://adguard.blogssl.com/dns-query|:heavy_check_mark:|
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
@@ -318,7 +318,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[pggns](https://pggns.de)|https://adguard.pggns.de/dns-query|:heavy_check_mark:|Block ads
 |phillipjberry.net|https://dns.phillipjberry.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security and parental controlr web service
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
-|plaawan.uk|https://doh.plaawan.uk/dns-query|:heavy_check_mark:|Block ads
 |[plan9-dns](https://github.com/jlongua/plan9-dns)|New Jersey: https://kronos.plan9-dns.com/dns-query<br>Mexico: https://helios.plan9-dns.com/dns-query<br>Florida: https://pluton.plan9-dns.com/dns-query|:heavy_check_mark:|
 |[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
@@ -383,7 +382,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[StuSta](https://www.stusta.de/en/)|https://muli.stusta.mhn.de/dns-query|:heavy_check_mark:|
 |[suche.org](https://suche.org)|https://doh.suche.org/dns-query|:heavy_check_mark:|
 |suhaila.dev|https://dns.suhaila.dev/dns-query|:heavy_check_mark:|Block ads
-|sukidayo.eu.org|https://sukidayo.eu.org/dns-query|:heavy_check_mark:|
 | [Sundalandia](https://sundalandia.pp.ua) | Adblock https://sundalandia.pp.ua/dns-query <br> Family filter https://sundalandia.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:|
 |sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
@@ -399,7 +397,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling
-|Tirapan.top|https://tirapan.top/nomen-quaesitum|:heavy_check_mark:|
+
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |[Torsten Tributh](https://tributh.net) |https://tributh.net/dns-query|:heavy_check_mark:|
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
