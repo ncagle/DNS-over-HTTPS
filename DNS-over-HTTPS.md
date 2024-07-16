@@ -45,7 +45,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |backschues.net|https://dns.backschues.net/dns-query|:heavy_check_mark:|Block ads
 |bahopir188.dnshome.de|https://bahopir188.dnshome.de/dns-query|:heavy_check_mark:|Block ads
 |baishiyuan.cn|https://dns.baishiyuan.cn/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
-|https://bazooki-infra.dev|https://bazooki-infra.dev/dns-query|:heavy_check_mark:|
+|bazooki-infra.dev|https://bazooki-infra.dev/dns-query|:heavy_check_mark:|
 |[BebasDNS](https://github.com/bebasid/bebasdns/blob/main/README.en.md)|https://dns.bebasid.com/dns-query|:heavy_check_mark:|Block ads
 |[Belnet](https://dns.belnet.be)|https://dns.belnet.be/dns-query|:heavy_check_mark:|
 |[Ben Hocking](https://bmwhocking.com)|https://dns.bmwhocking.com/dns-query|:heavy_check_mark:|
@@ -238,7 +238,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
-|https://konpetr6.site|https://konpetr6.site/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
+|konpetr6.site|https://konpetr6.site/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |korzhyk.pp.ua|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Block ads
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
 |kostik-66.online|https://kostik-66.online/dns-query|:heavy_check_mark:|Block ads
