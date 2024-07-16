@@ -54,7 +54,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 |[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |biying.flymlc.com|https://biying.flymlc.com/dns-query|:heavy_check_mark:|Block ads
-|[Blahdns](https://blahdns.com)|Finland: https://doh-fi.blahdns.com/dns-query<br>Germany: https://doh-de.blahdns.com/dns-query<br>Singapore: https://doh-sg.blahdns.com/dns-query<br>Switzerland: https://doh-ch.blahdns.com/dns-query|:heavy_check_mark:|Block ads, non-logging, no ECS, DNSSEC ready, support OpenNIC & ENS
+|[Blahdns](https://blahdns.com)|Germany: https://doh-de.blahdns.com/dns-query<br>Singapore: https://doh-sg.blahdns.com/dns-query<br>Switzerland: https://doh-ch.blahdns.com/dns-query|:heavy_check_mark:|Block ads, non-logging, no ECS, DNSSEC ready, support OpenNIC & ENS
 |[BlissDNS](https://blissdns.net)|https://us1.blissdns.net/dns-query|:heavy_check_mark:|Block ads
 |[Blogs SL](https://blogssl.com) |https://adguard.blogssl.com/dns-query|:heavy_check_mark:|
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging.
@@ -67,7 +67,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 |bth.dance|https://bth.dance/dns-query|:heavy_check_mark:|Block ads
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service
-|[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query<br>https://doh2.b-cdn.net/dns-query|:heavy_check_mark:|
+|[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query|:heavy_check_mark:|
 |[busold.ws](https://busold.ws)|https://dns.busold.ws/dns-query|:heavy_check_mark:|Block ads
 |b612.me|https://dns.b612.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 | **C**
@@ -255,7 +255,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/)|https://dns.lista.my.id/dns-query|:heavy_check_mark:|Block ads
 |loadlow.me|https://loadlow.me/dns-query|:heavy_check_mark:|
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
-|loii.in|https://ca.loii.in/dns-query|:heavy_check_mark:|Block ads
 |lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **M**
 |maherhost.uk|https://maherhost.uk/dns-query|:heavy_check_mark:|Use Cloudflare upstream
@@ -286,7 +285,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **N**
 |[nako.kr](https://nako.kr)|https://dns.nako.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |narl.app|https://dns.narl.app/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
-|nashkan.net|https://ae-fuj-w-p-1.nashkan.net/dns-query<br>https://ae-fuj-w-p-2.nashkan.net/dns-query<br>https://ae-fuj-w-p-3.nashkan.net/dns-query<br>https://at-wie-w-p-1.nashkan.net/dns-query<br>https://au-syd-w-f-1.nashkan.net/dns-query<br>https://au-syd-w-p-1.nashkan.net/dns-query<br>https://de-fra-w-p-1.nashkan.net/dns-query<br>https://de-fsn-w-f-4.nashkan.net/dns-query<br>https://de-fsn-w-f-5.nashkan.net/dns-query<br>https://de-fsn-w-p-1.nashkan.net/dns-query<br>https://fi-hel-w-f-2.nashkan.net/dns-query<br>https://fr-gra-w-f-1.nashkan.net/dns-query<br>https://fr-gra-w-p-1.nashkan.net/dns-query<br>https://gb-cov-w-f-1.nashkan.net/dns-query<br>https://gb-cov-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-f-1.nashkan.net/dns-query<br>https://gb-lon-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-p-2.nashkan.net/dns-query<br>https://jp-tyo-w-p-1.nashkan.net/dns-query<br>https://kz-pav-w-p-1.nashkan.net/dns-query<br>https://nl-dro-w-f-1.nashkan.net/dns-query<br>https://nl-dro-w-p-1.nashkan.net/dns-query<br>https://pl-waw-w-f-1.nashkan.net/dns-query<br>https://pl-waw-w-p-2.nashkan.net/dns-query<br>https://ro-buc-w-f-1.nashkan.net/dns-query<br>https://ro-buc-w-p-1.nashkan.net/dns-query<br>https://sg-w-f-1.nashkan.net/dns-query<br>https://sg-w-p-1.nashkan.net/dns-query<br>https://tr-ist-w-p-2.nashkan.net/dns-query<br>https://us-chi-w-f-1.nashkan.net/dns-query<br>https://us-chi-w-p-1.nashkan.net/dns-query<br>https://us-hil-w-f-1.nashkan.net/dns-query<br>https://us-hil-w-p-1.nashkan.net/dns-query<br>https://us-jac-w-f-1.nashkan.net/dns-query<br>https://us-jac-w-p-1.nashkan.net/dns-query<br>https://us-kan-w-f-1.nashkan.net/dns-query<br>https://us-kan-w-p-1.nashkan.net/dns-query<br>https://us-nyc-w-f-1.nashkan.net/dns-query<br>https://us-nyc-w-p-1.nashkan.net/dns-query<br>https://us-saj-w-f-1.nashkan.net/dns-query<br>https://us-saj-w-p-1.nashkan.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering
+|nashkan.net|https://ae-fuj-w-p-1.nashkan.net/dns-query<br>https://ae-fuj-w-p-2.nashkan.net/dns-query<br>https://ae-fuj-w-p-3.nashkan.net/dns-query<br>https://at-wie-w-p-1.nashkan.net/dns-query<br>https://au-syd-w-f-1.nashkan.net/dns-query<br>https://au-syd-w-p-1.nashkan.net/dns-query<br>https://de-fra-w-p-1.nashkan.net/dns-query<br>https://de-fsn-w-p-1.nashkan.net/dns-query<br>https://fi-hel-w-f-2.nashkan.net/dns-query<br>https://fr-gra-w-f-1.nashkan.net/dns-query<br>https://fr-gra-w-p-1.nashkan.net/dns-query<br>https://gb-cov-w-f-1.nashkan.net/dns-query<br>https://gb-cov-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-f-1.nashkan.net/dns-query<br>https://gb-lon-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-p-2.nashkan.net/dns-query<br>https://jp-tyo-w-p-1.nashkan.net/dns-query<br>https://kz-pav-w-p-1.nashkan.net/dns-query<br>https://nl-dro-w-f-1.nashkan.net/dns-query<br>https://nl-dro-w-p-1.nashkan.net/dns-query<br>https://pl-waw-w-f-1.nashkan.net/dns-query<br>https://pl-waw-w-p-2.nashkan.net/dns-query<br>https://ro-buc-w-f-1.nashkan.net/dns-query<br>https://ro-buc-w-p-1.nashkan.net/dns-query<br>https://sg-w-f-1.nashkan.net/dns-query<br>https://sg-w-p-1.nashkan.net/dns-query<br>https://tr-ist-w-p-2.nashkan.net/dns-query<br>https://us-chi-w-f-1.nashkan.net/dns-query<br>https://us-chi-w-p-1.nashkan.net/dns-query<br>https://us-hil-w-f-1.nashkan.net/dns-query<br>https://us-hil-w-p-1.nashkan.net/dns-query<br>https://us-jac-w-f-1.nashkan.net/dns-query<br>https://us-jac-w-p-1.nashkan.net/dns-query<br>https://us-kan-w-f-1.nashkan.net/dns-query<br>https://us-kan-w-p-1.nashkan.net/dns-query<br>https://us-nyc-w-f-1.nashkan.net/dns-query<br>https://us-nyc-w-p-1.nashkan.net/dns-query<br>https://us-saj-w-f-1.nashkan.net/dns-query<br>https://us-saj-w-p-1.nashkan.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering
 |nekomiya-sama.top|https://nekomiya-sama.top/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 |[Neowutran](https://neowutran.ovh)|https://dns.neowutran.ovh|:heavy_check_mark:|
 |[NetVPN](https://netvpn.net) |https://dns.netvpn.net/dns-query|:heavy_check_mark:|
@@ -424,7 +423,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |vuhai.de|https://bigora2.vuhai.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **W**
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
-|wargan.io|https://dns.wargan.io/dns-query|:heavy_check_mark:|Block ads
 |waringer-atg.de|https://abel.waringer-atg.de/dns-query|:heavy_check_mark:|
 |webnmail.de|https://doh.webnmail.de/dns-query|:heavy_check_mark:|
 |[WEG B72](https://b72.com)|https://dns.b72.com/dns-query|:heavy_check_mark:|OpenNIC, block ads, gambling & porn
