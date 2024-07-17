@@ -51,6 +51,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Ben Hocking](https://bmwhocking.com)|https://dns.bmwhocking.com/dns-query|:heavy_check_mark:|
 |[Benoît](https://benoit.jp.net) |https://dns.benoit.jp.net/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
 |bermeitinger.eu|https://dns.bermeitinger.eu/dns-query|:heavy_check_mark:|Block ads
+|bestwon203.com|https://bestwon203.com/dns-query|:heavy_check_mark:|
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |
 |[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |biying.flymlc.com|https://biying.flymlc.com/dns-query|:heavy_check_mark:|Block ads
