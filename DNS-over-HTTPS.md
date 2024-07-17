@@ -458,6 +458,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[zxilly](https://learningman.top) |https://dns.learningman.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|0rz.ing|https://dns.0rz.ing/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |0rz.space|Cloudflare upstream with DNSSEC: https://1.0rz.space/dns-query<br>No DNSSEC: https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |003153.xyz|https://003153.xyz/dns-query|:heavy_check_mark:|
