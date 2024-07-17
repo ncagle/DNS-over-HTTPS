@@ -34,6 +34,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |applewebkit.dev|https://dns.applewebkit.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[arnor.org](https://arnor.org)|https://nsec.arnor.org/dns-query|:heavy_check_mark:|Block ads
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany
+|aslk685qwda.com|https://dns.aslk685qwda.com/dns-query|:heavy_check_mark:|
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking
 |att.net|https://dohtrial.att.net|:heavy_check_mark:|
 |atws2425.xyz|https://atws2425.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
@@ -155,7 +156,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ero-sayhi.com|https://agh.ero-sayhi.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|[E-Virtus](https://e-virtus.com)|https://ns1.e-virtus.com/dns-query| :heavy_check_mark:|
 |excdn.eu.org|https://doh.excdn.eu.org|:heavy_check_mark:|Use Cloudflare upstream 
 | **F**
 |faked.org|https://dns.faked.org/dns-query|:heavy_check_mark:|Block ads
@@ -219,7 +219,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |jichi.io|https://dns.jichi.io/dns-query|:heavy_check_mark:|Block ads
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 |johanliebert.top|https://adguard.johanliebert.top/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
-|johnwick.me|https://ad.johnwick.me/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service
 | **K**
