@@ -460,6 +460,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |0rz.space|Cloudflare upstream with DNSSEC: https://1.0rz.space/dns-query<br>No DNSSEC: https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
+|003153.xyz|https://003153.xyz/dns-query|:heavy_check_mark:|
 |[3456KR](https://3456.kr)|https://dhlifeus-micro1.dns.3456.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[4NetGuides](https://4netguides.org)|https://ns1.4netguides.org/dns-query<br>https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
