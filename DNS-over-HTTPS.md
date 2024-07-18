@@ -37,7 +37,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |aslk685qwda.com|https://dns.aslk685qwda.com/dns-query|:heavy_check_mark:|
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking
 |att.net|https://dohtrial.att.net|:heavy_check_mark:|
-|atws2425.xyz|https://atws2425.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 | [Avast](https://www.avast.com/dns) | https://secure.avastdns.com/dns-query | :heavy_check_mark: | Non-logging
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |ayasesayuki.shop|https://ayasesayuki.shop/dns-query|:heavy_check_mark:|Block ads & gambling
@@ -214,6 +213,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **J**
 |[jabber-germany.de](https://www.jabber-germany.de)|https://www.jabber-germany.de/dns-query|:heavy_check_mark:|OpenNIC
 |janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
+|javi.lat|https://doh.javi.lat/dns-query|:heavy_check_mark:|Block ads
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
 |jichi.io|https://dns.jichi.io/dns-query|:heavy_check_mark:|Block ads
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
@@ -298,7 +298,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
-| [No Ad DNS](https://noaddns.com/) | https://resolver.noaddns.com/dns-query | :heavy_check_mark: | Adblocking
 |[nonexiste.net](https://nonexiste.net)|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: |
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query<br>Cloudflare upstream with DNSSEC: https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
@@ -401,6 +400,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
+|[tmmmzk](https://github.com/tmmmzk) |https://adguard.tldn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |[Torsten Tributh](https://tributh.net) |https://tributh.net/dns-query|:heavy_check_mark:|
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:|
