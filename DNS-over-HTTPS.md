@@ -230,6 +230,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kernel Error](https://kernel-error.de)|https://dns.kernel-error.de/dns-query|:heavy_check_mark:| 
 |[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating
 |ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Block ads
+|[keviland](https://keviland.com) |https://dns.keviland.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |khon.dev|https://adg.khon.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Kidzonet](https://kidzonet.io)|https://doh.kidzonet.io/dns-query|:heavy_check_mark:|
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|Use Cloudflare upstream
