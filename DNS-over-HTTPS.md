@@ -239,7 +239,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |konpetr6.site|https://konpetr6.site/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |korzhyk.pp.ua|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Block ads
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
-|kostik-66.online|https://kostik-66.online/dns-query|:heavy_check_mark:|Block ads
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[KRC Technologies](https://krctechnologies.net)|https://pdns.krctechnologies.net/dns-query|:heavy_check_mark:|Block ads
 |kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
