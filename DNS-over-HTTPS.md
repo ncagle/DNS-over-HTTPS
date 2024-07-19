@@ -398,7 +398,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
-|[tmmmzk](https://github.com/tmmmzk) |https://adguard.tldn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |[Torsten Tributh](https://tributh.net) |https://tributh.net/dns-query|:heavy_check_mark:|
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:|
