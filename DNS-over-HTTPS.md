@@ -224,7 +224,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kamil Szczepański](https://kamilszczepanski.com/)|https://dns.kamilszczepanski.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, use AdGuard browsing security web service
 |kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |kawa.tf|https://dns.kawa.tf/dns-query|:heavy_check_mark:|OpenNIC, block ads
-|keke125|https://dns.keke125.com/dns-query|:heavy_check_mark:|Adblocking
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
 |[Kernel Error](https://kernel-error.de)|https://dns.kernel-error.de/dns-query|:heavy_check_mark:| 
 |[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating
@@ -365,7 +364,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Shimul](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
-|signsservers.ru|https://signsservers.ru/dns-query|:heavy_check_mark:|Block ads
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
 |[sindominio.net](https://sindominio.net/ayuda/#dns-mediante-https)|https://dns.sindominio.net/dns-query|:heavy_check_mark:|
 |siudzinski.net|https://adg.siudzinski.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
