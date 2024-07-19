@@ -184,6 +184,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 | **H**
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
+|hartley.cloud|https://adguard.hartley.cloud/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 | [Hostux.net](https://dns.hostux.net) |  Nonblocking: https://dns.hostux.net/dns-query <br> Adblocking: https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
