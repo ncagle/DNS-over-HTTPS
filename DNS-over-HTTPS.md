@@ -214,7 +214,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Ivankin](https://ivnkn.xyz)|https://ivnkn.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |izapi4.fr|https://adguard.izapi4.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **J**
-|[jabber-germany.de](https://www.jabber-germany.de)|https://www.jabber-germany.de/dns-query|:heavy_check_mark:|OpenNIC
 |janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |javi.lat|https://doh.javi.lat/dns-query|:heavy_check_mark:|Block ads
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
@@ -414,7 +413,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **U**
 |[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)|https://anycast.uncensoreddns.org/dns-query|:heavy_check_mark:|
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains, use Cloudflare upstream
-|uni5wap.info|https://uni5wap.info/dns-query|:heavy_check_mark:|
 | **V**
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
