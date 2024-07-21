@@ -457,6 +457,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0rz.space|https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |003153.xyz|https://003153.xyz/dns-query|:heavy_check_mark:|
+|123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
 |[3456KR](https://3456.kr)|https://dhlifeus-micro1.dns.3456.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |351242444.xyz|https://351242444.xyz/dns-query|:heavy_check_mark:|Block ads
