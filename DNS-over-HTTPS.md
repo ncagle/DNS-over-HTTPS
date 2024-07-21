@@ -188,7 +188,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |hartley.cloud|https://adguard.hartley.cloud/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
-| [Hostux.net](https://dns.hostux.net) |  Nonblocking: https://dns.hostux.net/dns-query <br> Adblocking: https://dns.hostux.net/ads | :heavy_check_mark: |DNSSEC, no EDNS Client-Subnet, not logging queries' content, hosted in Luxembourg.
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
 |[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0)|https://ordns.he.net|:heavy_check_mark:|
@@ -337,7 +336,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **R**
 |[Rabbit DNS](https://rabbitdns.org/install)|Non filtering: https://dns.rabbitdns.org/dns-query<br>Malware filtering: https://security.rabbitdns.org/dns-query<br>Malware and adult filtering: https://family.rabbitdns.org/dns-query|:heavy_check_mark:|Use Cloudflare upstream with malware and family filtering
 |[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
-|ray0512.win|https://la.ray0512.win/dns-query|:heavy_check_mark:|
 |redvau.lt|https://dns.redvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |reitmeier.me|https://dns.reitmeier.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |renardyre.com|https://dns.renardyre.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
