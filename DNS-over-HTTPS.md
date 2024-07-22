@@ -263,14 +263,12 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security web service
 |[Max Philipp Wriefdt](https://wriedts.de)|https://home.wriedts.de/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Mayx](https://mayx.eu.org)|https://dns.mayx.eu.org/dns-query|:heavy_check_mark:|
-|mcasviper.de|https://doh.mcasviper.de/dns-query|:heavy_check_mark:|Block ads, support OpenNIC
 |[MC Host](https://mchost.no)|https://doh.serverhost.no/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware filtering
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
 |mendozasdelivery.com|https://mendozasdelivery.com/dns-query|:heavy_check_mark:|
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[Meta Dallin](https://dallinbryce.com)|https://dns.dallinbryce.com/dns-query|:heavy_check_mark:|
-|mikatos.de|https://mikatos.de/dns-query|:heavy_check_mark:|Block ads
 |mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[mikrotikrumahan](https://mikrotikrumahan.my.id/)|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Block ads
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads
@@ -455,7 +453,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |0rz.ing|https://dns.0rz.ing/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
-|0rz.space|https://2.0rz.space/dns-query|:heavy_check_mark:|Block ads
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
 |003153.xyz|https://003153.xyz/dns-query|:heavy_check_mark:|
 |123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
