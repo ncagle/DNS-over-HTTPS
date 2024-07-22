@@ -423,6 +423,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
 |waringer-atg.de|https://abel.waringer-atg.de/dns-query|:heavy_check_mark:|
 |webnmail.de|https://doh.webnmail.de/dns-query|:heavy_check_mark:|
+|webpotato.nl|https://dns.webpotato.nl/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[WEG B72](https://b72.com)|https://dns.b72.com/dns-query|:heavy_check_mark:|OpenNIC, block ads, gambling & porn
 |wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |[Wheezy Notes](https://wheezy.naftalie.net/)|https://doh-ca.naftalie.net/dns-query|:heavy_check_mark:|
