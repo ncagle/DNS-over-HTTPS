@@ -127,7 +127,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.beauty|https://doh.beauty|:heavy_check_mark:|
 |doh.best|https://doh.best/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
-|doh.pink|https://doh.pink/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:| Support DoT
 |[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
@@ -400,7 +399,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:| Support DoT
 |[truta](https://helio.loureiro.eng.br/index.php/todas-categorias/70-networking/19-apache/463-criando-um-servico-de-relay-de-dns-over-https)|https://truta.org/dns-query|:heavy_check_mark:|
-|tsc.gov|https://tsc.gov|:heavy_check_mark:|Use Cloudflare upstream with malware filtering 
 |tshost.no|https://adg.tshost.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |tuskythehusky.tech|https://tuskythehusky.tech/dns-query|:heavy_check_mark:|
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
