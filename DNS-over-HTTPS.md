@@ -153,6 +153,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |eren.homes|https://ad.eren.homes/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
 |ero-sayhi.com|https://agh.ero-sayhi.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
+|[Etath SkyDragoness](https://skydragoness.com)|https://skydragoness.com/dns-query|:heavy_check_mark:|
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |excdn.eu.org|https://doh.excdn.eu.org|:heavy_check_mark:|Use Cloudflare upstream 
 | **F**
