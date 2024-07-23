@@ -71,401 +71,401 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |b612.me|https://dns.b612.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream, also support DoT
 | **C**
 |[Canarypwn](https://aaaab3n.moe/networks) | https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | Use Cloudflare upstream
-|[Carestyle](https://console.carestyle.org)|https://console.carestyle.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|[Carestyle](https://console.carestyle.org)|https://console.carestyle.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |catdns.org|https://catdns.org/dns-query|:heavy_check_mark:|
-|[CERT Estonia](https://www.ria.ee/en/news/application-developed-cert-ee-protects-against-phishing-and-malware)|https://dns.cert.ee/dns-query|:heavy_check_mark:|Block phishing, malware, porn & gambling
+|[CERT Estonia](https://www.ria.ee/en/news/application-developed-cert-ee-protects-against-phishing-and-malware)|https://dns.cert.ee/dns-query|:heavy_check_mark:|Block phishing, malware, porn & gambling, support DoT
 |cfdjb.org|https://cfdjb.org/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security and parental control web service
 |[Charter](https://corporate.charter.com/)|https://doh-01.spectrum.com/dns-query<br>https://doh-02.spectrum.com/dns-query|:heavy_check_mark:|
-|[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking
+|[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |[chrisdooks](https://dooks.uk)|https://dns.dooks.uk/dns-query|:heavy_check_mark:|Block ads
-|[Christer Warén](https://christerwaren.fi) |https://dns.christerwaren.fi|:heavy_check_mark:|
+|[Christer Warén](https://christerwaren.fi) |https://dns.christerwaren.fi|:heavy_check_mark:| Support DoT
 |chriswservers.com|https://dns.chriswservers.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare and ControlD upstream
-|cicitt.ch|https://c.cicitt.ch/dns-query|:heavy_check_mark:|Block ads
+|cicitt.ch|https://c.cicitt.ch/dns-query|:heavy_check_mark:|Block ads, support DoT
 |cippapp.com|https://doh.cippapp.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-| [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: <br>https://private.canadianshield.cira.ca/dns-query <br> Protected: <br>https://protected.canadianshield.cira.ca/dns-query <br> Family: <br>https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. |
+| [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) | Private: <br>https://private.canadianshield.cira.ca/dns-query <br> Protected: <br>https://protected.canadianshield.cira.ca/dns-query <br> Family: <br>https://family.canadianshield.cira.ca/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports DNSSEC, keeps DNS traffic inside Canada. <br> Private: DNS resolution service that keeps your DNS data private from third-parties. <br> Protected: Includes Private features and adds malware and phishing blocking. <br> Family: Includes Protected and Private features and blocks pornographic content. | Support DoT
 | [CIRCL](https://www.circl.lu/) | https://dns.circl.lu/dns-query  | :heavy_check_mark:| Adblocking
 | [Cisco Umbrella (OpenDNS)](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) | Standard: https://doh.opendns.com/dns-query <br> FamilyShield (blocks adult content):  https://doh.familyshield.opendns.com/dns-query <br> Umbrella: https://doh.umbrella.com/dns-query | :heavy_check_mark: <br>:heavy_check_mark:<br> :heavy_check_mark:| DNSSEC, Anycast
-| [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search)
+| [CleanBrowsing](https://cleanbrowsing.org/help/docs/dnsoverhttps/) | https://doh.cleanbrowsing.org/doh/family-filter/ <br><br> Filter that allows some mixed-content sites: https://doh.cleanbrowsing.org/doh/adult-filter/ <br><br> Malware blocking only: https://doh.cleanbrowsing.org/doh/security-filter/ | :heavy_check_mark: | anycast DoH server with parental control (restricts access to adult content + enforces safe search), support DoT
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/)  | https://cloudflare-dns.com/dns-query <br><br> Mozilla: https://mozilla.cloudflare-dns.com/dns-query <br><br> Block Malware: https://security.cloudflare-dns.com/dns-query <br><br> Block Malware and Adult Content: https://family.cloudflare-dns.com/dns-query <br><br> DNS64: https://dns64.cloudflare-dns.com/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Supports both -04 and -13 content-types
 |comff.net|https://dns.comff.net/dns-query|:heavy_check_mark:|Block ads
-|[Comss](https://www.comss.ru/)|https://dns.comss.one/dns-query|:heavy_check_mark:|Block ads
+|[Comss](https://www.comss.ru/)|https://dns.comss.one/dns-query|:heavy_check_mark:|Block ads, support DoT
 |contentwritingservice.tech|https://contentwritingservice.tech/dns-query|:heavy_check_mark:|
-| [Control D](https://controld.com/free-dns) | Unfiltered: <br> https://freedns.controld.com/p0 <br> Malware (Block Malware): <br> https://freedns.controld.com/p1 <br> Ads & Tracking (Block Malware + Ads & Tracking): <br> https://freedns.controld.com/p2 <br> Social (Block Malware + Ads & Tracking + Social Networks): <br> https://freedns.controld.com/p3 <br> Family Friendly (Block Malware + Ads & Tracking + Adult Content + Drugs): <br> https://freedns.controld.com/family <br> Uncensored (Unblock censored domains from various countries) <br> https://freedns.controld.com/uncensored <br><br> - 3rd Party Filters - <br><br> OISD - Full: <br> https://freedns.controld.com/x-oisd <br> OISD - Basic: <br> https://freedns.controld.com/x-oisd-basic <br> StevenBlack Unified: <br> https://freedns.controld.com/x-stevenblack <br> Dev Dan's Hosts: <br> https://freedns.controld.com/x-devdan <br> 1Hosts - Mini: <br> https://freedns.controld.com/x-1hosts-mini <br> 1Hosts - Lite: <br> https://freedns.controld.com/x-1hosts-lite <br> 1Hosts - Pro: <br> https://freedns.controld.com/x-1hosts-pro <br> Hagezi's DNS - Light <br> https://freedns.controld.com/x-hagezi-light <br> Hagezi's DNS - Normal: <br> https://freedns.controld.com/x-hagezi-normal <br> Hagezi's DNS - Pro: <br> https://freedns.controld.com/x-hagezi-pro <br> Hagezi's DNS - Pro Plus: <br> https://freedns.controld.com/x-hagezi-proplus <br> Hagezi's DNS - Ultimate: <br> https://freedns.controld.com/x-hagezi-ultimate <br> Hagezi's DNS - TIF (Threat Intelligence Feeds) <br> https://freedns.controld.com/x-hagezi-tif <br> GoodbyeAds: <br> https://freedns.controld.com/x-goodbyeads <br> AdGuard Filter: <br> https://freedns.controld.com/x-adguard <br> | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more but also unblock over 180 services through a network of proxies in over 100 cities.
+| [Control D](https://controld.com/free-dns) | Unfiltered: <br> https://freedns.controld.com/p0 <br> Malware (Block Malware): <br> https://freedns.controld.com/p1 <br> Ads & Tracking (Block Malware + Ads & Tracking): <br> https://freedns.controld.com/p2 <br> Social (Block Malware + Ads & Tracking + Social Networks): <br> https://freedns.controld.com/p3 <br> Family Friendly (Block Malware + Ads & Tracking + Adult Content + Drugs): <br> https://freedns.controld.com/family <br> Uncensored (Unblock censored domains from various countries) <br> https://freedns.controld.com/uncensored <br><br> - 3rd Party Filters - <br><br> OISD - Full: <br> https://freedns.controld.com/x-oisd <br> OISD - Basic: <br> https://freedns.controld.com/x-oisd-basic <br> StevenBlack Unified: <br> https://freedns.controld.com/x-stevenblack <br> Dev Dan's Hosts: <br> https://freedns.controld.com/x-devdan <br> 1Hosts - Mini: <br> https://freedns.controld.com/x-1hosts-mini <br> 1Hosts - Lite: <br> https://freedns.controld.com/x-1hosts-lite <br> 1Hosts - Pro: <br> https://freedns.controld.com/x-1hosts-pro <br> Hagezi's DNS - Light <br> https://freedns.controld.com/x-hagezi-light <br> Hagezi's DNS - Normal: <br> https://freedns.controld.com/x-hagezi-normal <br> Hagezi's DNS - Pro: <br> https://freedns.controld.com/x-hagezi-pro <br> Hagezi's DNS - Pro Plus: <br> https://freedns.controld.com/x-hagezi-proplus <br> Hagezi's DNS - Ultimate: <br> https://freedns.controld.com/x-hagezi-ultimate <br> Hagezi's DNS - TIF (Threat Intelligence Feeds) <br> https://freedns.controld.com/x-hagezi-tif <br> GoodbyeAds: <br> https://freedns.controld.com/x-goodbyeads <br> AdGuard Filter: <br> https://freedns.controld.com/x-adguard <br> | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark:<br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | ControlD is a fully customizable anycast DNS service that allows you to not only block annoyances like malware, tracking, ads, IoT telemetry, and more but also unblock over 180 services through a network of proxies in over 100 cities, support DoT & DoQ
 |cornes.me|https://doh.cornes.me/dns-query|:heavy_check_mark:|Block ads
 |[Cooluc's DNS](https://dns.cooluc.com)|Non-filtering: https://dns.cooluc.com/dns-query<br>Adblocking: https://dns.cooluc.com/dns-query-ad|:heavy_check_mark:|
 |criena.net|https://dns.criena.net/dns-query|:heavy_check_mark:|
-|csa-rz.de|https://dns.csa-rz.de/dns-query|:heavy_check_mark:|
-|[CubeDNS](https://cubedns.com/)|https://cubedns.com/dns-query|:heavy_check_mark:|
+|csa-rz.de|https://dns.csa-rz.de/dns-query|:heavy_check_mark:| Support DoT
+|[CubeDNS](https://cubedns.com/)|https://cubedns.com/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
-| [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator
+| [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator, support DoT
 | **D**
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
-|dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-| [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging
+|dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
+| [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
 |ddasdka678asdsa.com|https://dns.ddasdka678asdsa.com/dns-query|:heavy_check_mark:|
 |delegated-ipfs.dev|https://delegated-ipfs.dev/dns-query|:heavy_check_mark:| Also resolves ENS domain, use Cloudflare upstream
 |[denypradana.com](https://doh.denypradana.com)|https://doh.denypradana.com/dns-query|:heavy_check_mark:|
 |[derailer](https://olpploiopkuyhiopsfrt.info) |https://dns.olpploiopkuyhiopsfrt.info/dns-query|:heavy_check_mark:|
-|dev-umbrellagov|https://dns.dev-umbrellagov.com/dns-query| :heavy_check_mark: | 
+|dev-umbrellagov|https://dns.dev-umbrellagov.com/dns-query| :heavy_check_mark: | Support DoT
 |[Dict Xiong](https://beardic.cn) |https://dns.beardic.cn/dns-query|:heavy_check_mark:|
-| [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/dns/) |  https://dns.digitale-gesellschaft.ch/dns-query | :heavy_check_mark: | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ |
-|dilli.dev|https://eka.dilli.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+| [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/dns/) |  https://dns.digitale-gesellschaft.ch/dns-query | :heavy_check_mark: | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC; https://www.digitale-gesellschaft.ch/dns/ | Support DoT
+|dilli.dev|https://eka.dilli.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | Disconnect.app | https://doh.disconnect.app/dns-query | :heavy_check_mark: | Use Cloudflare upstream
-| [dns.digitalsize.net](https://dns.digitalsize.net/) | https://dns.digitalsize.net/dns-query | :heavy_check_mark: | A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany |
+| [dns.digitalsize.net](https://dns.digitalsize.net/) | https://dns.digitalsize.net/dns-query | :heavy_check_mark: | A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany | Support DoT
 |dns.expert|https://dns.expert/dns-query| :heavy_check_mark: |
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query <br> https://doh.sb/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DNSSEC & QNAME minimization enabled, no logging |
 | [dns0.eu](https://www.dns0.eu/) | Non-blocking: https://open.dns0.eu<br>Malware blocking: https://dns0.eu<br>Hardened security: https://zero.dns0.eu<br>Child safe: https://kids.dns0.eu | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Non-logging, GDPR compliant
-|[DNS4all](https://dns4all.eu/)|https://doh.dns4all.eu/dns-query|:heavy_check_mark:| Non-logging
+|[DNS4all](https://dns4all.eu/)|https://doh.dns4all.eu/dns-query|:heavy_check_mark:| Non-logging, support DoT & DoQ
 |[dns4me](https://dns4me.net)|https://ca01.dns4me.net<br>https://ca02.dns4me.net<br>https://us01.dns4me.net<br>https://us02.dns4me.net<br>https://sg01.dns4me.net<br>https://sa01.dns4me.net<br>https://au01.dns4me.net<br>https://au02.dns4me.net<br>https://uk01.dns4me.net<br>https://nz01.dns4me.net<br>https://ie01.dns4me.net<br>https://de01.dns4me.net<br>https://jp01.dns4me.net|:heavy_check_mark:|
-| [dnscry.pt](https://www.dnscry.pt/) |Allentown, US: https://abe01.dnscry.pt/dns-query<br>Amsterdam, Netherlands: https://ams01.dnscry.pt/dns-query<br>Ashburn, US: https://abn01.dnscry.pt/dns-query<br>Athens, Greece: https://ath01.dnscry.pt/dns-query<br>Atlanta, US: https://atl01.dnscry.pt/dns-query<br>Bratislava, Slovakia: https://bts01.dnscry.pt/dns-query<br>Chicago, US: https://ord01.dnscry.pt/dns-query<br>Chișinău, Moldova: https://kiv01.dnscry.pt/dns-query<br>Coeur d'Alene, US: https://coe01.dnscry.pt/dns-query<br>Copenhagen, Norway: https://cph01.dnscry.pt/dns-query<br>Coventry, UK: https://cvt01.dnscry.pt/dns-query<br>Dallas, US: https://dfw02.dnscry.pt/dns-query<br>Denver, US: https://den01.dnscry.pt/dns-query<br>Detroit, US: https://dtw01.dnscry.pt/dns-query<br>Dublin, Ireland: https://dub01.dnscry.pt/dns-query<br>Durham, US: https://rdu01.dnscry.pt/dns-query<br>Düsseldorf, Germany: https://dus01.dnscry.pt/dns-query<br>Ebène, Mauritius: https://mru01.dnscry.pt/dns-query<br>Eygelshoven, Netherlands: https://eyg01.dnscry.pt/dns-query<br>Flint, US: https://fnt01.dnscry.pt/dns-query<br>Frankfurt, Germany: https://fra01.dnscry.pt/dns-query<br>Fremont, US: https://fet01.dnscry.pt/dns-query<br>Fujairah, UAE: https://fjr01.dnscry.pt/dns-query<br>Geneva, Switzerland: https://gva01.dnscry.pt/dns-query<br>Hanoi, Vietnam: https://han01.dnscry.pt/dns-query<br>Helsinki, Finland: https://hel01.dnscry.pt/dns-query<br>Ho-Chi-Minh City, Vietnam: https://sgn01.dnscry.pt/dns-query<br> Hong Kong: https://hkg02.dnscry.pt/dns-query<br>Istanbul, Turkey: https://ist01.dnscry.pt/dns-query<br>Jakarta, Indonesia: https://jkt01.dnscry.pt/dns-query<br>Kharkiv, Ukraine: https://hrk01.dnscry.pt/dns-query<br>Las Vegas, US: https://las01.dnscry.pt/dns-query<br>Liberty Lake, US: https://llk01.dnscry.pt/dns-query<br>Lima, Colombia: https://lim01.dnscry.pt/dns-query<br>London, UK: https://lon01.dnscry.pt/dns-query<br>Los Angeles Webhosting24, US: https://lax01.dnscry.pt/dns-query<br>Los Angeles CrownCloud, US: https://lax02.dnscry.pt/dns-query<br>Madrid, Spain: https://mad01.dnscry.pt/dns-query<br>Miami, US: https://mia01.dnscry.pt/dns-query<br>Milan, Italy: https://mil01.dnscry.pt/dns-query<br>Mumbai, India: https://bom01.dnscry.pt/dns-query<br>Munich, Germany: https://muc01.dnscry.pt/dns-query<br>New York, US: https://nyc01.dnscry.pt/dns-query<br>Nuremberg, Germany: https://nue01.dnscry.pt/dns-query<br>Oradea, Romania: https://omr01.dnscry.pt/dns-query<br>Paris, France: https://par01.dnscry.pt/dns-query<br>Philadelphia, US: https://phl01.dnscry.pt/dns-query<br>Phoenix, US: https://phx01.dnscry.pt/dns-query<br>Portland, US: https://pdx01.dnscry.pt/dns-query<br>Salt Lake City, US: https://slc01.dnscry.pt/dns-query<br>Sandefjord, Norway: https://trf01.dnscry.pt/dns-query<br>Santa Clara, US: https://sjc01.dnscry.pt/dns-query<br>São Paulo, Brazil: https://gru01.dnscry.pt/dns-query<br>Seattle, US: https://sea01.dnscry.pt/dns-query<br>Singapore Kuroit: https://sin03.dnscry.pt/dns-query<br>Singapore WebHorizon: https://sin02.dnscry.pt/dns-query<br>Sofia: https://sof01.dnscry.pt/dns-query<br>Spokane, US: https://geg01.dnscry.pt/dns-query<br>Stockholm, Sweden: https://sto01.dnscry.pt/dns-query<br>Sydney, Australia: https://syd01.dnscry.pt/dns-query<br>Tallinn, Estonia: https://tll01.dnscry.pt/dns-query<br>Tampa, US: https://tpa01.dnscry.pt/dns-query<br>Taos, US: https://tsm01.dnscry.pt/dns-query<br>Tokyo, Japan: https://tyo02.dnscry.pt/dns-query<br>Toronto, Canada: https://yyz01.dnscry.pt/dns-query<br>Vancouver, Canada: https://yvr01.dnscry.pt/dns-query<br>Vienna, Austria: https://vie01.dnscry.pt/dns-query<br>Vilnius, Lithuania: https://vno01.dnscry.pt/dns-query<br>Warsaw, Poland: https://waw02.dnscry.pt/dns-query| :heavy_check_mark:| Support IPv4+IPv6, uncensored, unfiltered, encrypted, DNSSEC, no logging.
-|[dnscrypt.ca](https://dnscrypt.ca/)|https://dns1.dnscrypt.ca/dns-query|:heavy_check_mark:|
-| [dnsforge.de](https://dnsforge.de/) | Adblocking : https://dnsforge.de/dns-query <br> Ads and pornblocking : https://clean.dnsforge.de/dns-query |:heavy_check_mark:<br>:heavy_check_mark:|  No logging. Support DNSSEC. Hosted in Germany|Use AdGuard browsing security and parental control web service
-|[dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php)|https://dns.dnshome.de/dns-query|:heavy_check_mark:|
-| [dnslow.me](https://dnslow.me/) | https://dnslow.me/dns-query | :heavy_check_mark: | A protective DNS that blocks Ads, Malware, Trackers, Phishing and Newly Registered Domains. Randomly forward requests to different upstreams for enhanced privacy. |
-| [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud
-| [dnswarden](https://dnswarden.com)| Adblock - <br> https://dns.dnswarden.com/adblock <br><br> Uncensored -<br> https://dns.dnswarden.com/uncensored <br><br> AdultFilter - <br>  https://dns.dnswarden.com/adultfilter | <br>:heavy_check_mark:<br><br><br> :heavy_check_mark:<br><br><br>:heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT) & Dnscrypt. Supports DNSSEC, TLS 1.3, QNAME minimization, OpenNIC and does own Recursion. EDNS Client Subnet is disabled.<br> Provides 4 different types of filtering options.<br> Adblock - Blocks ads, trackers, viruses, and telemetry.<br> Adultfilter - Blocks adult content, enforces safe search, and includes all the features from adblock. <br> Uncensored - Unrestricted access/no filtering.<br>[Custom Filter](https://dnswarden.com/customfilter.html) where you can choose your own filter lists! <br>For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). |
+| [dnscry.pt](https://www.dnscry.pt/) |Allentown, US: https://abe01.dnscry.pt/dns-query<br>Amsterdam, Netherlands: https://ams01.dnscry.pt/dns-query<br>Ashburn, US: https://abn01.dnscry.pt/dns-query<br>Athens, Greece: https://ath01.dnscry.pt/dns-query<br>Atlanta, US: https://atl01.dnscry.pt/dns-query<br>Bratislava, Slovakia: https://bts01.dnscry.pt/dns-query<br>Chicago, US: https://ord01.dnscry.pt/dns-query<br>Chișinău, Moldova: https://kiv01.dnscry.pt/dns-query<br>Coeur d'Alene, US: https://coe01.dnscry.pt/dns-query<br>Copenhagen, Norway: https://cph01.dnscry.pt/dns-query<br>Coventry, UK: https://cvt01.dnscry.pt/dns-query<br>Dallas, US: https://dfw02.dnscry.pt/dns-query<br>Denver, US: https://den01.dnscry.pt/dns-query<br>Detroit, US: https://dtw01.dnscry.pt/dns-query<br>Dublin, Ireland: https://dub01.dnscry.pt/dns-query<br>Durham, US: https://rdu01.dnscry.pt/dns-query<br>Düsseldorf, Germany: https://dus01.dnscry.pt/dns-query<br>Ebène, Mauritius: https://mru01.dnscry.pt/dns-query<br>Eygelshoven, Netherlands: https://eyg01.dnscry.pt/dns-query<br>Flint, US: https://fnt01.dnscry.pt/dns-query<br>Frankfurt, Germany: https://fra01.dnscry.pt/dns-query<br>Fremont, US: https://fet01.dnscry.pt/dns-query<br>Fujairah, UAE: https://fjr01.dnscry.pt/dns-query<br>Geneva, Switzerland: https://gva01.dnscry.pt/dns-query<br>Hanoi, Vietnam: https://han01.dnscry.pt/dns-query<br>Helsinki, Finland: https://hel01.dnscry.pt/dns-query<br>Ho-Chi-Minh City, Vietnam: https://sgn01.dnscry.pt/dns-query<br> Hong Kong: https://hkg02.dnscry.pt/dns-query<br>Istanbul, Turkey: https://ist01.dnscry.pt/dns-query<br>Jakarta, Indonesia: https://jkt01.dnscry.pt/dns-query<br>Kharkiv, Ukraine: https://hrk01.dnscry.pt/dns-query<br>Las Vegas, US: https://las01.dnscry.pt/dns-query<br>Liberty Lake, US: https://llk01.dnscry.pt/dns-query<br>Lima, Colombia: https://lim01.dnscry.pt/dns-query<br>London, UK: https://lon01.dnscry.pt/dns-query<br>Los Angeles Webhosting24, US: https://lax01.dnscry.pt/dns-query<br>Los Angeles CrownCloud, US: https://lax02.dnscry.pt/dns-query<br>Madrid, Spain: https://mad01.dnscry.pt/dns-query<br>Miami, US: https://mia01.dnscry.pt/dns-query<br>Milan, Italy: https://mil01.dnscry.pt/dns-query<br>Mumbai, India: https://bom01.dnscry.pt/dns-query<br>Munich, Germany: https://muc01.dnscry.pt/dns-query<br>New York, US: https://nyc01.dnscry.pt/dns-query<br>Nuremberg, Germany: https://nue01.dnscry.pt/dns-query<br>Oradea, Romania: https://omr01.dnscry.pt/dns-query<br>Paris, France: https://par01.dnscry.pt/dns-query<br>Philadelphia, US: https://phl01.dnscry.pt/dns-query<br>Phoenix, US: https://phx01.dnscry.pt/dns-query<br>Portland, US: https://pdx01.dnscry.pt/dns-query<br>Salt Lake City, US: https://slc01.dnscry.pt/dns-query<br>Sandefjord, Norway: https://trf01.dnscry.pt/dns-query<br>Santa Clara, US: https://sjc01.dnscry.pt/dns-query<br>São Paulo, Brazil: https://gru01.dnscry.pt/dns-query<br>Seattle, US: https://sea01.dnscry.pt/dns-query<br>Singapore Kuroit: https://sin03.dnscry.pt/dns-query<br>Singapore WebHorizon: https://sin02.dnscry.pt/dns-query<br>Sofia: https://sof01.dnscry.pt/dns-query<br>Spokane, US: https://geg01.dnscry.pt/dns-query<br>Stockholm, Sweden: https://sto01.dnscry.pt/dns-query<br>Sydney, Australia: https://syd01.dnscry.pt/dns-query<br>Tallinn, Estonia: https://tll01.dnscry.pt/dns-query<br>Tampa, US: https://tpa01.dnscry.pt/dns-query<br>Taos, US: https://tsm01.dnscry.pt/dns-query<br>Tokyo, Japan: https://tyo02.dnscry.pt/dns-query<br>Toronto, Canada: https://yyz01.dnscry.pt/dns-query<br>Vancouver, Canada: https://yvr01.dnscry.pt/dns-query<br>Vienna, Austria: https://vie01.dnscry.pt/dns-query<br>Vilnius, Lithuania: https://vno01.dnscry.pt/dns-query<br>Warsaw, Poland: https://waw02.dnscry.pt/dns-query| :heavy_check_mark:| Support IPv4+IPv6, DoT, uncensored, unfiltered, encrypted, DNSSEC, no logging.
+|[dnscrypt.ca](https://dnscrypt.ca/)|https://dns1.dnscrypt.ca/dns-query|:heavy_check_mark:| Support DoT
+| [dnsforge.de](https://dnsforge.de/) | Adblocking : https://dnsforge.de/dns-query <br> Ads and pornblocking : https://clean.dnsforge.de/dns-query |:heavy_check_mark:<br>:heavy_check_mark:|  No logging. Support DNSSEC. Hosted in Germany|Use AdGuard browsing security and parental control web service, support DoT & DoQ
+|[dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php)|https://dns.dnshome.de/dns-query|:heavy_check_mark:| Support DoT
+| [dnslow.me](https://dnslow.me/) | https://dnslow.me/dns-query | :heavy_check_mark: | A protective DNS that blocks Ads, Malware, Trackers, Phishing and Newly Registered Domains. Randomly forward requests to different upstreams for enhanced privacy. | Support DoT
+| [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud, support DoT
+| [dnswarden](https://dnswarden.com)| Adblock - <br> https://dns.dnswarden.com/adblock <br><br> Uncensored -<br> https://dns.dnswarden.com/uncensored <br><br> AdultFilter - <br>  https://dns.dnswarden.com/adultfilter | <br>:heavy_check_mark:<br><br><br> :heavy_check_mark:<br><br><br>:heavy_check_mark: | A zero logging DNS with support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT) & Dnscrypt. Supports DNSSEC, TLS 1.3, QNAME minimization, OpenNIC and does own Recursion. EDNS Client Subnet is disabled.<br> Provides 4 different types of filtering options.<br> Adblock - Blocks ads, trackers, viruses, and telemetry.<br> Adultfilter - Blocks adult content, enforces safe search, and includes all the features from adblock. <br> Uncensored - Unrestricted access/no filtering.<br>[Custom Filter](https://dnswarden.com/customfilter.html) where you can choose your own filter lists! <br>For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). | Support DoT & DoQ
 |doh.beauty|https://doh.beauty|:heavy_check_mark:|
-|doh.best|https://doh.best/dns-query|:heavy_check_mark:|Adblocking
+|doh.best|https://doh.best/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
 |doh.pink|https://doh.pink/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
-|doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:|
-|[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling
+|doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
+|[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:| Support DoT
+|[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
 |[DoTLS](https://dotls.org/)|https://ns1.dotls.org|:heavy_check_mark:|Block ads
-|dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads
-| [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: |
+|dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+| [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: | Support DoT
 |[duröhre.de](https://xn--durhre-yxa.de)|https://xn--durhre-yxa.de/dns-query|:heavy_check_mark:|
-|d96.info|https://dns.d96.info/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|d96.info|https://dns.d96.info/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **E**
 |easez.net|https://adguard.easez.net/dns-query|:heavy_check_mark:|Block ads
 |[EasyMosdns](https://doh.apad.pro/)|https://doh.apad.pro/dns-query|:heavy_check_mark:|
 |[EDDI](https://eddi.net)|https://doh.eddi.net/dns-query|:heavy_check_mark:|Block ads
 | [Edgy DNS](https://edgy.network/dns) | https://edgy-dns.com/dns-query | :heavy_check_mark: | Adblocking
-|edison42.dev|https://dns.edison42.dev/dns-query|:heavy_check_mark:|Block ads
+|edison42.dev|https://dns.edison42.dev/dns-query|:heavy_check_mark:|Block ads, support DoT
 |editechstudio|https://dns.editechstudio.com/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
-|elbschloss.xyz|https://hole.elbschloss.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Block ads
-|[ELIV DNS](https://dns.eliv.kr)|https://dns.eliv.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, Fast Cloudflare (priority IP) connection
+|elbschloss.xyz|https://hole.elbschloss.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
+|eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|[ELIV DNS](https://dns.eliv.kr)|https://dns.eliv.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, Fast Cloudflare (priority IP) connection, support DoT
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
-|engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |eren.homes|https://ad.eren.homes/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
-|ero-sayhi.com|https://agh.ero-sayhi.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
+|ero-sayhi.com|https://agh.ero-sayhi.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
+|esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |[Etath SkyDragoness](https://skydragoness.com)|https://skydragoness.com/dns-query|:heavy_check_mark:|
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |excdn.eu.org|https://doh.excdn.eu.org|:heavy_check_mark:|Use Cloudflare upstream 
 | **F**
-|faked.org|https://dns.faked.org/dns-query|:heavy_check_mark:|Block ads
-|familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
+|faked.org|https://dns.faked.org/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 |[FBI NICS E-Check](https://nicsezcheckfbi.gov) |https://nicsezcheckfbi.gov|:heavy_check_mark:| Use Cloudflare upstream with malware filtering 
-| [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) |
+| [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/)) | Support DoT
 |[Feroz](https://padlock.argh.in/2019/07/11/dns-over-https.html)|https://doh.li/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-| [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, OpenNIC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | 
-|[Fizz Studio](https://fizz.studio)|https://dns.fizz.studio/dns-query|:heavy_check_mark:|
-|[Flight Space](https://flightspace.net) |https://dns.flightspace.net/dns-query|:heavy_check_mark:|
-| [Foundation for Applied Privacy](https://applied-privacy.net/services/dns/) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198 |
-| [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC
+| [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH-Server of Freifunk München. No logging, no filter, DNSSEC, OpenNIC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | Support DoT
+|[Fizz Studio](https://fizz.studio)|https://dns.fizz.studio/dns-query|:heavy_check_mark:| Support DoT
+|[Flight Space](https://flightspace.net) |https://dns.flightspace.net/dns-query|:heavy_check_mark:| Support DoT
+| [Foundation for Applied Privacy](https://applied-privacy.net/services/dns/) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198 | Support DoT
+| [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC, support DoT & DoQ
 |frutuozo.com.br|https://adguard.frutuozo.com.br/dns-query|:heavy_check_mark:|Block ads
-|fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:|
-|funil.de|https://doh.funil.de/dns-query|:heavy_check_mark:|
+|fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:| Support DoT & DoQ
+|funil.de|https://doh.funil.de/dns-query|:heavy_check_mark:| Support DoT
 |[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query<br>https://doh.futa.app/dns-query|:heavy_check_mark:|Block ads
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
-|[Gay Analysing](https://gayanalysing.co.uk) |https://dns.gayanalysing.co.uk/dns-query|:heavy_check_mark:|Block ads
-|[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
-|gifino.fr|https://adguard.maison.gifino.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service
-|[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|[Gay Analysing](https://gayanalysing.co.uk) |https://dns.gayanalysing.co.uk/dns-query|:heavy_check_mark:|Block ads, support DoT
+|[Gensokyo](https://freyja.pw/)|https://dns.freyja.pw/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT
+|gifino.fr|https://adguard.maison.gifino.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service, support DoT
+|[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |gloom.nexus|https://agh.gloom.nexus/dns-query|:heavy_check_mark:|Block ads
-| [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering.
+| [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering, support DoT
 |[Gorgeous](https://so-gorgeo.us.kg/)|https://nana-is.so-gorgeo.us.kg/dns-query<br>https://tetty-is.so-gorgeo.us.kg/dns-query<br>https://luna-is.so-gorgeo.us.kg/dns-query|:heavy_check_mark:| Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 | **H**
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
-|hartley.cloud|https://adguard.hartley.cloud/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
+|hartley.cloud|https://adguard.hartley.cloud/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
-|huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads
-| Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | 
-|[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0)|https://ordns.he.net|:heavy_check_mark:|
+|huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+| Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | Support DoT
+|[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0)|https://ordns.he.net|:heavy_check_mark:| Support DoT & DoQ
 |[h3zjp](https://h3z.jp)|https://dns.h3z.jp/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 | **I**
 |[Ian ROCKS](https://blog.ian.rocks)|https://dns.ian.rocks/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream and AdGuard browsing security web service
-|[ibksturm](https://github.com/ibksturm)|https://ibksturm.synology.me/dns-query|:heavy_check_mark:| OpenNIC
+|[ibksturm](https://github.com/ibksturm)|https://ibksturm.synology.me/dns-query|:heavy_check_mark:| OpenNIC, support DoT & DoQ
 |ihctw.synology.me|https://ihctw.synology.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking and AdGuard browsing security web service
-|[ikataruto](https://ikataruto.com)|https://dns.ikataruto.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|immanuelschaffer.de|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Block ads
+|[ikataruto](https://ikataruto.com)|https://dns.ikataruto.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
+|immanuelschaffer.de|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[immerda.ch](https://docs.immerda.ch/de/services/doh/)|https://doh.immerda.ch/dns-query|:heavy_check_mark:|Block ads
-| [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: |
-|[Inclusio](https://inclusioproject.com)|https://dns.inclusioproject.com/dns-query|:heavy_check_mark:|
-|indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard parental control web service
-|[Inforlogia](https://inforlogia.com)|https://dns.inforlogia.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-| [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: |
-| [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027 
+| [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query | :heavy_check_mark: | Support DoT
+|[Inclusio](https://inclusioproject.com)|https://dns.inclusioproject.com/dns-query|:heavy_check_mark:| Support DoT
+|indybanipal.com|https://dns.indybanipal.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard parental control web service, support DoT & DoQ
+|[Inforlogia](https://inforlogia.com)|https://dns.inforlogia.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+| [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: | Support DoT
+| [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027, support DoT
 |[Inter-University Computation Center](https://iucc.ac.il/en/)|https://doh.iucc.ac.il/dns-query|:heavy_check_mark:|
-|ionutl.ro|https://dns.cloud.ionutl.ro/dns-query|:heavy_check_mark:|Block ads
-|[ipoac.nl](https://ipoac.nl)|https://dns.ipoac.nl/dns-query|:heavy_check_mark:|
+|ionutl.ro|https://dns.cloud.ionutl.ro/dns-query|:heavy_check_mark:|Block ads, support DoT
+|[ipoac.nl](https://ipoac.nl)|https://dns.ipoac.nl/dns-query|:heavy_check_mark:| Support DoT
 |is.my.waifu.cz|https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[Ivankin](https://ivnkn.xyz)|https://ivnkn.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|izapi4.fr|https://adguard.izapi4.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
+|izapi4.fr|https://adguard.izapi4.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream , support DoT
 | **J**
-|janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
-|jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
+|janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
+|jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
 |jichi.io|https://dns.jichi.io/dns-query|:heavy_check_mark:|Block ads
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 |johanliebert.top|https://adguard.johanliebert.top/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
-|[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads
-|[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service
+|[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 | **K**
 |kaiwu.xyz|https://kaiwu.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
-|[Kamil Szczepański](https://kamilszczepanski.com/)|https://dns.kamilszczepanski.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, use AdGuard browsing security web service
-|kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
+|[Kamil Szczepański](https://kamilszczepanski.com/)|https://dns.kamilszczepanski.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, use AdGuard browsing security web service, support DoT
+|kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT & DoQ
 |kawa.tf|https://dns.kawa.tf/dns-query|:heavy_check_mark:|OpenNIC, block ads
-|Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
-|[Kernel Error](https://kernel-error.de)|https://dns.kernel-error.de/dns-query|:heavy_check_mark:| 
-|[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating
-|ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Block ads
-|[keviland](https://keviland.com) |https://dns.keviland.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
+|Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT
+|[Kernel Error](https://kernel-error.de)|https://dns.kernel-error.de/dns-query|:heavy_check_mark:| Support DoT
+|[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating, support DoT & DoQ
+|ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Block ads, support DoT
+|[keviland](https://keviland.com) |https://dns.keviland.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |khon.dev|https://adg.khon.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Kidzonet](https://kidzonet.io)|https://doh.kidzonet.io/dns-query|:heavy_check_mark:|
-|[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking
+|[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
+|[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|
-|Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking
-|konpetr6.site|https://konpetr6.site/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
-|korzhyk.pp.ua|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Block ads
+|Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking, support DoT
+|konpetr6.site|https://konpetr6.site/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream , support DoT
+|korzhyk.pp.ua|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
-|kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC
-|kyusang.win|https://agh.kyusang.win/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service
+|kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+|kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
+|kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC, support DoT
+|kyusang.win|https://agh.kyusang.win/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service, support DoT
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
-|[Lars Lehmann](https://larsl.net/)|https://dns.lars-lehmann.net/dns-query|:heavy_check_mark:|
+|[Lars Lehmann](https://larsl.net/)|https://dns.lars-lehmann.net/dns-query|:heavy_check_mark:| Support DoT
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. OpenNIC, no logging, no filtering, no ECS, DNSSEC support. |
-|[Levonet](https://www.levonet.sk/)|https://dns.levonet.sk/dns-query|:heavy_check_mark:|
-|[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC.
+|[Levonet](https://www.levonet.sk/)|https://dns.levonet.sk/dns-query|:heavy_check_mark:| Support DoT
+|[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC, support DoT
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |[Liquid Intelligent Technologies](https://liquid.tech/)|https://africadns1.liquidtelecom.net/dns-query<br>https://africadns2.liquidtelecom.net/dns-query|:heavy_check_mark:|
 |[Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/)|https://dns.lista.my.id/dns-query|:heavy_check_mark:|Block ads
 |loadlow.me|https://loadlow.me/dns-query|:heavy_check_mark:|
-|[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:|
+|[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:| Support DoT
 |lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **M**
 |maherhost.uk|https://maherhost.uk/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
-| [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | OpenNIC 
-|mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security web service
+| [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | OpenNIC, support DoT
+|mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[Max Philipp Wriefdt](https://wriedts.de)|https://home.wriedts.de/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Mayx](https://mayx.eu.org)|https://dns.mayx.eu.org/dns-query|:heavy_check_mark:|
 |[MC Host](https://mchost.no)|https://doh.serverhost.no/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware filtering
-|meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking
+|meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |mendozasdelivery.com|https://mendozasdelivery.com/dns-query|:heavy_check_mark:|
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
-|meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
+|meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |[Meta Dallin](https://dallinbryce.com)|https://dns.dallinbryce.com/dns-query|:heavy_check_mark:|
-|mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
-|[mikrotikrumahan](https://mikrotikrumahan.my.id/)|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Block ads
-|mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads
+|mikeliu.org|https://dns.mikeliu.org/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
+|[mikrotikrumahan](https://mikrotikrumahan.my.id/)|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
-|mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:|
+|mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:| Support DoT
 |mnrv.trade|https://mnrv.trade/dns-query|:heavy_check_mark:|
-|moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Block ads
-|momokko.moe|https://naganohara-yoimiya.momokko.moe/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|mtoo.vip|https://dns.mtoo.vip/dns-query|:heavy_check_mark:|Block ads
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://dns.mullvad.net/dns-query <br> Adblocking https://adblock.dns.mullvad.net/dns-query <br> Ad & malware blocking https://base.dns.mullvad.net/dns-query <br> Ad, malware, social media blocking https://extended.dns.mullvad.net/dns-query <br> Ad, malware, social media, adult content and gamble blocking https://all.dns.mullvad.net/dns-query <br> Ad, malware, adult content and gamble blocking https://family.dns.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Public DoH server in US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf)
-| [mydns.network](https://mydns.network) | Uncensored: https://freedom.mydns.network/dns-query <br> Paranoia (no Google/Cloudflare): https://paranoia.mydns.network/dns-query <br> Adblocking: https://adblock.mydns.network/dns-query <br> Family: https://family.mydns.network/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server powered by Cloudflare Workers. Uniquely disguises your queries by relaying queries your behalf to upstream DoH servers with no IP address information. [Open source](https://github.com/matthewgall/doh-proxy), deploy your own instance at any time!
+|moderateinfra.net|https://nue2.moderateinfra.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|momokko.moe|https://naganohara-yoimiya.momokko.moe/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+|mtoo.vip|https://dns.mtoo.vip/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://dns.mullvad.net/dns-query <br> Adblocking https://adblock.dns.mullvad.net/dns-query <br> Ad & malware blocking https://base.dns.mullvad.net/dns-query <br> Ad, malware, social media blocking https://extended.dns.mullvad.net/dns-query <br> Ad, malware, social media, adult content and gamble blocking https://all.dns.mullvad.net/dns-query <br> Ad, malware, adult content and gamble blocking https://family.dns.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Public DoH server in US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf), support DoT
+| [mydns.network](https://mydns.network) | Uncensored: https://freedom.mydns.network/dns-query <br> Paranoia (no Google/Cloudflare): https://paranoia.mydns.network/dns-query <br> Adblocking: https://adblock.mydns.network/dns-query <br> Family: https://family.mydns.network/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server powered by Cloudflare Workers. Uniquely disguises your queries by relaying queries your behalf to upstream DoH servers with no IP address information. [Open source](https://github.com/matthewgall/doh-proxy), deploy your own instance at any time! Also support DoT
 |my-private-cdn.com|https://my-private-cdn.com/dns-query|:heavy_check_mark:|
 | **N**
 |[nako.kr](https://nako.kr)|https://dns.nako.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|narl.app|https://dns.narl.app/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
+|narl.app|https://dns.narl.app/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT
 |nashkan.net|https://ae-fuj-w-p-1.nashkan.net/dns-query<br>https://ae-fuj-w-p-2.nashkan.net/dns-query<br>https://ae-fuj-w-p-3.nashkan.net/dns-query<br>https://at-wie-w-p-1.nashkan.net/dns-query<br>https://au-syd-w-f-1.nashkan.net/dns-query<br>https://au-syd-w-p-1.nashkan.net/dns-query<br>https://de-fra-w-p-1.nashkan.net/dns-query<br>https://de-fsn-w-p-1.nashkan.net/dns-query<br>https://fi-hel-w-f-2.nashkan.net/dns-query<br>https://fr-gra-w-f-1.nashkan.net/dns-query<br>https://fr-gra-w-p-1.nashkan.net/dns-query<br>https://gb-cov-w-f-1.nashkan.net/dns-query<br>https://gb-cov-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-f-1.nashkan.net/dns-query<br>https://gb-lon-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-p-2.nashkan.net/dns-query<br>https://jp-tyo-w-p-1.nashkan.net/dns-query<br>https://kz-pav-w-p-1.nashkan.net/dns-query<br>https://nl-dro-w-f-1.nashkan.net/dns-query<br>https://nl-dro-w-p-1.nashkan.net/dns-query<br>https://pl-waw-w-f-1.nashkan.net/dns-query<br>https://pl-waw-w-p-2.nashkan.net/dns-query<br>https://ro-buc-w-f-1.nashkan.net/dns-query<br>https://ro-buc-w-p-1.nashkan.net/dns-query<br>https://sg-w-f-1.nashkan.net/dns-query<br>https://sg-w-p-1.nashkan.net/dns-query<br>https://us-chi-w-f-1.nashkan.net/dns-query<br>https://us-chi-w-p-1.nashkan.net/dns-query<br>https://us-hil-w-f-1.nashkan.net/dns-query<br>https://us-hil-w-p-1.nashkan.net/dns-query<br>https://us-jac-w-f-1.nashkan.net/dns-query<br>https://us-jac-w-p-1.nashkan.net/dns-query<br>https://us-kan-w-f-1.nashkan.net/dns-query<br>https://us-kan-w-p-1.nashkan.net/dns-query<br>https://us-nyc-w-f-1.nashkan.net/dns-query<br>https://us-nyc-w-p-1.nashkan.net/dns-query<br>https://us-saj-w-f-1.nashkan.net/dns-query<br>https://us-saj-w-p-1.nashkan.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering
 |nekomiya-sama.top|https://nekomiya-sama.top/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 |[Neowutran](https://neowutran.ovh)|https://dns.neowutran.ovh|:heavy_check_mark:|
-|[NetVPN](https://netvpn.net) |https://dns.netvpn.net/dns-query|:heavy_check_mark:|
-| [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start)
-|nhtsky|https://dns.nhtsky.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|[NetVPN](https://netvpn.net) |https://dns.netvpn.net/dns-query|:heavy_check_mark:| Support DoT
+| [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start), support DoT & DoQ
+|nhtsky|https://dns.nhtsky.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Nick Slowinski](https://nick-slowinski.de)|https://dns.nick-slowinski.de/dns-query|:heavy_check_mark:|Block ads
-| [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry 
-|[Nico Franke](https://zernico.de)|https://adguard-kartoffel.zernico.de/dns-query|:heavy_check_mark:|
+| [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry , support DoT
+|[Nico Franke](https://zernico.de)|https://adguard-kartoffel.zernico.de/dns-query|:heavy_check_mark:| Support DoT
 | [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 |[nonexiste.net](https://nonexiste.net)|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
-| [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: |
+| [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: | Support DoT
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query<br>Cloudflare upstream with DNSSEC: https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
-|novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads
+|novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads, support DoT
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |n23.io|https://dns.n23.io/dns-query|:heavy_check_ use Cloudflare upstream
 | **O**
-|[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads
-|ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads
+|[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads, support DoT
+|ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads, support DoT
 |olgui.net|https://dns.olgui.net/dns-query|:heavy_check_mark:|Block ads
-|oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
-|[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering, support DoT
+|[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Sandefjord, Norway: https://ns4.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
 |ourvau.lt|https://dns.ourvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|o0o.re|https://5g.o0o.re/dns-query|:heavy_check_mark:|Use Cloudflare upstream with DNSSEC
+|o0o.re|https://5g.o0o.re/dns-query|:heavy_check_mark:|Use Cloudflare upstream with DNSSEC, support DoT
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
-|[PanSzelescik](https://panszelescik.pl)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|[PanSzelescik](https://panszelescik.pl)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |pashagame456.com|https://pashagame456.com/dns-query|:heavy_check_mark:|
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
-|[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|[pggns](https://pggns.de)|https://adguard.pggns.de/dns-query|:heavy_check_mark:|Block ads
-|phillipjberry.net|https://dns.phillipjberry.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security and parental controlr web service
+|[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
+|[pggns](https://pggns.de)|https://adguard.pggns.de/dns-query|:heavy_check_mark:|Block ads, support DoT
+|phillipjberry.net|https://dns.phillipjberry.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security and parental control web service, support DoT & DoQ
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
 |[plan9-dns](https://github.com/jlongua/plan9-dns)|New Jersey: https://kronos.plan9-dns.com/dns-query<br>Mexico: https://helios.plan9-dns.com/dns-query<br>Florida: https://pluton.plan9-dns.com/dns-query|:heavy_check_mark:|
-|[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
-|[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
+|[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |princex.net|https://dns.princex.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Germany: https://de.dns.privex.io<br>Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
-|psociety.de|https://dns.psociety.de/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
-|[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC
-|puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
+|psociety.de|https://dns.psociety.de/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
+|[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
+|puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT & DoQ
 | **Q**
 |[Quadrant](https://quadrantsec.com/blog/quadrants-public-dns-resolver-tls-https-support)|https://doh.qis.io/dns-query|:heavy_check_mark:|
-| [Quad9](https://quad9.net) | 9.9.9.9 (Secure): A threat-blocking, privacy-first recursive DNS service. <br> https://dns.quad9.net/dns-query <br><br> 9.9.9.10 (No Threat Blocking): For users who want to take advantage of privacy-first recursive DNS service, but do not want threat blocking. <br> https://dns10.quad9.net/dns-query <br><br> 9.9.9.11 (Secure + ECS): For users who do not route to the closest-possible Quad9 location, use 9.9.9.11 for better CDN performance. <br> https://dns11.quad9.net/dns-query <br><br> 9.9.9.12 (No Threat Blocking + ECS): For users who do not route to the closest-possible Quad9 location, and also do not want threat blocking, use 9.9.9.12 for better CDN performance. <br> https://dns12.quad9.net/dns-query | ✔️ <br> ✔️ <br> ✔️ <br> ✔️ | 9.9.9.9 - Malware blocking, DNSSEC validation <br> 9.9.9.10 - No malware blocking, no DNSSEC validation <br> 9.9.9.11 - Malware blocking, DNSSEC validation, ECS enabled <br> 9.9.9.12 - No malware blocking, no DNSSEC validation, ECS enabled
+| [Quad9](https://quad9.net) | 9.9.9.9 (Secure): A threat-blocking, privacy-first recursive DNS service. <br> https://dns.quad9.net/dns-query <br><br> 9.9.9.10 (No Threat Blocking): For users who want to take advantage of privacy-first recursive DNS service, but do not want threat blocking. <br> https://dns10.quad9.net/dns-query <br><br> 9.9.9.11 (Secure + ECS): For users who do not route to the closest-possible Quad9 location, use 9.9.9.11 for better CDN performance. <br> https://dns11.quad9.net/dns-query <br><br> 9.9.9.12 (No Threat Blocking + ECS): For users who do not route to the closest-possible Quad9 location, and also do not want threat blocking, use 9.9.9.12 for better CDN performance. <br> https://dns12.quad9.net/dns-query | ✔️ <br> ✔️ <br> ✔️ <br> ✔️ | 9.9.9.9 - Malware blocking, DNSSEC validation <br> 9.9.9.10 - No malware blocking, no DNSSEC validation <br> 9.9.9.11 - Malware blocking, DNSSEC validation, ECS enabled <br> 9.9.9.12 - No malware blocking, no DNSSEC validation, ECS enabled, support DoT
 | **R**
 |[Rabbit DNS](https://rabbitdns.org/install)|Non filtering: https://dns.rabbitdns.org/dns-query<br>Malware filtering: https://security.rabbitdns.org/dns-query<br>Malware and adult filtering: https://family.rabbitdns.org/dns-query|:heavy_check_mark:|Use Cloudflare upstream with malware and family filtering
-|[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
+|[RAL9005](https://ral9005.org/)|https://ns.ral9005.org/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT
 |redvau.lt|https://dns.redvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|reitmeier.me|https://dns.reitmeier.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
-|renardyre.com|https://dns.renardyre.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|reitmeier.me|https://dns.reitmeier.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream , support DoT & DoQ
+|renardyre.com|https://dns.renardyre.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |reckoningslug.name|https://dns.reckoningslug.name/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |relskor.com|https://adguard.relskor.com/dns-query|:heavy_check_mark:|Block ads
-|[repinger](https://dns.repinger.com)|https://dns.repinger.com/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
-|[repomansd](https://falkenthal.org)|https://dns.falkenthal.org/dns-query|:heavy_check_mark:|
-|[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation
-|[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
+|[repinger](https://dns.repinger.com)|https://dns.repinger.com/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
+|[repomansd](https://falkenthal.org)|https://dns.falkenthal.org/dns-query|:heavy_check_mark:| Support DoT
+|[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation, support DoT
+|[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure)
-|rjls.me|https://dns.rjls.me/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
-|[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation
+|rjls.me|https://dns.rjls.me/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service, support DoT & DoQ
+|[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation, support DoT
 | [RoTunneling](https://www.rotunneling.net/rotunneling-doh-free/) | https://dns.rotunneling.net/dns-query/public | :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 | **S**
-| [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap
-|sarak.as|https://dns.sarak.as/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
-|[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
+| [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap, support DoT
+|sarak.as|https://dns.sarak.as/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT
+|[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |sec511.com|https://dns.sec511.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
-|scarx.net|https://dns.scarx.net/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream and AdGuard browsing security web service
-|scott-smith.us|https://dns.scott-smith.us/dns-query|:heavy_check_mark:|
+|scarx.net|https://dns.scarx.net/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
+|sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
+|scott-smith.us|https://dns.scott-smith.us/dns-query|:heavy_check_mark:| Support DoT
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC
-|[Shaft Inc](https://www.shaftinc.fr/dns-shaftinc.html)|https://dns.shaftinc.fr/|:heavy_check_mark:|
-|shareworx.net|https://dns.shareworx.net/dns-query|:heavy_check_mark:|
-|[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking, use Cloudflare upstream with malware and family filtering
-|[Shimul](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling
-|shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service
-|shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking
+|[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC, support DoT
+|[Shaft Inc](https://www.shaftinc.fr/dns-shaftinc.html)|https://dns.shaftinc.fr/|:heavy_check_mark:| Support DoT
+|shareworx.net|https://dns.shareworx.net/dns-query|:heavy_check_mark:| Support DoT
+|[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking, use Cloudflare upstream with malware and family filtering, support DoT
+|[Shimul](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
+|shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service, support DoT
+|shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
-|[sindominio.net](https://sindominio.net/ayuda/#dns-mediante-https)|https://dns.sindominio.net/dns-query|:heavy_check_mark:|
-|siudzinski.net|https://adg.siudzinski.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
-|skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|OpenNIC, block ads
+|[sindominio.net](https://sindominio.net/ayuda/#dns-mediante-https)|https://dns.sindominio.net/dns-query|:heavy_check_mark:| Support DoT
+|siudzinski.net|https://adg.siudzinski.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
+|skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|OpenNIC, block ads, support DoT & DoQ
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
-| Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream
-|[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering
+| Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream, support DoT
+|[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering, support DoT
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
-|[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland, use Cloudflare upstream
+|[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland, use Cloudflare upstream, support DoT
 |[Sparsh Bajaj](https://sparshbajaj.me)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
-|[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:|
-|[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads
-|stirringphoto.com|https://dns.stirringphoto.com/dns-query|:heavy_check_mark:|
-|[StuSta](https://www.stusta.de/en/)|https://muli.stusta.mhn.de/dns-query|:heavy_check_mark:|
+|[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:| Support DoT
+|[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|stirringphoto.com|https://dns.stirringphoto.com/dns-query|:heavy_check_mark:| Support DoT
+|[StuSta](https://www.stusta.de/en/)|https://muli.stusta.mhn.de/dns-query|:heavy_check_mark:| Support DoT
 |[suche.org](https://suche.org)|https://doh.suche.org/dns-query|:heavy_check_mark:|
 |suhaila.dev|https://dns.suhaila.dev/dns-query|:heavy_check_mark:|Block ads
 | [Sundalandia](https://sundalandia.pp.ua) | Adblock https://sundalandia.pp.ua/dns-query <br> Family filter https://sundalandia.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
-|[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:|
-|sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
+|[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:| Support DoT
+|sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
-|[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling
+|[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: |Use Cloudflare upstream
 | **T**
-| t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: |
-|technicule.info|https://vpn.technicule.info/dns-query|:heavy_check_mark:|
-| [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: | 
-|tesem.dog|https://dns.tesem.dog/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
-|thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+| t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
+|technicule.info|https://vpn.technicule.info/dns-query|:heavy_check_mark:| Support DoT
+| [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
+|tesem.dog|https://dns.tesem.dog/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT
+|thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
-|[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling
+|[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |[Torsten Tributh](https://tributh.net) |https://tributh.net/dns-query|:heavy_check_mark:|
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
-|[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:|
+|[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:| Support DoT
 |[truta](https://helio.loureiro.eng.br/index.php/todas-categorias/70-networking/19-apache/463-criando-um-servico-de-relay-de-dns-over-https)|https://truta.org/dns-query|:heavy_check_mark:|
 |tsc.gov|https://tsc.gov|:heavy_check_mark:|Use Cloudflare upstream with malware filtering 
-|tshost.no|https://adg.tshost.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
+|tshost.no|https://adg.tshost.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |tuskythehusky.tech|https://tuskythehusky.tech/dns-query|:heavy_check_mark:|
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | **U**
-|[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)|https://anycast.uncensoreddns.org/dns-query|:heavy_check_mark:|
+|[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)|https://anycast.uncensoreddns.org/dns-query|:heavy_check_mark:| Support DoT & DoQ
 | [Unstoppable Domains](https://docs.unstoppabledomains.com/d-websites/resolving-dwebsites-in-a-browser/) | https://resolver.unstoppable.io/dns-query | :heavy_check_mark: | Also resolve `.crypto` TLD of Unstoppable Domains, use Cloudflare upstream
 | **V**
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
-|[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|
+|[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|Support DoT
 |[Vault 81](https://vault81.de)|https://dns.vault81.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-| [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
+|[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+| [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT & DoQ
 |[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
-|vorlif.org|https://vorlif.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|vuhai.de|https://bigora2.vuhai.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|vorlif.org|https://vorlif.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
+|vuhai.de|https://bigora2.vuhai.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **W**
-|[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking
+|[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
 |waringer-atg.de|https://abel.waringer-atg.de/dns-query|:heavy_check_mark:|
 |webnmail.de|https://doh.webnmail.de/dns-query|:heavy_check_mark:|
 |webpotato.nl|https://dns.webpotato.nl/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
-|[WEG B72](https://b72.com)|https://dns.b72.com/dns-query|:heavy_check_mark:|OpenNIC, block ads, gambling & porn
-|wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
+|[WEG B72](https://b72.com)|https://dns.b72.com/dns-query|:heavy_check_mark:|OpenNIC, block ads, gambling & porn, support DoT
+|wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |[Wheezy Notes](https://wheezy.naftalie.net/)|https://doh-ca.naftalie.net/dns-query|:heavy_check_mark:|
-|[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center.
+|[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center, support DoT
 |wil.cloud|https://dns-1.wil.cloud/dns-query<br>https://dns-2.wil.cloud/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|workfordemo.co.in|https://agh.workfordemo.co.in/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering
-|[W3C TAG](https://w3ctag.org)|https://dns.w3ctag.org/dns-query|:heavy_check_mark:|
+|workfordemo.co.in|https://agh.workfordemo.co.in/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering, support DoT
+|[W3C TAG](https://w3ctag.org)|https://dns.w3ctag.org/dns-query|:heavy_check_mark:|Support DoT
 | **X**
 |[XiuMu](https://xiumu.org/note/dns.shtml)|https://dns.xiumu.org|:heavy_check_mark:|Use Cloudflare upstream with malware filtering
 |xlion.tw|https://dns.xlion.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |xuming.studio|https://dns.xuming.studio/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 |xusqui.com|https://dns.xusqui.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **Y**
-| [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging.
-|[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking
-|yingroad.top|https://dns.yingroad.top/dns-query|:heavy_check_mark:|Block ads
-|[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+| [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging, support DoT
+|[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
+|yingroad.top|https://dns.yingroad.top/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |yovbak.com|https://yovbak.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
-|yumenashyi.com|https://dns.yumenashyi.com/dns-query|:heavy_check_mark:|Block ads
+|yumenashyi.com|https://dns.yumenashyi.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **Z**
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
-|[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
+|[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zebrzydowa110.eu|https://blocker.zebrzydowa110.eu/dns-query|:heavy_check_mark:|Block ads
 |zemows.industries|https://dns.zemows.industries/dns-query|:heavy_check_mark:|Block ads
 |[ZT Browser](https://ztbro.com)|https://doh.ztbro.com/dns-query|:heavy_check_mark:|
 |[zxilly](https://learningman.top) |https://dns.learningman.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **0-9**
-|0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |0rz.ing|https://dns.0rz.ing/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
-|0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|
+|0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|Support DoT & DoQ
 |003153.xyz|https://003153.xyz/dns-query|:heavy_check_mark:|
-|123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
+|123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
-|[3456KR](https://3456.kr)|https://dhlifeus-micro1.dns.3456.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|351242444.xyz|https://351242444.xyz/dns-query|:heavy_check_mark:|Block ads
-|[4NetGuides](https://4netguides.org)|https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads
+|[3456KR](https://3456.kr)|https://dhlifeus-micro1.dns.3456.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
+|351242444.xyz|https://351242444.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
+|[4NetGuides](https://4netguides.org)|https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
-|52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|
+|52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|Support DoT & DoQ
 |978159.xyz|https://doh.978159.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
 | **Others**
-| [@null31](https://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | :heavy_check_mark: | Based in Brazil / doh-server (nginx - unbound) / dot-server (unbound) / DNSSEC / QNAME minimization / Uncensored / no logging, no ECS, hosted on Oracle Cloud VPS by [null31](https://gitlab.com/null31/DoT-DoH-public-config). |
-| @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query | :heavy_check_mark: | Australian server that runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), OpenNIC, Unbound with DNSSEC, No ECS, and No logs|
+| [@null31](https://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | :heavy_check_mark: | Based in Brazil / doh-server (nginx - unbound) / dot-server (unbound) / DNSSEC / QNAME minimization / Uncensored / no logging, no ECS, hosted on Oracle Cloud VPS by [null31](https://gitlab.com/null31/DoT-DoH-public-config), support DoT
+| @publicarray [dns.seby.io](https://dns.seby.io) | https://doh-2.seby.io/dns-query | :heavy_check_mark: | Australian server that runs [@m13253's Go implementation](https://github.com/m13253/dns-over-https), OpenNIC, Unbound with DNSSEC, No ECS, and No logs. Support DoT
 
 
 *: Tested via `curl --doh-url <RESOLVER_URI> http://google.com`.
