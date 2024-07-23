@@ -192,7 +192,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[h3zjp](https://h3z.jp)|https://dns.h3z.jp/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 | **I**
 |[Ian ROCKS](https://blog.ian.rocks)|https://dns.ian.rocks/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream and AdGuard browsing security web service
-|[ibksturm](https://github.com/ibksturm)|https://ibksturm.synology.me/dns-query|:heavy_check_mark:| OpenNIC, support DoT & DoQ
 |ihctw.synology.me|https://ihctw.synology.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking and AdGuard browsing security web service
 |[ikataruto](https://ikataruto.com)|https://dns.ikataruto.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
@@ -365,7 +364,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
 |[sindominio.net](https://sindominio.net/ayuda/#dns-mediante-https)|https://dns.sindominio.net/dns-query|:heavy_check_mark:| Support DoT
-|siudzinski.net|https://adg.siudzinski.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|OpenNIC, block ads, support DoT & DoQ
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream, support DoT
