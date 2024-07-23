@@ -253,6 +253,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |loadlow.me|https://loadlow.me/dns-query|:heavy_check_mark:|
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:| Support DoT
 |lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|lukscasino|https://lukscasino-929-tr.xyz/dns-query<br>https://lukscasino-479-tr.xyz/dns-query<br>https://lukscasino-542-tr.xyz/dns-query |:heavy_check_mark:|
 | **M**
 |maherhost.uk|https://maherhost.uk/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
