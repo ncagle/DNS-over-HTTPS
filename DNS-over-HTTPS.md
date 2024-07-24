@@ -32,7 +32,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |applewebkit.dev|https://dns.applewebkit.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, also support DoT
 |[arnor.org](https://arnor.org)|https://nsec.arnor.org/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany, also support DoT
-|aslk685qwda.com|https://dns.aslk685qwda.com/dns-query|:heavy_check_mark:|
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking, also support DoT
 |att.net|https://dohtrial.att.net|:heavy_check_mark:|Also support DoT
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service. Also support DoT & DoQ
@@ -100,7 +99,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
-|ddasdka678asdsa.com|https://dns.ddasdka678asdsa.com/dns-query|:heavy_check_mark:|
 |delegated-ipfs.dev|https://delegated-ipfs.dev/dns-query|:heavy_check_mark:| Also resolves ENS domain, use Cloudflare upstream
 |[denypradana.com](https://doh.denypradana.com)|https://doh.denypradana.com/dns-query|:heavy_check_mark:|
 |[derailer](https://olpploiopkuyhiopsfrt.info) |https://dns.olpploiopkuyhiopsfrt.info/dns-query|:heavy_check_mark:|
@@ -191,7 +189,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[h3zjp](https://h3z.jp)|https://dns.h3z.jp/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 | **I**
 |[Ian ROCKS](https://blog.ian.rocks)|https://dns.ian.rocks/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream and AdGuard browsing security web service
-|ihctw.synology.me|https://ihctw.synology.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking and AdGuard browsing security web service
 |[ikataruto](https://ikataruto.com)|https://dns.ikataruto.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |immanuelschaffer.de|https://dns.immanuelschaffer.de/dns-query|:heavy_check_mark:|Block ads, support DoT
