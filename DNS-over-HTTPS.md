@@ -233,7 +233,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|Support DoT through `dot.kooman.org`
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking, support DoT
-|konpetr6.site|https://konpetr6.site/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream , support DoT
 |korzhyk.pp.ua|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
