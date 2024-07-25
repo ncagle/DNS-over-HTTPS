@@ -143,7 +143,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ELIV DNS](https://dns.eliv.kr)|https://dns.eliv.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, Fast Cloudflare (priority IP) connection, support DoT
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
-|eren.homes|https://ad.eren.homes/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
 |ero-sayhi.com|https://agh.ero-sayhi.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |esnube.es|https://dns.esnube.es/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |[Etath SkyDragoness](https://skydragoness.com)|https://skydragoness.com/dns-query|:heavy_check_mark:|
