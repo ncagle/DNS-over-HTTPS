@@ -39,7 +39,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **B**
 |backschues.net|https://dns.backschues.net/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |bahopir188.dnshome.de|https://bahopir188.dnshome.de/dns-query|:heavy_check_mark:|Block ads, also support DoT
-|baishiyuan.cn|https://dns.baishiyuan.cn/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, also support DoT
 |bazooki-infra.dev|https://bazooki-infra.dev/dns-query|:heavy_check_mark:|
 |[BebasDNS](https://github.com/bebasid/bebasdns/blob/main/README.en.md)|https://dns.bebasid.com/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |[Belnet](https://dns.belnet.be)|https://dns.belnet.be/dns-query|:heavy_check_mark:|
@@ -405,12 +404,10 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |vorlif.org|https://vorlif.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |vuhai.de|https://bigora2.vuhai.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **W**
-|[Wang Art](https://wang.art/)|https://dns.wang.art/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
 |waringer-atg.de|https://abel.waringer-atg.de/dns-query|:heavy_check_mark:|
 |webnmail.de|https://doh.webnmail.de/dns-query|:heavy_check_mark:|Support DoT through `dot.webnmail.de`
 |webpotato.nl|https://dns.webpotato.nl/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[WEG B72](https://b72.com)|https://dns.b72.com/dns-query|:heavy_check_mark:|OpenNIC, block ads, gambling & porn, support DoT
-|wehao.net|https://resov.wehao.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |[Wheezy Notes](https://wheezy.naftalie.net/)|https://doh-ca.naftalie.net/dns-query|:heavy_check_mark:|
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center, support DoT
 |wil.cloud|https://dns-1.wil.cloud/dns-query<br>https://dns-2.wil.cloud/dns-query|:heavy_check_mark:|Use Cloudflare upstream
