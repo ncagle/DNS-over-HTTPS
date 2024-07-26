@@ -283,7 +283,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 |[nonexiste.net](https://nonexiste.net)|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: | Support DoT
-|[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query<br>Cloudflare upstream with DNSSEC: https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
+|[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query<br>https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads, support DoT
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |n23.io|https://dns.n23.io/dns-query|:heavy_check_ use Cloudflare upstream
