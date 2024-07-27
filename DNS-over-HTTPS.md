@@ -347,7 +347,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Shaft Inc](https://www.shaftinc.fr/dns-shaftinc.html)|https://dns.shaftinc.fr/|:heavy_check_mark:| Support DoT
 |shareworx.net|https://dns.shareworx.net/dns-query|:heavy_check_mark:| Support DoT
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking, use Cloudflare upstream with malware and family filtering, support DoT
-|[Shimul](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service, support DoT
 |shutgaming.net|https://adguard.shutgaming.net/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
