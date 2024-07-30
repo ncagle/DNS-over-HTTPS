@@ -424,7 +424,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zemows.industries|https://dns.zemows.industries/dns-query|:heavy_check_mark:|Block ads
-|[ZT Browser](https://ztbro.com)|https://doh.ztbro.com/dns-query|:heavy_check_mark:|
 |[zxilly](https://learningman.top) |https://dns.learningman.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
