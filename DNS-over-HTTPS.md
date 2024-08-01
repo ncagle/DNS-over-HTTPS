@@ -16,6 +16,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |adfiltro.fun|https://adfiltro.fun/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream. Also support DoT & DoQ
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking. Also support DoT & DoQ
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3. Also support DoT & DoQ | 
+|aeiou.pp.ua|https://dns.aeiou.pp.ua/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |aerodrorne|https://aerodrorne.vip/dns-query|:heavy_check_mark:|
 |affcdn.net|https://affcdn.net/dns-query|:heavy_check_mark:|
 |affsoft.cc|https://affsoft.cc/dns-query|:heavy_check_mark:|
@@ -171,6 +172,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |gloom.nexus|https://agh.gloom.nexus/dns-query|:heavy_check_mark:|Block ads
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering, support DoT
 |[Gorgeous](https://so-gorgeo.us.kg/)|https://nana-is.so-gorgeo.us.kg/dns-query<br>https://tetty-is.so-gorgeo.us.kg/dns-query<br>https://luna-is.so-gorgeo.us.kg/dns-query|:heavy_check_mark:| Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
+|gosami.xyz|https://performance.gosami.xyz/dns-query|:heavy_check_mark:|Block ads
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 | **H**
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
@@ -241,6 +243,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lothuscorp.com.br|https://dns1.lothuscorp.com.br/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |lukscasino|https://lukscasino-929-tr.xyz/dns-query<br>https://lukscasino-479-tr.xyz/dns-query<br>https://lukscasino-542-tr.xyz/dns-query |:heavy_check_mark:|
 | **M**
+|magunyan.com|https://doh.magunyan.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |maherhost.uk|https://maherhost.uk/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | OpenNIC, support DoT
@@ -288,6 +291,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads, support DoT
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering, support DoT
+|omkv.in|https://adgdh.omkv.in/dns-query|:heavy_check_mark:|Block ads, use ControlD upstream and AdGuard browsing security web service
 |[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Sandefjord, Norway: https://ns4.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
 |ourvau.lt|https://dns.ourvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
@@ -302,6 +306,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
 |[plan9-dns](https://github.com/jlongua/plan9-dns)|New Jersey: https://kronos.plan9-dns.com/dns-query<br>Mexico: https://helios.plan9-dns.com/dns-query<br>Florida: https://pluton.plan9-dns.com/dns-query|:heavy_check_mark:|
 |[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+|poly-tank.jp|https://vps.poly-tank.jp/dns-query|:heavy_check_mark:|Block ads
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |princex.net|https://dns.princex.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
@@ -338,6 +343,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |sc-lezhi.com|https://ns1.sc-lezhi.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |scott-smith.us|https://dns.scott-smith.us/dns-query|:heavy_check_mark:| Support DoT
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|server.my.id|https://dns1.server.my.id/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC, support DoT
 |[Shaft Inc](https://www.shaftinc.fr/dns-shaftinc.html)|https://dns.shaftinc.fr/|:heavy_check_mark:| Support DoT
 |shareworx.net|https://dns.shareworx.net/dns-query|:heavy_check_mark:| Support DoT
@@ -353,6 +359,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland, use Cloudflare upstream, support DoT
 |[Sparsh Bajaj](https://sparshbajaj.me)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
+|[Speed-Demon](https://speeddemon.co.za)|https://adguard.speeddemon.co.za/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security and parental control web service, also support DoT & DoQ
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:| Support DoT
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |stirringphoto.com|https://dns.stirringphoto.com/dns-query|:heavy_check_mark:| Support DoT
@@ -415,7 +422,9 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yingroad.top|https://dns.yingroad.top/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |yovbak.com|https://yovbak.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
+|yrrev.com|https://dns.yrrev.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |yumenashyi.com|https://dns.yumenashyi.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|yuvelirtut.website|https://yuvelirtut.website/dns-query|:heavy_check_mark:|Block ads, use ControlD upstream, support DoT & DoQ
 | **Z**
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
@@ -434,6 +443,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[4NetGuides](https://4netguides.org)|https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|Support DoT & DoQ
+|89433332.xyz|https://89433332.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |978159.xyz|https://doh.978159.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
 | **Others**
@@ -442,7 +452,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 
 
 *: Tested via `curl --doh-url <RESOLVER_URI> http://google.com`.
-<br>**: Cloudflare upstream means Cloudflare can see the queries' content and the DoH's IP, but usually not the client's IP unless the DoH server forwards it.<br>False positives or negatives from Cloudflare filtering can be reported through [Cloudflare Radar](https://radar.cloudflare.com/).<br>AdGuard's web service receives [hash prefixes](https://adguard.com/kb/general/browsing-security/#in-apps) of the requested domain.<br>[DoT](https://en.wikipedia.org/wiki/DNS_over_TLS) is the primary protocol for Android's [Private DNS](https://developers.google.com/speed/public-dns/docs/using#android_9_pie_or_higher).<br>[DoQ](https://datatracker.ietf.org/doc/html/rfc9250) send raw DNS query through QUIC stream, skipping HTTP overhead of DoH3
+<br>**: Cloudflare/ControlD upstream means Cloudflare/ControlD can see the queries' content and the DoH's IP, but usually not the client's IP unless the DoH server forwards it.<br>False positives or negatives from Cloudflare filtering can be reported through [Cloudflare Radar](https://radar.cloudflare.com/).<br>AdGuard's web service receives [hash prefixes](https://adguard.com/kb/general/browsing-security/#in-apps) of the requested domain.<br>[DoT](https://en.wikipedia.org/wiki/DNS_over_TLS) is the primary protocol for Android's [Private DNS](https://developers.google.com/speed/public-dns/docs/using#android_9_pie_or_higher).<br>[DoQ](https://datatracker.ietf.org/doc/html/rfc9250) send raw DNS query through QUIC stream, skipping HTTP overhead of DoH3
 
 Download a recent snapshot of the above list as JSON from [here](https://github.com/cslev/encrypted_dns_resolvers).
 
