@@ -97,7 +97,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
-|delegated-ipfs.dev|https://delegated-ipfs.dev/dns-query|:heavy_check_mark:| Also resolves ENS domain, use Cloudflare upstream
 |[denypradana.com](https://doh.denypradana.com)|https://doh.denypradana.com/dns-query|:heavy_check_mark:|
 |[derailer](https://olpploiopkuyhiopsfrt.info) |https://dns.olpploiopkuyhiopsfrt.info/dns-query|:heavy_check_mark:|
 |dev-umbrellagov|https://dns.dev-umbrellagov.com/dns-query| :heavy_check_mark: | Support DoT
@@ -244,7 +243,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lukscasino|https://lukscasino-929-tr.xyz/dns-query<br>https://lukscasino-479-tr.xyz/dns-query<br>https://lukscasino-542-tr.xyz/dns-query |:heavy_check_mark:|
 | **M**
 |magunyan.com|https://doh.magunyan.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|maherhost.uk|https://maherhost.uk/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | OpenNIC, support DoT
 |mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
