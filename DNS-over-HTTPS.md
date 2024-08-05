@@ -418,7 +418,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |yovbak.com|https://yovbak.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |yrrev.com|https://dns.yrrev.com/dns-query|:heavy_check_mark:|Block ads, support DoT
-|yumenashyi.com|https://dns.yumenashyi.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |yuvelirtut.website|https://yuvelirtut.website/dns-query|:heavy_check_mark:|Block ads, use ControlD upstream, support DoT & DoQ
 | **Z**
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
