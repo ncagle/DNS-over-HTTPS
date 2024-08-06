@@ -233,6 +233,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Levonet](https://www.levonet.sk/)|https://dns.levonet.sk/dns-query|:heavy_check_mark:| Support DoT
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC, support DoT
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
+|linkdiscord.xyz|https://linkdiscord.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |[Liquid Intelligent Technologies](https://liquid.tech/)|https://africadns1.liquidtelecom.net/dns-query<br>https://africadns2.liquidtelecom.net/dns-query|:heavy_check_mark:|
 |[Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/)|https://dns.lista.my.id/dns-query|:heavy_check_mark:|Block ads
 |loadlow.me|https://loadlow.me/dns-query|:heavy_check_mark:|
@@ -352,6 +353,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland, use Cloudflare upstream, support DoT
 |[Sparsh Bajaj](https://sparshbajaj.me)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
 |[Speed-Demon](https://speeddemon.co.za)|https://adguard.speeddemon.co.za/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security and parental control web service, also support DoT & DoQ
+|squidmall.vip|https://squidmall.vip/dns-query|:heavy_check_mark:|
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:| Support DoT
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |stirringphoto.com|https://dns.stirringphoto.com/dns-query|:heavy_check_mark:| Support DoT
@@ -365,6 +367,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
 |[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: |Use Cloudflare upstream
+|s0ra.asia|https://dns.s0ra.asia/dns-query|:heavy_check_mark:|Block ads, also support DoT & DoQ
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
