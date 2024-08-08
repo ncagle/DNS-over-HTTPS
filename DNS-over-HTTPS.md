@@ -351,7 +351,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
 |[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland, use Cloudflare upstream, support DoT
 |[Sparsh Bajaj](https://sparshbajaj.me)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
-|[Speed-Demon](https://speeddemon.co.za)|https://adguard.speeddemon.co.za/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security and parental control web service, also support DoT & DoQ
 |squidmall.vip|https://squidmall.vip/dns-query|:heavy_check_mark:|
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:| Support DoT
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
