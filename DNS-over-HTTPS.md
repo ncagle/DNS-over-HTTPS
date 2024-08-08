@@ -219,12 +219,10 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kidzonet](https://kidzonet.io)|https://doh.kidzonet.io/dns-query|:heavy_check_mark:|
 |[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking, support DoT
-|kooman|https://doh.kooman.org/dns-query|:heavy_check_mark:|Support DoT through `dot.kooman.org`
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |korzhyk.pp.ua|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
-|kugoapps|https://dns.kugoapps.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC, support DoT
 |kyusang.win|https://agh.kyusang.win/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service, support DoT
 | **L**
