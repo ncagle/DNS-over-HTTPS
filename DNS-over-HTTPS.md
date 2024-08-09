@@ -94,7 +94,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator, support DoT
 | **D**
-|[Dahi](https://dahi.icu/dns/)|https://get-resolution-ok-cdn.dahi.icu/dns-query|:heavy_check_mark:|
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
@@ -364,7 +363,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
 |[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
 | [Syshero](https://syshero.org/) | https://doh.syshero.org/dns-query | :heavy_check_mark: |Use Cloudflare upstream
-|s0ra.asia|https://dns.s0ra.asia/dns-query|:heavy_check_mark:|Block ads, also support DoT & DoQ
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
