@@ -300,6 +300,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |princex.net|https://dns.princex.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Germany: https://de.dns.privex.io<br>Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
+|propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
 |psociety.de|https://dns.psociety.de/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT & DoQ
