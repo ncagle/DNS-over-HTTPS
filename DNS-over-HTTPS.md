@@ -129,6 +129,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |easez.net|https://adguard.easez.net/dns-query|:heavy_check_mark:|Block ads
 |[EasyMosdns](https://doh.apad.pro/)|https://doh.apad.pro/dns-query|:heavy_check_mark:|
 |[EDDI](https://eddi.net)|https://doh.eddi.net/dns-query|:heavy_check_mark:|Block ads, also support DoT through `dot.eddi.net`
+|[Edgeburn Media](https://edgeburnmedia.com)|https://dns.edgeburnmedia.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |edison42.dev|https://dns.edison42.dev/dns-query|:heavy_check_mark:|Block ads, support DoT
 |editechstudio|https://dns.editechstudio.com/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
@@ -287,6 +288,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ourvau.lt|https://dns.ourvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
+|pangerl.it|https://adguard.pangerl.it/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[PanSzelescik](https://panszelescik.pl)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |pashagame456.com|https://pashagame456.com/dns-query|:heavy_check_mark:|
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
@@ -369,6 +371,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tesem.dog|https://dns.tesem.dog/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
+|timedns.net|https://timedns.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |[Torsten Tributh](https://tributh.net) |https://tributh.net/dns-query|:heavy_check_mark:|
@@ -417,6 +420,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zemows.industries|https://dns.zemows.industries/dns-query|:heavy_check_mark:|Block ads
+|zui.lol|https://dns.zui.lol/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT & DoQ
 |[zxilly](https://learningman.top) |https://dns.learningman.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **0-9**
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
