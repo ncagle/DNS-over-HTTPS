@@ -16,7 +16,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |adfiltro.fun|https://adfiltro.fun/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream. Also support DoT & DoQ
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking. Also support DoT & DoQ
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3. Also support DoT & DoQ | 
-|aeiou.pp.ua|https://dns.aeiou.pp.ua/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
+|aeiou.pp.ua|https://.aeiou.pp.ua/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |aerodrorne|https://aerodrorne.vip/dns-query|:heavy_check_mark:|
 |affcdn.net|https://affcdn.net/dns-query|:heavy_check_mark:|
 |affsoft.cc|https://affsoft.cc/dns-query|:heavy_check_mark:|
@@ -319,7 +319,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation, support DoT
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure) with DoH and DoT option
-|rjls.me|https://dns.rjls.me/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service, support DoT & DoQ
+
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation, support DoT
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 | **S**
