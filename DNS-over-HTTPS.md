@@ -153,7 +153,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Flight Space](https://flightspace.net) |https://dns.flightspace.net/dns-query|:heavy_check_mark:| Support DoT
 |[FLY_MC](https://flymc.cc/2022/03/%E5%A4%8F%E7%A5%88%E4%BA%91%E5%85%AC%E5%85%B1dns-public-dns%E6%9C%8D%E5%8A%A1%E6%9B%B4%E6%96%B0%E4%B8%8A%E7%BA%BF/)|https://dns.flymc.cc/dns-query<br>https://dns.pari.network/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Foundation for Applied Privacy](https://applied-privacy.net/services/dns/) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198, DoT
-| [Froth.zone](https://dns.froth.zone/resolver) | https://dns.froth.zone/dns-query | :heavy_check_mark: | OpenNIC, support DoT & DoQ
 |frutuozo.com.br|https://adguard.frutuozo.com.br/dns-query|:heavy_check_mark:|Block ads
 |fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |funil.de|https://doh.funil.de/dns-query|:heavy_check_mark:| Support DoT
