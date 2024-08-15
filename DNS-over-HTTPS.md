@@ -29,6 +29,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[André Kelpe](https://kel.pe)|https://doh.kel.pe|:heavy_check_mark:|Block ads, also support DoT
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/)), also support DoT|
 |[Angry.im](https://angry.im)|https://doh.angry.im/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, OpenNIC
+|anon.no|https://dns.anon.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, also support DoT & DoQ
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream and AdGuard browsing security web service, also support DoT
 |[Apollinaria](https://hypercute.eu/)|https://dns.hypercute.eu/dns-query| :heavy_check_mark: |Use Cloudflare upstream, also support DoT
 |applewebkit.dev|https://dns.applewebkit.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, also support DoT
