@@ -151,6 +151,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |editechstudio|https://dns.editechstudio.com/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
 |elbschloss.xyz|https://hole.elbschloss.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
+|[Elemental Software](https://elemental.software)|https://dns.elemental.software/dns-query|:heavy_check_mark:|Support DoT
 |eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[ELIV DNS](https://dns.eliv.kr)|https://dns.eliv.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, Fast Cloudflare (priority IP) connection, support DoT
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
