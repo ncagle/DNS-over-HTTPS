@@ -36,9 +36,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ARKBO Technologies](https://arkbotech.com)|https://dns.arkbotech.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[arnor.org](https://arnor.org)|https://nsec.arnor.org/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany, also support DoT
+|ashleyjackson.net|https://dns.ashleyjackson.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking, also support DoT
 |att.net|https://dohtrial.att.net|:heavy_check_mark:|Also support DoT
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service. Also support DoT & DoQ
+|[Axel Leroy](https://axeleroy.com)|https://dns.axeleroy.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |a47.me|https://dns.a47.me/dns-query|:heavy_check_mark:|
 | **B**
 |bahopir188.dnshome.de|https://bahopir188.dnshome.de/dns-query|:heavy_check_mark:|Block ads, also support DoT
@@ -58,24 +60,30 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Blue Mountain](https://linngde.com)|https://doh.linngde.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |[Blue Shield Umbrella](https://blue-shield.at)|https://rfree1.blue-shield.at/dns-query<br>https://rfree2.blue-shield.at/dns-query|:heavy_check_mark:|Also support DoT
 |bonis.de|https://adguard.bonis.de/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, also support DoT
+|[Braene](https://braene.com)|https://dns.braene.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet • Also support DoT
 |[Bravoc.one](https://bravoc.one/en/)|https://dns.bravoc.one/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service
+|brembeck.cloud|https://dns.brembeck.cloud/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security and parental control web service
 |[BT](https://bt.com)|https://doh.bt.com|:heavy_check_mark:|
 |bugz.fr|https://stratus.bugz.fr/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service, also support DoT & DoQ
 |[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query|:heavy_check_mark:|
+|[Burgas](https://burgas.pro/#dns)|https://dns.burgas.pro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering, support DoT
 |[busold.ws](https://busold.ws)|https://dns.busold.ws/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |b612.me|https://dns.b612.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream, also support DoT
 | **C**
 |[Canarypwn](https://aaaab3n.moe/networks) | https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | Use Cloudflare upstream
 |[Carestyle](https://console.carestyle.org)|https://console.carestyle.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
+|caspervk.net|https://dns.caspervk.net/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[CCTLD.KG](https://dns.cctld.kg/doc/doh-chrome.html)|https://dns.cctld.kg/dns-query|:heavy_check_mark:|
 |[CERT Estonia](https://www.ria.ee/en/news/application-developed-cert-ee-protects-against-phishing-and-malware)|https://dns.cert.ee/dns-query|:heavy_check_mark:|Block phishing, malware, porn & gambling, support DoT
 |cfdjb.org|https://cfdjb.org/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security and parental control web service
 |[Charter](https://corporate.charter.com/)|https://doh-01.spectrum.com/dns-query<br>https://doh-02.spectrum.com/dns-query|:heavy_check_mark:|
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking, support DoT
+|chmc.ml|https://dns.chmc.ml/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[chrisdooks](https://dooks.uk)|https://dns.dooks.uk/dns-query|:heavy_check_mark:|Block ads
 |[Christer Warén](https://christerwaren.fi) |https://dns.christerwaren.fi|:heavy_check_mark:| Support DoT
+|[Christian.moe](https://christian.moe)|https://dns.christian.moe/dns-query|:heavy_check_mark:|Block ads, support DoT
 |chriswservers.com|https://dns.chriswservers.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare and ControlD upstream
 |cicitt.ch|https://c.cicitt.ch/dns-query|:heavy_check_mark:|Block ads, support DoT
 |cippapp.com|https://doh.cippapp.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
