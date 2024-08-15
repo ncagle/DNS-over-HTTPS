@@ -357,6 +357,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Sundalandia](https://sundalandia.pp.ua) | Adblock https://sundalandia.pp.ua/dns-query <br> Family filter https://sundalandia.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:| Support DoT
 |sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT
+|[Sunoaki Network](https://sunoaki.net)|https://doh.sunoaki.net/dns-query|:heavy_check_mark:|
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
 |[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
@@ -386,6 +387,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|Support DoT
 |[Vault 81](https://vault81.de)|https://dns.vault81.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+|vip-kingstore.xyz|https://dns.vip-kingstore.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT & DoQ
 |[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
 |vorlif.org|https://vorlif.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
