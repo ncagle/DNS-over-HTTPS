@@ -100,6 +100,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Cooluc's DNS](https://dns.cooluc.com)|Non-filtering: https://dns.cooluc.com/dns-query<br>Adblocking: https://dns.cooluc.com/dns-query-ad|:heavy_check_mark:|
 |criena.net|https://dns.criena.net/dns-query|:heavy_check_mark:|
 |csa-rz.de|https://dns.csa-rz.de/dns-query|:heavy_check_mark:| Support DoT
+|[CSS Working Group](https://csswg.org)|https://dns.csswg.org/dns-query|:heavy_check_mark:|Support DoT
 |[CubeDNS](https://cubedns.com/)|https://cubedns.com/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator, support DoT
