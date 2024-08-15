@@ -99,6 +99,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |cornes.me|https://doh.cornes.me/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.cornes.me`
 |[Cooluc's DNS](https://dns.cooluc.com)|Non-filtering: https://dns.cooluc.com/dns-query<br>Adblocking: https://dns.cooluc.com/dns-query-ad|:heavy_check_mark:|
 |criena.net|https://dns.criena.net/dns-query|:heavy_check_mark:|
+|[Crystalyx](https://crystalyx.net)|https://dns.crystalyx.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, also support DoT & DoQ
 |csa-rz.de|https://dns.csa-rz.de/dns-query|:heavy_check_mark:| Support DoT
 |[CSS Working Group](https://csswg.org)|https://dns.csswg.org/dns-query|:heavy_check_mark:|Support DoT
 |[CubeDNS](https://cubedns.com/)|https://cubedns.com/dns-query|:heavy_check_mark:| Support DoT & DoQ
