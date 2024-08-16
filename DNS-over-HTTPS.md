@@ -325,6 +325,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |Support DoT through `dot.niyawe.de`
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
+|nodoa.me|https://dns.nodoa.me/dns-query|:heavy_check_mark:|Support DoT
 |[nonexiste.net](https://nonexiste.net)|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: | Support DoT
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://1.dns.noridev.moe/dns-query<br>https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
@@ -377,12 +378,14 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation, support DoT
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure) with DoH and DoT option
+|rin.sh|https://dns.rin.sh/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation, support DoT
 |roedel.cloud|https://dns.roedel.cloud/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|[rslvr.eu](https://rslvr.eu)|https://dns.rslvr.eu/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Ruby.ci](https://ruby.ci/)|https://adguard.ruby.ci/dns-query|:heavy_check_mark:|Adblocking
 | **S**
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap, support DoT
-|sarak.as|https://dns.sarak.as/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT
+|sarak.as|https://dns.sarak.as/dns-query<br>https://dns.sarakas.net/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |sec511.com|https://dns.sec511.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
@@ -423,6 +426,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
+|terumi.club|https://dns.soldier.terumi.club/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |tesem.dog|https://dns.tesem.dog/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
@@ -460,6 +464,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **X**
 |[XiuMu](https://xiumu.org/note/dns.shtml)|https://dns.xiumu.org|:heavy_check_mark:|Use Cloudflare upstream with malware filtering
 |xlion.tw|https://dns.xlion.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
+|[Xstl DNS](https://get.dns.seia.io/)|SK Broadband: https://dns.seia.io/dns-query<br>Oracle Cloud: https://secondary.dns.seia.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT, hosted in South Korea
 |xuming.studio|https://dns.xuming.studio/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 |xusqui.com|https://dns.xusqui.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **Y**
