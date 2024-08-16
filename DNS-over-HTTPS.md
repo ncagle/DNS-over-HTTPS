@@ -287,6 +287,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MC Host](https://mchost.no)|https://doh.serverhost.no/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware filtering
 |[Md Abdul Hakim](https://hakim.one)|https://dns.hakim.one/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware and family filtering, AdGuard browsing security web service, support DoT
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking, support DoT
+|[melvin2204.nl](https://melvin2204.nl|https://dns.melvin2204.nl/dns-query|:heavy_check_mark:|Block ads, support DoT
 |mendozasdelivery.com|https://mendozasdelivery.com/dns-query|:heavy_check_mark:|
 |[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
