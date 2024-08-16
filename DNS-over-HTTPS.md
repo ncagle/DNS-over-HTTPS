@@ -40,7 +40,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking, also support DoT
 |att.net|https://dohtrial.att.net|:heavy_check_mark:|Also support DoT
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service. Also support DoT & DoQ
-|[Axel Leroy](https://axeleroy.com)|https://dns.axeleroy.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |a47.me|https://dns.a47.me/dns-query|:heavy_check_mark:|
 | **B**
 |bahopir188.dnshome.de|https://bahopir188.dnshome.de/dns-query|:heavy_check_mark:|Block ads, also support DoT
