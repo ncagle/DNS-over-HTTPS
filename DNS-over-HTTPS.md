@@ -512,11 +512,13 @@ Download a recent snapshot of the above list as JSON from [here](https://github.
 
 |Name|Author/Organization|Comments|
 |----|-------|----|
+|[AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)|AdGuard|Network-wide ads & trackers blocking DNS server that can call and provide DoT, DoH & DoQ service
 |[bulldohzer](https://github.com/commonshost/bulldohzer) | Commonshost | Benchmark DoH and Do53 servers
 |[coredns](https://github.com/coredns/coredns)|Cloudflare| CoreDNS is a DNS server/forwarder, written in Go from the Cloud Native Computing Foundation. |
 |[dealdoh](https://github.com/noglitchyo/dealdoh)|Maxime Elomari| a middleware to proxy DoH requests to different DNS upstreams, written in PHP.|
 |[dns-over-https](https://github.com/m13253/dns-over-https)|Star Brilliant| server-side and client-side implementation, written in Golang|
 |[dns2doh](https://github.com/bagder/dns2doh)|Daniel| tool for generating DOH responses and questions.|
+|[dnsproxy](https://github.com/AdguardTeam/dnsproxy)|AdGuard|A simple DNS proxy server written in Go that can forward and serve DoT, DoH & DoQ.
 |[dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)|Frank Denis|dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.|
 |[dnsdist](https://dnsdist.org/)|PowerDNS|supports doh, see <https://dnsdist.org/guides/dns-over-https.html>|
 |[dnss](https://github.com/albertito/dnss)|Alberto Bertogli|daemon written in Go which acts as a proxy (the most common use case), and as a server (in case you want end-to-end control).|
