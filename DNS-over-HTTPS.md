@@ -175,8 +175,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Flight Space](https://flightspace.net) |https://dns.flightspace.net/dns-query|:heavy_check_mark:| Support DoT
 |[FLY_MC](https://flymc.cc/2022/03/%E5%A4%8F%E7%A5%88%E4%BA%91%E5%85%AC%E5%85%B1dns-public-dns%E6%9C%8D%E5%8A%A1%E6%9B%B4%E6%96%B0%E4%B8%8A%E7%BA%BF/)|https://dns.flymc.cc/dns-query<br>https://dns.pari.network/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Foundation for Applied Privacy](https://applied-privacy.net/services/dns/) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198, DoT
-|francoisallard.net|https://dns.francoisallard.net/dns-query|:heavy_check_mark:|Block ads
 |[Freifunk Nordwest](https://ffnw.de)|https://dns.ffnw.de/dns-query|:heavy_check_mark:|Support DoT
+|freopc.fr|https://dns.freopc.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Froth.zone](https://dns.froth.zone/resolver/)|https://dns.froth.zone/dns-query|:heavy_check_mark:|OpenNIC, support DoT & DoQ
 |frutuozo.com.br|https://adguard.frutuozo.com.br/dns-query|:heavy_check_mark:|Block ads
 |fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:| Support DoT & DoQ
@@ -201,6 +201,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |hartley.cloud|https://adguard.hartley.cloud/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
+|[Hostux](https://dns.hostux.net/en/)|https://dns.hostux.net/dns-query<br>https://dns.hostux.net/ads|:heavy_check_mark:|Support DoT
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | Support DoT
 |[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0)|https://ordns.he.net|:heavy_check_mark:| Support DoT & DoQ
@@ -254,7 +255,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Liberador.net](https://liberador.net)|https://dns.liberador.net|:heavy_check_mark:|Support DoT
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC, support DoT
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
-|linkdiscord.xyz|https://linkdiscord.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |[Liquid Intelligent Technologies](https://liquid.tech/)|https://africadns1.liquidtelecom.net/dns-query<br>https://africadns2.liquidtelecom.net/dns-query|:heavy_check_mark:|
 |[Lista](https://lista.my.id/dns-lista-sudah-online-untuk-publik/)|https://dns.lista.my.id/dns-query|:heavy_check_mark:|Block ads
 |listo.click|https://dns.listo.click/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering, support DoT & DoQ
@@ -434,7 +434,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging, support DoT
 |[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
-|yingroad.top|https://dns.yingroad.top/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |yovbak.com|https://yovbak.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |yrrev.com|https://dns.yrrev.com/dns-query|:heavy_check_mark:|Block ads, support DoT
