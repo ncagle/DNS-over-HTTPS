@@ -13,7 +13,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **A**
 |[Absolight](https://www.absolight.fr/)|https://resolver1.absolight.net/dns-query<br>https://resolver2.absolight.net/dns-query<br>https://resolver3.absolight.net/dns-query|:heavy_check_mark:|Also support DoT
 |[AdFilter](https://adfilter.net/)|Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query<br>Adelaide: https://adl.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days. Also support DoT
-|adfiltro.fun|https://adfiltro.fun/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream. Also support DoT & DoQ
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking. Also support DoT & DoQ
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3. Also support DoT & DoQ | 
 |aeiou.pp.ua|https://dns.aeiou.pp.ua/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
@@ -81,7 +80,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |chilimac.net|https://dns.chilimac.net/dns-query|:heavy_check_mark:|Block ads, support DoT
 |chmc.ml|https://dns.chmc.ml/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
-|[chrisdooks](https://dooks.uk)|https://dns.dooks.uk/dns-query|:heavy_check_mark:|Block ads
 |[Christer Warén](https://christerwaren.fi) |https://dns.christerwaren.fi|:heavy_check_mark:| Support DoT
 |[Christian](https://christian.moe)|https://dns.christian.moe/dns-query<br>https://dns.imchristian.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |chriswservers.com|https://dns.chriswservers.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare and ControlD upstream
@@ -388,7 +386,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |sec511.com|https://dns.sec511.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
-|scarx.net|https://dns.scarx.net/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
 |scott-smith.us|https://dns.scott-smith.us/dns-query|:heavy_check_mark:| Support DoT
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |server.my.id|https://dns1.server.my.id/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
@@ -426,7 +423,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
 |terumi.club|https://dns.soldier.terumi.club/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
-|tesem.dog|https://dns.tesem.dog/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
 |timedns.net|https://timedns.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
@@ -446,7 +442,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|Support DoT
 |[Vault 81](https://vault81.de)|https://dns.vault81.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|[Velyn DNS](https://dns.velyn.my.id)|https://dns.velyn.my.id/query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |vip-kingstore.xyz|https://dns.vip-kingstore.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT & DoQ
 |[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
@@ -474,7 +469,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yuvelirtut.website|https://yuvelirtut.website/dns-query|:heavy_check_mark:|Block ads, use ControlD upstream, support DoT & DoQ
 | **Z**
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
-|zburger.top|https://www.zburger.top/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zemows.industries|https://dns.zemows.industries/dns-query|:heavy_check_mark:|Block ads
 |zui.lol|https://dns.zui.lol/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT & DoQ
