@@ -74,7 +74,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |caspervk.net|https://dns.caspervk.net/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[CCTLD.KG](https://dns.cctld.kg/doc/doh-chrome.html)|https://dns.cctld.kg/dns-query|:heavy_check_mark:|
 |[CERT Estonia](https://www.ria.ee/en/news/application-developed-cert-ee-protects-against-phishing-and-malware)|https://dns.cert.ee/dns-query|:heavy_check_mark:|Block phishing, malware, porn & gambling, support DoT
-|cfdjb.org|https://cfdjb.org/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security and parental control web service
 |[Charter](https://corporate.charter.com/)|https://doh-01.spectrum.com/dns-query<br>https://doh-02.spectrum.com/dns-query|:heavy_check_mark:|
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |chilimac.net|https://dns.chilimac.net/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -156,7 +155,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ELIV DNS](https://dns.eliv.kr)|https://dns.eliv.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, Fast Cloudflare (priority IP) connection, support DoT
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
 |engineer.web.id|https://dns.engineer.web.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
-|[Etath SkyDragoness](https://skydragoness.com)|https://skydragoness.com/dns-query|:heavy_check_mark:|
 |[EthLink](https://eth.link)|https://eth.link/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |excdn.eu.org|https://doh.excdn.eu.org|:heavy_check_mark:|Use Cloudflare upstream 
 | **F**
