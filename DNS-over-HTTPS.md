@@ -110,7 +110,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |datenquark.de|https://dns.datenquark.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |deep-henchman-excuse.cfd|https://deep-henchman-excuse.cfd/dns-query|:heavy_check_mark:|
 |[denypradana.com](https://doh.denypradana.com)|https://doh.denypradana.com/dns-query|:heavy_check_mark:|
-
 |dev-umbrellagov|https://dns.dev-umbrellagov.com/dns-query| :heavy_check_mark: | Support DoT
 |diarbagus.id|https://dns.diarbagus.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Dict Xiong](https://beardic.cn) |https://dns.beardic.cn/dns-query|:heavy_check_mark:|
