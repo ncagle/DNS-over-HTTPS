@@ -281,7 +281,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **M**
 |maitrekuc.fr|https://dns.maitrekuc.fr/dns-query|:heavy_check_mark:|Block ads, support DoT
 |marasov.id|https://dns.marasov.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|[Marbled Fennec Networks](https://www.marbledfennec.net/public-dns-server/)|https://dns.marbledfennec.net/dns-query|:heavy_check_mark:|OpenNIC, support DoT
+|[Marbled Fennec Networks / FurrIX](https://www.marbledfennec.net/public-dns-server/)|https://multi.dns.marbledfennec.net/dns-query|:heavy_check_mark:|OpenNIC compatible, support for DoT and DoH, Small community project providing two name servers, IPv4/IPv6
 |[Marco Fox](https://technologycage.com)|https://dns.technologycage.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | OpenNIC, support DoT
