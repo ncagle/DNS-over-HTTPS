@@ -248,7 +248,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[keviland](https://keviland.com) |https://dns.keviland.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |khon.dev|https://adg.khon.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Kidzonet](https://kidzonet.io)|https://doh.kidzonet.io/dns-query|:heavy_check_mark:|
-|[Kishore](https://avdkishore.dev/)|https://adguard.avdkishore.dev/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |korzhyk.pp.ua|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -290,7 +289,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |[melvin2204.nl](https://melvin2204.nl)|https://dns.melvin2204.nl/dns-query|:heavy_check_mark:|Block ads, support DoT
 |mendozasdelivery.com|https://mendozasdelivery.com/dns-query|:heavy_check_mark:|
-|[MERCURY](https://mtsoln.com/)|https://ns.mtsoln.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |[Meta Dallin](https://dallinbryce.com)|https://dns.dallinbryce.com/dns-query|:heavy_check_mark:|
 |mh4ckt3mh4ckt1c4s.xyz|https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
