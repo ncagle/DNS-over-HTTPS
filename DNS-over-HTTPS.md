@@ -16,7 +16,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking. Also support DoT & DoQ
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3. Also support DoT & DoQ | 
 |aeiou.pp.ua|https://dns.aeiou.pp.ua/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
-|affcdn.net|https://affcdn.net/dns-query|:heavy_check_mark:|
+|affcdn.net|https://affcdnnet/dns-query|:heavy_check_mark:|
 |affsoft.cc|https://affsoft.cc/dns-query|:heavy_check_mark:|
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
 | [AhaDNS](https://ahadns.com) | Netherland:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Also support DoT through `dot.nl.ahadns.net`. Deprecated in favor of AhaDNS Blitz |
@@ -473,7 +473,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging, support DoT
 |[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
-|yovbak.com|https://yovbak.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |yu.dev|https://dns.yu.dev/dns-query|:heavy_check_mark:|Block ads
 |yuvelirtut.website|https://yuvelirtut.website/dns-query|:heavy_check_mark:|Block ads, use ControlD upstream, support DoT & DoQ
 | **Z**
