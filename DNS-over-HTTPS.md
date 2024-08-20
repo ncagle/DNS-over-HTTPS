@@ -392,7 +392,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
 |scott-smith.us|https://dns.scott-smith.us/dns-query|:heavy_check_mark:| Support DoT
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|server.my.id|https://dns1.server.my.id/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC, support DoT
 |shareworx.net|https://dns.shareworx.net/dns-query|:heavy_check_mark:| Support DoT
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking, use Cloudflare upstream with malware and family filtering, support DoT
@@ -475,13 +474,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |yu.dev|https://dns.yu.dev/dns-query|:heavy_check_mark:|Block ads
-|yuvelirtut.website|https://yuvelirtut.website/dns-query|:heavy_check_mark:|Block ads, use ControlD upstream, support DoT & DoQ
 | **Z**
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zemows.industries|https://dns.zemows.industries/dns-query|:heavy_check_mark:|Block ads
 |zknt.org|https://doh.zknt.org/dns-query|:heavy_check_mark:|Support DoT
-|zui.lol|https://dns.zui.lol/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT & DoQ
 |[zxilly](https://learningman.top) |https://dns.learningman.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **0-9**
 |[0ms](https://0ms.dev)|Unfiltered: https://0ms.dev/dns-query<br>Adblock: https://0ms.dev/dns-adblock|:heavy_check_mark:|Use Cloudflare upstream
