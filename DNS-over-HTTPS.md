@@ -13,6 +13,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **A**
 |[Absolight](https://www.absolight.fr/)|https://resolver1.absolight.net/dns-query<br>https://resolver2.absolight.net/dns-query<br>https://resolver3.absolight.net/dns-query|:heavy_check_mark:|Also support DoT
 |[AdFilter](https://adfilter.net/)|Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query<br>Adelaide: https://adl.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days. Also support DoT
+|adblockersite.com|https://adblockersite.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking. Also support DoT & DoQ
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3. Also support DoT & DoQ | 
 |aeiou.pp.ua|https://dns.aeiou.pp.ua/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
