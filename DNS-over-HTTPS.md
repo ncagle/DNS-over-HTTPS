@@ -78,7 +78,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Charter](https://corporate.charter.com/)|https://doh-01.spectrum.com/dns-query<br>https://doh-02.spectrum.com/dns-query|:heavy_check_mark:|
 |[chenu.ch](https://chenu.ch/)|https://dns.chenu.ch/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |chilimac.net|https://dns.chilimac.net/dns-query|:heavy_check_mark:|Block ads, support DoT
-|chmc.ml|https://dns.chmc.ml/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Christer Warén](https://christerwaren.fi) |https://dns.christerwaren.fi|:heavy_check_mark:| Support DoT
 |[Christian](https://christian.moe)|https://dns.christian.moe/dns-query<br>https://dns.imchristian.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |chriswservers.com|https://dns.chriswservers.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare and ControlD upstream
@@ -178,7 +177,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |freopc.fr|https://dns.freopc.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Froth.zone](https://dns.froth.zone/resolver/)|https://dns.froth.zone/dns-query|:heavy_check_mark:|OpenNIC, support DoT & DoQ
 |frutuozo.com.br|https://adguard.frutuozo.com.br/dns-query|:heavy_check_mark:|Block ads
-|fullaccesstointernet.jp.eu.org|https://dns.fullaccesstointernet.jp.eu.org/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |funil.de|https://doh.funil.de/dns-query|:heavy_check_mark:| Support DoT
 |[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query<br>https://doh.futa.app/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.futa.gg` and `dot.futa.app`
 |f4a.fun|https://dns.f4a.fun/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT 
@@ -203,7 +201,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |hartley.cloud|https://adguard.hartley.cloud/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |hellozhao.com|https://dns.hellozhao.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, support DoT
 |hfgx.shop|https://hfgx.shop/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
-|[HiNet](https://hinet.net)|https://dns.hinet.net/dns-query|:heavy_check_mark:|
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 |[Hostux](https://dns.hostux.net/en/)|https://dns.hostux.net/dns-query<br>https://dns.hostux.net/ads|:heavy_check_mark:|Support DoT
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
@@ -360,7 +357,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |princex.net|https://dns.princex.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Germany: https://de.dns.privex.io<br>Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
-|psociety.de|https://dns.psociety.de/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
 |puregeni.us|https://dns-privacy.puregeni.us/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT & DoQ
 | **Q**
@@ -382,7 +378,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation, support DoT
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure) with DoH and DoT option
-|rin.sh|https://dns.rin.sh/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation, support DoT
 |roedel.cloud|https://dns.roedel.cloud/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[rslvr.eu](https://rslvr.eu)|https://dns.rslvr.eu/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -440,7 +435,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Torsten Tributh](https://tributh.net) |https://tributh.net/dns-query|:heavy_check_mark:|
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:| Support DoT
-|[truta](https://helio.loureiro.eng.br/index.php/todas-categorias/70-networking/19-apache/463-criando-um-servico-de-relay-de-dns-over-https)|https://truta.org/dns-query|:heavy_check_mark:|
 |tshost.no|https://adg.tshost.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |tuskythehusky.tech|https://tuskythehusky.tech/dns-query|:heavy_check_mark:|
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
