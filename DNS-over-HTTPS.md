@@ -252,6 +252,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kukal.cz|https://dns.kukal.cz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC, support DoT
 |kyusang.win|https://agh.kyusang.win/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service, support DoT
+|kx-97795-tr.xyz|https://kx-97795-tr.xyz/dns-query|:heavy_check_mark:|
 |k3nny.fr|https://dns.k3nny.fr/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
