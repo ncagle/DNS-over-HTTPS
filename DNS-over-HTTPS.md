@@ -312,7 +312,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Net Raptor](https://netraptor.com.au)|https://dns.netraptor.com.au/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[NetVPN](https://netvpn.net) |https://dns.netvpn.net/dns-query|:heavy_check_mark:| Support DoT
 | [NextDNS](https://nextdns.io) | https://dns.nextdns.io | :heavy_check_mark: | The first cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet. 300,000 domain resolution per month is free with non-filtering afterward until the end of the month. Granular dashboard, Each account can create multiple configurations, which can be used for multiple devices with prefixes to track activities on the dashboard. [Create a config ID](https://my.nextdns.io/start), support DoT & DoQ
-|nguyendn.com|https://dns.nguyendn.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |nhtsky|https://dns.nhtsky.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Nick Slowinski](https://nick-slowinski.de)|https://dns.nick-slowinski.de/dns-query|:heavy_check_mark:|Block ads
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry , support DoT
