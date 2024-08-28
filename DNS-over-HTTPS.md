@@ -456,6 +456,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |workfordemo.co.in|https://agh.workfordemo.co.in/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering, support DoT
 |[W3C TAG](https://w3ctag.org)|https://dns.w3ctag.org/dns-query|:heavy_check_mark:|Support DoT
 | **X**
+|xholgm.top|https://xholgm.top/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[XiuMu](https://xiumu.org/note/dns.shtml)|https://dns.xiumu.org|:heavy_check_mark:|Use Cloudflare upstream with malware filtering
 |xlion.tw|https://dns.xlion.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |[Xstl DNS](https://get.dns.seia.io/)|SK Broadband: https://dns.seia.io/dns-query<br>Oracle Cloud: https://secondary.dns.seia.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT, hosted in South Korea
