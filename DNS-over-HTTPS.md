@@ -34,6 +34,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[ARKBO Technologies](https://arkbotech.com)|https://dns.arkbotech.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[arnor.org](https://arnor.org)|https://nsec.arnor.org/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany, also support DoT
+|[Asagiri](https://asagiri.moe)|https://doh.asagiri.moe/dns-query|:heavy_check_mark:|
 |ashleyjackson.net|https://dns.ashleyjackson.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking, also support DoT
 |att.net|https://dohtrial.att.net|:heavy_check_mark:|Also support DoT
