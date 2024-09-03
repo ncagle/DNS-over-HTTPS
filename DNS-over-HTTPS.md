@@ -269,7 +269,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lukscasino|https://lukscasino-929-tr.xyz/dns-query<br>https://lukscasino-479-tr.xyz/dns-query<br>https://lukscasino-542-tr.xyz/dns-query |:heavy_check_mark:|
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **M**
-|maitrekuc.fr|https://dns.maitrekuc.fr/dns-query|:heavy_check_mark:|Block ads, support DoT
 |marasov.id|https://dns.marasov.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Marbled Fennec Networks / FurrIX](https://www.marbledfennec.net/public-dns-server/)|https://multi.dns.marbledfennec.net/dns-query|:heavy_check_mark:|OpenNIC compatible, support for DoT and DoH, Small community project providing two name servers, IPv4/IPv6
 |[Marco Fox](https://technologycage.com)|https://dns.technologycage.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
@@ -400,7 +399,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:| Support DoT
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |stirringphoto.com|https://dns.stirringphoto.com/dns-query|:heavy_check_mark:| Support DoT
-|[StuSta](https://www.stusta.de/en/)|https://muli.stusta.mhn.de/dns-query|:heavy_check_mark:| Support DoT
 |suhaila.dev|https://dns.suhaila.dev/dns-query|:heavy_check_mark:|Block ads
 | [Sundalandia](https://sundalandia.pp.ua) | Adblock https://sundalandia.pp.ua/dns-query <br> Family filter https://sundalandia.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:| Support DoT
@@ -461,7 +459,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **Z**
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
-|zemows.industries|https://dns.zemows.industries/dns-query|:heavy_check_mark:|Block ads
 |zknt.org|https://doh.zknt.org/dns-query|:heavy_check_mark:|Support DoT
 |[zxilly](https://learningman.top) |https://dns.learningman.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 | **0-9**
