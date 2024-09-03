@@ -32,7 +32,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Apollinaria](https://hypercute.eu/)|https://dns.hypercute.eu/dns-query| :heavy_check_mark: |Use Cloudflare upstream, also support DoT
 |applewebkit.dev|https://dns.applewebkit.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, also support DoT
 |[ARKBO Technologies](https://arkbotech.com)|https://dns.arkbotech.com/dns-query|:heavy_check_mark:|Block ads, support DoT
-|[arnor.org](https://arnor.org)|https://nsec.arnor.org/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|[arnor.org](https://arnor.org)|https://nsec.arnor.org/dns-query|:heavy_check_mark:|Block ads, malware, phishing. support DoT, DoQ & DoH3. Only logs filtered URLs. Redirects some URLs for privacy.
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany, also support DoT
 |[Asagiri](https://asagiri.moe)|https://doh.asagiri.moe/dns-query|:heavy_check_mark:|
 |ashleyjackson.net|https://dns.ashleyjackson.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
