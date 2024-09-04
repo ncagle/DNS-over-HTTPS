@@ -279,7 +279,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Max Philipp Wriefdt](https://wriedts.de)|https://home.wriedts.de/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Mayx](https://mayx.eu.org)|https://dns.mayx.eu.org/dns-query|:heavy_check_mark:|
 |[MC Host](https://mchost.no)|https://doh.serverhost.no/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware filtering
-|[Md Abdul Hakim](https://hakim.one)|https://dns.hakim.one/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware and family filtering, AdGuard browsing security web service, support DoT
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |[melvin2204.nl](https://melvin2204.nl)|https://dns.melvin2204.nl/dns-query|:heavy_check_mark:|Block ads, support DoT
 |mendozasdelivery.com|https://mendozasdelivery.com/dns-query|:heavy_check_mark:|
@@ -376,7 +375,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[rslvr.eu](https://rslvr.eu)|https://dns.rslvr.eu/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **S**
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap, support DoT
-|sarak.as|https://dns.sarak.as/dns-query<br>https://dns.sarakas.net/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |sec511.com|https://dns.sec511.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
@@ -395,8 +393,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream, support DoT
 |[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering, support DoT
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
-|[spacedns.org](https://spacedns.org/index.html)| https://spacedns.org/dns-query | :heavy_check_mark: | Adblocking, hosted in Poland, use Cloudflare upstream, support DoT
-|[Sparsh Bajaj](https://sparshbajaj.me)|https://adguard.sparshbajaj.me/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
 |squidmall.vip|https://squidmall.vip/dns-query|:heavy_check_mark:|
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:| Support DoT
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
