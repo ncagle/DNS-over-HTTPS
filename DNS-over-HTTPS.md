@@ -286,6 +286,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mh4ckt3mh4ckt1c4s.xyz|https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Mike Zhang](https://mikezhang.xyz)|https://mikezhang.xyz/dns-query|:heavy_check_mark:|
 |[mikrotikrumahan](https://mikrotikrumahan.my.id/)|https://dns.mikrotikrumahan.my.id/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|miniapp.sh|https://miniapp.sh/dns-query|:heavy_check_mark:|
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |m-it.ro|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
