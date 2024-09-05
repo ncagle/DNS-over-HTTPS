@@ -133,7 +133,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dns9.cfd|https://dns9.cfd/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |doh.beauty|https://doh.beauty|:heavy_check_mark:|
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
-|doh.xyz|https://doh.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:| Support DoT
 |[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
 |[DoTLS](https://dotls.org/)|https://ns1.dotls.org|:heavy_check_mark:|Block ads
@@ -164,6 +163,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |familiamv.net|https://dnsvps.familiamv.net/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT
 | Fancyorg.at | https://dns.fancyorg.at/dns-query |  :heavy_check_mark: | Adblocking
 |farshidhakimy.de|https://dns.farshidhakimy.de/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
+|farewellkou.click|https://farewellkou.click/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service 
 |[FBI NICS E-Check](https://nicsezcheckfbi.gov) |https://nicsezcheckfbi.gov|:heavy_check_mark:| Use Cloudflare upstream with malware filtering 
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, DoT … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/))
 |[Federico Pizzari](https://pizzari.me)|https://dns.pizzari.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
