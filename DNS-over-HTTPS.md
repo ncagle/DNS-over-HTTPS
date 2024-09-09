@@ -178,7 +178,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |freopc.fr|https://dns.freopc.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Froth.zone](https://dns.froth.zone/resolver/)|https://dns.froth.zone/dns-query|:heavy_check_mark:|OpenNIC, support DoT & DoQ
 |frutuozo.com.br|https://adguard.frutuozo.com.br/dns-query|:heavy_check_mark:|Block ads
-|funil.de|https://doh.funil.de/dns-query|:heavy_check_mark:| Support DoT
 |[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query<br>https://doh.futa.app/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.futa.gg` and `dot.futa.app`
 |f4a.fun|https://dns.f4a.fun/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT 
 | **G**
