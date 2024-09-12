@@ -39,7 +39,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |ashleyjackson.net|https://dns.ashleyjackson.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking, also support DoT
 |atris.cyou|https://atris.cyou/dns-query|:heavy_check_mark:|
-|att.net|https://dohtrial.att.net|:heavy_check_mark:|Also support DoT
 |[Avast DNS](https://www.avast.com/dns)|https://secure.avastdns.com/dns-query|:heavy_check_mark:|
 | [Awan.ftp.sh](https://awan.ftp.sh/) | Ads and gambling blocking : https://awan.ftp.sh/dns-query <br> Ads, gambling, drug, tobacco block : https://awan.ftp.sh/no-vice <br> Porn, ads, gambling, drug, tobacco block : https://awan.ftp.sh/noporn-cl <br> Unblocked : https://awan.ftp.sh/unblocked | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Based in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service. Also support DoT & DoQ
 |a47.me|https://dns.a47.me/dns-query|:heavy_check_mark:|
@@ -358,7 +357,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |redhosting.com.ar|https://dns.redhosting.com.ar/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT
 |redvau.lt|https://dns.redvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |reitmeier.me|https://dns.reitmeier.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream , support DoT & DoQ
-|renardyre.com|https://dns.renardyre.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |reckoningslug.name|https://dns.reckoningslug.name/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |[repinger](https://dns.repinger.com)|https://dns.repinger.com/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
 |[repomansd](https://falkenthal.org)|https://dns.falkenthal.org/dns-query|:heavy_check_mark:| Support DoT
