@@ -178,7 +178,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Froth.zone](https://dns.froth.zone/resolver/)|https://dns.froth.zone/dns-query|:heavy_check_mark:|OpenNIC, support DoT & DoQ
 |frutuozo.com.br|https://adguard.frutuozo.com.br/dns-query|:heavy_check_mark:|Block ads
 |[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query<br>https://doh.futa.app/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.futa.gg` and `dot.futa.app`
-|f4a.fun|https://dns.f4a.fun/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT 
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
@@ -243,7 +242,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kidzonet](https://kidzonet.io)|https://doh.kidzonet.io/dns-query|:heavy_check_mark:|
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking, support DoT
-|korzhyk.pp.ua|https://dns.korzhyk.pp.ua/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
 |ko-18948-tr.xyz|https://ko-18948-tr.xyz/dns-query|:heavy_check_mark:|
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
@@ -298,7 +296,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MZJ Technology](https://mzjtechnology.com)|https://dns.mzjtechnology.com/dns-query|:heavy_check_mark:|Support DoT
 | **N**
 |[nako.kr](https://nako.kr)|https://dns.nako.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|nashkan.net|https://ae-fuj-w-p-1.nashkan.net/dns-query<br>https://ae-fuj-w-p-2.nashkan.net/dns-query<br>https://ae-fuj-w-p-3.nashkan.net/dns-query<br>https://at-wie-w-p-1.nashkan.net/dns-query<br>https://au-syd-w-f-1.nashkan.net/dns-query<br>https://de-fra-w-p-1.nashkan.net/dns-query<br>https://de-fsn-w-p-1.nashkan.net/dns-query<br>https://fi-hel-w-f-2.nashkan.net/dns-query<br>https://fr-gra-w-f-1.nashkan.net/dns-query<br>https://fr-gra-w-p-1.nashkan.net/dns-query<br>https://gb-cov-w-f-1.nashkan.net/dns-query<br>https://gb-cov-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-f-1.nashkan.net/dns-query<br>https://gb-lon-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-p-2.nashkan.net/dns-query<br>https://jp-tyo-w-p-1.nashkan.net/dns-query<br>https://kz-pav-w-p-1.nashkan.net/dns-query<br>https://nl-dro-w-f-1.nashkan.net/dns-query<br>https://nl-dro-w-p-1.nashkan.net/dns-query<br>https://ro-buc-w-f-1.nashkan.net/dns-query<br>https://ro-buc-w-p-1.nashkan.net/dns-query<br>https://sg-w-f-1.nashkan.net/dns-query<br>https://sg-w-p-1.nashkan.net/dns-query<br>https://us-chi-w-f-1.nashkan.net/dns-query<br>https://us-chi-w-p-1.nashkan.net/dns-query<br>https://us-hil-w-f-1.nashkan.net/dns-query<br>https://us-hil-w-p-1.nashkan.net/dns-query<br>https://us-jac-w-f-1.nashkan.net/dns-query<br>https://us-jac-w-p-1.nashkan.net/dns-query<br>https://us-kan-w-f-1.nashkan.net/dns-query<br>https://us-kan-w-p-1.nashkan.net/dns-query<br>https://us-nyc-w-f-1.nashkan.net/dns-query<br>https://us-nyc-w-p-1.nashkan.net/dns-query<br>https://us-saj-w-f-1.nashkan.net/dns-query<br>https://us-saj-w-p-1.nashkan.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering
+|nashkan.net|https://ae-fuj-w-p-1.nashkan.net/dns-query<br>https://ae-fuj-w-p-2.nashkan.net/dns-query<br>https://ae-fuj-w-p-3.nashkan.net/dns-query<br>https://at-wie-w-p-1.nashkan.net/dns-query<br>https://au-syd-w-f-1.nashkan.net/dns-query<br>https://de-fra-w-p-1.nashkan.net/dns-query<br>https://de-fsn-w-p-1.nashkan.net/dns-query<br>https://fi-hel-w-f-2.nashkan.net/dns-query<br>https://fr-gra-w-f-1.nashkan.net/dns-query<br>https://fr-gra-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-f-1.nashkan.net/dns-query<br>https://gb-lon-w-p-1.nashkan.net/dns-query<br>https://gb-lon-w-p-2.nashkan.net/dns-query<br>https://jp-tyo-w-p-1.nashkan.net/dns-query<br>https://kz-pav-w-p-1.nashkan.net/dns-query<br>https://nl-dro-w-f-1.nashkan.net/dns-query<br>https://nl-dro-w-p-1.nashkan.net/dns-query<br>https://ro-buc-w-f-1.nashkan.net/dns-query<br>https://ro-buc-w-p-1.nashkan.net/dns-query<br>https://sg-w-f-1.nashkan.net/dns-query<br>https://sg-w-p-1.nashkan.net/dns-query<br>https://us-chi-w-f-1.nashkan.net/dns-query<br>https://us-chi-w-p-1.nashkan.net/dns-query<br>https://us-hil-w-f-1.nashkan.net/dns-query<br>https://us-hil-w-p-1.nashkan.net/dns-query<br>https://us-jac-w-f-1.nashkan.net/dns-query<br>https://us-jac-w-p-1.nashkan.net/dns-query<br>https://us-kan-w-f-1.nashkan.net/dns-query<br>https://us-kan-w-p-1.nashkan.net/dns-query<br>https://us-nyc-w-f-1.nashkan.net/dns-query<br>https://us-nyc-w-p-1.nashkan.net/dns-query<br>https://us-saj-w-f-1.nashkan.net/dns-query<br>https://us-saj-w-p-1.nashkan.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering
 |neeb.it|https://dns.neeb.it/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |nefret.net|https://dns.nefret.net/dns-query|:heavy_check_mark:|Block ads & porn, support DoT
 |[Net Raptor](https://netraptor.com.au)|https://dns.netraptor.com.au/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
@@ -321,7 +319,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |[NS3](https://ns3.net)|https://ns3.cx/dns-query<br>https://ns3.link/dns-query<br>https://dns8.org/dns-query<br>https://ns3.com/dns-query<br>https://n0.eu/dns-query|:heavy_check_mark:|
 |ns71.net|https://dnscache0.ns71.net/dns-query|:heavy_check_mark:|Support DoT
-|n23.io|https://dns.n23.io/dns-query|:heavy_check_mark:| Use Cloudflare upstream
 | **O**
 |[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -417,7 +414,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Torsten Tributh](https://tributh.net) |https://tributh.net/dns-query|:heavy_check_mark:|
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:| Support DoT
-|tshost.no|https://adg.tshost.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |tuskythehusky.tech|https://tuskythehusky.tech/dns-query|:heavy_check_mark:|
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | **U**
