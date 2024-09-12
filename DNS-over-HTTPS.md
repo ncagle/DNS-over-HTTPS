@@ -128,7 +128,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [dnslow.me](https://dnslow.me/) | https://dnslow.me/dns-query | :heavy_check_mark: | A protective DNS that blocks Ads, Malware, Trackers, Phishing and Newly Registered Domains. Randomly forward requests to different upstreams for enhanced privacy. Support DoT
 | [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud, support DoT
 |dnssilo.top|https://dnssilo.top/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
-| A zero logging DNS with support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT), DNS-over-QUIC (DoQ) & Dnscrypt. Supports DNSSEC, TLS 1.3, QNAME minimization, OpenNIC, and does own Recursion. EDNS Client Subnet is disabled.<br> Provides 4 different types of filtering options.<br> Adblock - Blocks ads, trackers, viruses, and telemetry.<br> Adultfilter - Blocks adult content, enforces safe search and includes all the features from adblock. <br> Uncensored - Unrestricted access/no filtering.<br>[Custom Filter](https://dnswarden.com/customfilter.html) where you can choose your own filter lists! <br>For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
 |dns9.cfd|https://dns9.cfd/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |doh.beauty|https://doh.beauty|:heavy_check_mark:|
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
