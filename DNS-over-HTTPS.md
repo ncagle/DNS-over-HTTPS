@@ -456,7 +456,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0rz.ing|https://dns.0rz.ing/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|Support DoT & DoQ
 |003153.xyz|https://003153.xyz/dns-query|:heavy_check_mark:|
-|000404000.xyz|https://dns.000404000.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
 |123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
 |3wv.de|https://dns.3wv.de/dns-query|:heavy_check_mark:|Block ads, support DoT
