@@ -176,7 +176,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |freopc.fr|https://dns.freopc.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Froth.zone](https://dns.froth.zone/resolver/)|https://dns.froth.zone/dns-query|:heavy_check_mark:|OpenNIC, support DoT & DoQ
 |frutuozo.com.br|https://adguard.frutuozo.com.br/dns-query|:heavy_check_mark:|Block ads
-|[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query<br>https://doh.futa.app/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.futa.gg` and `dot.futa.app`
+|[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.futa.gg`
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
@@ -218,7 +218,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **J**
 |janl.eu|https://dns.janl.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
-|jichi.io|https://dns.jichi.io/dns-query|:heavy_check_mark:|Block ads
 |[jiyi.eu](https://jiyi.eu)|https://dns.jiyi.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 |johanliebert.top|https://adguard.johanliebert.top/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
