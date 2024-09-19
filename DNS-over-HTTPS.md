@@ -57,7 +57,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Blahdns](https://blahdns.com)|Germany: https://doh-de.blahdns.com/dns-query|:heavy_check_mark:|Block ads, non-logging, no ECS, DNSSEC ready, support OpenNIC & ENS, also support DoT
 |blaumer.dev|https://dns.blaumer.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, also support DoT & DoQ
 |[BlissDNS](https://blissdns.net)|https://us1.blissdns.net/dns-query|:heavy_check_mark:|Block ads, also support DoT & DoQ
-|[Blogs SL](https://blogssl.com) |https://adguard.blogssl.com/dns-query|:heavy_check_mark:|
 | [Blokada DNS](https://community.blokada.org/t/the-benefits-of-blokada-dns/6646) | https://dns.blokada.org/dns-query | :heavy_check_mark: | No logging, also support DoT
 |[Blue Mountain](https://linngde.com)|https://doh.linngde.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |[Blue Shield Umbrella](https://blue-shield.at)|https://rfree1.blue-shield.at/dns-query<br>https://rfree2.blue-shield.at/dns-query|:heavy_check_mark:|Also support DoT
