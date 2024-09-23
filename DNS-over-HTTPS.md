@@ -49,6 +49,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[BebasDNS](https://github.com/bebasid/bebasdns/blob/main/README.en.md)|https://dns.bebasid.com/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |[Belnet](https://dns.belnet.be)|https://dns.belnet.be/dns-query|:heavy_check_mark:|
 |[Ben Hocking](https://bmwhocking.com)|https://dns.bmwhocking.com/dns-query|:heavy_check_mark:|
+|bereza.lol|https://bereza.lol/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, also support DoT
 |bermeitinger.eu|https://dns.bermeitinger.eu/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |bestwon203.com|https://bestwon203.com/dns-query|:heavy_check_mark:|
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |Also support DoT
