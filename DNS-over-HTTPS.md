@@ -122,7 +122,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[dnscrypt.ca](https://dnscrypt.ca/)|https://dns1.dnscrypt.ca/dns-query|:heavy_check_mark:| Support DoT
 | [dnsforge.de](https://dnsforge.de/) | Adblocking : https://dnsforge.de/dns-query <br> Ads and pornblocking : https://clean.dnsforge.de/dns-query <br> Hard : https://hard.dnsforge.de/dns-query|:heavy_check_mark:<br>:heavy_check_mark:|  No logging. Support DNSSEC. Hosted in Germany, support DoT & DoQ
 |[DNS-GA](https://dns-ga.de)|https://dns1.dns-ga.de/dns-query<br>https://dns2.dns-ga.de/dns-query<br>https://dns3.dns-ga.de/dns-query|:heavy_check_mark:|OpenNIC, support DoT
-|[dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php)|https://dns.dnshome.de/dns-query|:heavy_check_mark:| Support DoT
+|[dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php)|https://dns.dnshome.de/dns-query|:heavy_check_mark:| Supports DoH/DoH3 DoT/DoQ and DNSCrypt, No logging, No blocking
 | [dnslow.me](https://dnslow.me/) | https://dnslow.me/dns-query | :heavy_check_mark: | A protective DNS that blocks Ads, Malware, Trackers, Phishing and Newly Registered Domains. Randomly forward requests to different upstreams for enhanced privacy. Support DoT
 | [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud, support DoT
 |dnssilo.top|https://dnssilo.top/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
