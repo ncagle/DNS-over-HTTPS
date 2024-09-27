@@ -176,7 +176,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
 |gifino.fr|https://adguard.maison.gifino.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service, support DoT
 |[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
-|gloom.nexus|https://agh.gloom.nexus/dns-query|:heavy_check_mark:|Block ads
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering, support DoT
 |[Gorgeous](https://so-gorgeo.us.kg/)|Japan: https://nana-is.so-gorgeo.us.kg/dns-query<br>Japan: https://tetty-is.so-gorgeo.us.kg/dns-query<br>Japan: https://luna-is.so-gorgeo.us.kg/dns-query<br>Singapore: https://mita-is.so-gorgeo.us.kg/dns-query<br>India: https://yussy-is.so-gorgeo.us.kg/dns-query<br>South Africa: https://nova-is.so-gorgeo.us.kg/dns-query<br>Netherlands: https://nindy-is.so-gorgeo.us.kg/dns-query|:heavy_check_mark:| Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |gosami.xyz|https://performance.gosami.xyz/dns-query|:heavy_check_mark:|Block ads
@@ -327,6 +326,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
 |[plan9-dns](https://github.com/jlongua/plan9-dns)|New Jersey: https://kronos.plan9-dns.com/dns-query<br>Mexico: https://helios.plan9-dns.com/dns-query<br>Florida: https://pluton.plan9-dns.com/dns-query|:heavy_check_mark:|
 |[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+|pm1239-bd.xyz|https://pm1239-bd.xyz/dns-query|:heavy_check_mark:|
+|pm9352-bd.xyz|https://pm9352-bd.xyz/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |princex.net|https://dns.princex.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
@@ -444,7 +445,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |0rz.ing|https://dns.0rz.ing/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|Support DoT & DoQ
-|003153.xyz|https://003153.xyz/dns-query|:heavy_check_mark:|
 |123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
 |3wv.de|https://dns.3wv.de/dns-query|:heavy_check_mark:|Block ads, support DoT
