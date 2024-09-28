@@ -36,7 +36,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[arnor.org](https://arnor.org)|https://nsec.arnor.org/dns-query|:heavy_check_mark:|Block ads, malware, phishing. support DoT, DoQ & DoH3. Only logs filtered URLs. Redirects some URLs for privacy. DNSSEC is enforced. (see [DNS Disclaimer](https://arnor.org/nsec_disclaimer.txt))
 | [Artikel10](https://dns.artikel10.org/) | https://dns.artikel10.org/dns-query | :heavy_check_mark: | Non-logging service based in Germany, also support DoT
 |[Asagiri](https://asagiri.moe)|https://doh.asagiri.moe/dns-query|:heavy_check_mark:|
-|ashleyjackson.net|https://dns.ashleyjackson.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |Asteri Moon|https://dns.asterimoon.com/dns-query| :heavy_check_mark: | Adblocking, also support DoT
 |atris.cyou|https://atris.cyou/dns-query|:heavy_check_mark:|
 |[Avast DNS](https://www.avast.com/dns)|https://secure.avastdns.com/dns-query|:heavy_check_mark:|
@@ -212,7 +211,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Ishan Jain](https://ishan.pw)|https://dns.ishan.pw/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT & DoQ
 | **J**
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
-|[jiyi.eu](https://jiyi.eu)|https://dns.jiyi.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 |johanliebert.top|https://adguard.johanliebert.top/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
@@ -331,10 +329,10 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |pm1239-bd.xyz|https://pm1239-bd.xyz/dns-query|:heavy_check_mark:|
 |pm9352-bd.xyz|https://pm9352-bd.xyz/dns-query|:heavy_check_mark:|
-|pnh.my.id|https://dns.pnh.my.id/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |princex.net|https://dns.princex.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
+|[PrivacyDNS](https://privacy-dns.pw/)|https://las-vegas.privacy-dns.pw/dns-query<br>https://india.privacy-dns.pw/dns-query<br>https://united-arab-emirates.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://luxembourg.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query<br>https://romania.privacy-dns.pw/dns-query<br>https://hungary.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Germany: https://de.dns.privex.io<br>Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
