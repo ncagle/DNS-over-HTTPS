@@ -261,6 +261,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | OpenNIC, support DoT
 |mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
+|[Mathijs Ronald Lermer](https://lermer.nl)|https://dns.lermer.nl/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 |[Max Philipp Wriefdt](https://wriedts.de)|https://home.wriedts.de/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Mayx](https://mayx.eu.org)|https://dns.mayx.eu.org/dns-query|:heavy_check_mark:|
 |[MC Host](https://mchost.no)|https://doh.serverhost.no/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware filtering
