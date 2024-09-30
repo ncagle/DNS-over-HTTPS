@@ -126,7 +126,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php)|https://dns.dnshome.de/dns-query|:heavy_check_mark:| Supports DoH/DoH3 DoT/DoQ and DNSCrypt, No logging, No blocking
 | [dnslow.me](https://dnslow.me/) | https://dnslow.me/dns-query | :heavy_check_mark: | A protective DNS that blocks Ads, Malware, Trackers, Phishing and Newly Registered Domains. Randomly forward requests to different upstreams for enhanced privacy. Support DoT
 | [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud, support DoT
-|dnssilo.top|https://dnssilo.top/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |doh.beauty|https://doh.beauty|:heavy_check_mark:|
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:| Support DoT
@@ -414,7 +413,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |[TN Photography](https://timnichollsphotography.com)|https://adb.timnichollsphotography.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Torsten Tributh](https://tributh.net) |https://tributh.net/dns-query|:heavy_check_mark:|
-|[Transport Safety Board Argentina](https://jst.gob.ar)|https://dns.jst.gob.ar/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:| Support DoT
 |tuskythehusky.tech|https://tuskythehusky.tech/dns-query|:heavy_check_mark:|
