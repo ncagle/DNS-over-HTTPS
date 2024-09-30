@@ -192,7 +192,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
 |hannielzhang.com|https://dns.hannielzhang.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |hartley.cloud|https://adguard.hartley.cloud/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
-|hellozhao.com|https://dns.hellozhao.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, support DoT
 |hfgx.shop|https://hfgx.shop/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |home-server.store|https://home-server.store/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
@@ -277,7 +276,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mh4ckt3mh4ckt1c4s.xyz|https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
 |michelo.line.pm|https://michelo.line.pm/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering and AdGuard browsing security web service. Also support DoT & DoQ
 |[Mike Zhang](https://mikezhang.xyz)|https://mikezhang.xyz/dns-query|:heavy_check_mark:|
-|dns-cloud.net|https://mikrobill.dns-cloud.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |m-it.ro|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
@@ -313,7 +311,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads, support DoT
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
-|[NS3](https://ns3.net)|https://ns3.cx/dns-query<br>https://ns3.link/dns-query<br>https://dns8.org/dns-query<br>https://ns3.com/dns-query<br>https://n0.eu/dns-query|:heavy_check_mark:|
+|[NS3](https://ns3.net)|https://ns3.cx/dns-query<br>https://ns3.link/dns-query<<br>https://ns3.com/dns-query<br>https://n0.eu/dns-query|:heavy_check_mark:|
 |ns71.net|https://dnscache0.ns71.net/dns-query|:heavy_check_mark:|Support DoT
 |nymterm.com|https://qdns02.nymterm.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 | **O**
@@ -406,7 +404,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
-|terumi.club|https://dns.soldier.terumi.club/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
@@ -463,7 +460,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
 |3wv.de|https://dns.3wv.de/dns-query|:heavy_check_mark:|Block ads, support DoT
-|351242444.xyz|https://351242444.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
 |362878.xyz|https://pro.362878.xyz/dns-query|:heavy_check_mark:|Block ads
 |[4NetGuides](https://4netguides.org)|https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
