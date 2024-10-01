@@ -45,7 +45,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **B**
 |bahopir188.dnshome.de|https://bahopir188.dnshome.de/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |bazooki-infra.dev|https://bazooki-infra.dev/dns-query|:heavy_check_mark:|
-|[BebasDNS](https://github.com/bebasid/bebasdns/blob/main/README.en.md)|https://dns.bebasid.com/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |[Belnet](https://dns.belnet.be)|https://dns.belnet.be/dns-query|:heavy_check_mark:|
 |[Ben Hocking](https://bmwhocking.com)|https://dns.bmwhocking.com/dns-query|:heavy_check_mark:|
 |bermeitinger.eu|https://dns.bermeitinger.eu/dns-query|:heavy_check_mark:|Block ads, also support DoT
@@ -129,7 +128,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:| Support DoT
 |[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
-|[DoTLS](https://dotls.org/)|https://ns1.dotls.org|:heavy_check_mark:|Block ads
 |do-39574-tr.xyz|https://do-39574-tr.xyz/dns-query|:heavy_check_mark:|
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: | Support DoT
@@ -190,7 +188,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Hacki](https://deadsec.net)|https://dns.deadsec.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
 |hannielzhang.com|https://dns.hannielzhang.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
-|hartley.cloud|https://adguard.hartley.cloud/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |hfgx.shop|https://hfgx.shop/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |home-server.store|https://home-server.store/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
