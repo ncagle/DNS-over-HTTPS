@@ -52,7 +52,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bestwon203.com|https://bestwon203.com/dns-query|:heavy_check_mark:|
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |Also support DoT
 |[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, also support DoT & DoQ
-|biying.flymlc.com|https://biying.flymlc.com/dns-query|:heavy_check_mark:|Block ads
 |[Blahdns](https://blahdns.com)|Germany: https://doh-de.blahdns.com/dns-query|:heavy_check_mark:|Block ads, non-logging, no ECS, DNSSEC ready, support OpenNIC & ENS, also support DoT
 |blaumer.dev|https://dns.blaumer.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, also support DoT & DoQ
 |[BlissDNS](https://blissdns.net)|https://us1.blissdns.net/dns-query|:heavy_check_mark:|Block ads, also support DoT & DoQ
@@ -185,7 +184,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |gosami.xyz|https://performance.gosami.xyz/dns-query|:heavy_check_mark:|Block ads
 |[Gottlieb Freitag](https://glf.wtf)|https://dns.glf.wtf/dns-query|:heavy_check_mark:|Block ads, support DoT
 |grisumedia.de|https://dnsblock.grisumedia.de/dns-query|:heavy_check_mark:|Block ads, support DoT
-|gs-tests.com|https://doh.gs-tests.com/dns-query|:heavy_check_mark:|
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 |gutwe.in|https://dns.gutwe.in/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **H**
@@ -221,7 +219,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 | **K**
-|kaiwu.xyz|https://kaiwu.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |[Kamil Szczepański](https://kamilszczepanski.com/)|https://dns.kamilszczepanski.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, use AdGuard browsing security web service, support DoT
 |kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT & DoQ
 |[Karadağlar](https://karadag.me)|https://dns.karadag.me/dns-query|:heavy_check_mark:|Support DoT
@@ -261,6 +258,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lukscasino|https://lukscasino-929-tr.xyz/dns-query<br>https://lukscasino-479-tr.xyz/dns-query<br>https://lukscasino-542-tr.xyz/dns-query |:heavy_check_mark:|
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **M**
+|maqgie.xyz|https://maqgie.xyz/dns-query|:heavy_check_mark:|
 |marasov.id|https://dns.marasov.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Marbled Fennec Networks / FurrIX](https://www.marbledfennec.net/public-dns-server/)|https://multi.dns.marbledfennec.net/dns-query|:heavy_check_mark:|OpenNIC compatible, support for DoT and DoH, Small community project providing two name servers, IPv4/IPv6
 |[Marco Fox](https://technologycage.com)|https://dns.technologycage.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
@@ -385,6 +383,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|OpenNIC, block ads, support DoT & DoQ
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream, support DoT
+|slyvo.xyz|https://slyvo.xyz/dns-query|:heavy_check_mark:|
 |[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering, support DoT
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
 |squidmall.vip|https://squidmall.vip/dns-query|:heavy_check_mark:|
