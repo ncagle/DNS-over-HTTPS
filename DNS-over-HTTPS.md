@@ -102,7 +102,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **D**
 |daarrk.tech|https://dns.daarrk.tech/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
-|[Đăng Kiểm](https://dangkiem.com)|https://6301s.dangkiem.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
 |datenquark.de|https://dns.datenquark.de/dns-query|:heavy_check_mark:|Block ads, support DoT
