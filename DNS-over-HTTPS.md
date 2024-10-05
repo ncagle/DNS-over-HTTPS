@@ -161,7 +161,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[FBI NICS E-Check](https://nicsezcheckfbi.gov) |https://nicsezcheckfbi.gov|:heavy_check_mark:| Use Cloudflare upstream with malware filtering 
 | [FDN](https://www.fdn.fr/) - French Data Network | https://ns0.fdn.fr/dns-query <br> https://ns1.fdn.fr/dns-query |:heavy_check_mark:| No log, no filter, DNSSEC, DoT … ([more informations in French](https://www.fdn.fr/ouverture-des-services-dot-doh/))
 |[Federico Pizzari](https://pizzari.me)|https://dns.pizzari.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
-|feelvm.dev|https://dns.feelvm.dev/dns-query|:heavy_check_mark:|
 |[fehlsprache.de](https://fehlsprache.de)|https://dns.fehlsprache.de/dns-query|:heavy_check_mark:|Support DoT
 |[Feroz](https://padlock.argh.in/2019/07/11/dns-over-https.html)|https://doh.li/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH & DoT Server of Freifunk München. No logging, no filter, DNSSEC, OpenNIC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en)
