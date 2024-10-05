@@ -408,6 +408,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+|thethorsens.org|https://blocker.thethorsens.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare and ControlD upstream, support DoT & DoQ
 |thio.me|https://doh.thio.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
@@ -427,6 +428,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|Support DoT
 |[Vault 81](https://vault81.de)|https://dns.vault81.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT & DoQ
 |[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
 |vorlif.org|https://vorlif.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
