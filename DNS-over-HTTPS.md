@@ -323,7 +323,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |o51r15.com|https://ha.o51r15.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
-|[PanSzelescik](https://panszelescik.pl)|https://dns.panszelescik.pl/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |pashagame456.com|https://pashagame456.com/dns-query|:heavy_check_mark:|
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
