@@ -11,7 +11,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Who runs it | Base URL | Working*| Comment** |
 |-------------|----------|---------|---------|
 | **A**
-|aapla.top|https://dns.aapla.top/dns-query|:heavy_check_mark:|Block ads, gambling & porn. Support DoT
 |[Absolight](https://www.absolight.fr/)|https://resolver1.absolight.net/dns-query<br>https://resolver2.absolight.net/dns-query<br>https://resolver3.absolight.net/dns-query|:heavy_check_mark:|Also support DoT
 |[AdFilter](https://adfilter.net/)|Perth: https://per.adfilter.net/dns-query<br>Sydney: https://syd.adfilter.net/dns-query<br>Adelaide: https://adl.adfilter.net/dns-query|:heavy_check_mark:<br>:heavy_check_mark:<br>:heavy_check_mark:|Adblocking, aggregated statistics kept for 30 days. Also support DoT
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking. Also support DoT & DoQ
@@ -215,7 +214,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 | **K**
-|[Kamil Szczepański](https://kamilszczepanski.com/)|https://dns.kamilszczepanski.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, use AdGuard browsing security web service, support DoT
 |kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT & DoQ
 |[Karadağlar](https://karadag.me)|https://dns.karadag.me/dns-query|:heavy_check_mark:|Support DoT
 |kastner-online.de|https://dns.kastner-online.de/dns-query|:heavy_check_mark:|Block ads, support DoT
