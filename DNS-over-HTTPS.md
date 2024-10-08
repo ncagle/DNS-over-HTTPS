@@ -172,6 +172,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
+|gibblets.top|https://gibblets.top/dns-query|:heavy_check_mark:|
 |gifino.fr|https://adguard.maison.gifino.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service, support DoT
 |[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |glacius.top|https://glacius.top/dns-query|:heavy_check_mark:|
@@ -311,6 +312,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |[NS3](https://ns3.net)|https://ns3.cx/dns-query<br>https://ns3.link/dns-query<<br>https://ns3.com/dns-query<br>https://n0.eu/dns-query|:heavy_check_mark:|
 |ns71.net|https://dnscache0.ns71.net/dns-query|:heavy_check_mark:|Support DoT
+|[numerus](https://numerus.com)|https://dns.numerus.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |nymterm.com|https://qdns02.nymterm.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 | **O**
 |obscuro.top|https://obscuro.top/dns-query|:heavy_check_mark:| 
@@ -460,6 +462,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[4NetGuides](https://4netguides.org)|https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|Support DoT & DoQ
+|688447.xyz|https://dns.688447.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |731my.com|https://ayman-dns.731my.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service, support DoT & DoQ
 |9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
 | **Others**
