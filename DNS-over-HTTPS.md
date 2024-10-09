@@ -67,6 +67,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[busold.ws](https://busold.ws)|https://dns.busold.ws/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |b612.me|https://dns.b612.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream, also support DoT
 | **C**
+|cabbage.zone|https://dns.cabbage.zone/dns-query|:heavy_check_mark:|Block ads
 |cahlen.com|https://dns.cahlen.com/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |[Canarypwn](https://aaaab3n.moe/networks) | https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | Use Cloudflare upstream
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
