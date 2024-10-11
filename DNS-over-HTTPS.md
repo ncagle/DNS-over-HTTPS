@@ -173,7 +173,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
 |gibblets.top|https://gibblets.top/dns-query|:heavy_check_mark:|
-|gifino.fr|https://adguard.maison.gifino.fr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, and AdGuard browsing security web service, support DoT
 |[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |glacius.top|https://glacius.top/dns-query|:heavy_check_mark:|
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering, support DoT
