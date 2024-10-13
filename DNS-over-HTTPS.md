@@ -186,6 +186,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |home-server.store|https://home-server.store/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 |[Hoody](https://hoody.com)|https://dns.hoody.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
+|hoservers.com|https://dns.hoservers.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[Hostux](https://dns.hostux.net/en/)|https://dns.hostux.net/dns-query<br>https://dns.hostux.net/ads|:heavy_check_mark:|Support DoT
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | Support DoT
