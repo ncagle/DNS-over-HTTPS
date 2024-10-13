@@ -93,6 +93,8 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[CSA-IT](https://csaonline.de)|https://dns.csaonline.de/dns-query|:heavy_check_mark:|Support DoT
 |csa-rz.de|https://dns.csa-rz.de/dns-query|:heavy_check_mark:| Support DoT
 |[CSS Working Group](https://csswg.org)|https://dns.csswg.org/dns-query|:heavy_check_mark:|Support DoT
+|cybertonic.tech|https://dns.cybertonic.tech/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, supports DoT & DoQ
+|[CycleWorld](https://rezyro.com)|https://newd.rezyro.com/dns-query|:heavy_check_mark:|Block ads
 |[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator, support DoT
 | **D**
@@ -177,6 +179,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Gottlieb Freitag](https://glf.wtf)|https://dns.glf.wtf/dns-query|:heavy_check_mark:|Block ads, support DoT
 |grisumedia.de|https://dnsblock.grisumedia.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
+|guardmydns.com|https://dns.guardmydns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |gutwe.in|https://dns.gutwe.in/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **H**
 |[Hacki](https://deadsec.net)|https://dns.deadsec.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
@@ -233,6 +236,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |krctech.dev|https://adblock.krctech.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |kukal.cz|https://dns.kukal.cz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
+|kumoumi.net|https://dns.kumoumi.net/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
 |kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC, support DoT
 |kx-97795-tr.xyz|https://kx-97795-tr.xyz/dns-query|:heavy_check_mark:|
 |k3nny.fr|https://dns.k3nny.fr/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -250,6 +254,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |loadlow.me|https://loadlow.me/dns-query|:heavy_check_mark:|
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:| Support DoT
 |lukscasino|https://lukscasino-929-tr.xyz/dns-query<br>https://lukscasino-479-tr.xyz/dns-query<br>https://lukscasino-542-tr.xyz/dns-query |:heavy_check_mark:|
+|[LuMa Medien](https://luma-medien.com)|https://dns.luma-medien.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **M**
 |maqgie.xyz|https://maqgie.xyz/dns-query|:heavy_check_mark:|
