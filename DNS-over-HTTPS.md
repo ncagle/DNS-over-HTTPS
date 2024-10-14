@@ -332,7 +332,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |phillipjberry.net|https://dns.phillipjberry.net/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security and parental control web service, support DoT & DoQ
-|pierzchlewicz.pl|https://dns.pierzchlewicz.pl/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
 |[plan9-dns](https://github.com/jlongua/plan9-dns)|New Jersey: https://kronos.plan9-dns.com/dns-query<br>Mexico: https://helios.plan9-dns.com/dns-query<br>Florida: https://pluton.plan9-dns.com/dns-query|:heavy_check_mark:|
 |[PlumeDNS](https://plumedns.com)|https://privacy.plumedns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
