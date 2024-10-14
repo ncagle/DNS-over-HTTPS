@@ -443,7 +443,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |xuming.studio|https://dns.xuming.studio/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 | **Y**
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging, support DoT
-|[yatima](https://yatima.tv/)|https://dns.yatima.tv/dns-query|:heavy_check_mark:|Adblocking, support DoT & DoQ
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Youcef Badaoui](https://youcef.io)|https://net01.youcef.io/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security web service, support DoT & DoQ
 | **Z**
@@ -456,7 +455,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |0rz.ing|https://dns.0rz.ing/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|Support DoT & DoQ
-|[100ZAIM](https://13evl.com)|https://dns.13evl.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
 |3wv.de|https://dns.3wv.de/dns-query|:heavy_check_mark:|Block ads, support DoT
