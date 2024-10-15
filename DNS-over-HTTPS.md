@@ -278,6 +278,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mh4ckt3mh4ckt1c4s.xyz|https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
 |michelo.line.pm|https://michelo.line.pm/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering and AdGuard browsing security web service. Also support DoT & DoQ
 |[Mike Zhang](https://mikezhang.xyz)|https://mikezhang.xyz/dns-query|:heavy_check_mark:|
+|miniapp.global|https://miniapp.global/dns-query|:heavy_check_mark:|
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |m-it.ro|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
@@ -399,6 +400,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
 |sv-zauner.at|https://dns.sv-zauner.at/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, OpenNIC, support DoT & DoQ
 |[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
+|[Syst(em)](https://sy.st)|https://dns.sy.st/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |szpadel.ovh|https://dns.szpadel.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
@@ -444,6 +446,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Xstl DNS](https://get.dns.seia.io/)|SK Broadband: https://dns.seia.io/dns-query<br>Oracle Cloud: https://secondary.dns.seia.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT, hosted in South Korea
 |xuming.studio|https://dns.xuming.studio/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 | **Y**
+|yague.me|https://dns.yague.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging, support DoT
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Youcef Badaoui](https://youcef.io)|https://net01.youcef.io/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security web service, support DoT & DoQ
