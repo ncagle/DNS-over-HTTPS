@@ -162,6 +162,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH & DoT Server of Freifunk München. No logging, no filter, DNSSEC, OpenNIC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en)
 |fidelius.top|https://fidelius.top/dns-query|:heavy_check_mark:|
 |[Flight Space](https://flightspace.net) |https://dns.flightspace.net/dns-query|:heavy_check_mark:| Support DoT
+|[FlokiNET](https://blog.flokinet.is/2021/09/27/flokinet-dns-resolver/)|https://resolv.flokinet.net/dns-query|:heavy_check_mark:|Support DoT
 |[FLY_MC](https://flymc.cc/2022/03/%E5%A4%8F%E7%A5%88%E4%BA%91%E5%85%AC%E5%85%B1dns-public-dns%E6%9C%8D%E5%8A%A1%E6%9B%B4%E6%96%B0%E4%B8%8A%E7%BA%BF/)|https://dns.flymc.cc/dns-query<br>https://dns.pari.network/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Foundation for Applied Privacy](https://applied-privacy.net/services/dns/) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198, DoT
 |[Freifunk Nordwest](https://ffnw.de)|https://dns.ffnw.de/dns-query|:heavy_check_mark:|Support DoT
@@ -205,6 +206,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: | Support DoT
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027, support DoT
 |[Inter-University Computation Center](https://iucc.ac.il/en/)|https://doh.iucc.ac.il/dns-query|:heavy_check_mark:|
+|iozoi.cn|https://iozoi.cn/dns-query|:heavy_check_mark:|Block ads
 |is.my.waifu.cz|https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query<br>https://aqua.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 |[Ishan Jain](https://ishan.pw)|https://dns.ishan.pw/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT & DoQ
 |is0mino.com|https://dns.is0mino.com/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -400,6 +402,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |szpadel.ovh|https://dns.szpadel.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
+|[Taxiway](https://taxiway.uk)|https://dns.taxiway.uk/dns-query|:heavy_check_mark:|
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
