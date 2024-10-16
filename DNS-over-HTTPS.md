@@ -109,7 +109,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |diarbagus.id|https://dns.diarbagus.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/dns/) |  https://dns.digitale-gesellschaft.ch/dns-query | :heavy_check_mark: | No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC, DoT; https://www.digitale-gesellschaft.ch/dns/
 | Disconnect.app | https://doh.disconnect.app/dns-query | :heavy_check_mark: | Use Cloudflare upstream
-|dltuykfgp.top|https://www.dltuykfgp.top/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream
 | [dns.digitalsize.net](https://dns.digitalsize.net/) | https://dns.digitalsize.net/dns-query | :heavy_check_mark: | A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany. Support DoT
 | [DNS.SB](https://dns.sb/doh/) | https://doh.dns.sb/dns-query <br> https://doh.sb/dns-query | :heavy_check_mark: <br> :heavy_check_mark:| DNSSEC & QNAME minimization enabled, no logging, also [support DoT](https://dns.sb/dot/) |
 | [dns0.eu](https://www.dns0.eu/) | Non-blocking: https://open.dns0.eu<br>Malware blocking: https://dns0.eu<br>Hardened security: https://zero.dns0.eu<br>Child safe: https://kids.dns0.eu | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Non-logging, GDPR compliant
@@ -185,7 +184,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **H**
 |[Hacki](https://deadsec.net)|https://dns.deadsec.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
-|hannielzhang.com|https://dns.hannielzhang.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |hfgx.shop|https://hfgx.shop/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |home-server.store|https://home-server.store/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
@@ -329,7 +327,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Sandefjord, Norway: https://ns4.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
 |ourvau.lt|https://dns.ourvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|o51r15.com|https://ha.o51r15.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
 |pashagame456.com|https://pashagame456.com/dns-query|:heavy_check_mark:|
@@ -405,7 +402,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |szpadel.ovh|https://dns.szpadel.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
-|[Taxiway](https://taxiway.uk)|https://dns.taxiway.uk/dns-query|:heavy_check_mark:|
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
@@ -461,6 +457,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |0rz.ing|https://dns.0rz.ing/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
 |0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|Support DoT & DoQ
+|052419.xyz|https://052419.xyz/dns-query|:heavy_check_mark:|
 |123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
 |3wv.de|https://dns.3wv.de/dns-query|:heavy_check_mark:|Block ads, support DoT
