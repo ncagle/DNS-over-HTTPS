@@ -26,6 +26,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/)), also support DoT|
 |[Angry.im](https://angry.im)|https://doh.angry.im/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, OpenNIC
 |anon.no|https://dns.anon.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, also support DoT & DoQ
+|antstars.win|https://antstars.win/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, also support DoT & DoQ
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream and AdGuard browsing security web service, also support DoT
 |anym0re.ru|https://ad.anym0re.ru/dns-query|:heavy_check_mark:|Block ads & gambling, use AdGuard browsing security web service, also support DoT & DoQ
 |[Apollinaria](https://hypercute.eu/)|https://dns.hypercute.eu/dns-query| :heavy_check_mark: |Use Cloudflare upstream, also support DoT
@@ -164,6 +165,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |fidelius.top|https://fidelius.top/dns-query|:heavy_check_mark:|
 |[Flight Space](https://flightspace.net) |https://dns.flightspace.net/dns-query|:heavy_check_mark:| Support DoT
 |[FlokiNET](https://blog.flokinet.is/2021/09/27/flokinet-dns-resolver/)|https://resolv.flokinet.net/dns-query|:heavy_check_mark:|Support DoT
+|floriantinney.de|https://dns.floriantinney.de/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 |[FLY_MC](https://flymc.cc/2022/03/%E5%A4%8F%E7%A5%88%E4%BA%91%E5%85%AC%E5%85%B1dns-public-dns%E6%9C%8D%E5%8A%A1%E6%9B%B4%E6%96%B0%E4%B8%8A%E7%BA%BF/)|https://dns.flymc.cc/dns-query<br>https://dns.pari.network/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Foundation for Applied Privacy](https://applied-privacy.net/services/dns/) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198, DoT
 |[Freifunk Nordwest](https://ffnw.de)|https://dns.ffnw.de/dns-query|:heavy_check_mark:|Support DoT
