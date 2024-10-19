@@ -448,7 +448,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |yague.me|https://dns.yague.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 | [Yarp](https://yarp.lefolgoc.net/) | https://yarp.lefolgoc.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Hosted in France, no logging, support DoT
 |[your-dns](https://github.com/yegle/your-dns)|https://your-dns.run/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
-|[Youcef Badaoui](https://youcef.io)|https://net01.youcef.io/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security web service, support DoT & DoQ
 | **Z**
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
