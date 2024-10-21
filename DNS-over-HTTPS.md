@@ -213,7 +213,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |is0mino.com|https://dns.is0mino.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **J**
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
-|jkdns.me|https://jkdns.me/dns-query|:heavy_check_mark:|Block ads
 |johanliebert.top|https://adguard.johanliebert.top/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
 |johneldenring.lol|https://johneldenring.lol/dns-query|:heavy_check_mark:|Support DoT
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
@@ -273,7 +272,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MC Host](https://mchost.no)|https://doh.serverhost.no/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with malware filtering
 |mc-sft.cn|https://mc-sft.cn/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT & DoQ
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking, support DoT
-|[melvin2204.nl](https://melvin2204.nl)|https://dns.melvin2204.nl/dns-query|:heavy_check_mark:|Block ads, support DoT
 |mendozasdelivery.com|https://mendozasdelivery.com/dns-query|:heavy_check_mark:|
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |mh4ckt3mh4ckt1c4s.xyz|https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
