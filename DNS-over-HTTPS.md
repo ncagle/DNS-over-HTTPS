@@ -211,7 +211,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **J**
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
 |johanliebert.top|https://adguard.johanliebert.top/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
-|johneldenring.lol|https://johneldenring.lol/dns-query|:heavy_check_mark:|Support DoT
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 | **K**
@@ -337,6 +336,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pm1239-bd.xyz|https://pm1239-bd.xyz/dns-query|:heavy_check_mark:|
 |pm9352-bd.xyz|https://pm9352-bd.xyz/dns-query|:heavy_check_mark:|
 |pm7051-br.xyz|https://pm7051-br.xyz/dns-query|:heavy_check_mark:|
+|polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.beauty/dns-query<br>https://polisitogel.cruises/dns-query<br>https://polisitogel.construction/dns-query<br>https://polisitogel.green/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |[PrivacyDNS](https://privacy-dns.pw/)|https://las-vegas.privacy-dns.pw/dns-query<br>https://india.privacy-dns.pw/dns-query<br>https://united-arab-emirates.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://luxembourg.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query<br>https://romania.privacy-dns.pw/dns-query<br>https://hungary.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
