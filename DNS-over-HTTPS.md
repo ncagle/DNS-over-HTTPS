@@ -105,6 +105,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
 |datenquark.de|https://dns.datenquark.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |deep-henchman-excuse.cfd|https://deep-henchman-excuse.cfd/dns-query|:heavy_check_mark:|
+|delpirou.fr|https://dns.delpirou.fr/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[denypradana.com](https://doh.denypradana.com)|https://doh.denypradana.com/dns-query|:heavy_check_mark:|
 |dev-umbrellagov|https://dns.dev-umbrellagov.com/dns-query| :heavy_check_mark: | Support DoT
 |diarbagus.id|https://dns.diarbagus.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
@@ -191,6 +192,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Hoody](https://hoody.com)|https://dns.hoody.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |hoservers.com|https://dns.hoservers.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[Hostux](https://dns.hostux.net/en/)|https://dns.hostux.net/dns-query<br>https://dns.hostux.net/ads|:heavy_check_mark:|Support DoT
+|hshoe.cn|https://dns.hshoe.cn/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
 |huas.me|https://dns.huas.me/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | Support DoT
 |[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0)|https://ordns.he.net|:heavy_check_mark:| Support DoT & DoQ
