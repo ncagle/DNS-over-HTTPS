@@ -172,7 +172,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.futa.gg`
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
-|gambini.org|https://adguard.gambini.org/dns-query|:heavy_check_mark:|Block ads
 |gibblets.top|https://gibblets.top/dns-query|:heavy_check_mark:|
 |[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |glacius.top|https://glacius.top/dns-query|:heavy_check_mark:|
@@ -211,7 +210,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |is0mino.com|https://dns.is0mino.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **J**
 |jhangy.us|https://dns.jhangy.us/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT & DoQ
-|johanliebert.top|https://adguard.johanliebert.top/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service 
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 | **K**
@@ -220,7 +218,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kastner-online.de|https://dns.kastner-online.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |kawa.tf|https://dns.kawa.tf/dns-query|:heavy_check_mark:|OpenNIC, block ads
 |kebree.fr|https://dns.kebree.fr/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
-|kepegawaiandju.id|https://chr.kepegawaiandju.id/dns-query|:heavy_check_mark:|Block ads, support DoT
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT
 |[Kernel Error](https://kernel-error.de)|https://dns.kernel-error.de/dns-query|:heavy_check_mark:| Support DoT
 |[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating, support DoT & DoQ
