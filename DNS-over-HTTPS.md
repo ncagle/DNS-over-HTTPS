@@ -21,7 +21,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [AhaDNS](https://ahadns.com) | Netherlands:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Also support DoT through `dot.nl.ahadns.net`. Deprecated in favor of AhaDNS Blitz |
 |[Ahoj Mail](https://ahoj.email) |https://ahoj.email/dns-query|:heavy_check_mark:|
 |[AliDNS](https://alidns.com)|https://dns.alidns.com/dns-query|:heavy_check_mark:|Also support DoT & DoQ
-|[alu.dog](https://alu.dog)|https://adguard.alu.dog/dns-query|:heavy_check_mark:|Block ads
 |[André Kelpe](https://kel.pe)|https://doh.kel.pe|:heavy_check_mark:|Block ads, also support DoT
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/)), also support DoT|
 |[Angry.im](https://angry.im)|https://doh.angry.im/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, OpenNIC
@@ -315,7 +314,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering, support DoT
 |[OpenBLD.net](https://openbld.net/)|https://ada.openbld.net/dns-query|:heavy_check_mark:|Block ads, malicious. Support DoT, DoH - HTTP/2, TLSv1.3. Without DNS leaks. Use own upstreams and update services.
 |[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
-|[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Düsseldorf, Germany: https://ns2.opennameserver.org/dns-query<br>Berlin, Germany: https://ns3.opennameserver.org/dns-query<br>Sandefjord, Norway: https://ns4.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
+|[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Düsseldorf, Germany: https://ns2.opennameserver.org/dns-query<br>Berlin, Germany: https://ns3.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
 |ourvau.lt|https://dns.ourvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
@@ -348,7 +347,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |redvau.lt|https://dns.redvau.lt/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |reitmeier.me|https://dns.reitmeier.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream , support DoT & DoQ
 |reckoningslug.name|https://dns.reckoningslug.name/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|repressoh.it|https://dns.repressoh.it/dns-query|:heavy_check_mark:|Block ads
 |[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation, support DoT
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure) with DoH and DoT option
