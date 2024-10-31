@@ -129,7 +129,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: | Support DoT
 |[duröhre.de](https://xn--durhre-yxa.de)|https://xn--durhre-yxa.de/dns-query|:heavy_check_mark:|
-|dvgarm.com|https://dvgarm.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |d94.xyz|https://dns.d94.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |d96.info|https://dns.d96.info/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **E**
@@ -415,6 +414,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|Support DoT
 |[Vault 81](https://vault81.de)|https://dns.vault81.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
+|venum.space|https://venum.space/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT & DoQ
 |[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
@@ -429,6 +429,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |wuyouss.com|Adblocking: https://ns2.wuyouss.com/dns-query<br>Nonblocking Cloudflare upstream: https://ns3.wuyouss.com/dns-query|:heavy_check_mark:|
 |[W3C TAG](https://w3ctag.org)|https://dns.w3ctag.org/dns-query|:heavy_check_mark:|Support DoT
 | **X**
+|xbcpb668.com|https://xbcpb668.com/dns-query|:heavy_check_mark:|Support DoT & DoQ
 |xlion.tw|https://dns.xlion.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |[Xstl DNS](https://get.dns.seia.io/)|SK Broadband: https://dns.seia.io/dns-query<br>Oracle Cloud: https://secondary.dns.seia.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT, hosted in South Korea
 |xuming.studio|https://dns.xuming.studio/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
