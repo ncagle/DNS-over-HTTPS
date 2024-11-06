@@ -95,7 +95,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[CynthiaLabs](https://cynthialabs.net/dns/)|https://dns.cynthialabs.net/dns-query|:heavy_check_mark:|Adblocking
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator, support DoT
 | **D**
-|daarrk.tech|https://dns.daarrk.tech/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
 |dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
@@ -259,7 +258,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mendozasdelivery.com|https://mendozasdelivery.com/dns-query|:heavy_check_mark:|
 |meshkov.info|https://testaghome.meshkov.info/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |mh4ckt3mh4ckt1c4s.xyz|https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
-|michelo.line.pm|https://michelo.line.pm/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering and AdGuard browsing security web service. Also support DoT & DoQ
 |[Mike Zhang](https://mikezhang.xyz)|https://mikezhang.xyz/dns-query|:heavy_check_mark:|
 |miniapp.global|https://miniapp.global/dns-query|:heavy_check_mark:|
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
