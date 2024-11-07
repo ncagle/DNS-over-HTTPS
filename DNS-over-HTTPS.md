@@ -417,7 +417,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **W**
 |[wang art](https://wang.art)|https://dns.wang.art/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |waringer-atg.de|https://abel.waringer-atg.de/dns-query|:heavy_check_mark:|
-|webnmail.de|https://doh.webnmail.de/dns-query|:heavy_check_mark:|Support DoT through `dot.webnmail.de`
 |[WEG B72](https://b72.com)|https://dns.b72.com/dns-query|:heavy_check_mark:|OpenNIC, block ads, gambling & porn, support DoT
 |[Wikimedia DNS](https://wikitech.wikimedia.org/wiki/Wikimedia_DNS)|https://wikimedia-dns.org/dns-query|:heavy_check_mark:|No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center, support DoT
 |wil.cloud|https://dns-1.wil.cloud/dns-query<br>https://dns-2.wil.cloud/dns-query|:heavy_check_mark:|Use Cloudflare upstream
