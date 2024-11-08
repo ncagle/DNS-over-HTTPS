@@ -139,7 +139,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[ELIV DNS](https://dns.eliv.kr)|https://dns.eliv.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, Fast Cloudflare (priority IP) connection, support DoT
 | [Emiliyan Parvanov](https://emiliyan.com/) | https://dns.emiliyan.com/dns-query | :heavy_check_mark: | Adblocking
-|[Ersei](https://ersei.net)|https://doh.ersei.net/dns-query|:heavy_check_mark:|Block ads
 |excdn.eu.org|https://doh.excdn.eu.org|:heavy_check_mark:|Use Cloudflare upstream 
 | **F**
 |faked.org|https://dns.faked.org/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
