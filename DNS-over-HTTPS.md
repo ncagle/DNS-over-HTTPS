@@ -133,7 +133,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |easez.net|https://adguard.easez.net/dns-query|:heavy_check_mark:|Block ads
 |[EasyMosdns](https://doh.apad.pro/)|https://doh.apad.pro/dns-query|:heavy_check_mark:|
 |[EDDI](https://eddi.net)|https://doh.eddi.net/dns-query|:heavy_check_mark:|Block ads, also support DoT through `dot.eddi.net`
-|editechstudio|https://dns.editechstudio.com/dns-query|:heavy_check_mark:|Block ads & gambling
 |efficientdocuments.com|https://dns.efficientdocuments.com/dns-query|:heavy_check_mark:|
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
 |[Elemental Software](https://elemental.software)|https://dns.elemental.software/dns-query|:heavy_check_mark:|Support DoT
