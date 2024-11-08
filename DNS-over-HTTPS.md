@@ -297,7 +297,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Noridev](https://adblock.noridev.moe/html/dns_android.html) | https://2.dns.noridev.moe/dns-query |:heavy_check_mark:|Adblocking
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads, support DoT
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
-|[NS3](https://ns3.net)|https://ns3.cx/dns-query<br>https://ns3.link/dns-query<<br>https://ns3.com/dns-query<br>https://n0.eu/dns-query|:heavy_check_mark:|
+|[NS3](https://ns3.net)|https://ns3.cx/dns-query<br>https://ns3.link/dns-query<br>https://ns3.com/dns-query<br>https://n0.eu/dns-query|:heavy_check_mark:|
 |[numerus](https://numerus.com)|https://dns.numerus.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |nymterm.com|https://qdns02.nymterm.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 | **O**
