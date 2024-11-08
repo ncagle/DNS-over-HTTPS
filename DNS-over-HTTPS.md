@@ -155,7 +155,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Feroz](https://padlock.argh.in/2019/07/11/dns-over-https.html)|https://doh.li/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH & DoT Server of Freifunk München. No logging, no filter, DNSSEC, OpenNIC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en)
 |fidelius.top|https://fidelius.top/dns-query|:heavy_check_mark:|
-|[Flight Space](https://flightspace.net) |https://dns.flightspace.net/dns-query|:heavy_check_mark:| Support DoT
 |[FlokiNET](https://blog.flokinet.is/2021/09/27/flokinet-dns-resolver/)|https://resolv.flokinet.net/dns-query|:heavy_check_mark:|Support DoT
 |floriantinney.de|https://dns.floriantinney.de/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 |[FLY_MC](https://flymc.cc/2022/03/%E5%A4%8F%E7%A5%88%E4%BA%91%E5%85%AC%E5%85%B1dns-public-dns%E6%9C%8D%E5%8A%A1%E6%9B%B4%E6%96%B0%E4%B8%8A%E7%BA%BF/)|https://dns.flymc.cc/dns-query<br>https://dns.pari.network/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
@@ -232,6 +231,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. OpenNIC, no logging, no filtering, no ECS, DNSSEC support. |
 |lepilleur.com|https://dns.lepilleur.com/dns-query|:heavy_check_mark:|Block ads & gambling, use AdGuard browsing security web service, support DoT
 |[Levonet](https://www.levonet.sk/)|https://dns.levonet.sk/dns-query|:heavy_check_mark:| Support DoT
+|lewsha.lol|https://lewsha.lol/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Liberador.net](https://liberador.net)|https://dns.liberador.net|:heavy_check_mark:|Support DoT
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC, support DoT
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
