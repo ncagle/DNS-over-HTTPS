@@ -168,6 +168,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering, support DoT
 |[Gorgeous](https://so-gorgeo.us.kg/)|Japan: https://nana-is.so-gorgeo.us.kg/dns-query<br>Japan: https://tetty-is.so-gorgeo.us.kg/dns-query<br>Japan: https://luna-is.so-gorgeo.us.kg/dns-query<br>Singapore: https://mita-is.so-gorgeo.us.kg/dns-query<br>India: https://yussy-is.so-gorgeo.us.kg/dns-query<br>South Africa: https://nova-is.so-gorgeo.us.kg/dns-query<br>Netherlands: https://nindy-is.so-gorgeo.us.kg/dns-query<br>Google: https://mecca-is.so-gorgeo.us.kg/dns-query<br>AdGuard: https://myrra-is.so-gorgeo.us.kg/dns-query<br>AdGuard Family: https://nora-is.so-gorgeo.us.kg/dns-query|:heavy_check_mark:| Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |[Gottlieb Freitag](https://glf.wtf)|https://dns.glf.wtf/dns-query|:heavy_check_mark:|Block ads, support DoT
+|greatideasforlife.lol|https://greatideasforlife.lol/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 |guardmydns.com|https://dns.guardmydns.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |gutwe.in|https://dns.gutwe.in/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -257,7 +258,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |michelo.cl|https://dns.michelo.cl/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |mickedi.isgood.host|https://mickedi.isgood.host/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |[Mike Zhang](https://mikezhang.xyz)|https://mikezhang.xyz/dns-query|:heavy_check_mark:|
-|mihalcea.eu|https://dns.mihalcea.eu/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |miniapp.global|https://miniapp.global/dns-query|:heavy_check_mark:|
 |mismat.ch|https://netcup.mismat.ch/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |m-it.ro|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
@@ -307,7 +307,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering, support DoT
 |[OpenBLD.net](https://openbld.net/)|https://ada.openbld.net/dns-query|:heavy_check_mark:|Block ads, malicious. Support DoT, DoH - HTTP/2, TLSv1.3. Without DNS leaks. Use own upstreams and update services.
 |[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
-|[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Düsseldorf, Germany: https://ns2.opennameserver.org/dns-query<br>Berlin, Germany: https://ns3.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
+|[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Berlin, Germany: https://ns3.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
 |pashagame456.com|https://pashagame456.com/dns-query|:heavy_check_mark:|
