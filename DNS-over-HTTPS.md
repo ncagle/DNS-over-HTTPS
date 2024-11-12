@@ -220,7 +220,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kumoumi.net|https://dns.kumoumi.net/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
 |kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC, support DoT
 |kx-97795-tr.xyz|https://kx-97795-tr.xyz/dns-query|:heavy_check_mark:|
-|k3nny.fr|https://dns.k3nny.fr/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
 |[Lars Lehmann](https://larsl.net/)|https://dns.lars-lehmann.net/dns-query|:heavy_check_mark:| Support DoT
@@ -408,7 +407,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|Support DoT
 |[Vault 81](https://vault81.de)|https://dns.vault81.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|venum.space|https://venum.space/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT & DoQ
 |[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
