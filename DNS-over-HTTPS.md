@@ -45,7 +45,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bazooki-infra.dev|https://bazooki-infra.dev/dns-query|:heavy_check_mark:|
 |[Belnet](https://dns.belnet.be)|https://dns.belnet.be/dns-query|:heavy_check_mark:|
 |[Ben Hocking](https://bmwhocking.com)|https://dns.bmwhocking.com/dns-query|:heavy_check_mark:|
-|bermeitinger.eu|https://dns.bermeitinger.eu/dns-query|:heavy_check_mark:|Block ads, also support DoT
 |bestwon203.com|https://bestwon203.com/dns-query|:heavy_check_mark:|
 | Bitdefender | https://dns.bitdefender.net/dns-query | :heavy_check_mark: |Also support DoT
 |[BITServices](https://www.bitservices.io/)|https://dns.bitservices.io/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, also support DoT & DoQ
@@ -405,7 +404,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **V**
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
 |[Vasili Sviridov](https://vasi.li)|https://tor.vasi.li/dns-query|:heavy_check_mark:|Support DoT
-|[Vault 81](https://vault81.de)|https://dns.vault81.de/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Virga DNS](https://virga.pp.ua) | Adblocking https://virga.pp.ua/dns-query <br> Adblocking & porn blocking https://virga.pp.ua/porn | :heavy_check_mark: <br> :heavy_check_mark: | Server in Japan, use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service, support DoT & DoQ
 |[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
