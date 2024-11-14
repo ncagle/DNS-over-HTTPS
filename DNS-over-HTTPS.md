@@ -25,7 +25,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/)), also support DoT|
 |[Angry.im](https://angry.im)|https://doh.angry.im/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, OpenNIC
 |anon.no|https://dns.anon.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, also support DoT & DoQ
-|antstars.win|https://antstars.win/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, also support DoT & DoQ
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream and AdGuard browsing security web service, also support DoT
 |anym0re.ru|https://ad.anym0re.ru/dns-query|:heavy_check_mark:|Block ads & gambling, use AdGuard browsing security web service, also support DoT & DoQ
 |[Apollinaria](https://hypercute.eu/)|https://dns.hypercute.eu/dns-query| :heavy_check_mark: |Use Cloudflare upstream, also support DoT
@@ -66,7 +65,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |b612.me|https://dns.b612.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream, also support DoT
 | **C**
 |cabbage.zone|https://dns.cabbage.zone/dns-query|:heavy_check_mark:|Block ads
-|cahlen.com|https://dns.cahlen.com/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |[Canarypwn](https://aaaab3n.moe/networks) | https://doh.aaaab3n.moe/dns-query-114514 | :heavy_check_mark: | Use Cloudflare upstream
 |carter.me|https://dns.carter.me/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |caspervk.net|https://dns.caspervk.net/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -99,7 +97,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
 |datenquark.de|https://dns.datenquark.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |deep-henchman-excuse.cfd|https://deep-henchman-excuse.cfd/dns-query|:heavy_check_mark:|
-|delpirou.fr|https://dns.delpirou.fr/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[denypradana.com](https://doh.denypradana.com)|https://doh.denypradana.com/dns-query|:heavy_check_mark:|
 |dev-umbrellagov|https://dns.dev-umbrellagov.com/dns-query| :heavy_check_mark: | Support DoT
 |diarbagus.id|https://dns.diarbagus.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
@@ -319,7 +316,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pm1239-bd.xyz|https://pm1239-bd.xyz/dns-query|:heavy_check_mark:|
 |pm9352-bd.xyz|https://pm9352-bd.xyz/dns-query|:heavy_check_mark:|
 |pm7051-br.xyz|https://pm7051-br.xyz/dns-query|:heavy_check_mark:|
-|polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.beauty/dns-query<br>https://polisitogel.cruises/dns-query<br>https://polisitogel.construction/dns-query<br>https://polisitogel.green/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.accountant/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query<br>https://polisitogel.contractors/dns-query<br>https://polisitogel.builders/dns-query|:heavy_check_mark:|
+|polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.beauty/dns-query<br>https://polisitogel.cruises/dns-query<br>https://polisitogel.green/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.accountant/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query<br>https://polisitogel.contractors/dns-query<br>https://polisitogel.builders/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |[PrivacyDNS](https://privacy-dns.pw/)|https://las-vegas.privacy-dns.pw/dns-query<br>https://india.privacy-dns.pw/dns-query<br>https://united-arab-emirates.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://luxembourg.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query<br>https://romania.privacy-dns.pw/dns-query<br>https://hungary.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
