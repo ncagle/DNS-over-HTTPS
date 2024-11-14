@@ -203,6 +203,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT & DoQ
 |[Karadağlar](https://karadag.me)|https://dns.karadag.me/dns-query|:heavy_check_mark:|Support DoT
 |kastner-online.de|https://dns.kastner-online.de/dns-query|:heavy_check_mark:|Block ads, support DoT
+|kavkaz.monster|https://kavkaz.monster/dns-query|:heavy_check_mark:|Block ads, support DoT
 |kebree.fr|https://dns.kebree.fr/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT
 |[Kernel Error](https://kernel-error.de)|https://dns.kernel-error.de/dns-query|:heavy_check_mark:| Support DoT
