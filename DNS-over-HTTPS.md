@@ -233,7 +233,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LuMa Medien](https://luma-medien.com)|https://dns.luma-medien.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **M**
-|mabuktogel|https://mabuktogel.builders/dns-query<br>https://mabuktogel.marketing/dns-query<br>https://mabuktogel.ltd/dns-query<br>https://mabuktogel.degree/dns-query<br>https://mabuktogel.properties/dns-query<br>https://mabuktogel.business/dns-query<br>https://mabuktogel.enterprises/dns-query<br>https://mabuktogel.solutions/dns-query<br>https://mabuktogel.cards/dns-query<br>https://mabuktogel.directory/dns-query<br>https://mabuktogel.limited/dns-query<br>https://mabuktogel.immobilien/dns-query<br>https://mabuktogel.creditcard/dns-query|:heavy_check_mark:|
+|mabuktogel|https://mabuktogel.marketing/dns-query<br>https://mabuktogel.ltd/dns-query<br>https://mabuktogel.degree/dns-query<br>https://mabuktogel.properties/dns-query<br>https://mabuktogel.business/dns-query<br>https://mabuktogel.enterprises/dns-query<br>https://mabuktogel.solutions/dns-query<br>https://mabuktogel.cards/dns-query<br>https://mabuktogel.directory/dns-query<br>https://mabuktogel.limited/dns-query<br>https://mabuktogel.immobilien/dns-query<br>https://mabuktogel.creditcard/dns-query|:heavy_check_mark:|
 |maqgie.xyz|https://maqgie.xyz/dns-query|:heavy_check_mark:|
 |marasov.id|https://dns.marasov.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Marbled Fennec Networks / FurrIX](https://www.marbledfennec.net/public-dns-server/)|https://multi.dns.marbledfennec.net/dns-query|:heavy_check_mark:|OpenNIC compatible, support for DoT and DoH, Small community project providing two name servers, IPv4/IPv6
@@ -379,7 +379,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |szpadel.ovh|https://dns.szpadel.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
-|[Taxiora](https://taxiora.tn)|https://adguard.taxiora.tn/dns-query|:heavy_check_mark:|Block ads
 |tecdrive.site|https://tecdrive.site/dns-query|:heavy_check_mark:|
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
