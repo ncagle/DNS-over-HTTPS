@@ -343,7 +343,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |roedel.cloud|https://dns.roedel.cloud/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **S**
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap, support DoT
-|[Salonia](https://salonia.it/en/dns)|https://dns.salonia.it/dns-query|:heavy_check_mark:|Block ads
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
@@ -439,6 +438,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|Support DoT & DoQ
 |688447.xyz|https://dns.688447.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
+|853852.xyz|https://dns.853852.xyz/dns-query|:heavy_check_mark:|Block ads
 |9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
 | **Others**
 | [@null31](https://ibuki.cgnat.net)| https://ibuki.cgnat.net/dns-query | :heavy_check_mark: | Based in Brazil / doh-server (nginx - unbound) / dot-server (unbound) / DNSSEC / QNAME minimization / Uncensored / no logging, no ECS, hosted on Oracle Cloud VPS by [null31](https://gitlab.com/null31/DoT-DoH-public-config), support DoT
