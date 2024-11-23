@@ -219,6 +219,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |lewsha.lol|https://lewsha.lol/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Liberador.net](https://liberador.net)|https://dns.liberador.net|:heavy_check_mark:|Support DoT
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC, support DoT
+|lifeisa.live|https://lifeisa.live/dns-query|:heavy_check_mark:|
 | [Lindung](https://lindung.pp.ua/) | Adblocking: https://lindung.pp.ua/dns-query <br> Ad & porn blocking: https://lindung.pp.ua/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |[Liquid Intelligent Technologies](https://liquid.tech/)|https://africadns1.liquidtelecom.net/dns-query<br>https://africadns2.liquidtelecom.net/dns-query|:heavy_check_mark:|
 |loadlow.me|https://loadlow.me/dns-query|:heavy_check_mark:|
@@ -326,6 +327,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |redhosting.com.ar|https://dns.redhosting.com.ar/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream, support DoT
 |reitmeier.me|https://dns.reitmeier.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream , support DoT & DoQ
 |reckoningslug.name|https://dns.reckoningslug.name/dns-query|:heavy_check_mark:|Use Cloudflare upstream
+|renardbleu.dev|https://renardbleu.dev/dns-query|:heavy_check_mark:|OpenNIC, support DoT
 |[Restena](https://www.restena.lu/en/document/190-configuring-your-server-public-dns-resolver)|https://dnspub.restena.lu/dns-query|:heavy_check_mark:|DNSSEC validation, support DoT
 |[RetakeCS](https://retakecs.com/)|https://dns.retakecs.com/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure) with DoH and DoT option
@@ -428,6 +430,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|Support DoT & DoQ
 |688447.xyz|https://dns.688447.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
+|75747123.xyz|https://75747123.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |853852.xyz|https://dns.853852.xyz/dns-query|:heavy_check_mark:|Block ads
 |9999.sg|https://dns.9999.sg/dns-query|:heavy_check_mark:|
 | **Others**
