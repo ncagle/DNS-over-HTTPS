@@ -348,7 +348,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Shimul D](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service, support DoT
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
-|[sindominio.net](https://sindominio.net/ayuda/#dns-mediante-https)|https://dns.sindominio.net/dns-query|:heavy_check_mark:| Support DoT
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|OpenNIC, block ads, support DoT & DoQ
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream, support DoT
