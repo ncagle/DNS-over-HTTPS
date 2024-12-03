@@ -372,6 +372,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
 |[TN Photography](https://timnichollsphotography.com)|https://adb.timnichollsphotography.com/dns-query|:heavy_check_mark:|Block ads, support DoT
+|toropyzhka.xyz|https://toropyzhka.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |[Trash.net](https://www.trash.net/doh/)|Nonblocking: https://resolv1.trash.net/trash-dns<br>https://resolv2.trash.net/trash-dns<br>Adblocking: https://resolv3.trash.net/trash-dns|:heavy_check_mark: |
 |[TrcNeTin](https://ns1.trcnet.fi)|https://ns.trcnet.fi/dns-query|:heavy_check_mark:| Support DoT
 |tujenasnaszato.xyz|https://tujenasnaszato.xyz/dns-query|:heavy_check_mark:|
