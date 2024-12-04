@@ -221,11 +221,11 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Liquid Intelligent Technologies](https://liquid.tech/)|https://africadns1.liquidtelecom.net/dns-query<br>https://africadns2.liquidtelecom.net/dns-query|:heavy_check_mark:|
 |loadlow.me|https://loadlow.me/dns-query|:heavy_check_mark:|
 |[LobbyGod](https://lobbygod.com/)|https://dns.lobbygod.com/dns-query|:heavy_check_mark:| Support DoT
-|lukscasino|https://lukscasino-929-tr.xyz/dns-query<br>https://lukscasino-479-tr.xyz/dns-query<br>https://lukscasino-542-tr.xyz/dns-query |:heavy_check_mark:|
+|lukscasino|https://lukscasino-929-tr.xyz/dns-query<br>https://lukscasino-479-tr.xyz/dns-query|:heavy_check_mark:|
 |[LuMa Medien](https://luma-medien.com)|https://dns.luma-medien.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **M**
-|mabuktogel|https://mabuktogel.marketing/dns-query<br>https://mabuktogel.ltd/dns-query<br>https://mabuktogel.degree/dns-query<br>https://mabuktogel.properties/dns-query<br>https://mabuktogel.enterprises/dns-query<br>https://mabuktogel.solutions/dns-query<br>https://mabuktogel.directory/dns-query<br>https://mabuktogel.limited/dns-query<br>https://mabuktogel.immobilien/dns-query<br>https://mabuktogel.creditcard/dns-query|:heavy_check_mark:|
+|mabuktogel|https://mabuktogel.marketing/dns-query<br>https://mabuktogel.ltd/dns-query<br>https://mabuktogel.properties/dns-query<br>https://mabuktogel.enterprises/dns-query<br>https://mabuktogel.solutions/dns-query<br>https://mabuktogel.directory/dns-query<br>https://mabuktogel.limited/dns-query<br>https://mabuktogel.immobilien/dns-query<br>https://mabuktogel.creditcard/dns-query|:heavy_check_mark:|
 |maqgie.xyz|https://maqgie.xyz/dns-query|:heavy_check_mark:|
 |marasov.id|https://dns.marasov.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Marbled Fennec Networks / FurrIX](https://www.marbledfennec.net/public-dns-server/)|https://multi.dns.marbledfennec.net/dns-query|:heavy_check_mark:|OpenNIC compatible, support for DoT and DoH, Small community project providing two name servers, IPv4/IPv6
