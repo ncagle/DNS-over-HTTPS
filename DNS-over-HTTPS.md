@@ -164,7 +164,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
 |home-server.store|https://home-server.store/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
-|[Honza](https://hajekj.net)|https://doh.hajekj.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Hoody](https://hoody.com)|https://dns.hoody.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |[Hostux](https://dns.hostux.net/en/)|https://dns.hostux.net/dns-query<br>https://dns.hostux.net/ads|:heavy_check_mark:|Support DoT
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | Support DoT
@@ -278,7 +277,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: | Support DoT
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads, support DoT
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
-|[NS3](https://ns3.net)|https://n0.eu/dns-query|:heavy_check_mark:|
 | **O**
 |obscuro.top|https://obscuro.top/dns-query|:heavy_check_mark:| 
 |[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -414,7 +412,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[0ms](https://0ms.dev)|Unfiltered: https://0ms.dev/dns-query<br>Adblock: https://0ms.dev/dns-adblock|:heavy_check_mark:|Use Cloudflare upstream
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |0rz.ing|https://dns.0rz.ing/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream 
-|0x55|https://dns.0x55.net/dns-query|:heavy_check_mark:|Support DoT & DoQ
 |052419.xyz|https://052419.xyz/dns-query|:heavy_check_mark:|
 |123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
