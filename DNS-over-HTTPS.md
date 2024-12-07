@@ -55,6 +55,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet • Also support DoT
 |[Bravoc.one](https://bravoc.one/en/)|https://dns.bravoc.one/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service
 |brembeck.cloud|https://dns.brembeck.cloud/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security and parental control web service
+|brono.cloud|https://dns.brono.cloud/dns-query|:heavy_check_mark:|Block ads
 |[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query|:heavy_check_mark:|
 |[Burgas](https://burgas.pro/#dns)|https://dns.burgas.pro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering, support DoT
 |[busold.ws](https://busold.ws)|https://dns.busold.ws/dns-query|:heavy_check_mark:|Block ads, also support DoT
