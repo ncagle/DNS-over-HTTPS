@@ -230,7 +230,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |maskab|https://doh.maskab.com/dns-query|:heavy_check_mark:|
 | [Masters of Cloud](https://www.masters-of-cloud.de/) | https://masters-of-cloud.de/dns-query | :heavy_check_mark: | OpenNIC, support DoT
 |mateo.ovh|https://dns.mateo.ovh/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
-|[Mathijs Ronald Lermer](https://lermer.nl)|https://dns.lermer.nl/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 |[Max Philipp Wriefdt](https://wriedts.de)|https://home.wriedts.de/dns-query|:heavy_check_mark:|Block ads & gambling
 |[Mayx](https://mayx.eu.org)|https://dns.mayx.eu.org/dns-query|:heavy_check_mark:|
 |[MBRJun](https://mbrjun.cn)|https://dns.mbrjun.cn/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
@@ -351,7 +350,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Sunoaki Network](https://sunoaki.net)|https://doh.sunoaki.net/dns-query|:heavy_check_mark:|
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
-|sv-zauner.at|https://dns.sv-zauner.at/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, OpenNIC, support DoT & DoQ
 |[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
 |[Syst(em)](https://sy.st)|https://dns.sy.st/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |szpadel.ovh|https://dns.szpadel.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT
