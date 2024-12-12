@@ -276,7 +276,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |obscuro.top|https://obscuro.top/dns-query|:heavy_check_mark:| 
 |[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads, support DoT
-|okado.online|https://okado.online/dns-query|:heavy_check_mark:|Block ads, use ControlD upstream, AdGuard browsing security web service, support DoT & DoQ
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering, support DoT
 |[OpenBLD.net](https://openbld.net/)|https://ada.openbld.net/dns-query|:heavy_check_mark:|Block ads, malicious. Support DoT, DoH - HTTP/2, TLSv1.3. Without DNS leaks. Use own upstreams and update services.
 |[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
@@ -294,7 +293,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pm1239-bd.xyz|https://pm1239-bd.xyz/dns-query|:heavy_check_mark:|
 |pm9352-bd.xyz|https://pm9352-bd.xyz/dns-query|:heavy_check_mark:|
 |pm7051-br.xyz|https://pm7051-br.xyz/dns-query|:heavy_check_mark:|
-|polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.cruises/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query|:heavy_check_mark:|
+|polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |[PrivacyDNS](https://privacy-dns.pw/)|https://las-vegas.privacy-dns.pw/dns-query<br>https://india.privacy-dns.pw/dns-query<br>https://united-arab-emirates.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://luxembourg.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query<br>https://romania.privacy-dns.pw/dns-query<br>https://hungary.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
