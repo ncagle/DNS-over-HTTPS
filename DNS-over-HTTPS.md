@@ -114,6 +114,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:| Support DoT
 |[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
 |do-39574-tr.xyz|https://do-39574-tr.xyz/dns-query|:heavy_check_mark:|
+|[dremaxx.de](https://dremaxx.de)|https://dns.dremaxx.de/dns-query|:heavy_check_mark:|Support DoT
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: | Support DoT
 |[duröhre.de](https://xn--durhre-yxa.de)|https://xn--durhre-yxa.de/dns-query|:heavy_check_mark:|
@@ -200,7 +201,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |krctech.dev|https://adblock.krctech.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
-|kukal.cz|https://dns.kukal.cz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |kumoumi.net|https://dns.kumoumi.net/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
 |kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC, support DoT
 | **L**
