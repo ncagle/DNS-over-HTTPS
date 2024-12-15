@@ -56,6 +56,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Bravoc.one](https://bravoc.one/en/)|https://dns.bravoc.one/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service
 |brembeck.cloud|https://dns.brembeck.cloud/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security and parental control web service
 |brono.cloud|https://dns.brono.cloud/dns-query|:heavy_check_mark:|Block ads
+|butterfly87.sbs|https://dns.butterfly87.sbs/dns-query|:heavy_check_mark:|
 |[bunny.net](https://bunny.net/)|https://doh1.b-cdn.net/dns-query|:heavy_check_mark:|
 |[Burgas](https://burgas.pro/#dns)|https://dns.burgas.pro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering, support DoT
 |[busold.ws](https://busold.ws)|https://dns.busold.ws/dns-query|:heavy_check_mark:|Block ads, also support DoT
@@ -115,6 +116,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
 |do-39574-tr.xyz|https://do-39574-tr.xyz/dns-query|:heavy_check_mark:|
 |[dremaxx.de](https://dremaxx.de)|https://dns.dremaxx.de/dns-query|:heavy_check_mark:|Support DoT
+|droyd.top|https://droyd.top/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: | Support DoT
 |[duröhre.de](https://xn--durhre-yxa.de)|https://xn--durhre-yxa.de/dns-query|:heavy_check_mark:|
@@ -162,6 +164,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **H**
 |[Hacki](https://deadsec.net)|https://dns.deadsec.net/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
+|hjebbour.top|https://adguard.hjebbour.top/dns-query|:heavy_check_mark:|Block ads
 |home-server.store|https://home-server.store/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 |[Hoody](https://hoody.com)|https://dns.hoody.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
@@ -187,6 +190,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **K**
 |kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT & DoQ
 |[Karadağlar](https://karadag.me)|https://dns.karadag.me/dns-query|:heavy_check_mark:|Support DoT
+|kasbot.net|https://adguard.kasbot.net/dns-query|:heavy_check_mark:|Block ads
 |kastner-online.de|https://dns.kastner-online.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |kebree.fr|https://dns.kebree.fr/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |Kerekes|https://dns.kerekes.xyz/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT
@@ -244,6 +248,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:| Support DoT
 |mnrv.trade|https://mnrv.trade/dns-query|:heavy_check_mark:|
 |[mobik](https://mobik.com)|https://dnstls.mobik.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
+|moamao.shop|https://moamao.shop/dns-query|:heavy_check_mark:|
 |[momou! DNS](https://dns.momou.ch)|Adblock: https://dns.momou.ch/dns-query<br>Kids filter: https://dns.momou.ch/dns-query/kids<br>Unfiltered: https://dns.momou.ch/dns-query/unfiltered|:heavy_check_mark:|Block ads, kids filter use AdGuard browsing security and parental control web service, support DoT
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://dns.mullvad.net/dns-query <br> Adblocking https://adblock.dns.mullvad.net/dns-query <br> Ad & malware blocking https://base.dns.mullvad.net/dns-query <br> Ad, malware, social media blocking https://extended.dns.mullvad.net/dns-query <br> Ad, malware, social media, adult content and gamble blocking https://all.dns.mullvad.net/dns-query <br> Ad, malware, adult content and gamble blocking https://family.dns.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Public DoH server in US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf), support DoT
 |myatris.sbs|https://myatris.sbs/dns-query|:heavy_check_mark:|
@@ -357,6 +362,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Telekom Deutschland](https://telekomhilft.telekom.de/t5/Offentliche-Tests-Umfragen/Telekom-hilft-Labor-Testet-mit-uns-DNS-over-HTTPS/m-p/5008054) | https://dns.telekom.de/dns-query | :heavy_check_mark: |Support DoT
 |thebuckners.org|https://dns.thebuckners.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |thethorsens.org|https://blocker.thethorsens.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare and ControlD upstream, support DoT & DoQ
+|[thiz.top](https://dns.thiz.top)|https://dns.thiz.top/dns-query<br>OISD: https://dns.thiz.top/1:IAAgAA==<br>Hagezi: |:heavy_check_mark:|Use Cloudflare upstream, support blocklist customization through Rethink custom path
 |tierradeayala.com|https://dns.tierradeayala.com/dns-query|:heavy_check_mark:|Block ads
 |[TipsyCoffee](https://tipsy.coffee)|https://dns.tipsy.coffee/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 | Tls-data.de | https://dns.tls-data.de/dns-query | :heavy_check_mark: |
