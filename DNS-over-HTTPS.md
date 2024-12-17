@@ -225,7 +225,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LuMa Medien](https://luma-medien.com)|https://dns.luma-medien.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **M**
-|mabuktogel|https://mabuktogel.marketing/dns-query<br>https://mabuktogel.ltd/dns-query<br>https://mabuktogel.properties/dns-query<br>https://mabuktogel.enterprises/dns-query<br>https://mabuktogel.solutions/dns-query<br>https://mabuktogel.directory/dns-query<br>https://mabuktogel.limited/dns-query<br>https://mabuktogel.immobilien/dns-query|:heavy_check_mark:|
+|mabuktogel|https://mabuktogel.marketing/dns-query<br>https://mabuktogel.ltd/dns-query<br>https://mabuktogel.properties/dns-query<br>https://mabuktogel.solutions/dns-query<br>https://mabuktogel.directory/dns-query<br>https://mabuktogel.limited/dns-query<br>https://mabuktogel.immobilien/dns-query|:heavy_check_mark:|
 |maqgie.xyz|https://maqgie.xyz/dns-query|:heavy_check_mark:|
 |marasov.id|https://dns.marasov.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Marbled Fennec Networks / FurrIX](https://www.marbledfennec.net/public-dns-server/)|https://multi.dns.marbledfennec.net/dns-query|:heavy_check_mark:|OpenNIC compatible, support for DoT and DoH, Small community project providing two name servers, IPv4/IPv6
