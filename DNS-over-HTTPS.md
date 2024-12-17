@@ -150,7 +150,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Froth.zone](https://dns.froth.zone/resolver/)|https://dns.froth.zone/dns-query|:heavy_check_mark:|OpenNIC, support DoT & DoQ
 |frutuozo.com.br|https://adguard.frutuozo.com.br/dns-query|:heavy_check_mark:|Block ads
 |[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.futa.gg`
-|[FutureDNS](https://futuredns.eu.org/|Germany: https://dns.de.futuredns.eu.org/dns-query/<br>US: https://dns.us.futuredns.eu.org/dns-query/|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
+|[FutureDNS](https://futuredns.eu.org/)|Germany: https://dns.de.futuredns.eu.org/dns-query/<br>US: https://dns.us.futuredns.eu.org/dns-query/|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gibblets.top|https://gibblets.top/dns-query|:heavy_check_mark:|
