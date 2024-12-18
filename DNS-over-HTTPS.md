@@ -144,7 +144,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Feroz](https://padlock.argh.in/2019/07/11/dns-over-https.html)|https://doh.li/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 | [ffmuc.net](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en) | https://doh.ffmuc.net/dns-query | :heavy_check_mark:| DoH & DoT Server of Freifunk München. No logging, no filter, DNSSEC, OpenNIC, own recursion. More in our [wiki](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en)
 |fidelius.top|https://fidelius.top/dns-query|:heavy_check_mark:|
-|[FlokiNET](https://blog.flokinet.is/2021/09/27/flokinet-dns-resolver/)|https://resolv.flokinet.net/dns-query|:heavy_check_mark:|Support DoT
 |floriantinney.de|https://dns.floriantinney.de/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 |[FLY_MC](https://flymc.cc/2022/03/%E5%A4%8F%E7%A5%88%E4%BA%91%E5%85%AC%E5%85%B1dns-public-dns%E6%9C%8D%E5%8A%A1%E6%9B%B4%E6%96%B0%E4%B8%8A%E7%BA%BF/)|https://dns.flymc.cc/dns-query<br>https://dns.pari.network/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | [Foundation for Applied Privacy](https://applied-privacy.net/services/dns/) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198, DoT
@@ -206,7 +205,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |krctech.dev|https://adblock.krctech.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
-|kumoumi.net|https://dns.kumoumi.net/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT & DoQ
 |kuuhaku.moe|https://dns.kuuhaku.moe/dns-query|:heavy_check_mark:| OpenNIC, support DoT
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
@@ -300,7 +298,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
-|[PrivacyDNS](https://privacy-dns.pw/)|https://las-vegas.privacy-dns.pw/dns-query<br>https://india.privacy-dns.pw/dns-query<br>https://united-arab-emirates.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://luxembourg.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query<br>https://romania.privacy-dns.pw/dns-query<br>https://hungary.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
+|[PrivacyDNS](https://privacy-dns.pw/)|https://india.privacy-dns.pw/dns-query<br>https://united-arab-emirates.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query<br>https://romania.privacy-dns.pw/dns-query<br>https://hungary.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
