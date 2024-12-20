@@ -274,6 +274,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: | Support DoT
 |novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads, support DoT
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
+|ntwrkh.pro|https://ntwrkh.pro/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **O**
 |obscuro.top|https://obscuro.top/dns-query|:heavy_check_mark:| 
 |[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -288,6 +289,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |peb-schmidt.de|https://dns.peb-schmidt.de/dns-query|:heavy_check_mark:|Block ads, AdGuard browsing security web service, support DoT & DoQ
+|pepetio.xyz|https://pepetio.xyz/dns-query|:heavy_check_mark:|
 |petqa.ru|https://dns.petqa.ru/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |pietjacobs.be|https://dns1.pietjacobs.be/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering
 |[plan9-dns](https://github.com/jlongua/plan9-dns)|New Jersey: https://kronos.plan9-dns.com/dns-query<br>Mexico: https://helios.plan9-dns.com/dns-query<br>Florida: https://pluton.plan9-dns.com/dns-query|:heavy_check_mark:|
@@ -403,6 +405,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zknt.org|https://doh.zknt.org/dns-query|:heavy_check_mark:|Support DoT
 |zneginnl.website|https://zneginnl.website/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
+|znegindeh2.top|https://znegindeh2.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **0-9**
 |[0ms](https://0ms.dev)|Unfiltered: https://0ms.dev/dns-query<br>Adblock: https://0ms.dev/dns-adblock|:heavy_check_mark:|Use Cloudflare upstream
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
