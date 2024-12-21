@@ -18,7 +18,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |affcdn.net|https://affcdn.net/dns-query|:heavy_check_mark:|
 |affsoft.cc|https://affsoft.cc/dns-query|:heavy_check_mark:|
 |[AhaDNS Blitz](https://ahadns.com/blitz/)| Uncensored : https://blitz.ahadns.com <br> OISD filter : https://blitz.ahadns.com/1:1 | :heavy_check_mark: <br> :heavy_check_mark:| [Customizable](https://blitz-setup.ahadns.com/) globally distributed DoH-only server with no logging |
-| [AhaDNS](https://ahadns.com) | Netherlands:<br> https://doh.nl.ahadns.net/dns-query | :heavy_check_mark: | Also support DoT through `dot.nl.ahadns.net`. Deprecated in favor of AhaDNS Blitz |
 |[Ahoj Mail](https://ahoj.email) |https://ahoj.email/dns-query|:heavy_check_mark:|
 |[AliDNS](https://alidns.com)|https://dns.alidns.com/dns-query|:heavy_check_mark:|Also support DoT & DoQ
 |[André Kelpe](https://kel.pe)|https://doh.kel.pe|:heavy_check_mark:|Block ads, also support DoT
@@ -299,7 +298,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
-|[PrivacyDNS](https://privacy-dns.pw/)|https://india.privacy-dns.pw/dns-query<br>https://united-arab-emirates.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query<br>https://romania.privacy-dns.pw/dns-query<br>https://hungary.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
+|[PrivacyDNS](https://privacy-dns.pw/)|https://india.privacy-dns.pw/dns-query<br>https://united-arab-emirates.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
