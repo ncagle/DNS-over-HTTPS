@@ -280,7 +280,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering, support DoT
 |[OpenBLD.net](https://openbld.net/)|https://ada.openbld.net/dns-query|:heavy_check_mark:|Block ads, malicious. Support DoT, DoH - HTTP/2, TLSv1.3. Without DNS leaks. Use own upstreams and update services.
 |[OpenLoop](https://openloophealth.com/)|https://ag.apollohct.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
-|[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query<br>Berlin, Germany: https://ns3.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
+|[opennameserver.org](https://opennameserver.org)|Baden-Baden, Germany: https://ns1.opennameserver.org/dns-query|:heavy_check_mark:|DNSSEC enabled, non-logging, OpenNIC support
 | **P**
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
 |pashagame456.com|https://pashagame456.com/dns-query|:heavy_check_mark:|
@@ -298,7 +298,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
-|[PrivacyDNS](https://privacy-dns.pw/)|https://india.privacy-dns.pw/dns-query<br>https://switzerland.privacy-dns.pw/dns-query<br>https://sweden.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
+|[PrivacyDNS](https://privacy-dns.pw/)|https://india.privacy-dns.pw/dns-query|:heavy_check_mark:|Adbocking, support DoT & DoQ
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
