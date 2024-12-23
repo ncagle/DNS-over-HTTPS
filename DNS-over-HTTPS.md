@@ -416,7 +416,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[5ososea](https://5ososea.com)|Family: https://family.5ososea.com/dns-query<br>Children: https://kids.5ososea.com/dns-query|:heavy_check_mark:|Block ads & porn, use Cloudflare upstream with family filtering and AdGuard browsing security web service
 |52306.org|https://dns.52306.org/dns-query|:heavy_check_mark:|Support DoT & DoQ
 |688447.xyz|https://dns.688447.xyz/dns-query|:heavy_check_mark:|Use Cloudflare upstream
-|75747123.xyz|https://75747123.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |774445.xyz|https://doh.774445.xyz/dns-query|:heavy_check_mark:| 
 |775467.xyz|https://dns.775467.xyz/dns-query|:heavy_check_mark:|
 |853852.xyz|https://dns.853852.xyz/dns-query|:heavy_check_mark:|Block ads
