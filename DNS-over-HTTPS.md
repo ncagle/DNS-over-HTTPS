@@ -156,7 +156,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[girino.org](https://girino.org)|https://dns.girino.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |glacius.top|https://glacius.top/dns-query|:heavy_check_mark:|
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering, support DoT
-|[Gorgeous](https://so-gorgeo.us.kg/)|Japan: https://nana-is.so-gorgeo.us.kg/dns-query<br>Japan: https://tetty-is.so-gorgeo.us.kg/dns-query<br>Japan: https://luna-is.so-gorgeo.us.kg/dns-query<br>Singapore: https://mita-is.so-gorgeo.us.kg/dns-query<br>India: https://yussy-is.so-gorgeo.us.kg/dns-query<br>South Africa: https://nova-is.so-gorgeo.us.kg/dns-query<br>Netherlands: https://nindy-is.so-gorgeo.us.kg/dns-query<br>California: https://sitha-is.so-gorgeo.us.kg/dns-query<br>Google: https://mecca-is.so-gorgeo.us.kg/dns-query|:heavy_check_mark:| Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
 |[Gottlieb Freitag](https://glf.wtf)|https://dns.glf.wtf/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 | **H**
@@ -263,7 +262,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [NIC.LV](https://doh.lv/) | https://doh.lv/dns-query <br> https://doh.nic.lv/dns-query | :heavy_check_mark: <br> :heavy_check_mark: | Run by .lv TLD registry , support DoT
 |[Nico Franke](https://zernico.de)|https://adguard-kartoffel.zernico.de/dns-query|:heavy_check_mark:| Support DoT
 |[Nicolas Dorriere](https://nicolas-dorriere.fr/dns/)|Adblocking: https://doh-random-upstream.nicolas-dorriere.fr/dns-query<br>Non filtering: https://doh-own-recursion.nicolas-dorriere.fr/dns-query|:heavy_check_mark:|Block ads
-| [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
 |[niko.NWPS.fi](https://niko.nwps.fi/2024/09/01/free-dns-filter/)|Family Filter: https://ns.nwps.fi/dns-query/family<br>Security Filter: https://ns.nwps.fi/dns-query/public|:heavy_check_mark:|Block ads, hosted in Helsinki, support DoT, use AdGuard browsing security and parental filtering web service.
 |[Ningkelle](https://ningkelle.id/tools/dns/)|Adblock: https://dns.ningkelle.id/dns-query<br>Family: https://family.dns.ningkelle.id/dns-query|:heavy_check_mark:|Block ads. Adblock endpoint uses Cloudflare upstream, Family endpoint uses AdGuard browsing security and parental filtering web service. Support DoT.
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |Support DoT through `dot.niyawe.de`
