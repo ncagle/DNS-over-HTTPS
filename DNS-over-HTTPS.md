@@ -207,7 +207,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
 |[Lars Lehmann](https://larsl.net/)|https://dns.lars-lehmann.net/dns-query|:heavy_check_mark:| Support DoT
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. OpenNIC, no logging, no filtering, no ECS, DNSSEC support. |
-|lecker.pizza|https://lecker.pizza/dns-query|:heavy_check_mark:|
 |lepilleur.com|https://dns.lepilleur.com/dns-query|:heavy_check_mark:|Block ads & gambling, use AdGuard browsing security web service, support DoT
 |[Levonet](https://www.levonet.sk/)|https://dns.levonet.sk/dns-query|:heavy_check_mark:| Support DoT
 |lewsha.lol|https://lewsha.lol/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -336,6 +335,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream, support DoT
 |[SmartGuard](https://www.smartguard.io/en#server)|https://dns.smartguard.io/dns-query|:heavy_check_mark:|Customizable policy and filtering, support DoT
 |[smilence](https://geili.me)|https://adg.geili.me/dns-query|:heavy_check_mark:|
+|solaxy.live|https://solaxy.live/dns-query|:heavy_check_mark:|
 |squidmall.vip|https://squidmall.vip/dns-query|:heavy_check_mark:|
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:| Support DoT
 |[stevenz](https://www.stevenz.blog/dns/)|https://dns.stevenz.net/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
@@ -349,7 +349,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |superstefan.win|https://dns.superstefan.win/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[Svoi](https://svoi.dev/)|https://dns.svoi.dev/dns-query| :heavy_check_mark: | 
 |[Switch](https://www.switch.ch/en/switch-public-dns)|https://dns.switch.ch/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
-|[Syst(em)](https://sy.st)|https://dns.sy.st/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |szpadel.ovh|https://dns.szpadel.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **T**
 | t53.de | https://dns.t53.de/dns-query | :heavy_check_mark: | Support DoT
