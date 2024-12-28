@@ -209,7 +209,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. OpenNIC, no logging, no filtering, no ECS, DNSSEC support. |
 |lepilleur.com|https://dns.lepilleur.com/dns-query|:heavy_check_mark:|Block ads & gambling, use AdGuard browsing security web service, support DoT
 |[Levonet](https://www.levonet.sk/)|https://dns.levonet.sk/dns-query|:heavy_check_mark:| Support DoT
-|lewsha.lol|https://lewsha.lol/dns-query|:heavy_check_mark:|Block ads, support DoT
 |[Liberador.net](https://liberador.net)|https://dns.liberador.net|:heavy_check_mark:|Support DoT
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC, support DoT
 |lifeisa.live|https://lifeisa.live/dns-query|:heavy_check_mark:|
@@ -294,7 +293,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pm7051-br.xyz|https://pm7051-br.xyz/dns-query|:heavy_check_mark:|
 |polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query<br>https://polisitogel.realty/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
-|[PragmaSEC](https://pragmasec.nl/)|https://dns.pragmasec.nl/dns-query|:heavy_check_mark:|Adblocking, use AdGuard browsing security web service, support DoT & DoQ
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
@@ -398,7 +396,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zknt.org|https://doh.zknt.org/dns-query|:heavy_check_mark:|Support DoT
-|zneginnl.website|https://zneginnl.website/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |znegindeh2.top|https://znegindeh2.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **0-9**
 |[0ms](https://0ms.dev)|Unfiltered: https://0ms.dev/dns-query<br>Adblock: https://0ms.dev/dns-adblock|:heavy_check_mark:|Use Cloudflare upstream
