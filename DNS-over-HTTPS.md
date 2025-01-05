@@ -54,7 +54,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |bonis.de|https://adguard.bonis.de/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, also support DoT
 |[Braene](https://braene.com)|https://dns.braene.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet • Also support DoT
-|[Bravoc.one](https://bravoc.one/en/)|https://dns.bravoc.one/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service
 |brembeck.cloud|https://dns.brembeck.cloud/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security and parental control web service
 |brono.cloud|https://dns.brono.cloud/dns-query|:heavy_check_mark:|Block ads
 |butterfly87.sbs|https://dns.butterfly87.sbs/dns-query|:heavy_check_mark:|
@@ -196,11 +195,9 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Kernel Error](https://kernel-error.de)|https://dns.kernel-error.de/dns-query|:heavy_check_mark:| Support DoT
 |[kescher](https://dns.kescher.at)|https://dns.kescher.at/dns-query|:heavy_check_mark:|DNSSEC-validating, support DoT & DoQ
 |ketan.dev|https://pihole.aws.ketan.dev/dns-query|:heavy_check_mark:|Block ads, support DoT
-|kf-49509-tr.xyz|https://kf-49509-tr.xyz/dns-query|:heavy_check_mark:|
 |khon.dev|https://adg.khon.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Kidzonet](https://kidzonet.io)|https://doh.kidzonet.io/dns-query|:heavy_check_mark:|
 |[Koala](https://koala.us.to)|https://dns.koala.us.to/dns-query|:heavy_check_mark:|Adblocking, support DoT
-|Konikoni428|https://adguard.konikoni428.com/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |[Kosan](https://kosan.moe)|https://dns.kosan.moe/dns-query|:heavy_check_mark:|Block ads
 |kpsn.org|https://dart.kpsn.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 |krctech.dev|https://adblock.krctech.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
@@ -323,11 +320,9 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **S**
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap, support DoT
 |[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
-|seiffert.me|https://dns.seiffert.me/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
 |serdcebolit.ru|https://dns1.serdcebolit.ru/dns-query|:heavy_check_mark:|Block ads & porn, support DoT
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC, support DoT
-|shareworx.net|https://dns.shareworx.net/dns-query|:heavy_check_mark:| Support DoT
 |[Sheggi](https://sheggi.ch/)|https://dns.sheggi.ch/dns-query|:heavy_check_mark:|Porn blocking, use Cloudflare upstream with malware and family filtering, support DoT
 |[Shimul D](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service, support DoT
@@ -400,7 +395,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Zakaria](https://zakaria.website)|https://zakaria.website/dns-query<br>https://princez.uk/dns-query|:heavy_check_mark:|
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zknt.org|https://doh.zknt.org/dns-query|:heavy_check_mark:|Support DoT
-|znegindeh2.top|https://znegindeh2.top/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **0-9**
 |[0ms](https://0ms.dev)|Unfiltered: https://0ms.dev/dns-query<br>Adblock: https://0ms.dev/dns-adblock|:heavy_check_mark:|Use Cloudflare upstream
 |0ooo.icu|https://dns.0ooo.icu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
