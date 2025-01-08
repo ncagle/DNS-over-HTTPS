@@ -164,7 +164,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
 |hjebbour.top|https://adguard.hjebbour.top/dns-query|:heavy_check_mark:|Block ads
 |home-server.store|https://home-server.store/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
-|[Hongjun Li](https://lihj.me)|https://dns.lihj.me/dns-query|:heavy_check_mark:|Use Cloudflare upstream 
 |[Hoody](https://hoody.com)|https://dns.hoody.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |[Hostux](https://dns.hostux.net/en/)|https://dns.hostux.net/dns-query<br>https://dns.hostux.net/ads|:heavy_check_mark:|Support DoT
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | Support DoT
@@ -267,7 +266,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
 |[nonexiste.net](https://nonexiste.net)|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: | Support DoT
-|novali.date|https://dns.novali.date/dns-query|:heavy_check_mark:|Block ads, support DoT
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |ntwrkh.pro|https://ntwrkh.pro/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **O**
@@ -292,7 +290,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pm1239-bd.xyz|https://pm1239-bd.xyz/dns-query|:heavy_check_mark:|
 |pm9352-bd.xyz|https://pm9352-bd.xyz/dns-query|:heavy_check_mark:|
 |pm7051-br.xyz|https://pm7051-br.xyz/dns-query|:heavy_check_mark:|
-|polisitogel|https://polisitogel.diy/dns-query<br>https://polisitogel.living/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query<br>https://polisitogel.realty/dns-query|:heavy_check_mark:|
+|polisitogel|https://polisitogel.living/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.hair/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query<br>https://polisitogel.realty/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
@@ -319,7 +317,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |roedel.cloud|https://dns.roedel.cloud/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **S**
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap, support DoT
-|[Sari](https://sarilouis.com/)|https://dns.sarilouis.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |senthil.us|https://adguard.senthil.us/dns-query|:heavy_check_mark:|Block ads & porn
 |serdcebolit.ru|https://dns1.serdcebolit.ru/dns-query|:heavy_check_mark:|Block ads & porn, support DoT
 |[sev.monster](https://dns.sev.monster)|https://dns.sev.monster/dns-query|:heavy_check_mark:|OpenNIC, support DoT
@@ -327,7 +324,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Shimul D](https://shimul.me)|https://dns.shimul.me/dns-query|:heavy_check_mark:|Block ads & gambling, support DoT
 |shoupperuser.com|https://adguard.shoupperuser.com/dns-query|:heavy_check_mark:|Ad & porn blocking, use AdGuard browsing security and parental control web service, support DoT
 |silen.org|https://dns.silen.org/dns-query|:heavy_check_mark:|Block ads
-|simsim.lol|https://simsim.lol/dns-query|:heavy_check_mark:|
 |skrep.eu|https://dns.skrep.eu/dns-query|:heavy_check_mark:|OpenNIC, block ads, support DoT & DoQ
 |[Silentlybren](https://silentlybren.com/)|https://dns.silentlybren.com/dns-query|:heavy_check_mark:|Adblocking
 | Slinkyman.net | https://dns.slinkyman.net/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream, support DoT
