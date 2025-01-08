@@ -260,7 +260,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Nico Franke](https://zernico.de)|https://adguard-kartoffel.zernico.de/dns-query|:heavy_check_mark:| Support DoT
 |[Nicolas Dorriere](https://nicolas-dorriere.fr/dns/)|Adblocking: https://doh-random-upstream.nicolas-dorriere.fr/dns-query<br>Non filtering: https://doh-own-recursion.nicolas-dorriere.fr/dns-query|:heavy_check_mark:|Block ads
 | [Nightly Moon](https://nightlymoon.us.kg/) | Adblocking https://nightlymoon.us.kg/dns-query <br> Adblocking & porn blocking https://nightlymoon.us.kg/family | :heavy_check_mark: <br> :heavy_check_mark: |Use Cloudflare upstream with malware and family filtering, AdGuard browsing security and parental control web service
-|[niko.NWPS.fi](https://niko.nwps.fi/2024/09/01/free-dns-filter/)|Family Filter: https://ns.nwps.fi/dns-query/family<br>Security Filter: https://ns.nwps.fi/dns-query/public|:heavy_check_mark:|Block ads, hosted in Helsinki, support DoT, use AdGuard browsing security and parental filtering web service.
+|[niko.NWPS.fi](https://niko.nwps.fi/2024/09/01/free-dns-filter/)|Public: https://public.ns.nwps.fi/dns-query<br>Kids: https://kids.ns.nwps.fi/dns-query|:heavy_check_mark:|Block ads, hosted in Helsinki, support DoT, use AdGuard browsing security and parental filtering web service.
 |[Ningkelle](https://ningkelle.id/tools/dns/)|Adblock: https://dns.ningkelle.id/dns-query<br>Family: https://family.dns.ningkelle.id/dns-query|:heavy_check_mark:|Block ads. Adblock endpoint uses Cloudflare upstream, Family endpoint uses AdGuard browsing security and parental filtering web service. Support DoT.
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |Support DoT through `dot.niyawe.de`
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
@@ -362,7 +362,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |tuskythehusky.tech|https://tuskythehusky.tech/dns-query|:heavy_check_mark:|
 | [TWNIC](https://www.twnic.net.tw/) | https://dns.twnic.tw/dns-query | :heavy_check_mark: | No source IP logging. Operated by [Quad101](https://101.101.101.101/index_en.html) project, according to this [announcement](https://blog.twnic.net.tw/2018/12/28/1803/) |
 | [Tiarap](https://doh.tiar.app/) | https://doh.tiar.app/dns-query | :heavy_check_mark: | Block ads, tracking, malware, scam and phising domains. No Logging, [dns0x20](https://tools.ietf.org/html/draft-vixie-dnsext-dns0x20-00), No [ECS](https://tools.ietf.org/html/rfc7871), DNSSEC Validation |
-|[Tri-DNS](https://dns.triro.net/)|Canada: https://tri-dns.net/dns-query<br>Switzerland: https://eu.tri-dns.net/dns-query|Support DoT & DoQ
+|[Tri-DNS](https://dns.triro.net/)|Canada: https://tri-dns.net/dns-query<br>Switzerland: https://eu.tri-dns.net/dns-query<br>Singapore: https://asia.tri-dns.net/dns-query|Support DoT & DoQ
 | **U**
 |[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)|https://anycast.uncensoreddns.org/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
