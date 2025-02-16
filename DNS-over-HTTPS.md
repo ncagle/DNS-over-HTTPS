@@ -24,7 +24,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Angry.im](https://angry.im)|https://doh.angry.im/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, OpenNIC
 |anon.no|https://dns.anon.no/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, also support DoT & DoQ
 | [Anudeep](https://anudeep.me) | https://secure.anudeep.me/dns-query | :heavy_check_mark: | Adblocking, use Cloudflare upstream and AdGuard browsing security web service, also support DoT
-|[Apollinaria](https://hypercute.eu/)|https://dns.hypercute.eu/dns-query| :heavy_check_mark: |Use Cloudflare upstream, also support DoT
 |applewebkit.dev|https://dns.applewebkit.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, also support DoT
 |[Arashi DNS](https://arashi.net.eu.org)|https://arashi.net.eu.org/dns-query<br>https://ns.net.kg/dns-query|:heavy_check_mark:|
 |[ARKBO Technologies](https://arkbotech.com)|https://dns.arkbotech.com/dns-query|:heavy_check_mark:|Block ads, support DoT
@@ -212,7 +211,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[LuMa Medien](https://luma-medien.com)|https://dns.luma-medien.com/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |l337.site|https://dns.l337.site/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **M**
-|mabuktogel|https://mabuktogel.properties/dns-query<br>https://mabuktogel.solutions/dns-query<br>https://mabuktogel.directory/dns-query|:heavy_check_mark:|
+|mabuktogel|https://mabuktogel.directory/dns-query|:heavy_check_mark:|
 |maqgie.xyz|https://maqgie.xyz/dns-query|:heavy_check_mark:|
 |marasov.id|https://dns.marasov.id/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 |[Marbled Fennec Networks / FurrIX](https://www.marbledfennec.net/public-dns-server/)|https://dns.marbledfennec.net/dns-query|:heavy_check_mark:|OpenNIC compatible, support for DoT and DoH, Small community project providing two name servers, IPv4/IPv6. Hosted in Kansas City, MO, US.
@@ -274,7 +273,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [PaesaDNS](https://milgradesec.github.io/paesadns/) | https://dns.paesa.es/dns-query | :heavy_check_mark: | Adblocking, non-logging, use Cloudflare upstream with malware filtering
 |paradise-human.shop|https://paradise-human.shop/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |pashagame456.com|https://pashagame456.com/dns-query|:heavy_check_mark:|
-|[Paulo](https://paulo.nom.za)|https://paulo.nom.za/dns-query| :heavy_check_mark: | Adblocking, use Cloudflare upstream with malware filtering and AdGuard browsing security web service
+|[Paulo](https://paulo.nom.za)|https://dns.paulo.nom.za/dns-query| :heavy_check_mark: | 
 |[Pavol Decky](https://decky.eu)|https://dns.decky.eu/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |peb-schmidt.de|https://dns.peb-schmidt.de/dns-query|:heavy_check_mark:|Block ads, AdGuard browsing security web service, support DoT & DoQ
 |pepetio.xyz|https://pepetio.xyz/dns-query|:heavy_check_mark:|
@@ -285,7 +284,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |pm1239-bd.xyz|https://pm1239-bd.xyz/dns-query|:heavy_check_mark:|
 |pm9352-bd.xyz|https://pm9352-bd.xyz/dns-query|:heavy_check_mark:|
 |pm7051-br.xyz|https://pm7051-br.xyz/dns-query|:heavy_check_mark:|
-|polisitogel|https://polisitogel.living/dns-query<br>https://polisitogel.webcam/dns-query<br>https://polisitogel.luxe/dns-query<br>https://polisitogel.limo/dns-query<br>https://polisitogel.show/dns-query<br>https://polisitogel.realty/dns-query|:heavy_check_mark:|
+|polisitogel|https://polisitogel.webcam/dns-query<br>https://polisitogel.realty/dns-query|:heavy_check_mark:|
 |pooblet.co.za|https://pooblet.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream
 |[Privex](https://www.privex.io/articles/public-infra/#standard-dns-servers)|Netherlands: https://nl.dns.privex.io|:heavy_check_mark:|
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
