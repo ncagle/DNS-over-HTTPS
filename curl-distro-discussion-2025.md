@@ -5,7 +5,7 @@ A video conference.
 **tentative date**
 
     Date: Thursday April 10, 2025
-    Time: 16:00 UTC
+    Time: 15:00 UTC (17:00 CEST)
     Duration: two hours
 
 (meeting link is pending)
