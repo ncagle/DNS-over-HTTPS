@@ -57,3 +57,7 @@ Feel free to add your proposed topics we should chat about.
 - wcurl
 - docs/DISTROS.md
 - the curl-distros mailing list
+
+## Not recorded
+
+The idea is to have a casual meeting where everyone who wants to can feel they can speak up without risking anything. For this reason, there will be no video or audio recording of the meeting. We stick to written summaries/reports.
