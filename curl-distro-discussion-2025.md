@@ -16,6 +16,10 @@ People and organizations that package and ship curl and/or libcurl for their use
 
 The event is open and free.
 
+## Previous meeting
+
+Daniel wrote up this brief [summary](https://daniel.haxx.se/blog/2024/03/25/curl-distro-report/) from last years meeting.
+
 ## Plans to join
 
 - Daniel, lead developer of curl (presumably also a few other curl devs)
