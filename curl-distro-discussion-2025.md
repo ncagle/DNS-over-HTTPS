@@ -57,6 +57,7 @@ Feel free to add your proposed topics we should chat about.
 - wcurl
 - docs/DISTROS.md
 - the curl-distros mailing list
+- pending DEPRECATE items
 
 ## Not recorded
 
