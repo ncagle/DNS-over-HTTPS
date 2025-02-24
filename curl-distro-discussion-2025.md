@@ -49,5 +49,6 @@ Feel free to add your proposed topics we should chat about.
 - What do the distros want in the curl roadmap?
 - Post Quantum curl and how to use it
 - the TLS situation
-- trurl?
-- wcurl?
+- trurl
+- wcurl
+- docs/DISTROS.md
