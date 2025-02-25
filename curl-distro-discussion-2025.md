@@ -1,12 +1,12 @@
 ## Event
 
-A video conference.
-
-**tentative date**
+Done as video conference.
 
     Date: Thursday April 10, 2025
     Time: 15:00 UTC (17:00 CEST)
     Duration: two hours
+
+(figure out your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=curl+distro+discussion+2025&iso=20250410T17&p1=239&ah=2))
 
 (meeting link is pending)
 
