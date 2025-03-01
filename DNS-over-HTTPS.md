@@ -109,6 +109,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | [Dukun.de](https://dukun.de/) |https://dukun.de/dns-query | :heavy_check_mark: | Support DoT
 |[duröhre.de](https://xn--durhre-yxa.de)|https://xn--durhre-yxa.de/dns-query|:heavy_check_mark:|
+|[DynX](https://www.dynx.pro/)|Adblock: https://dns.dynx.pro/dns-query<br>Ad & porn blocking: https://dns.dynx.pro/dns-query/family| :heavy_check_mark: | Support DoT & DoQ
 |d94.xyz|https://dns.d94.xyz/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |d96.info|https://dns.d96.info/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **E**
