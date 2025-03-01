@@ -49,7 +49,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Braene](https://braene.com)|https://dns.braene.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 | [Brahma World](https://dns.brahma.world/home.html) | https://dns.brahma.world/dns-query | :heavy_check_mark: | No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet • Also support DoT
 |brembeck.cloud|https://dns.brembeck.cloud/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard browsing security and parental control web service
-|brono.cloud|https://dns.brono.cloud/dns-query|:heavy_check_mark:|Block ads
 |butterfly87.sbs|https://dns.butterfly87.sbs/dns-query|:heavy_check_mark:|
 |[Burgas](https://burgas.pro/#dns)|https://dns.burgas.pro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream with malware filtering, support DoT
 |[busold.ws](https://busold.ws)|https://dns.busold.ws/dns-query|:heavy_check_mark:|Block ads, also support DoT
@@ -157,7 +156,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | Support DoT
 |[Hurricane Electric](https://forums.he.net/index.php?topic=3996.0)|https://ordns.he.net|:heavy_check_mark:| Support DoT & DoQ
 | **I**
-|ikarosalpha.xyz|https://ikarosalpha.xyz/dns-query|:heavy_check_mark:|Adblocking and AdGuard browsing security web service
 |[immerda.ch](https://docs.immerda.ch/de/services/doh/)|https://doh.immerda.ch/dns-query|:heavy_check_mark:|Block ads
 |imperio.top|https://imperio.top/dns-query|:heavy_check_mark:|
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query<br>https://dns2.in-berlin.de/dns-query | :heavy_check_mark: | Support DoT
@@ -190,7 +188,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
 |[Lars Lehmann](https://larsl.net/)|https://dns.lars-lehmann.net/dns-query|:heavy_check_mark:| Support DoT
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. OpenNIC, no logging, no filtering, no ECS, DNSSEC support. |
-|lepilleur.com|https://dns.lepilleur.com/dns-query|:heavy_check_mark:|Block ads & gambling, use AdGuard browsing security web service, support DoT
 |[Liberador.net](https://liberador.net)|https://dns.liberador.net|:heavy_check_mark:|Support DoT
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC, support DoT
 |lifeisa.live|https://lifeisa.live/dns-query|:heavy_check_mark:|
@@ -248,7 +245,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |ntwrkh.pro|https://ntwrkh.pro/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **O**
-|obscuro.top|https://obscuro.top/dns-query|:heavy_check_mark:| 
 |[Odin](https://dns.odinpl.com)|https://dns.odinpl.com/dns-query|:heavy_check_mark:|Block ads, support DoT
 |ofdoom.net|https://dns.ofdoom.net/dns-query|:heavy_check_mark:|Block ads, support DoT
 |oliviertv|https://dns.oliviertv.co.za/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream with malware filtering, support DoT
@@ -293,7 +289,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [RethinkDNS](https://www.rethinkdns.com/) | Non-filtering: https://sky.rethinkdns.com/dns-query <br> OISD: https://sky.rethinkdns.com/1:IAAgAA== | :heavy_check_mark: <br> :heavy_check_mark: | [An open-source stub resolver](https://github.com/serverless-dns/serverless-dns) running in 200+ locations world-wide on Cloudfare's network. Fast, secure, private, transparent, configurable DNS resolver. No ECS. Implements CNAME Cloaking. No-logs. [code](https://github.com/celzero/rethink-app). [Configure custom blocklists](https://rethinkdns.com/configure) with DoH and DoT option
 |revelio.top|https://revelio.top/dns-query|:heavy_check_mark:|
 |[RobinGroppe.de](https://www.robingroppe.de/serverzeug/dns-server)|https://dns.rbn.gr/dns-query|:heavy_check_mark:| Malware blocking, DNSSEC validation, support DoT
-|rockwell.website|https://rockwell.website/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ 
 |roedel.cloud|https://dns.roedel.cloud/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 | **S**
 | [SafeServe](https://www.namecheap.com/dns/free-public-dns/) | https://safeservedns.com/dns-query | :heavy_check_mark: | Operated by Namecheap, support DoT
@@ -350,7 +345,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | **V**
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
-|vod11.xyz|https://dns.vod11.xyz/dns-query|:heavy_check_mark:|
 |[Vojtěch Trunda](https://vojtat.cz)|https://dns.vojtat.cz/dns-query|:heavy_check_mark:|
 |vorlif.org|https://vorlif.org/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | **W**
