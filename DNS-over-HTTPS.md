@@ -355,6 +355,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[W3C TAG](https://w3ctag.org)|https://dns.w3ctag.org/dns-query|:heavy_check_mark:|Support DoT
 | **X**
 |xbcpb668.com|https://xbcpb668.com/dns-query|:heavy_check_mark:|Support DoT & DoQ
+|[xDNS](https://xmr.land/)|https://xmr.land/dns-query|:heavy_check_mark:|
 |xlion.tw|https://dns.xlion.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |[Xstl DNS](https://get.dns.seia.io/)|SK Broadband: https://dns.seia.io/dns-query<br>Oracle Cloud: https://secondary.dns.seia.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT, hosted in South Korea
 | **Y**
