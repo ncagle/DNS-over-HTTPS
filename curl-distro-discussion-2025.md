@@ -60,7 +60,7 @@ We keep camera on, and stay polite and friendly. Mute if you're not going to tal
 |Release candidates| Related to the above. |
 |Bug reports| Can we help each other better with bug reports/issues? |
 |After PSL | What else have been missing in distros? Or perhaps: what features do distros actively disable and why? |
-| HTTP/3 | updates on status and discussions on how to (possibly) enable this in curl for distros going forward |
+| HTTP/3 | updates on status and discussions on how to (possibly) enable this in curl for distros going forward - the pending ngtcp2 1.12.0 gets OpenSSL QUIC API support |
 | the TLS backend situation | related to HTTP/3, but also ECH etc |
 | Long term support | Rock Solid curl and the point of that.
 | Roadmap | Anything distros want in the long term curl roadmap? |
