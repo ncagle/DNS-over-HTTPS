@@ -41,28 +41,36 @@ Find out where individuals in the curl project can help improve curl in distribu
 
 The meeting is informal and we are all friends. 
 
-## Topics
+## Agenda
 
-Feel free to add your proposed topics we should chat about.
+Join here: https://meet.google.com/cqw-ovby-uoq
 
-- What can the curl project do to help distributors more? Build system, third party libraries, documentation, tests, API/ABI etc.
-- Can the curl project do anything to help unload distributors from some of their locally maintained patches?
-- Can the curl project do anything to better streamline the work when we release security advisories for new releases?
-- Can we improve the testing situation upstream/downstream?
-- Can we help each other better with bug reports/issues?
-- After PSL - what else have been missing in distros? Or perhaps: what features do distros actively disable and why?
-- HTTP/3 - updates on status and discussions on how to (possibly) enable this in curl for distros going forward
-- Long term support
-- What do the distros want in the curl roadmap?
-- Post Quantum curl and how to use it
-- the TLS situation
-- trurl
-- wcurl
-- docs/DISTROS.md
-- the curl-distros mailing list
-- pending DEPRECATE items
-- curl up 2025
-- release candidates
+We keep camera on, and stay polite and friendly. Mute if you're not going to talk.
+
+|Topic|Description|
+|------|------|
+|Welcome | Join, take it easy, let's do this |
+|Introductions| Who we are |
+|Status| Updates about where we are in the project, and a poll of how distros feel about the state of curl in their ends |
+|Upstream| Are there problems detected in the distros we should take care of better upstream? What can the curl project do to help distributors more? Build system, third party libraries, documentation, tests, API/ABI etc.
+|Patches| Can the curl project do anything to help unload distributors from some of their locally maintained patches? |
+|Security/advisories| Can the curl project do anything to better streamline the work when we release security advisories for new releases? |
+|Testing | Can we improve the testing situation upstream/downstream?
+|Release candidates| Related to the above. |
+|Bug reports| Can we help each other better with bug reports/issues? |
+|After PSL | What else have been missing in distros? Or perhaps: what features do distros actively disable and why? |
+| HTTP/3 | updates on status and discussions on how to (possibly) enable this in curl for distros going forward |
+| the TLS backend situation | related to HTTP/3, but also ECH etc |
+| Long term support | Rock Solid curl and the point of that.
+| Roadmap | Anything distros want in the long term curl roadmap? |
+| Post Quantum | Anything to prepare for? |
+| trurl | status? |
+| wcurl | status ? |
+| docs/DISTROS.md | just a reminder |
+| the curl-distros mailing list | a result from last year's meeting, anything to say about it? |
+| pending DEPRECATE items | just a heads up and a chance to speak about them |
+| curl up 2025 | everyone is welcome
+| questions | anything we want to talk about that we didn't cover yet
 
 ## Not recorded
 
