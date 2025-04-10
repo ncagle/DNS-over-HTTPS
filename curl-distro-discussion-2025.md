@@ -8,8 +8,6 @@ Done as video conference.
 
 (figure out your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=curl+distro+discussion+2025&iso=20250410T17&p1=239&ah=2))
 
-Join here: https://meet.google.com/cqw-ovby-uoq
-
 ## Invited
 
 People and organizations that package and ship curl and/or libcurl for their users. Linux distros, BSD distros, operating system people and the likes; intermediaries. And everyone else who is interested in the problems, solutions and challenges involved.
@@ -44,8 +42,6 @@ Find out where individuals in the curl project can help improve curl in distribu
 The meeting is informal and we are all friends. 
 
 ## Agenda
-
-Join here: https://meet.google.com/cqw-ovby-uoq
 
 We keep camera on, and stay polite and friendly. Mute if you're not going to talk.
 
