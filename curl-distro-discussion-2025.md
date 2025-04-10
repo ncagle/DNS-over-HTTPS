@@ -29,6 +29,7 @@ Daniel wrote up this brief [summary](https://daniel.haxx.se/blog/2024/03/25/curl
 - Carlos Henrique Lima Melara "charles", curl maintainer in Debian
 - Matt Jolly "kangie", curl maintainer in Gentoo
 - a maintainer for Linux From Scratch
+- Natanael Copa, curl maintainer in Alpine Linux
 
 If you *do* plan on joining and work on/with a distro, feel free to add yourself to the list or email me (Daniel) to let me know. It might ease the planning and make for a better discussion if we have a decent idea of the attendance.
 
