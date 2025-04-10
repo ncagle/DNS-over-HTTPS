@@ -8,7 +8,7 @@ Done as video conference.
 
 (figure out your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=curl+distro+discussion+2025&iso=20250410T17&p1=239&ah=2))
 
-(meeting link is pending)
+Join here: https://meet.google.com/cqw-ovby-uoq
 
 ## Invited
 
