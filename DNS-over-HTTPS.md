@@ -110,7 +110,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |efficientdocuments.com|https://dns.efficientdocuments.com/dns-query|:heavy_check_mark:|
 |[Egor Glukhikh](https://henek.ovh/)|https://dns.henek.ovh/dns-query|:heavy_check_mark:|Adblocking
 |[Elemental Software](https://elemental.software)|https://dns.elemental.software/dns-query|:heavy_check_mark:|Support DoT
-|eliatofani.ovh|https://eliatofani.ovh/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[ELIV DNS](https://dns.eliv.kr)|https://dns.eliv.kr/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, Fast Cloudflare (priority IP) connection, support DoT
 | **F**
 |faked.org|https://dns.faked.org/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
@@ -150,7 +149,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [In-Berlin](https://wiki.in-berlin.de/dns) | https://dns1.in-berlin.de/dns-query<br>https://dns2.in-berlin.de/dns-query | :heavy_check_mark: | Support DoT
 |[Inclusio](https://inclusioproject.com)|https://dns.inclusioproject.com/dns-query|:heavy_check_mark:| Support DoT
 |[Inforlogia](https://inforlogia.com)|https://dns.inforlogia.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
-| [Institut national de recherche en sciences et technologies du numérique](https://www.inria.fr/fr) | https://qlf-doh.inria.fr/dns-query | :heavy_check_mark: | Support DoT
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027, support DoT
 |is.my.waifu.cz|https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query<br>https://aqua.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 | **J**
@@ -204,7 +202,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:| Support DoT
 |[mobik](https://mobik.com)|https://dnstls.mobik.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
 |moamao.shop|https://moamao.shop/dns-query|:heavy_check_mark:|
-|[momou! DNS](https://dns.momou.ch)|Adblock: https://dns.momou.ch/dns-query<br>Kids filter: https://dns.momou.ch/dns-query/kids<br>Unfiltered: https://dns.momou.ch/dns-query/unfiltered|:heavy_check_mark:|Block ads, kids filter use AdGuard browsing security and parental control web service, support DoT
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) | Non-blocking https://dns.mullvad.net/dns-query <br> Adblocking https://adblock.dns.mullvad.net/dns-query <br> Ad & malware blocking https://base.dns.mullvad.net/dns-query <br> Ad, malware, social media blocking https://extended.dns.mullvad.net/dns-query <br> Ad, malware, social media, adult content and gamble blocking https://all.dns.mullvad.net/dns-query <br> Ad, malware, adult content and gamble blocking https://family.dns.mullvad.net/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Public DoH server in US, DE, GB, SG, and SE with QNAME minimization, audited by [Assured](https://www.assured.se/wp-content/uploads/2021/03/Assured_Mullvad_DoH_server_audit_report.pdf), support DoT
 |myatris.sbs|https://myatris.sbs/dns-query|:heavy_check_mark:|
 | [mydns.network](https://mydns.network) | Uncensored: https://freedom.mydns.network/dns-query <br> Paranoia (no Google/Cloudflare): https://paranoia.mydns.network/dns-query <br> Adblocking: https://adblock.mydns.network/dns-query <br> Family: https://family.mydns.network/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark: | Public DoH server powered by Cloudflare Workers. Uniquely disguises your queries by relaying queries your behalf to upstream DoH servers with no IP address information. [Open source](https://github.com/matthewgall/doh-proxy), deploy your own instance at any time! Also support DoT
@@ -250,7 +247,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |propheci.xyz|https://dns.propheci.xyz/dns-query|:heavy_check_mark:|Block ads & porn, use ControlD upstream, support DoT & DoQ
 |[Pubhole](https://pubhole.archuser.org/)|https://doh.archuser.org/dns-query|:heavy_check_mark:|Block ads, also resolves OpenNIC, support DoT
 | **Q**
-|[Quadrant Information Security](https://www.quadrantsec.com/post/public-dns-resolver-with-tls-https-support)|https://doh.qis.io/dns-query|:heavy_check_mark:|Non logging and non filtering, support DoT through `dns-tls.qis.io`
 | [Quad9](https://quad9.net) | 9.9.9.9 (Secure): A threat-blocking, privacy-first recursive DNS service. <br> https://dns.quad9.net/dns-query <br> https://dns9.quad9.net/dns-query <br><br> 9.9.9.10 (No Threat Blocking): For users who want to take advantage of privacy-first recursive DNS service, but do not want threat blocking. <br> https://dns10.quad9.net/dns-query <br><br> 9.9.9.11 (Secure + ECS): For users who do not route to the closest-possible Quad9 location, use 9.9.9.11 for better CDN performance. <br> https://dns11.quad9.net/dns-query <br><br> 9.9.9.12 (No Threat Blocking + ECS): For users who do not route to the closest-possible Quad9 location, and also do not want threat blocking, use 9.9.9.12 for better CDN performance. <br> https://dns12.quad9.net/dns-query | ✔️ <br> ✔️ <br> ✔️ <br> ✔️ | <br> _dns9.quad9.net is another alias for dns.quad9.net, see: https://quad9.net/news/blog/doh-with-quad9-dns-servers_ <br><br> 9.9.9.9 - Malware blocking, DNSSEC validation <br> 9.9.9.10 - No malware blocking, no DNSSEC validation <br> 9.9.9.11 - Malware blocking, DNSSEC validation, ECS enabled <br> 9.9.9.12 - No malware blocking, no DNSSEC validation, ECS enabled, support DoT
 |[Quiet Rocks](https://quiet.rocks)|https://dns.quiet.rocks/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[QWER DNS](https://dns.qwer.pw)|https://dog.dns.qwer.pw/dns-query<br>https://lion.dns.qwer.pw/dns-query<br>https://frog.dns.qwer.pw/dns-query<br>https://tiger.dns.qwer.pw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT on port 853 and DoQ on port 784
