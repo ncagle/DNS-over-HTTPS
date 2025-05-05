@@ -329,7 +329,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[zdn.ro](https://zdn.ro)|https://zdn.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service, support DoT & DoQ
 |zknt.org|https://doh.zknt.org/dns-query|:heavy_check_mark:|Support DoT
 | **0-9**
-|[0ms](https://0ms.dev)|Unfiltered: https://0ms.dev/dns-query<br>Adblock: https://0ms.dev/dns-adblock|:heavy_check_mark:|Use Cloudflare upstream
 |123000123.xyz|https://123000123.xyz/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT
 |3dcosas.xyz|https://3dcosas.xyz/dns-query|:heavy_check_mark:|
 |[4NetGuides](https://4netguides.org)|https://ns2.4netguides.org/dns-query|:heavy_check_mark:|Block ads, support DoT
