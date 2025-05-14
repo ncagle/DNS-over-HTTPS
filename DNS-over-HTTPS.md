@@ -74,7 +74,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [CZ.NIC](https://www.nic.cz/odvr/) | https://odvr.nic.cz/dns-query | :heavy_check_mark:| Runs on [Knot Resolver](https://www.knot-resolver.cz/) (`doh2`), supports DNSSEC, provided by `.cz` TLD operator, support DoT
 | **D**
 | [Danielle McLean](https://00dani.me/) | https://ns.00dani.me/dns-query | :heavy_check_mark: |
-|dantynes.cyou|https://adguard.dantynes.cyou/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 | [data.haus](https://data.haus/) | https://ns.data.haus/dns-query | :heavy_check_mark: | Adblocking, non-logging, support DoT
 |datenquark.de|https://dns.datenquark.de/dns-query|:heavy_check_mark:|Block ads, support DoT
 |deep-henchman-excuse.cfd|https://deep-henchman-excuse.cfd/dns-query|:heavy_check_mark:|
@@ -125,7 +124,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Foundation for Applied Privacy](https://applied-privacy.net/services/dns/) | https://doh.applied-privacy.net/query | :heavy_check_mark:| No query/IP logging, no filtering, QNAME minimization, no EDNS client subnet, TLS 1.3, DNSSEC, RFC7706, RFC8198, DoT
 |[Froth.zone](https://dns.froth.zone/resolver/)|https://dns.froth.zone/dns-query|:heavy_check_mark:|OpenNIC, support DoT & DoQ
 |[FutaDNS](https://site.futa.gg/)|https://doh.futa.gg/dns-query|:heavy_check_mark:|Block ads, support DoT through `dot.futa.gg`
-|[FutureDNS](https://futuredns.eu.org/)|Germany: https://dns.de.futuredns.eu.org/dns-query/<br>US: https://dns.us.futuredns.eu.org/dns-query/|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 | **G**
 |[Gamban](https://gamban.com/)|https://dns.gamban.com/dns-query|:heavy_check_mark:|
 |gibblets.top|https://gibblets.top/dns-query|:heavy_check_mark:|
@@ -148,7 +146,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Inclusio](https://inclusioproject.com)|https://dns.inclusioproject.com/dns-query|:heavy_check_mark:| Support DoT
 |[Inforlogia](https://inforlogia.com)|https://dns.inforlogia.com/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 | [Internet Initiative Japan](https://public.dns.iij.jp/) | https://public.dns.iij.jp/dns-query | :heavy_check_mark: | Planned to run until March 2027, support DoT
-|is.my.waifu.cz|https://megumin.is.my.waifu.cz/dns-query<br>https://darkness.is.my.waifu.cz/dns-query<br>https://aqua.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query|:heavy_check_mark:|
+|is.my.waifu.cz|https://megumin.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 | **J**
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
@@ -168,7 +166,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |krctech.dev|https://adblock.krctech.dev/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT & DoQ
 | **L**
 | [La Contre-Voie](https://lacontrevoie.fr/en/services/doh/) | https://doh.lacontrevoie.fr/dns-query | :heavy_check_mark: | Supports DNSSEC and IPv6, not logging queries' content, uses [unbound](https://github.com/NLnetLabs/unbound/). Commits for net neutrality, hosted in France.
-|[Lars Lehmann](https://larsl.net/)|https://dns.lars-lehmann.net/dns-query|:heavy_check_mark:| Support DoT
 | [LavaDNS](https://dns.lavate.ch/) | Finland: https://eu1.dns.lavate.ch/dns-query | :heavy_check_mark: | DoH server in Finland. OpenNIC, no logging, no filtering, no ECS, DNSSEC support. |
 |[Liberador.net](https://liberador.net)|https://dns.liberador.net|:heavy_check_mark:|Support DoT
 |[LibreDNS](https://libredns.gr/) | Non-filtering: https://doh.libredns.gr/dns-query <br> Adblocking: https://doh.libredns.gr/noads| :heavy_check_mark: <br> :heavy_check_mark: | Non-logging, OpenNIC, support DoT
@@ -216,7 +213,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Ningkelle](https://ningkelle.id/tools/dns/)|Adblock: https://dns.ningkelle.id/dns-query<br>Family: https://family.dns.ningkelle.id/dns-query|:heavy_check_mark:|Block ads. Adblock endpoint uses Cloudflare upstream, Family endpoint uses AdGuard browsing security and parental filtering web service. Support DoT.
 | [NiYaWe](https://www.niyawe.de/) | https://doh.niyawe.de/dns-query | :heavy_check_mark: |Support DoT through `dot.niyawe.de`
 | [Njalla](https://dns.njal.la/) | https://dns.njal.la/dns-query | :heavy_check_mark: | Non logging, based in Sweden
-|[nonexiste.net](https://nonexiste.net)|https://kiri.nonexiste.net/dns-query|:heavy_check_mark:|Block porn & gambling
 | [NordVPN](https://nordvpn.com)|https://dns1.nordvpn.com/dns-query <br> https://dns2.nordvpn.com/dns-query| :heavy_check_mark: | Support DoT
 |novg.net|https://dns.novg.net/dns-query|:heavy_check_mark:|
 |ntwrkh.pro|https://ntwrkh.pro/dns-query|:heavy_check_mark:|Block ads, support DoT
