@@ -16,6 +16,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |Adfreedns|https://adfreedns.top/dns-query|:heavy_check_mark:|Adblocking. Also support DoT & DoQ
 | [AdGuard](https://adguard-dns.io/en/public-dns.html)     | Default: https://dns.adguard-dns.com/dns-query <br> Family protection: https://family.adguard-dns.com/dns-query <br> Uncensored: https://unfiltered.adguard-dns.com/dns-query <br> | :heavy_check_mark: <br>  :heavy_check_mark: <br> :heavy_check_mark: |Default provides ad-blocking at DNS level, while Family protection adds adult site blocking. DNSSEC enabled and TLS 1.3. Also support DoT & DoQ | 
 |affsoft.cc|https://affsoft.cc/dns-query|:heavy_check_mark:|
+|[AKBXR DNS](https://dns.akbxr.com/#dns) | https://dns.akbxr.com/dns-query | :heavy_check_mark:|Block ads and gambling, also support DoT
 |[AliDNS](https://alidns.com)|https://dns.alidns.com/dns-query|:heavy_check_mark:|Also support DoT & DoQ
 |[André Kelpe](https://kel.pe)|https://doh.kel.pe|:heavy_check_mark:|Block ads, also support DoT
 |[Andrews & Arnold](https://aa.net.uk/dns) | https://dns.aa.net.uk/dns-query | :heavy_check_mark: | no logging (see [DNS Disclaimer](https://www.aa.net.uk/legal/dohdot-disclaimer/)), also support DoT|
@@ -91,6 +92,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [dnsforge.de](https://dnsforge.de/) | Adblocking : https://dnsforge.de/dns-query <br> Ads and pornblocking : https://clean.dnsforge.de/dns-query <br> Hard : https://hard.dnsforge.de/dns-query|:heavy_check_mark:<br>:heavy_check_mark:|  No logging. Support DNSSEC. Hosted in Germany, support DoT & DoQ
 |[dnsHome.de](https://www.dnshome.de/doh-dot-public-resolver.php)|https://dns.dnshome.de/dns-query|:heavy_check_mark:| Supports DoH/DoH3 DoT/DoQ and DNSCrypt, No logging, No blocking
 | [dnslow.me](https://dnslow.me/) | https://dnslow.me/dns-query | :heavy_check_mark: | A protective DNS that blocks Ads, Malware, Trackers, Phishing and Newly Registered Domains. Randomly forward requests to different upstreams for enhanced privacy. Support DoT
+|[DNS over Tor](https://www.dnsovertor.cc/?lang=en)|https://hongkong.dnsovertor.cc/dns-query<br>https://japan.dnsovertor.cc/dns-query<br>https://chuncheon.dnsovertor.cc/dns-query<br>https://chuncheon1.dnsovertor.cc/dns-query<br>https://seoul.dnsovertor.cc/dns-query<br>https://singapore.dnsovertor.cc/dns-query|:heavy_check_mark:|
 | [DNSPod](https://docs.dnspod.cn/public-dns/dot-doh/) | https://dns.pub/dns-query | :heavy_check_mark: | Operated by Tencent Cloud, support DoT
 |doh.beauty|https://doh.beauty|:heavy_check_mark:|
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
@@ -150,6 +152,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |is.my.waifu.cz|https://megumin.is.my.waifu.cz/dns-query<br>https://yunyun.is.my.waifu.cz/dns-query|:heavy_check_mark:|
 | **J**
 |[Jupitr DNS](https://jupitrdns.com)|https://dns.jupitrdns.com/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
+|[JusProgDNS](https://www.jusprogdns.com/so-funktionierts/dot-doh/) | All age: https://doh0.jusprogdns.com/dns-query<br>6+: https://doh6.jusprogdns.com/dns-query<br>12+: https://doh12.jusprogdns.com/dns-query<br>16+: https://doh16.jusprogdns.com/dns-query|:heavy_check_mark:|Also support DoT
 |[Justin Counts](https://justincounts.com/)|https://ad.justincounts.com/dns-query|:heavy_check_mark:|Use AdGuard browsing security web service, support DoT
 | **K**
 |kapite.in|https://dns.kapite.in/dns-query|:heavy_check_mark:|Block ads & gambling, use Cloudflare upstream with malware filtering and AdGuard browsing security web service, support DoT & DoQ
@@ -276,6 +279,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |stirringphoto.com|https://dns.stirringphoto.com/dns-query|:heavy_check_mark:| Support DoT
 |[StormyCloud](https://stormycloud.org/dns)|https://dns.stormycloud.org/dns-query|:heavy_check_mark:|Support DoT
 |sublime9.xyz|https://doh.sublime9.xyz/dns-query|:heavy_check_mark:|
+|[Surfshark DNS](https://dns.surfsharkdns.com/)|https://dns.surfsharkdns.com/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |suhaila.dev|https://dns.suhaila.dev/dns-query|:heavy_check_mark:|Block ads
 |[Sunet DNS](https://wiki.sunet.se/display/DNS/Sunet+DNS) | https://resolver.sunet.se/dns-query |:heavy_check_mark:| Support DoT
 |sunnygyl.com|https://sunnygyl.com/dns-query|:heavy_check_mark:|Adblocking, use Cloudflare upstream, support DoT
