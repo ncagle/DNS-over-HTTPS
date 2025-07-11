@@ -261,6 +261,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |solaxy.live|https://solaxy.live/dns-query|:heavy_check_mark:|
 |squidmall.vip|https://squidmall.vip/dns-query|:heavy_check_mark:|
 |[Startup Stack](https://startupstack.tech)|https://dns.startupstack.tech/dns-query|:heavy_check_mark:| Support DoT
+|[SZ DNS](https://www.sz-dns.com)|https://doh.sz-dns.com/dns-query|:heavy_check_mark:| Block ads, Support DoT & DoQ
 |stirringphoto.com|https://dns.stirringphoto.com/dns-query|:heavy_check_mark:| Support DoT
 |[StormyCloud](https://stormycloud.org/dns)|https://dns.stormycloud.org/dns-query|:heavy_check_mark:|Support DoT
 |[Surfshark DNS](https://dns.surfsharkdns.com/)|https://dns.surfsharkdns.com/dns-query|:heavy_check_mark:| Support DoT & DoQ
