@@ -128,6 +128,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |glacius.top|https://glacius.top/dns-query|:heavy_check_mark:|
 | [Google](https://developers.google.com/speed/public-dns/docs/doh) | https://dns.google/dns-query <br> DNS64: https://dns64.dns.google/dns-query <br> https://8888.google/dns-query | :heavy_check_mark: <br> :heavy_check_mark: <br> :heavy_check_mark:| Full RFC 8484 support, EDNS, DNSSEC, no filtering, support DoT
 |[Gottlieb Freitag](https://glf.wtf)|https://dns.glf.wtf/dns-query|:heavy_check_mark:|Block ads, support DoT
+|[Green Ping](https://green-ping.shop/)|https://dns.green-ping.lol/dns-query|:heavy_check_mark:|Support DoT & DoQ, block ads & porn
 |[Guardio](https://guard.io/)|https://dns.guard.io/dns-query|:heavy_check_mark:|
 | **H**
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
