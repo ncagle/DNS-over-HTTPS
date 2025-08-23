@@ -89,7 +89,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |doh.buzz|https://doh.buzz/dns-query|:heavy_check_mark:|
 |[Dom!nic](https://dom1nic.eu/)|https://3dns.eu/dns-query|:heavy_check_mark:| Support DoT
 |[domreg.lt](https://domreg.lt)|https://doh.domreg.lt/dns-query|:heavy_check_mark:|Block porn & gambling, support DoT
-|do-39574-tr.xyz|https://do-39574-tr.xyz/dns-query|:heavy_check_mark:|
 |[dremaxx.de](https://dremaxx.de)|https://dns.dremaxx.de/dns-query|:heavy_check_mark:|Support DoT
 |droyd.top|https://droyd.top/dns-query|:heavy_check_mark:|Use Cloudflare upstream
 |dshubham.xyz|https://agh.dshubham.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT & DoQ
@@ -130,7 +129,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[Hakase](https://haka.se)|https://dns.haka.se/dns-query|:heavy_check_mark:|Block ads
 |home-server.store|https://home-server.store/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, AdGuard browsing security web service, support DoT & DoQ
 |[Hoody](https://hoody.com)|https://dns.hoody.com/dns-query|:heavy_check_mark:|Use Cloudflare upstream, support DoT
-|[Hostux](https://dns.hostux.net/en/)|https://dns.hostux.net/ads|:heavy_check_mark:|Support DoT
 | Huque | https://doth.huque.com/dns-query | :heavy_check_mark: | Support DoT
 | **I**
 |[immerda.ch](https://docs.immerda.ch/de/services/doh/)|https://doh.immerda.ch/dns-query|:heavy_check_mark:|Block ads
@@ -176,7 +174,6 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |[MBRJun](https://mbrjun.cn)|https://dns.mbrjun.cn/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service
 |meddy94.de|https://adguard.meddy94.de/dns-query|:heavy_check_mark:|Adblocking, support DoT
 |mh4ckt3mh4ckt1c4s.xyz|https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query|:heavy_check_mark:|Block ads, support DoT
-|michelo.cl|https://dns.michelo.cl/dns-query|:heavy_check_mark:|Block ads, use AdGuard browsing security web service, support DoT & DoQ
 |m-it.ro|https://addns1.m-it.ro/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream and AdGuard browsing security web service
 |mmmalia.com|https://doh.mmmalia.com/dns-query|:heavy_check_mark:|Block ads & porn, use AdGuard parental control web service
 |mnet-online.de|https://dns.mnet-online.de/dns-query|:heavy_check_mark:| Support DoT
