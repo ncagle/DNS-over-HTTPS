@@ -263,7 +263,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 | [Tiarap](https://doh.tiar.app/) | https://doh.tiar.app/dns-query | :heavy_check_mark: | Block ads, tracking, malware, scam and phising domains. No Logging, [dns0x20](https://tools.ietf.org/html/draft-vixie-dnsext-dns0x20-00), No [ECS](https://tools.ietf.org/html/rfc7871), DNSSEC Validation |
 |[Tri-DNS](https://dns.triro.net/)|Canada: https://tri-dns.net/dns-query<br>Switzerland: https://eu.tri-dns.net/dns-query<br>Singapore: https://asia.tri-dns.net/dns-query|Support DoT & DoQ
 | **U**
-[UK DNS Privacy Project](https://dnsprivacy.org.uk/)|https://resolver.dnsprivacy.org.uk/dns-query|:heavy_check_mark:| Support DoT
+|[UK DNS Privacy Project](https://dnsprivacy.org.uk/)|https://resolver.dnsprivacy.org.uk/dns-query|:heavy_check_mark:| Support DoT
 |[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)|https://anycast.uncensoreddns.org/dns-query|:heavy_check_mark:| Support DoT & DoQ
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Usable Privacy](https://docs.usableprivacy.com/dns)|https://adfree.usableprivacy.net/dns-query|:heavy_check_mark:|Block ads, support DoT
