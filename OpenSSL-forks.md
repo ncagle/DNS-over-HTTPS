@@ -84,3 +84,16 @@ API.
 
 - features the "original" QUIC API
 - releases lag behind OpenSSL
+
+# QUIC
+
+- 2018: BoringSSL introduced a QUIC API (known as the Original above)
+- 2019: a PR for OpenSSL for the same API was offered 
+- 2021: OpenSSL rejected the PR
+- 2023: OpenSSL introduced their own QUIC implementation, we call it OpenSSL-QUIC
+- 2025: OpenSSL released 3.4.1, which is the minimum version curl recommends for OpenSSL-QUIC
+- 2025: OpenSSL released 3.5.0 introduced the "New" QUIC API so that other QUIC implementations can use OpenSSL
+
+The OpenSSL-QUIC is **much** slower than the competition (ngtcp2 for example), uses **a lot** more memory and as quite an inefficient API. For these reasons, curl still considers the OpenSSL-QUIC backend *experimental*.
+
+![HTTP_3 for scania,js(2)](https://github.com/user-attachments/assets/6b6bd518-8c06-456a-9776-a43f73796b7e)
