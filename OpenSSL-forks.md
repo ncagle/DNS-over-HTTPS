@@ -50,7 +50,7 @@ This is a fork initially done by OpenBSD developers.
 - lacks support for TLSv1.3 session tickets
 - lacks support for server signatures signed with ED25519
 - lacks support for `SSL_set0_wbio()` function
-- lacks support for SSLKEYLOGFILE
+- lacks support for `SSLKEYLOGFILE`
 - seems to not provide the proper error queue at all times
 - symbol hiding issues
 - ASM support only for x86_64
