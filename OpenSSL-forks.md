@@ -64,4 +64,4 @@ providing an OpenSSL version close to the original but with the original QUIC
 API.
 
 - features the "original" QUIC API
-- releases lag behind the original
+- releases lag behind OpenSSL
