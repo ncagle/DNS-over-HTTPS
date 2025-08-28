@@ -7,11 +7,11 @@ curl supports the following OpenSSL variants:
 <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
 Fork | Maintained By | Description | QUIC API | ECH Support | Release Model
 -- | -- | -- | -- | -- | --
-OpenSSL | OpenSSL Project | The official, most widely used TLS library. | New (less performant) | No | Yes, regular
+OpenSSL | OpenSSL Project | The official, most widely used TLS library. | New | No | Yes, regular
 BoringSSL | Google | A streamlined fork for Google's needs; not for general use. | Original | Yes | No releases
 AWS-LC | Amazon | A fork of BoringSSL with stable releases and long-term support. | Original | Yes | Yes, regular
 QuicTLS | Akamai/Microsoft | A minimal fork of OpenSSL focused on providing the original QUIC API. | Original | Yes | Lags OpenSSL
-LibreSSL | OpenBSD Project | A security-focused fork aiming to modernize and simplify the codebase. | No | No | Yes, regular
+LibreSSL | OpenBSD Project | A security-focused fork aiming to modernize and simplify the codebase. | Original | No | Yes, regular
 AmiSSL | AmiSSL Project | A fork for AmigaOS that maintains API compatibility with OpenSSL. | No | No | Yes, regular
 
 
