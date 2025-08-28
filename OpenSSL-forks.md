@@ -28,6 +28,7 @@ does.
 - symbol hiding issues
 - requires Windows 7 minimum
 - supports standard build system (cmake)
+- contributing: responsive, easy
 
 ## BoringSSL
 
@@ -40,6 +41,7 @@ This is a fork run by Google for Google.
 - requires a C++ library
 - requires MSVC compiler on Windows
 - supports standard build systems (bazel, cmake)
+- contributing: almost impossible
 
 ## LibreSSL
 
@@ -55,6 +57,7 @@ This is a fork initially done by OpenBSD developers.
 - symbol hiding issues
 - ASM support only for x86_64
 - supports standard build systems (autotools, cmake)
+- contributing: responsive, easy
 
 ## OpenSSL
 
@@ -65,6 +68,7 @@ This is a fork initially done by OpenBSD developers.
 - performance problems in OpenSSL 3
 - large footprint
 - uses non-standard build system
+- contributing: complicated, requires CLA
 
 ## QuicTLS
 
