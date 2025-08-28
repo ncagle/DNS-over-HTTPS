@@ -24,6 +24,7 @@ does.
 - features the "original" QUIC API
 - supports ECH
 - requires a C++ library
+- supports standard build system (cmake)
 
 ## BoringSSL
 
@@ -34,6 +35,7 @@ This is a fork run by Google for Google.
 - features the "original" QUIC API
 - supports ECH
 - requires a C++ library
+- supports standard build system (cmake)
 
 ## LibreSSL
 
@@ -44,6 +46,7 @@ This is a fork initially done by OpenBSD developers.
 - lacks support for ECH
 - lacks support for SSLKEYLOGFILE
 - seems to not provide the proper error queue at all times
+- supports standard build systems (autotools and cmake)
 
 ## OpenSSL
 
@@ -52,6 +55,7 @@ This is a fork initially done by OpenBSD developers.
 - lacks support for ECH
 - Windows vulnerability with configuration
 - performance problems in OpenSSL 3
+- uses non-standard build system
 
 ## QuicTLS
 
@@ -60,3 +64,4 @@ providing an OpenSSL version close to the original but with the original QUIC
 API.
 
 - features the "original" QUIC API
+- releases lag behind the original
