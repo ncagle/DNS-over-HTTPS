@@ -39,7 +39,7 @@ This is a fork run by Google for Google.
 - supports ECH
 - requires a C++ library
 - requires MSVC compiler on Windows
-- supports standard build system (cmake)
+- supports standard build systems (bazel, cmake)
 
 ## LibreSSL
 
@@ -54,7 +54,7 @@ This is a fork initially done by OpenBSD developers.
 - seems to not provide the proper error queue at all times
 - symbol hiding issues
 - ASM support only for x86_64
-- supports standard build systems (autotools and cmake)
+- supports standard build systems (autotools, cmake)
 
 ## OpenSSL
 
