@@ -1,5 +1,7 @@
 # OpenSSL fork situation
 
+curl can be built with many different TLS libraries. The most common choice is OpenSSL, but over the past years, several forks have emerged, each with different goals, features, and trade-offs. Supporting these OpenSSL forks means having to deal with with differences in API stability, feature availability (ex. QUIC and ECH), as well as build environments.
+
 curl supports the following OpenSSL variants
 
 - AmiSSL
