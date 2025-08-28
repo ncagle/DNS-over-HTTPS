@@ -94,6 +94,6 @@ API.
 - 2025: OpenSSL released 3.4.1, which is the minimum version curl recommends for OpenSSL-QUIC
 - 2025: OpenSSL released 3.5.0 introduced the "New" QUIC API so that other QUIC implementations can use OpenSSL
 
-The OpenSSL-QUIC is **much** slower than the competition (ngtcp2 for example), uses **a lot** more memory and as quite an inefficient API. For these reasons, curl still considers the OpenSSL-QUIC backend *experimental*.
+The OpenSSL-QUIC is **much** slower than the competition (ngtcp2 for example), uses **a lot** more memory and has quite an inefficient API. For these reasons, curl still considers the OpenSSL-QUIC backend *experimental*.
 
 ![HTTP_3 for scania,js(2)](https://github.com/user-attachments/assets/6b6bd518-8c06-456a-9776-a43f73796b7e)
