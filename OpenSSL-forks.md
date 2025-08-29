@@ -46,6 +46,7 @@ This is a fork run by Google for Google.
 - supports ECH
 - requires a C++ library
 - requires MSVC compiler on Windows
+- no option to disable debug info, reproducibility issues
 - supports standard build systems (bazel, cmake)
 - contributing: almost impossible
 
@@ -54,13 +55,13 @@ This is a fork run by Google for Google.
 This is a fork initially done by OpenBSD developers.
 
 - offers a OpenSSL 1.1 like API
-- lacks support for ECH
-- lacks support for TLSv1.3 session tickets
-- lacks support for server signatures signed with ED25519
-- lacks support for `SSL_set0_wbio()` function
-- lacks support for `SSLKEYLOGFILE`
-- seems to not provide the proper error queue at all times
-- symbol hiding issues
+- lacks support for ECH [[link]](https://github.com/libressl/portable/issues/546)
+- lacks support for TLSv1.3 session tickets [[link1]](https://github.com/libressl/portable/issues/719) [[link2]](https://github.com/curl/curl/issues/18031#issuecomment-3144406973)
+- lacks support for server signatures signed with ED25519 [[link1]](https://github.com/libressl/portable/issues/821) [[link2]](https://github.com/curl/curl-for-win/discussions/78)
+- lacks support for `SSL_set0_wbio()` function [[link]](https://github.com/libressl/portable/issues/838)
+- lacks support for `SSLKEYLOGFILE` [[link1]](https://marc.info/?l=libressl&m=158908819814107) [[link2]](https://github.com/curl/curl/issues/18236) [[link3]](https://github.com/curl/curl/issues/13672)
+- seems to not provide the proper error queue at all times [[link]](https://github.com/curl/curl/issues/18297#issuecomment-3193517729)
+- symbol hiding issues [[link]](https://github.com/libressl/portable/issues/957)
 - ASM support only for x86_64
 - supports standard build systems (autotools, cmake)
 - contributing: responsive, easy
@@ -69,12 +70,12 @@ This is a fork initially done by OpenBSD developers.
 
 - offers a QUIC implementation (that underperforms)
 - offers the "new" QUIC API
-- lacks support for ECH
-- Windows vulnerability with configuration
-- performance problems in OpenSSL 3
-- large footprint
+- lacks support for ECH [[link1]](https://github.com/openssl/openssl/pull/22938)
+- Windows vulnerability with configuration [[link]](https://github.com/openssl/openssl/issues/24528)
+- performance problems in OpenSSL 3 [[link]](https://www.haproxy.com/blog/state-of-ssl-stacks) [[link]](https://www.memorysafety.org/blog/rustls-server-perf/)
+- large footprint [[link]](https://github.com/curl/curl-for-win/commit/c90c3c1ea5b9ddeed8b0f87afe2aff6dee0adb35)
 - uses non-standard build system
-- contributing: complicated, requires CLA
+- contributing: complicated, requires [CLA](https://openssl-library.org/policies/cla/)
 
 ## QuicTLS
 
@@ -83,7 +84,7 @@ providing an OpenSSL version close to the original but with the original QUIC
 API.
 
 - features the "original" QUIC API
-- releases lag behind OpenSSL
+- releases lag behind OpenSSL [[link]](https://github.com/quictls/openssl/releases)
 
 # QUIC
 
