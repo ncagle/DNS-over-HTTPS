@@ -75,7 +75,7 @@ This is a fork initially done by OpenBSD developers.
 - performance problems in OpenSSL 3 [[link]](https://www.haproxy.com/blog/state-of-ssl-stacks) [[link]](https://www.memorysafety.org/blog/rustls-server-perf/)
 - large footprint [[link]](https://github.com/curl/curl-for-win/commit/c90c3c1ea5b9ddeed8b0f87afe2aff6dee0adb35)
 - uses non-standard build system
-- contributing: complicated, requires [CLA](https://openssl-library.org/policies/cla/)
+- contributing: complicated, also requires [CLA](https://openssl-library.org/policies/cla/)
 
 ## QuicTLS
 
