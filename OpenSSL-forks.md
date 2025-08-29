@@ -60,9 +60,9 @@ This is a fork initially done by OpenBSD developers.
 - lacks support for server signatures signed with ED25519 [[link]](https://github.com/libressl/portable/issues/821) [[link]](https://github.com/curl/curl-for-win/discussions/78)
 - lacks support for `SSL_set0_wbio()` function [[link]](https://github.com/libressl/portable/issues/838)
 - lacks support for `SSLKEYLOGFILE` [[link]](https://marc.info/?l=libressl&m=158908819814107) [[link]](https://github.com/curl/curl/issues/18236) [[link]](https://github.com/curl/curl/issues/13672)
+- lacks ASM support for arm64
 - seems to not provide the proper error queue at all times [[link]](https://github.com/curl/curl/issues/18297#issuecomment-3193517729)
 - symbol hiding issues [[link]](https://github.com/libressl/portable/issues/957)
-- ASM support only for x86_64
 - supports standard build systems (autotools, cmake)
 - contributing: responsive, easy
 
