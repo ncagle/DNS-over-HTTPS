@@ -30,7 +30,7 @@ does.
 - features the "original" QUIC API
 - supports ECH
 - requires a C++ library
-- requires MSVC for native Windows threading [[link]](https://github.com/aws/aws-lc/blob/6d2eb62ba375ebba7ab20ab277332f5bff9e13f0/crypto/thread_win.c#L164-L176)
+- requires MSVC for native Windows threading [[link]](https://github.com/aws/aws-lc/blob/6d2eb62ba375ebba7ab20ab277332f5bff9e13f0/crypto/thread_win.c#L194-L210)
 - symbol hiding issues
 - requires Windows 7 minimum with mingw-w64 [[link]](https://github.com/aws/aws-lc/blob/6d2eb62ba375ebba7ab20ab277332f5bff9e13f0/CMakeLists.txt#L510)
 - supports standard build system (cmake)
@@ -45,7 +45,7 @@ This is a fork run by Google for Google.
 - features the "original" QUIC API
 - supports ECH
 - requires a C++ library
-- requires MSVC for native Windows threading, and ASM support [[link]](https://github.com/curl/curl-for-win/blob/e7a1232f3478a85f1d8e57f75703421e2f958812/boringssl.patch)
+- requires MSVC for native Windows threading, and ASM support [[link]](https://github.com/curl/curl-for-win/blob/e7a1232f3478a85f1d8e57f75703421e2f958812/boringssl.patch) [[link]](https://boringssl.googlesource.com/boringssl/+/refs/tags/0.20250818.0/crypto/thread_win.cc#149)
 - no option to disable debug info, reproducibility issues
 - supports standard build systems (bazel, cmake)
 - contributing: almost impossible
