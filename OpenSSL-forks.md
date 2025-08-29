@@ -45,7 +45,7 @@ This is a fork run by Google for Google.
 - features the "original" QUIC API
 - supports ECH
 - requires a C++ library
-- requires MSVC for native Windows threading and ASM support [[link]](https://github.com/curl/curl-for-win/blob/e7a1232f3478a85f1d8e57f75703421e2f958812/boringssl.patch)
+- requires MSVC for native Windows threading, and ASM support [[link]](https://github.com/curl/curl-for-win/blob/e7a1232f3478a85f1d8e57f75703421e2f958812/boringssl.patch)
 - no option to disable debug info, reproducibility issues
 - supports standard build systems (bazel, cmake)
 - contributing: almost impossible
