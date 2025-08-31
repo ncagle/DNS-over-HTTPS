@@ -30,6 +30,7 @@ does.
 - features the "original" QUIC API
 - supports ECH
 - requires a C++ library
+- has `SSL_CTX_set_default_read_buffer_len()` but broken [[link]](https://github.com/curl/curl/pull/18434)
 - requires MSVC for native Windows threading [[link]](https://github.com/aws/aws-lc/blob/6d2eb62ba375ebba7ab20ab277332f5bff9e13f0/crypto/thread_win.c#L194-L210)
 - symbol hiding issues
 - requires Windows 7 minimum with mingw-w64 [[link]](https://github.com/aws/aws-lc/blob/6d2eb62ba375ebba7ab20ab277332f5bff9e13f0/CMakeLists.txt#L510)
