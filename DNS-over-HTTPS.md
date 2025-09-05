@@ -268,6 +268,7 @@ DoH queries resolve over HTTPS for privacy, performance, and security. DoH also 
 |unx.io|https://dns.unx.io/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream, support DoT
 |[Usable Privacy](https://docs.usableprivacy.com/dns)|https://adfree.usableprivacy.net/dns-query|:heavy_check_mark:|Block ads, support DoT
 | **V**
+|[v.recipes](https://v.recipes/dns/)|Unfiltered: https://v.recipes/dns-query<br>Adblock: https://v.recipes/dns-adblock<br>ECS Optimized: https://v.recipes/dns-ecs|:heavy_check_mark:|All variants benefit from anycast network, per-request pacing, and some more optimizations (DoH3, caching, etc.). See [the real-time DNS metrics and performance data](https://v.recipes/analytics) for information such as Cache Hit Rate, Requests Over Time, and more. Check the page directly for other information such as notes and [technical details](https://v.recipes/docs/dns/).
 |vaioswolke.xyz|https://dns.vaioswolke.xyz/dns-query|:heavy_check_mark:|
 |[VIA](https://viatech.com.tw)|https://doh.viatech.com.tw/dns-query|:heavy_check_mark:|Block ads, use Cloudflare upstream
 | **W**
