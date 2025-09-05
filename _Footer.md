@@ -1,1 +1,0 @@
-Main website - https://curl.se/
